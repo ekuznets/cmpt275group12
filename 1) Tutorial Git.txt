@@ -1,0 +1,39 @@
+This is a beginning of tutorials on how would you set up your working environment.
+We are going to start with installing Git on your computer.
+
+1)The he most official build of Git is available for download on the Git website. Just go to http://git-scm.com/download/win and the download will start automatically. 
+
+2) As a project sharing tool we are going to use Bitbacket as it allow to create free and private repositories for up to 5 people. 
+Otherwise, we would need to pay to GitHub to have our repo private.
+By now the invitation to the Bitbacket should be send to your SFU email.
+If you do not have a Bitbacket account I think you should be able to register it easily. *USE YOUR SFU EMAIL FOR IT.
+
+3) Git can be quite difficult tool to use from command line. You can try and follow tutorials on the website: try.github.io and have your hands on it but I will describe an easy alternative method.
+Source tree is a GUI to the Git, which tremendously simplify your work by making all your actions visible and replacing all the command line work.
+Also, it is integrates well with Bitbacket. You can download it here: https://www.atlassian.com/software/sourcetree/overview for both MacOS and Windows.
+
+4) By this point you should have all of the following: Git and SourceTree on your computer and access to Bitbacket in web.
+Now follow step by step instruction:
+A) Login to your Bitbacket account.
+B) Choose our group repo.
+C) Click Clone button on the right menu-bar and choose *Clone in SourceTree option*.
+D) That should automatically trigger a SourceTree on your computer and ask you to login and choose location where you want to place repo. (Any place is good, choose for you convenience)
+E) Once done Click PULL button at your SourceTree GUI, and that should update our repository to the up-to-date. ( You should see several .txt files)
+F) Open the folder with our project. You just open it manually or Right click to the repo in SourceTree and choose show in explorer, which will cause your folder to pop-up.
+G) Open file MembersFile.txt, and add your name to 1 of the 5 place holders that are free. Like this: 1) Evgeny - have been here! 
+H) Save and close the file.
+I) Navigate back to the SourceTree and click Commit button. There will be all files that you have just eddied. Click them all(it should be one for now).
+J) There will be comments section bellow edit it as follows: (Your initials): (short info about the feature you trying to push).  EXAMPLE-> EK: Initial Commit. / Then Click Commit.
+K) Notice there will be a number near the PUSH button which represent how many files you trying to push.
+L) Click PUSH and the click OK.
+
+Congrats, you have accrued vary valuable skill of sharing code with other people via git.
+Some important notes:
+i) when working with git ALWAYS click PUSH button first, before trying to commit any changes.
+ii) Make a valuable and undestable description of your commits
+iii) Commit more often but in small amounts, that would minimize chances of merging conflicts. (It is very hard to fix them).
+
+If you have any question or concerns about this instruction contact me via WhatUp.
+
+Evgeny.
+
