@@ -24,6 +24,7 @@ import UIKit
 var error: NSError?
 let fileURL = NSBundle.mainBundle().URLForResource("pill", withExtension: "txt")
 let content = String(contentsOfURL: fileURL!, encoding: NSUTF8StringEncoding, error: &error)
+let array = content!.componentsSeparatedByString(", ")
 
 
 
