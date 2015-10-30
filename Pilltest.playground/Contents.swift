@@ -26,15 +26,16 @@ let fileURL = NSBundle.mainBundle().URLForResource("pill", withExtension: "txt")
 let content = String(contentsOfURL: fileURL!, encoding: NSUTF8StringEncoding, error: &error)
 let array = content!.componentsSeparatedByString(", ")
 
+println(array)
 
 
 class Pill{
     //stored properties
     var name: String
-    var DIN: Int
-    var drugCode: Int
+    var DIN: String
+    var drugCode: String
     
-    init(name: String, DIN: Int, drugCode: Int){
+    init(name: String, DIN: String, drugCode: String){
         self.name = name
         self.DIN = DIN
         self.drugCode = drugCode
@@ -44,7 +45,13 @@ class Pill{
         // any necessary cleanup code
     }
     
-    func pillDescript () -> String {
-        return ""
+    func pillDescript () -> String{
+        return "Name: \(name)\n" +
+               "DIN: \(DIN)\n" +
+               "Drug code: \(drugCode)"
     }
 }
+
+let myPill = Pill(name:array[2],DIN:array[1],drugCode:array[0])
+
+println(myPill.pillDescript())
