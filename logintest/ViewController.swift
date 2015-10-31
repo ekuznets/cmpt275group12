@@ -49,9 +49,17 @@ class ViewController: UIViewController {
                 var responseDict: NSDictionary = NSJSONSerialization.JSONObjectWithData(data,options: NSJSONReadingOptions.MutableContainers, error:nil) as! NSDictionary
                 
                 println("jsonObject :\(responseDict)")
-                let success = responseDict["Itemstuff"] as! String
-                println("Parse: \(success)")
-                self.textToChange.text = success
+                let desease = responseDict["diseasetype"] as! String
+                
+                println("Parse: \(desease)")
+                let location = responseDict["location"] as! String
+                println("Parse: \(location)")
+                
+                
+                let arrayInfected: AnyObject! = responseDict["arrayInfected"]![0]
+                let StringInt = arrayInfected["infected"] as! String
+                let int = StringInt.toInt()
+                
             }
             
         }
