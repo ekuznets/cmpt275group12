@@ -1,0 +1,854 @@
+19577	","		","	Human	","	1941968	","	E 2 SANITIZING HAND SOAP LIQ 3%	","		","	N	","	81874	","	1	","	22-Mar-06	","	106942003
+2119	","		","	Veterinary	","	332933	","	E PLUS PWR	","		","	N	","	47601	","	4	","	13-Aug-03	","	409283001
+63492	","		","	Veterinary	","	2239985	","	EAR CLEANSING SOLUTION	","		","	N	","		","	2	","	29-Jul-09	","	252474001
+6399	","		","	Veterinary	","	656852	","	EAROXIDE LIQ 6.5%	","		","	N	","	62959	","	1	","	27-Jun-11	","	108711001
+74607	","		","	Human	","	2260638	","	EBIXA	","		","	N	","		","	1	","	28-Dec-06	","	150423001
+90639	","		","	Human	","	2421739	","	ECL-CITALOPRAM	","		","	N	","		","	1	","	24-Oct-14	","	136243003
+90640	","		","	Human	","	2421747	","	ECL-CITALOPRAM	","		","	N	","		","	1	","	15-May-15	","	136243001
+90641	","		","	Human	","	2421755	","	ECL-CITALOPRAM	","		","	N	","		","	1	","	15-May-15	","	136243002
+90649	","		","	Human	","	2421828	","	ECL-METFORMIN	","		","	N	","		","	1	","	29-Aug-14	","	101773001
+90650	","		","	Human	","	2421836	","	ECL-METFORMIN	","		","	N	","		","	1	","	29-Aug-14	","	101773002
+74564	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2260395	","	ECO LIPS LIP BALM	","		","	N	","		","	2	","	12-Jul-12	","	216932003
+62780	","	CAT IV - ANTISEPTIC SKIN CLEANSERS	","	Human	","	2239311	","	ECOCARE 250	","		","	N	","		","	1	","	08-Mar-06	","	108865003
+62787	","	CAT IV - ANTISEPTIC SKIN CLEANSERS	","	Human	","	2239318	","	ECOCARE 360	","		","	N	","		","	1	","	07-Jul-12	","	104993016
+89961	","		","	Disinfectant	","	2414996	","	ECOFECT	","		","	N	","		","	1	","	05-Sep-14	","	111516007
+80976	","		","	Disinfectant	","	2324296	","	ECOLAV DESINFECTANT 480	","		","	N	","		","	3	","	29-Jul-15	","	314757009
+83042	","		","	Disinfectant	","	2344955	","	ECO-PRO DISINFECTANT EP 500	","		","	N	","		","	1	","	16-Mar-10	","	111516005
+81857	","		","	Disinfectant	","	2332914	","	ECO-QUAT	","		","	N	","		","	1	","	06-Feb-15	","	111516005
+72200	","		","	Disinfectant	","	2247891	","	ED EVERYDAY DISINFECTANT	","		","	N	","		","	1	","	25-Oct-11	","	111516006
+86721	","		","	Human	","	2381389	","	EDARBI	","		","	N	","		","	1	","	20-May-15	","	153128001
+86722	","		","	Human	","	2381397	","	EDARBI	","		","	N	","		","	1	","	20-May-15	","	153128002
+88267	","		","	Human	","	2397749	","	EDARBYCLOR	","		","	N	","		","	2	","	16-Jan-15	","	253470002
+88268	","		","	Human	","	2397757	","	EDARBYCLOR	","		","	N	","		","	2	","	16-Jan-15	","	253470001
+88269	","		","	Human	","	2397765	","	EDARBYCLOR	","		","	N	","		","	2	","	16-Jan-15	","	253470003
+2007	","		","	Veterinary	","	308420	","	EDDI 42	","		","	N	","	46379	","	1	","	13-Aug-03	","	107416001
+74372	","		","	Human	","	2258528	","	EDECRIN	","		","	N	","		","	1	","	05-May-15	","	101703002
+85574	","		","	Human	","	2370603	","	EDURANT	","		","	N	","		","	1	","	05-May-15	","	152944001
+5296	","		","	Human	","	583782	","	EES 600 TABLETS 600MG	","		","	N	","	60217	","	1	","	05-May-15	","	105708012
+3698	","		","	Human	","	299	","	EES-200	","		","	N	","	55089	","	1	","	05-May-15	","	105708009
+3172	","		","	Human	","	453617	","	EES-400	","		","	N	","	53384	","	1	","	05-May-15	","	105708007
+87987	","		","	Disinfectant	","	2394723	","	E-FECT	","		","	N	","		","	1	","	05-Jan-15	","	101107005
+60600	","		","	Human	","	2237279	","	EFFEXOR XR	","		","	N	","		","	1	","	31-Mar-14	","	131294002
+60601	","		","	Human	","	2237280	","	EFFEXOR XR	","		","	N	","		","	1	","	13-Mar-13	","	131294001
+60603	","		","	Human	","	2237282	","	EFFEXOR XR	","		","	N	","		","	1	","	11-Jul-13	","	131294005
+83444	","		","	Human	","	2349124	","	EFFIENT	","		","	N	","		","	1	","	10-Jun-11	","	152712001
+2138	","		","	Human	","	330582	","	EFUDEX CRM 5%	","		","	N	","	47716	","	1	","	17-Sep-14	","	107505001
+128	","		","	Veterinary	","	97144	","	EGG SHELL GERMICIDE 5%	","		","	N	","	4438	","	1	","	01-Oct-10	","	105374001
+2043	","		","	Veterinary	","	308161	","	EGG SHELL IMPROVER	","		","	N	","	46715	","	5	","	13-Aug-03	","	510146001
+36798	","		","	Human	","	2209764	","	EGOZINC-HC	","		","	N	","	H4168	","	2	","	29-Apr-15	","	214222001
+36799	","		","	Human	","	2210517	","	EGOZINC-HC	","		","	N	","	H4169	","	2	","	29-Apr-15	","	214222002
+90793	","		","	Disinfectant	","	2423391	","	EKO-QUAT	","		","	N	","		","	1	","	13-Aug-15	","	111516007
+78165	","		","	Human	","	2296314	","	ELAPRASE	","		","	N	","		","	1	","	15-Aug-07	","	152221001
+75229	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2266873	","	ELASTOLOGY AGE BLOCKER SPF 25	","		","	N	","		","	4	","	12-Jul-10	","	419998050
+2213	","		","	Human	","	335053	","	ELAVIL	","		","	N	","	48166	","	1	","	04-Nov-10	","	101524001
+2214	","		","	Human	","	335061	","	ELAVIL	","		","	N	","	48167	","	1	","	04-Nov-10	","	101524002
+2215	","		","	Human	","	335088	","	ELAVIL	","		","	N	","	48168	","	1	","	04-Nov-10	","	101524003
+8199	","		","	Human	","	754129	","	ELAVIL	","		","	N	","	66506	","	1	","	24-Sep-12	","	101524004
+12973	","		","	Human	","	1941917	","	ELDOQUIN	","		","	N	","	74216	","	1	","	29-Apr-15	","	108649001
+13382	","		","	Human	","	1941925	","	ELDOQUIN FORTE	","		","	N	","	74747	","	1	","	29-Apr-15	","	108649002
+2191	","		","	Veterinary	","	345342	","	ELECTRA CAPS	","		","	N	","	48073	","	8	","	26-Feb-02	","	810658001
+1979	","		","	Veterinary	","	317128	","	ELECTRAS	","		","	N	","	46204	","	4	","	23-Jun-09	","	409849001
+2009	","		","	Veterinary	","	308471	","	ELECTRAS PWS	","		","	N	","	46383	","	4	","	28-May-09	","	409849001
+6404	","		","	Veterinary	","	641596	","	ELECTRATE	","		","	N	","	62988	","	6	","	28-May-09	","	616931002
+33790	","		","	Veterinary	","	2151731	","	ELECTROLYTE BOOSTER- SOLUBLE POWDER	","		","	N	","	H0352	","	17	","	28-May-09	","	1747983002
+36695	","		","	Veterinary	","	2207877	","	ELECTROLYTE CONCENTRATE	","		","	N	","	H4053	","	6	","	29-Apr-15	","	600150004
+7141	","		","	Veterinary	","	715654	","	ELECTROLYTE INFUSION STERILE INJECTION	","		","	N	","	64785	","	7	","	28-May-09	","	700140005
+2479	","		","	Veterinary	","	370452	","	ELECTROLYTE TAB	","		","	N	","	49800	","	7	","	19-Sep-03	","	711269001
+31465	","		","	Veterinary	","	2141558	","	ELECTROLYTE-F-CALF	","		","	N	","	F8757	","	8	","	13-Feb-06	","	826077002
+3407	","		","	Veterinary	","	467189	","	ELECTROLYTES CONCENTRATED	","		","	N	","	54224	","	6	","	28-May-09	","	600150005
+17818	","		","	Veterinary	","	2122022	","	ELECTROLYTES PLUS	","		","	N	","	80025	","	16	","	03-Apr-09	","	1652548001
+8523	","		","	Veterinary	","	764795	","	ELECTROLYTES-A/F	","		","	N	","	67042	","	5	","	18-Aug-08	","	550322001
+5322	","		","	Veterinary	","	580007	","	ELECTROVITE	","		","	N	","	60268	","	15	","	25-Feb-09	","	1510985002
+76260	","		","	Veterinary	","	2276925	","	ELECTROYLTE-F-CALF HE	","		","	N	","		","	7	","	30-Nov-06	","	721887004
+91027	","		","	Human	","	2425637	","	ELELYSO	","	SINGLE-USE VIAL	","	N	","		","	1	","	17-Sep-14	","	155691001
+71480	","		","	Human	","	2247238	","	ELIDEL	","		","	N	","		","	1	","	02-Jun-15	","	149001001
+72577	","		","	Human	","	2248240	","	ELIGARD 22.5MG	","		","	N	","		","	1	","	15-Oct-08	","	116959008
+73384	","		","	Human	","	2248999	","	ELIGARD 30 MG	","		","	N	","		","	1	","	05-Feb-14	","	116959010
+75428	","		","	Human	","	2268892	","	ELIGARD 45 MG	","		","	N	","		","	1	","	31-Oct-08	","	116959011
+72576	","		","	Human	","	2248239	","	ELIGARD 7.5MG	","		","	N	","		","	1	","	15-Oct-08	","	116959009
+71966	","	CAT IV - HARD SURFACE DISINFECTANTS	","	Disinfectant	","	2247703	","	ELIMINATOR 125	","		","	N	","		","	2	","	01-Sep-04	","	205019009
+71987	","	CAT IV - HARD SURFACE DISINFECTANTS	","	Disinfectant	","	2247715	","	ELIMINATOR 42	","		","	N	","		","	2	","	27-Jun-03	","	205019006
+13830	","		","	Disinfectant	","	1981625	","	ELIMINATOR SURFACE DIS & DEOD SPRAY	","		","	N	","	75293	","	3	","	29-Sep-10	","	309109003
+86287	","		","	Human	","	2377233	","	ELIQUIS	","	FILM-COATED	","	N	","		","	1	","	15-Jan-14	","	153051001
+88264	","		","	Human	","	2397714	","	ELIQUIS	","	FILM-COATED	","	N	","		","	1	","	15-Jan-14	","	153051002
+6170	","		","	Human	","	627410	","	ELIXIR DE THEOPHYLLINE	","		","	N	","	62481	","	1	","	22-Oct-12	","	103582001
+78680	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2301474	","	ELIZABETH ARDEN INTERVENE MAKEUP SPF 15 OCTINOXATE LOTION	","		","	N	","		","	1	","	17-Jan-08	","	116791002
+73489	","		","	Human	","	2250071	","	ELIZABETH ARDEN LIP PROTECTANT STICK SPF 15	","		","	N	","		","	2	","	10-Jul-15	","	214715009
+87816	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2392895	","	ELIZABETH ARDEN NOURISHING LIP BALM SPF 20	","		","	N	","		","	2	","	15-Feb-13	","	218882032
+82154	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2335964	","	ELIZABETH ARDEN PURE FINISH MINERAL TINTED MOISTURE CREAM SPF 15	","		","	N	","		","	3	","	11-Mar-10	","	327582029
+745	","		","	Human	","	39411	","	ELLIOTT'S SOLUTION A	","		","	N	","	29035	","	4	","	01-May-15	","	400082006
+14161	","		","	Human	","	2029448	","	ELMIRON   -(100MG)	","		","	N	","	75675	","	1	","	23-Mar-06	","	124416001
+11196	","		","	Human	","	851744	","	ELOCOM CREAM	","		","	N	","	71699	","	1	","	24-Oct-13	","	121732001
+11443	","		","	Human	","	871095	","	ELOCOM LOTION	","		","	N	","	72122	","	1	","	13-Jun-13	","	121732001
+11444	","		","	Human	","	851736	","	ELOCOM OINTMENT	","		","	N	","	72123	","	1	","	01-Nov-12	","	121732001
+78159	","		","	Human	","	2296268	","	ELOXATIN	","		","	N	","		","	1	","	20-Oct-14	","	152220001
+78160	","		","	Human	","	2296276	","	ELOXATIN	","		","	N	","		","	1	","	20-Oct-14	","	152220002
+78161	","		","	Human	","	2296284	","	ELOXATIN	","		","	N	","		","	1	","	30-Jan-15	","	152220003
+80776	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2322307	","	ELTAMD SKINCARE UV DAILY SPF 40	","		","	N	","		","	2	","	17-May-10	","	216792017
+80775	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2322293	","	ELTAMD SKINCARE UV DEFENSE SPF 45	","		","	N	","		","	2	","	03-Sep-13	","	216792017
+80773	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2322277	","	ELTAMD SKINCARE UV FACIAL SPF 30	","		","	N	","		","	2	","	17-May-10	","	216792027
+80045	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2314924	","	ELTAMD SKINCARE UV SPORT SPF 50	","		","	N	","		","	3	","	29-Apr-15	","	346162008
+36945	","		","	Human	","	2213192	","	ELTROXIN	","		","	N	","	H4371	","	1	","	27-Aug-15	","	107794001
+36946	","		","	Human	","	2213206	","	ELTROXIN	","		","	N	","	H4372	","	1	","	27-Aug-15	","	107794005
+36947	","		","	Human	","	2213214	","	ELTROXIN	","		","	N	","	H4373	","	1	","	27-Aug-15	","	107794004
+36948	","		","	Human	","	2213222	","	ELTROXIN	","		","	N	","	H4374	","	1	","	27-Aug-15	","	107794003
+36949	","		","	Human	","	2213230	","	ELTROXIN	","		","	N	","	H4375	","	1	","	23-Sep-15	","	107794002
+14119	","		","	Veterinary	","	780707	","	ELVIT	","		","	N	","	75630	","	15	","	23-Mar-05	","	1514702001
+19428	","		","	Human	","	2063794	","	EMCYT	","		","	N	","	81724	","	1	","	01-May-09	","	113371001
+78410	","		","	Human	","	2298791	","	EMEND	","		","	N	","		","	1	","	26-May-10	","	152292001
+78411	","		","	Human	","	2298805	","	EMEND	","		","	N	","		","	1	","	28-Apr-09	","	152292002
+84835	","		","	Human	","	2363356	","	EMEND IV	","	SINGLE-DOSE VIAL	","	N	","		","	1	","	15-Sep-14	","	152547002
+78412	","		","	Human	","	2298813	","	EMEND TRI-PACK	","		","	N	","		","	2	","	26-May-10	","	252291001
+80728	","	CAT IV - ACNE THERAPY	","	Human	","	2321874	","	EMERGENCY ACNE VANISHING FACIAL CLEANSER	","		","	N	","		","	1	","	05-Dec-11	","	107205001
+88961	","		","	Human	","	2404834	","	EMERGENCY ACNE VANISHING TREATMENT WIPES	","	LOTION	","	N	","		","	1	","	21-Aug-14	","	107205004
+5545	","		","	Human	","	575046	","	EMERGENCY OXYGEN SUPPLY 99.5%	","		","	N	","	60967	","	1	","	06-Dec-05	","	110469001
+11440	","		","	Human	","	886858	","	EMLA CRM	","		","	N	","	72118	","	2	","	26-May-10	","	222447001
+16733	","		","	Human	","	2057794	","	EMLA PATCH	","		","	N	","	78649	","	2	","	05-May-15	","	222447001
+5472	","		","	Human	","	595799	","	EMO CORT CREAM 2.5%	","		","	N	","	60755	","	1	","	26-Jul-11	","	106344008
+5413	","		","	Human	","	595802	","	EMO CORT LOTION 2.5%	","		","	N	","	60603	","	1	","	02-Sep-11	","	106344008
+75762	","		","	Human	","	2272091	","	EMTRIVA	","		","	N	","		","	1	","	05-May-15	","	151544001
+75871	","		","	Human	","	2273217	","	ENABLEX	","		","	N	","		","	1	","	06-May-14	","	151554001
+75872	","		","	Human	","	2273225	","	ENABLEX	","		","	N	","		","	1	","	06-May-14	","	151554002
+16128	","		","	Veterinary	","	2060531	","	ENACARD 1.0MG TABLETS FOR DOGS	","		","	N	","	77914	","	1	","	05-May-15	","	117649005
+16120	","		","	Veterinary	","	2060574	","	ENACARD 10.0MG TABLETS FOR DOGS	","		","	N	","	77906	","	1	","	05-May-15	","	117649001
+16129	","		","	Veterinary	","	2060558	","	ENACARD 2.5MG TABLETS FOR DOGS	","		","	N	","	77915	","	1	","	05-May-15	","	117649004
+16121	","		","	Veterinary	","	2060582	","	ENACARD 20.0MG TABLETS FOR DOGS	","		","	N	","	77907	","	1	","	05-May-15	","	117649002
+16119	","		","	Veterinary	","	2060566	","	ENACARD 5.0MG TABLETS FOR DOGS	","		","	N	","	77905	","	1	","	05-May-15	","	117649003
+88543	","		","	Human	","	2400650	","	ENALAPRIL	","		","	N	","		","	1	","	25-Sep-15	","	152325001
+88544	","		","	Human	","	2400669	","	ENALAPRIL	","		","	N	","		","	1	","	25-Sep-15	","	152325004
+88545	","		","	Human	","	2400677	","	ENALAPRIL	","		","	N	","		","	1	","	25-Sep-15	","	152325002
+88546	","		","	Human	","	2400685	","	ENALAPRIL	","		","	N	","		","	1	","	25-Sep-15	","	152325003
+92748	","		","	Human	","	2442957	","	ENALAPRIL	","		","	N	","		","	1	","	19-Aug-15	","	152325001
+92749	","		","	Human	","	2442965	","	ENALAPRIL	","		","	N	","		","	1	","	19-Aug-15	","	152325004
+92750	","		","	Human	","	2442973	","	ENALAPRIL	","		","	N	","		","	1	","	19-Aug-15	","	152325002
+92751	","		","	Human	","	2442981	","	ENALAPRIL	","		","	N	","		","	1	","	19-Aug-15	","	152325003
+87402	","		","	Human	","	2388499	","	ENALAPRILAT INJECTION USP	","		","	N	","		","	1	","	19-Sep-12	","	118001001
+66735	","		","	Human	","	2242903	","	ENBREL	","		","	N	","		","	2	","	08-Jul-09	","	242101001
+76019	","		","	Human	","	2274728	","	ENBREL	","		","	N	","		","	1	","	08-Jul-09	","	151564001
+69792	","	CAT IV - ANTIDANDRUFF PRODUCTS	","	Human	","	2245691	","	ENCHANTE SHAMPOOING ANTIPELLICULAIRE	","		","	N	","		","	1	","	26-Jun-06	","	108628001
+76261	","		","	Veterinary	","	2276933	","	ENDO-CALF BOLUS	","		","	N	","		","	2	","	30-Nov-06	","	251582001
+17235	","		","	Human	","	1916548	","	ENDOCET	","		","	N	","	79388	","	2	","	14-Apr-08	","	215596001
+82061	","		","	Human	","	2334992	","	ENDOMETRIN	","		","	N	","		","	1	","	16-Feb-10	","	106327002
+62715	","	CAT IV - ANTISEPTIC SKIN CLEANSERS	","	Human	","	2239252	","	ENDURE 400 SCRUB-STAT 4	","		","	N	","		","	1	","	08-Mar-06	","	107629001
+63965	","	CAT IV - ANTISEPTIC SKIN CLEANSERS	","	Human	","	2240416	","	ENDURE 420 CIDA-STAT	","		","	N	","		","	1	","	28-Apr-12	","	107629004
+82268	","		","	Human	","	2337053	","	ENER-C MOISTURIZING LOTION SPF 30	","		","	N	","		","	3	","	27-May-10	","	331813001
+11742	","		","	Human	","	1919431	","	ENGERIX B INJ SUS 20MCG/ML	","		","	N	","	72633	","	1	","	05-Aug-10	","	119570002
+78178	","		","	Human	","	2296454	","	ENGERIX-B          (PEDIATRIC DOSE)	","		","	N	","		","	1	","	05-Aug-10	","	119570004
+73895	","		","	Veterinary	","	2254034	","	ENHANCE I.A.	","		","	N	","		","	1	","	05-May-15	","	115449001
+19364	","		","	Disinfectant	","	846635	","	ENOL PLUS GERMICIDAL DETERGENT LIQ	","		","	N	","	81657	","	2	","	15-Jun-06	","	213136005
+80116	","	CAT IV - ANTISEPTIC SKIN CLEANSERS	","	Human	","	2315637	","	ENRICHED FOAM ALCOHOL-FREE HAND SANITIZER	","		","	N	","		","	1	","	29-Apr-15	","	104993004
+80105	","	CAT IV - ANTISEPTIC SKIN CLEANSERS	","	Human	","	2315513	","	ENRICHED FOAM ANTIBACTERIAL SOAP	","		","	N	","		","	1	","	29-Apr-15	","	108865001
+75019	","		","	Human	","	2264706	","	ENTERIC COATED A.S.A	","		","	N	","		","	1	","	17-Jul-12	","	101169001
+75021	","		","	Human	","	2264722	","	ENTERIC COATED A.S.A	","		","	N	","		","	1	","	17-Jul-12	","	101169002
+77808	","		","	Human	","	2292726	","	ENTERIC COATED ASA 325 MG	","		","	N	","		","	1	","	17-Jul-12	","	101169001
+18909	","		","	Human	","	2010526	","	ENTERIC COATED ASA TABLETS 325MG	","		","	N	","	81195	","	1	","	06-Dec-13	","	101169001
+4896	","		","	Human	","	510696	","	ENTERIC COATED ASA TABLETS 325MG	","		","	N	","	59075	","	1	","	29-Apr-15	","	101169001
+19434	","		","	Human	","	794244	","	ENTERIC COATED ASA TABLETS 650MG	","		","	N	","	81730	","	1	","	18-Mar-14	","	101169002
+4897	","		","	Human	","	472476	","	ENTERIC COATED ASA TABLETS 650MG	","		","	N	","	59076	","	1	","	29-Apr-15	","	101169002
+84814	","		","	Human	","	2363127	","	ENTERIC COATED DAILY LOW DOSE ASA 81MG	","		","	N	","		","	1	","	18-Dec-12	","	101169013
+15808	","		","	Veterinary	","	2031353	","	ENTEROLYTE (ANTIBIOTIC-ELECTROLYTE BOLUS)	","		","	N	","	77566	","	7	","	29-Apr-15	","	700156008
+71201	","		","	Human	","	2246971	","	ENTEX LA	","		","	N	","		","	2	","	11-Jul-12	","	203205007
+43534	","		","	Human	","	2229293	","	ENTOCORT CAPSULE 3MG	","		","	N	","	P9875	","	1	","	07-Mar-06	","	116807006
+16264	","		","	Human	","	2052431	","	ENTOCORT ENEMA 0.02 MG/ML	","		","	N	","	78144	","	2	","	07-Jan-09	","	224817001
+19102	","		","	Human	","	2154757	","	ENTONOX	","		","	N	","	81391	","	2	","	12-Jan-10	","	213352001
+65982	","		","	Human	","	2242281	","	ENTROPHEN	","		","	N	","		","	1	","	21-Aug-15	","	101169013
+14683	","		","	Human	","	2050161	","	ENTROPHEN 325MG CAPLETS	","		","	N	","	76340	","	1	","	25-Jul-12	","	101169001
+157	","		","	Human	","	10332	","	ENTROPHEN 325MG TABLETS	","		","	N	","	5755	","	1	","	21-Aug-15	","	101169001
+11798	","		","	Human	","	1905392	","	ENTROPHEN 650MG CAPLET ECT	","		","	N	","	72710	","	1	","	15-Nov-13	","	101169002
+67917	","		","	Human	","	2243974	","	ENTROPHEN CHEWABLE	","		","	N	","		","	1	","	25-Jul-12	","	101169013
+11025	","		","	Human	","	852015	","	ENTROPHEN ECT 500MG	","		","	N	","	71223	","	1	","	15-Nov-13	","	101169012
+468	","		","	Human	","	10340	","	ENTROPHEN ECT 650MG	","		","	N	","	19838	","	1	","	15-Nov-13	","	101169002
+2966	","		","	Human	","	419508	","	ENTROPHEN ECT 975MG	","		","	N	","	52275	","	1	","	29-Apr-15	","	101169004
+92117	","		","	Human	","	2436841	","	ENTYVIO	","	FOR I.V. INFUSION	","	N	","		","	1	","	27-May-15	","	156530001
+3594	","		","	Disinfectant	","	415219	","	ENVIRO 40LIQ	","		","	N	","	54784	","	4	","	31-Aug-06	","	410587002
+17768	","		","	Disinfectant	","	2130661	","	ENVIRO CARE NEUTRAL DISINFECTANT	","		","	N	","	79973	","	2	","	19-Mar-15	","	213172032
+80887	","		","	Disinfectant	","	2323397	","	ENVIRO SOLUTIONS 128	","		","	N	","		","	1	","	29-Jun-11	","	111516005
+74084	","		","	Disinfectant	","	2255650	","	ENVIRO SOLUTIONS 24	","		","	N	","		","	2	","	15-Jan-13	","	205019002
+74083	","		","	Disinfectant	","	2255642	","	ENVIRO SOLUTIONS 25	","		","	N	","		","	2	","	13-Aug-15	","	205019002
+86051	","		","	Disinfectant	","	2375117	","	ENVIRO SOLUTIONS 256H NEUTRAL DISINFECTANT CONCENTRATE	","		","	N	","		","	4	","	09-Jul-14	","	414758006
+74028	","		","	Disinfectant	","	2255154	","	ENVIRO SOLUTIONS 512 SANITIZER	","		","	N	","		","	2	","	29-Jun-11	","	205019013
+74086	","		","	Disinfectant	","	2255677	","	ENVIRO SOLUTIONS 64 NEUTRAL DISINFECTANT	","		","	N	","		","	1	","	13-Aug-15	","	111516007
+91040	","		","	Disinfectant	","	2425777	","	ENVIRO SOLUTIONS 65 HYDROGEN PEROXIDE DISINFECTANT CLEANER	","		","	N	","		","	2	","	20-Jul-15	","	252197003
+89527	","		","	Disinfectant	","	2410605	","	ENVIRONIZE ANOLYTE	","		","	N	","		","	1	","	16-May-14	","	152812001
+62746	","		","	Disinfectant	","	2239281	","	ENVIROSYSTEMS ETHYLENE OXIDE STERILANT	","		","	N	","		","	1	","	15-Feb-08	","	124235002
+66174	","		","	Disinfectant	","	2242455	","	ENZ ALL	","		","	N	","		","	4	","	02-Dec-08	","	414758021
+82588	","		","	Disinfectant	","	2340305	","	EP50 AV-MIXX NETTOYANT D?SINFECTANT/EP50 AV-MIXX CLEANER DISINFECTANT	","		","	N	","		","	1	","	26-Oct-10	","	106899017
+82590	","		","	Disinfectant	","	2340321	","	EP50 NETTOYANT D?SINFECTANT/EP50 CLEANER DISINFECTANT	","		","	N	","		","	1	","	06-Mar-15	","	106899017
+82533	","	CAT IV - HARD SURFACE DISINFECTANTS	","	Disinfectant	","	2339749	","	EP51B AV-MIXX QUATERNARY DISINFECTANT / D?SINFECTANT QUATERNAIRE	","		","	N	","		","	1	","	27-May-10	","	111516007
+82532	","	CAT IV - HARD SURFACE DISINFECTANTS	","	Disinfectant	","	2339730	","	EP51B QUATERNARY DISINFECTANT / D?SINFECTANT QUATERNAIRE	","		","	N	","		","	1	","	27-May-10	","	111516007
+84768	","		","	Disinfectant	","	2362686	","	EP66 AV-MIXX DISINFECTANT/EP66 AV-MIXX D?SINFECTANT	","		","	N	","		","	2	","	08-Jan-13	","	205019003
+75729	","		","	Disinfectant	","	2271753	","	EP66 DISINFECTANT AND SANITIZER	","		","	N	","		","	2	","	06-Feb-12	","	205019003
+790	","		","	Human	","	38121	","	EPHEDRINE SULFATE INJECTION	","		","	N	","	29899	","	1	","	24-Nov-10	","	104862001
+11096	","		","	Human	","	876534	","	EPHEDRINE SULFATE INJECTION USP	","		","	N	","	71357	","	1	","	29-Apr-15	","	104862001
+66800	","		","	Human	","	2242961	","	"EPHEDRINE SULPHATE INJECTION, USP"	","		","	N	","		","	1	","	30-Jul-15	","	104862001
+9525	","		","	Veterinary	","	654590	","	EPICLOR INJ 1MG/ML	","		","	N	","	68710	","	1	","	12-Jun-08	","	131270002
+2013	","		","	Veterinary	","	319384	","	EPIDURAL SOLUTION INJ	","		","	N	","	46388	","	2	","	13-Oct-04	","	204848001
+8352	","		","	Human	","	710814	","	EPINEPHRINE INJ 0.1MG/ML USP	","		","	N	","	66766	","	1	","	29-Oct-13	","	104871003
+3735	","		","	Veterinary	","	500704	","	EPINEPHRINE INJ 1MG/ML	","		","	N	","	55216	","	1	","	09-Jul-04	","	104871002
+9164	","		","	Human	","	721891	","	EPINEPHRINE INJ 1MG/ML USP	","		","	N	","	68031	","	1	","	29-Oct-13	","	104871002
+84057	","		","	Veterinary	","	2355329	","	EPINEPHRINE INJECTION 1MG/ML	","		","	N	","		","	1	","	26-May-14	","	104871002
+16998	","		","	Human	","	2063204	","	EPINEPHRINE INJECTION USP	","		","	N	","	79148	","	1	","	29-Apr-15	","	104871002
+81063	","		","	Human	","	2325225	","	EPINEPHRINE INJECTION USP 1 MG/ML	","		","	N	","		","	1	","	20-Oct-10	","	104871002
+47182	","		","	Veterinary	","	2229382	","	EPI-OTIC CLEANSER	","		","	N	","		","	2	","	17-Feb-11	","	202932002
+18722	","		","	Veterinary	","	2154455	","	EPI-OTIC HC	","		","	N	","	80995	","	1	","	25-May-11	","	106344001
+3883	","		","	Human	","	509558	","	EPIPEN	","	0.3MG/0.3ML AUTO-INJECTOR	","	N	","	55851	","	1	","	22-Mar-13	","	104871002
+5970	","		","	Human	","	578657	","	EPIPEN JR	","	0.15MG/0.3ML AUTO-INJECTOR	","	N	","	61966	","	1	","	28-Aug-14	","	104871011
+86858	","		","	Veterinary	","	2382776	","	EPIPHEN 30MG	","		","	N	","		","	1	","	08-Sep-14	","	105950005
+86859	","		","	Veterinary	","	2382784	","	EPIPHEN 60MG	","		","	N	","		","	1	","	09-Jul-14	","	105950004
+89507	","		","	Human	","	2410400	","	EPIRUBICIN	","		","	N	","		","	1	","	22-Sep-14	","	116901002
+80958	","		","	Human	","	2324091	","	EPIRUBICIN FOR INJECTION	","		","	N	","		","	1	","	05-May-15	","	116901002
+78641	","		","	Human	","	2301067	","	EPIRUBICIN HYDROCHLORIDE FOR INJECTION	","		","	N	","		","	1	","	08-Sep-08	","	116901001
+75043	","		","	Human	","	2264927	","	EPIRUBICIN HYDROCHLORIDE INJECTION	","		","	N	","		","	1	","	15-Dec-08	","	116901002
+79761	","		","	Human	","	2312093	","	EPIRUBICIN HYDROCHLORIDE INJECTION	","		","	N	","		","	1	","	25-Sep-15	","	116901002
+5676	","		","	Human	","	596418	","	EPIVAL	","		","	N	","	61276	","	1	","	13-May-15	","	112996004
+5677	","		","	Human	","	596426	","	EPIVAL	","		","	N	","	61277	","	1	","	13-May-15	","	112996001
+5678	","		","	Human	","	596434	","	EPIVAL	","		","	N	","	61278	","	1	","	13-May-15	","	112996003
+9822	","		","	Disinfectant	","	799394	","	EPQUAT DISINFECTANT SANITIZER FUNGICIDE DEODORIZER	","		","	N	","	69124	","	4	","	14-Jul-11	","	414758005
+67133	","		","	Human	","	2243239	","	EPREX STERILE SOLUTION	","		","	N	","		","	1	","	11-Feb-08	","	126696007
+77409	","		","	Human	","	2288680	","	EPREX STERILE SOLUTION	","		","	N	","		","	1	","	11-Feb-08	","	126696007
+50953	","		","	Human	","	2231587	","	EPREX STERILE SOLUTION 10000IU/1.0ML	","		","	N	","		","	1	","	11-Feb-08	","	126696001
+50949	","		","	Human	","	2231583	","	EPREX STERILE SOLUTION 1000IU/0.5ML	","		","	N	","		","	1	","	11-Feb-08	","	126696004
+50950	","		","	Human	","	2231584	","	EPREX STERILE SOLUTION 2000IU/0.5ML	","		","	N	","		","	1	","	11-Feb-08	","	126696005
+50951	","		","	Human	","	2231585	","	EPREX STERILE SOLUTION 3000IU/0.3ML	","		","	N	","		","	1	","	11-Feb-08	","	126696001
+64311	","		","	Human	","	2240722	","	EPREX STERILE SOLUTION 40000IU/ML	","		","	N	","		","	1	","	11-Feb-08	","	126696007
+50952	","		","	Human	","	2231586	","	EPREX STERILE SOLUTION 4000IU/0.4ML	","		","	N	","		","	1	","	11-Feb-08	","	126696001
+67308	","		","	Human	","	2243400	","	EPREX STERILE SOLUTION 5000IU/0.5ML	","		","	N	","		","	1	","	11-Feb-08	","	126696001
+67309	","		","	Human	","	2243401	","	EPREX STERILE SOLUTION 6000 IU/0.6 ML	","		","	N	","		","	1	","	11-Feb-08	","	126696001
+67311	","		","	Human	","	2243403	","	EPREX STERILE SOLUTION 8000 IU/0.8 ML	","		","	N	","		","	1	","	11-Feb-08	","	126696001
+60547	","		","	Veterinary	","	2237228	","	EPRINEX POUR-ON	","		","	N	","		","	1	","	05-May-15	","	131819001
+85268	","		","	Human	","	2367858	","	EPTIFIBATIDE INJECTION	","	FOR BOLUS INJECTION. 10ML SINGLE USE VIALS	","	N	","		","	1	","	19-Jan-15	","	137621002
+88991	","		","	Human	","	2405083	","	EPTIFIBATIDE INJECTION	","	100ML SINGLE-DOSE VIALS	","	N	","		","	1	","	07-Mar-14	","	137621001
+88198	","		","	Human	","	2396971	","	EPURIS	","		","	N	","		","	1	","	04-Jun-13	","	115751001
+88199	","		","	Human	","	2396998	","	EPURIS	","		","	N	","		","	1	","	04-Jun-13	","	115751004
+88200	","		","	Human	","	2397005	","	EPURIS	","		","	N	","		","	1	","	04-Jun-13	","	115751005
+88201	","		","	Human	","	2397013	","	EPURIS	","		","	N	","		","	1	","	04-Jun-13	","	115751002
+72573	","	CAT IV - CONTACT LENS DISINFECTANTS	","	Disinfectant	","	2248236	","	EQUATE ALL-IN-ONE SOLUTION	","		","	N	","		","	1	","	21-Oct-09	","	124476001
+84999	","	CAT IV - ANTISEPTIC SKIN CLEANSERS	","	Human	","	2365146	","	EQUATE ANTIBACTERIAL HANDS & FACE WIPES	","		","	N	","		","	1	","	19-Aug-14	","	104993052
+84473	","		","	Human	","	2359731	","	EQUATE BABY SUNSCREEN LOTION SPF/FPS 60	","		","	N	","		","	5	","	03-Apr-12	","	544758053
+67739	","		","	Human	","	2243801	","	EQUATE DAILY LOW-DOSE	","		","	N	","		","	1	","	12-Jul-12	","	101169013
+84523	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2360284	","	EQUATE KIDS SUNSCREEN CONTINUOUS SPRAY SPF/FPS 60	","	SPRAY BAG-ON-VALVE LOTION	","	N	","		","	5	","	02-Apr-12	","	544758040
+84490	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2359936	","	EQUATE KIDS SUNSCREEN LOTION SPF/FPS 60	","		","	N	","		","	5	","	02-Apr-12	","	544758053
+77223	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2286777	","	EQUATE MOISTURIZING LOTION SPF 15	","		","	N	","		","	2	","	08-May-09	","	216792004
+84486	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2359871	","	EQUATE SPORT SUNSCREEN CONTINOUS SPRAY SPF/FPS 15	","	"SPRAY, BAG-ON-VALVE LOTION"	","	N	","		","	4	","	02-Apr-12	","	450424002
+84488	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2359901	","	EQUATE SPORT SUNSCREEN CONTINUOUS SPRAY SPF/FPS 60	","	"SPRAY, BAG-ON-VALVE LOTION"	","	N	","		","	5	","	02-Apr-12	","	544758040
+84487	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2359898	","	EQUATE SPORT SUNSCREEN CONTINUOUS SPRAY SPF/FPS30	","	"SPRAY, BAG-ON-VALVE LOTION"	","	N	","		","	4	","	02-Apr-12	","	450424006
+84484	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2359855	","	EQUATE SPORT SUNSCREEN LOTION SPF/FPS 30	","		","	N	","		","	5	","	02-Apr-12	","	544759017
+84485	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2359863	","	EQUATE SPORT SUNSCREEN LOTION SPF/FPS 60	","		","	N	","		","	5	","	02-Apr-12	","	544758053
+84495	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2359987	","	EQUATE SUNSCREEN CONTINUOUS SPRAY SPF/FPS 15	","	LOTION	","	N	","		","	4	","	02-Apr-12	","	450424002
+84496	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2359995	","	EQUATE SUNSCREEN CONTINUOUS SPRAY SPF/FPS 30	","	LOTION	","	N	","		","	4	","	02-Apr-12	","	450424006
+84497	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2360004	","	EQUATE SUNSCREEN CONTINUOUS SPRAY SPF/FPS 60	","	LOTION	","	N	","		","	5	","	02-Apr-12	","	544758040
+84493	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2359960	","	EQUATE SUNSCREEN LOTION SPF/FPS 30	","		","	N	","		","	5	","	02-Apr-12	","	544759017
+84494	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2359979	","	EQUATE SUNSCREEN LOTION SPF/FPS 60	","		","	N	","		","	5	","	02-Apr-12	","	544758053
+76456	","		","	Veterinary	","	2279002	","	EQUELL (IVERMECTIN) ORAL PASTE FOR HORSES	","		","	N	","		","	1	","	31-May-10	","	124785012
+12867	","		","	Veterinary	","	1910043	","	EQUICAINE	","		","	N	","	74096	","	1	","	06-May-15	","	100583002
+76227	","		","	Veterinary	","	2276593	","	EQUIMAX	","		","	N	","		","	2	","	31-May-10	","	251579001
+14253	","		","	Veterinary	","	2010984	","	EQUINE PERFORMANCE PWS	","		","	N	","	75822	","	4	","	28-May-09	","	400082010
+5556	","		","	Veterinary	","	594431	","	EQVALAN	","	ORAL PASTE FOR HORSES	","	N	","	60987	","	1	","	05-May-15	","	124785001
+77545	","		","	Veterinary	","	2290162	","	EQVALAN GOLD	","	ORAL PASTE FOR HORS	","	N	","		","	2	","	29-Jun-11	","	251579002
+11026	","		","	Veterinary	","	717150	","	EQVALAN LIQUID FOR HORSES	","	IVERMECTIN	","	N	","	71224	","	1	","	05-May-15	","	124785002
+81644	","		","	Human	","	2330695	","	ERAXIS	","		","	N	","		","	1	","	20-Aug-13	","	152373001
+75672	","		","	Human	","	2271249	","	ERBITUX	","		","	N	","		","	1	","	03-Aug-11	","	151441001
+17401	","		","	Human	","	1996096	","	ERGONOVINE MALEATE INJECTION	","		","	N	","	79554	","	1	","	29-Apr-15	","	103674002
+4292	","		","	Human	","	497312	","	ERGONOVINE MALEATE INJECTION	","		","	N	","	57274	","	1	","	29-Apr-15	","	103674002
+78148	","		","	Human	","	2296144	","	"ERGONOVINE MALEATE INJECTION USP, 0.25MG/ML"	","		","	N	","		","	1	","	12-May-15	","	103674002
+89398	","		","	Human	","	2409267	","	ERIVEDGE	","		","	N	","		","	1	","	14-Aug-13	","	154490001
+61174	","		","	Human	","	2237815	","	ERWINASE	","		","	N	","		","	1	","	18-Jan-13	","	109328001
+11252	","		","	Human	","	893862	","	ERYBID	","		","	N	","	71828	","	1	","	05-May-15	","	105708004
+10707	","		","	Human	","	873454	","	ERYC DELAYED-RELEASE CAPSULES	","		","	N	","	70729	","	1	","	29-Apr-15	","	105708013
+5599	","		","	Human	","	607142	","	ERYC DELAYED-RELEASE CAPSULES	","		","	N	","	61080	","	1	","	17-Aug-15	","	105708003
+44176	","		","	Veterinary	","	2172607	","	ERYTHRO-36 - LIQ IMM 50MG/ML	","		","	N	","	T9806	","	1	","	26-Jul-11	","	105708006
+6687	","		","	Human	","	682020	","	ERYTHRO-BASE	","		","	N	","	63846	","	1	","	29-Apr-15	","	105708003
+9396	","		","	Human	","	682268	","	ERYTHROCIN I.V.	","		","	N	","	68446	","	1	","	23-Sep-10	","	105708004
+9397	","		","	Human	","	682276	","	ERYTHROCIN I.V.	","		","	N	","	68447	","	1	","	10-Feb-11	","	105708018
+6686	","		","	Human	","	637416	","	ERYTHRO-ES	","		","	N	","	63845	","	1	","	17-May-11	","	105708012
+26616	","		","	Veterinary	","	2030578	","	ERYTHRO-MED	","		","	N	","	F0330	","	1	","	30-Apr-15	","	105708020
+4465	","		","	Human	","	545678	","	ERYTHRO-S	","		","	N	","	57736	","	1	","	21-Mar-13	","	105708003
+6688	","		","	Human	","	688568	","	ERYTHRO-S	","		","	N	","	63847	","	1	","	21-Mar-13	","	105708004
+49187	","	CAT IV - HARD SURFACE DISINFECTANTS	","	Disinfectant	","	2230389	","	E-SAN	","		","	N	","		","	2	","	08-Feb-06	","	205019003
+87895	","		","	Human	","	2393751	","	ESBRIET	","		","	N	","		","	1	","	13-May-15	","	153328001
+90910	","		","	Human	","	2424401	","	ESCITALOPRAM	","		","	N	","		","	1	","	20-Apr-15	","	150435002
+90911	","		","	Human	","	2424428	","	ESCITALOPRAM	","		","	N	","		","	1	","	20-Apr-15	","	150435004
+91347	","		","	Human	","	2429039	","	ESCITALOPRAM	","		","	N	","		","	1	","	28-Jan-15	","	150435002
+91348	","		","	Human	","	2429047	","	ESCITALOPRAM	","		","	N	","		","	1	","	28-Jan-15	","	150435004
+91451	","		","	Human	","	2430118	","	ESCITALOPRAM	","		","	N	","		","	1	","	22-Oct-14	","	150435002
+91453	","		","	Human	","	2430126	","	ESCITALOPRAM	","		","	N	","		","	1	","	14-Jan-15	","	150435004
+4517	","		","	Veterinary	","	518662	","	E-SE INJECTABLE	","		","	N	","	57902	","	2	","	14-Nov-11	","	207501022
+13020	","		","	Veterinary	","	1940279	","	E-SEL INJECTION	","		","	N	","	74281	","	2	","	24-Jul-00	","	227144001
+87368	","		","	Human	","	2388138	","	ESME 21	","		","	N	","		","	2	","	25-Sep-15	","	220415005
+87369	","		","	Human	","	2388146	","	ESME 28	","		","	N	","		","	2	","	25-Sep-15	","	220415005
+87999	","		","	Human	","	2394839	","	ESOMEPRAZOLE	","		","	N	","		","	1	","	15-Jan-15	","	145162001
+88000	","		","	Human	","	2394847	","	ESOMEPRAZOLE	","		","	N	","		","	1	","	03-Jan-13	","	145162002
+91561	","		","	Human	","	2431173	","	ESOMEPRAZOLE	","		","	N	","		","	1	","	26-Jan-15	","	145162002
+92684	","		","	Human	","	2442493	","	ESOMEPRAZOLE	","		","	N	","		","	1	","	04-Aug-15	","	145162001
+92685	","		","	Human	","	2442507	","	ESOMEPRAZOLE	","		","	N	","		","	1	","	04-Aug-15	","	145162002
+16272	","		","	Human	","	2029928	","	ESOTERICA FACIAL CREAM	","		","	N	","	78152	","	3	","	29-Apr-15	","	323202001
+16271	","		","	Human	","	2029952	","	ESOTERICA REGULAR CREAM	","		","	N	","	78151	","	1	","	29-Apr-15	","	108649001
+61544	","		","	Human	","	2238152	","	ESOTERICA SUNSCREEN FADE CREAM	","		","	N	","		","	3	","	29-Apr-15	","	323202001
+61543	","		","	Human	","	2238153	","	ESOTERICA UNSCENTED	","		","	N	","		","	1	","	29-Apr-15	","	108649004
+89192	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2407205	","	ESSENTIAL-C DAY MOISTURE BROAD SPECTRUM SPF 30 PA+++	","		","	N	","		","	5	","	26-May-14	","	525322036
+65502	","		","	Human	","	2241835	","	ESTALIS 140/50 MCG	","		","	N	","		","	2	","	22-Feb-06	","	242942001
+65503	","		","	Human	","	2241837	","	ESTALIS 250/50 MCG	","		","	N	","		","	2	","	22-Feb-06	","	242942002
+11922	","		","	Disinfectant	","	1945416	","	ESTEAM SANI CLEAN LIQ	","		","	N	","	72879	","	4	","	29-Sep-10	","	414758009
+87815	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2392887	","	ESTEE LAUDER ADVANCED TIME ZONE AGE REVERSING LINE/WRINKLE CREME OIL-FREE SPF 15 FOR NORMAL/COMBINATION SKIN	","		","	N	","		","	3	","	07-Feb-14	","	331813001
+86664	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2380889	","	ESTEE LAUDER ADVANCED TIME ZONE AGE REVERSING LINE/WRINKLE CREME SPF 15 FOR DRY SKIN	","		","	N	","		","	3	","	16-Apr-15	","	335121009
+86663	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2380870	","	ESTEE LAUDER ADVANCED TIME ZONE AGE REVERSING LINE/WRINKLE CREME SPF 15 FOR NORMAL/COMBINATION SKIN	","		","	N	","		","	3	","	01-Apr-15	","	331813001
+89651	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2411938	","	ESTEE LAUDER CLEAR DIFFERENCE BB COMPLEXION PERFECTING BB CR?ME SPF 35	","		","	N	","		","	4	","	05-Jun-14	","	419998058
+85647	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2371316	","	ESTEE LAUDER DAYWEAR ADVANCED MULTI-PROTECTION CR?ME OIL-FREE SPF 25	","		","	N	","		","	3	","	28-Dec-11	","	335121009
+83787	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2352613	","	ESTEE LAUDER DAYWEAR ADVANCED MULTI-PROTECTION CREME SPF 15 FOR DRY SKIN	","		","	N	","		","	3	","	13-Jul-12	","	350284006
+83786	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2352605	","	ESTEE LAUDER DAYWEAR ADVANCED MULTI-PROTECTION CREME SPF 15 FOR NORMAL/COMBINATION SKIN	","		","	N	","		","	2	","	13-Jul-12	","	252501001
+83902	","		","	Human	","	2353814	","	ESTEE LAUDER DAYWEAR ADVANCED MULTI-PROTECTION LOTION SPF 15 FOR OILY SKIN	","		","	N	","		","	3	","	18-Dec-12	","	350284006
+87916	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2393980	","	ESTEE LAUDER DAYWEAR ADVANCED MULTI-PROTECTION UV DEFENSE SPF 50	","		","	N	","		","	5	","	26-Mar-13	","	544758104
+85821	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2373092	","	ESTEE LAUDER DAYWEAR B.B MULTI-PERFECTING BEAUTY BENEFIT CR?ME SPF 35	","		","	N	","		","	4	","	30-Apr-15	","	419998058
+71101	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2246876	","	ESTEE LAUDER DAYWEAR MULTI-PROTECTION SHEER TINT RELEASE MOISTURIZER SPF 15 ALL SKINTYPES	","		","	N	","		","	3	","	29-Apr-15	","	331813003
+89968	","		","	Human	","	2415062	","	ESTEE LAUDER DOUBLE WEAR ALL-DAY GLOW BB MOISTURE MAKEUP SPF 30	","		","	N	","		","	4	","	08-Aug-14	","	427221012
+88978	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2404958	","	ESTEE LAUDER DOUBLE WEAR STAY-IN-PLACE HIGH COVER CONCEALER SPF 35	","		","	N	","		","	2	","	23-Oct-13	","	216790098
+90519	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2420627	","	ESTEE LAUDER ENLIGHTEN EE EVEN EFFECT SKINTONE CORRECTOR SPF 30	","		","	N	","		","	5	","	21-Nov-14	","	555330001
+80858	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2323087	","	ESTEE LAUDER HYDRATIONIST MAXIMUM MOISTURE CREME SPF 15	","		","	N	","		","	3	","	13-Jul-12	","	331813003
+88994	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2405113	","	ESTEE LAUDER PERFECTIONIST YOUTH-INFUSING MAKEUP SPF 25	","		","	N	","		","	2	","	14-Aug-14	","	216790042
+88594	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2401215	","	ESTEE LAUDER RE-NUTRIV ULTRA RADIANCE MAKEUP SPF 15	","		","	N	","		","	2	","	30-Sep-14	","	216790113
+80977	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2324318	","	ESTEE LAUDER RESILIENCE LIFT EXTREME LIQUID MAKEUP SPF 15	","		","	N	","		","	2	","	13-Jul-12	","	216790114
+87814	","		","	Human	","	2392879	","	ESTEE LAUDER RESILIENCE LIFT FIRMING/SCULPTING FACE AND NECK CREME OIL-FREE SPF 15 FOR NORMAL/COMBINATION SKIN	","		","	N	","		","	3	","	07-Feb-14	","	335121009
+86643	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2380641	","	ESTEE LAUDER RESILIENCE LIFT FIRMING/SCULPTING FACE AND NECK CREME SPF 15 FOR DRY SKIN	","		","	N	","		","	3	","	28-Feb-13	","	335121009
+86642	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2380633	","	ESTEE LAUDER RESILIENCE LIFT FIRMING/SCULPTING FACE AND NECK CREME SPF 15 FOR NORMAL/COMBINATION SKIN	","		","	N	","		","	3	","	01-Mar-13	","	335121009
+86641	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2380625	","	ESTEE LAUDER RESILIENCE LIFT FIRMING/SCULPTING FACE AND NECK LOTION SPF 15	","		","	N	","		","	2	","	28-Feb-13	","	216790086
+19405	","		","	Human	","	2148595	","	ESTRACE	","		","	N	","	81699	","	1	","	25-Sep-15	","	106457001
+19406	","		","	Human	","	2148587	","	ESTRACE	","		","	N	","	81700	","	1	","	25-Sep-15	","	106457003
+43420	","		","	Human	","	2225190	","	ESTRACE	","		","	N	","	P9758	","	1	","	25-Sep-15	","	106457006
+2189	","		","	Veterinary	","	345318	","	ESTRADIOL CYPIONATE INJ 4MG/ML	","		","	N	","	48070	","	1	","	04-Sep-07	","	106454004
+67945	","		","	Human	","	2244002	","	ESTRADOT 100	","		","	N	","		","	1	","	05-Jun-06	","	106457017
+69776	","		","	Human	","	2245676	","	ESTRADOT 25	","		","	N	","		","	1	","	05-Jun-06	","	106457026
+67942	","		","	Human	","	2243999	","	ESTRADOT 37.5	","		","	N	","		","	1	","	05-Jun-06	","	106457023
+67943	","		","	Human	","	2244000	","	ESTRADOT 50	","		","	N	","		","	1	","	05-Jun-06	","	106457024
+67944	","		","	Human	","	2244001	","	ESTRADOT 75	","		","	N	","		","	1	","	05-Jun-06	","	106457025
+1978	","		","	Human	","	287725	","	ESTRAGYN	","		","	N	","	46198	","	1	","	05-Jun-15	","	106444002
+3756	","		","	Human	","	473618	","	ESTRAGYN	","		","	N	","	55321	","	1	","	05-Jun-15	","	106444003
+7645	","		","	Human	","	727369	","	ESTRAGYN VAGINAL CREAM	","		","	N	","	65791	","	1	","	05-Jun-15	","	106441002
+18640	","		","	Human	","	2168898	","	ESTRING	","		","	N	","	80910	","	1	","	26-Jul-06	","	106457001
+62136	","		","	Human	","	2238704	","	ESTROGEL	","		","	N	","		","	1	","	15-May-13	","	106457004
+88821	","		","	Human	","	2403404	","	ESTROGEL PROPAK	","	METERED-DOSE PUMP (80G GEL) + 30 CAP. COMBO PACK.	","	N	","		","	2	","	29-Oct-13	","	254135001
+78370	","		","	Veterinary	","	2298406	","	ESTROPLAN	","		","	N	","		","	1	","	05-May-15	","	112396003
+43924	","		","	Veterinary	","	2137658	","	ESTRUMATE	","		","	N	","	T9096	","	1	","	05-May-15	","	112396003
+78467	","		","	Veterinary	","	2299283	","	ESTRUS	","		","	N	","		","	1	","	20-Aug-08	","	106454001
+1471	","		","	Human	","	247960	","	ETIBI TAB 100MG	","		","	N	","	40558	","	1	","	05-Jun-08	","	108662001
+1472	","		","	Human	","	247979	","	ETIBI TAB 400MG	","		","	N	","	40559	","	1	","	05-Jun-08	","	108662002
+83843	","		","	Human	","	2353210	","	ETIDROCAL	","		","	N	","		","	2	","	13-Sep-10	","	241781001
+90741	","		","	Human	","	2422735	","	ETIVAL CC CREAM	","		","	N	","		","	3	","	22-Aug-14	","	327220026
+51745	","		","	Human	","	2232317	","	ETODOLAC	","		","	N	","		","	1	","	20-Mar-13	","	116345001
+51746	","		","	Human	","	2232318	","	ETODOLAC	","		","	N	","		","	1	","	20-Aug-12	","	116345002
+16507	","		","	Human	","	2080036	","	ETOPOSIDE INJECTION	","		","	N	","	78403	","	1	","	05-May-15	","	114567002
+63465	","		","	Human	","	2239961	","	ETOPOSIDE INJECTION	","		","	N	","		","	1	","	25-Sep-15	","	114567002
+86669	","		","	Human	","	2380935	","	ETOPOSIDE INJECTION USP	","	"MULTI-DOSE VIALS OF 100MG(5ML), 200MG(10ML), 500MG(25ML), AND 1G(50ML)"	","	N	","		","	1	","	17-Dec-13	","	114567002
+64788	","		","	Human	","	2241182	","	"ETOPOSIDE INJECTION, USP"	","		","	N	","		","	1	","	05-May-15	","	114567002
+90722	","		","	Human	","	2422530	","	"ETOPOSIDE INJECTION, USP"	","	5/10/25/50ML MULTIDOSE VIALS	","	N	","		","	1	","	29-Apr-15	","	114567002
+10834	","		","	Human	","	720941	","	EUGLUCON	","		","	N	","	70933	","	1	","	29-Mar-06	","	108708001
+7152	","		","	Human	","	623377	","	EURAX CREAM 10%	","		","	N	","	64807	","	1	","	29-Apr-15	","	103838001
+73813	","		","	Human	","	2253178	","	EURO D 10000	","		","	N	","		","	1	","	10-May-05	","	108524005
+78912	","	LS - LAXATIVES (GENERAL)	","	Human	","	2303825	","	EURO DOCUSATE C	","		","	N	","		","	1	","	03-Feb-09	","	104351002
+77118	","		","	Human	","	2285673	","	EURO FOLIC 5MG	","		","	N	","		","	1	","	30-Nov-06	","	108418001
+73562	","	"LS - ANALG. (ACETAMINOPHEN, SALICYLATES, CODEINE)"	","	Human	","	2250675	","	EURO-ASA CHEWABLE TABLET	","		","	N	","		","	1	","	29-May-07	","	101169013
+91527	","		","	Human	","	2430835	","	EURO-ASA EC	","		","	N	","		","	1	","	08-Oct-14	","	101169013
+69768	","	LS - CYPROHEPTADINE	","	Human	","	2245668	","	EURO-CYPROHEPTADINE 2MG/5ML	","		","	N	","		","	1	","	13-Aug-03	","	102134001
+69767	","	LS - CYPROHEPTADINE	","	Human	","	2245667	","	EURO-CYPROHEPTADINE 4MG/TABLET	","		","	N	","		","	1	","	06-Dec-06	","	102134002
+71630	","	LS - LAXATIVES (GENERAL)	","	Human	","	2247385	","	EURO-DOCUSATE CAPSULES	","		","	N	","		","	1	","	29-Nov-06	","	104351002
+71635	","	LS - LAXATIVES (GENERAL)	","	Human	","	2247390	","	EURO-SENNA S.	","		","	N	","		","	2	","	16-Dec-04	","	215780001
+5380	","		","	Veterinary	","	518816	","	EUTHANSOL	","		","	N	","	60492	","	1	","	13-Jan-14	","	106017005
+274	","		","	Veterinary	","	141704	","	EUTHANYL	","		","	N	","	10907	","	1	","	26-Jul-06	","	106017008
+1387	","		","	Veterinary	","	241326	","	EUTHANYL FORTE	","		","	N	","	39661	","	1	","	27-Mar-13	","	106017004
+74978	","		","	Human	","	2264323	","	EUTHYROX	","		","	N	","		","	1	","	05-May-15	","	107794012
+74979	","		","	Human	","	2264331	","	EUTHYROX	","		","	N	","		","	1	","	05-May-15	","	107794001
+74980	","		","	Human	","	2264358	","	EUTHYROX	","		","	N	","		","	1	","	05-May-15	","	107794007
+74981	","		","	Human	","	2264366	","	EUTHYROX	","		","	N	","		","	1	","	05-May-15	","	107794006
+74982	","		","	Human	","	2264374	","	EUTHYROX	","		","	N	","		","	1	","	05-May-15	","	107794005
+74984	","		","	Human	","	2264390	","	EUTHYROX	","		","	N	","		","	1	","	05-May-15	","	107794008
+74985	","		","	Human	","	2264404	","	EUTHYROX	","		","	N	","		","	1	","	05-May-15	","	107794013
+74986	","		","	Human	","	2264412	","	EUTHYROX	","		","	N	","		","	1	","	05-May-15	","	107794013
+74987	","		","	Human	","	2264420	","	EUTHYROX	","		","	N	","		","	1	","	05-May-15	","	107794004
+74988	","		","	Human	","	2264439	","	EUTHYROX	","		","	N	","		","	1	","	05-May-15	","	107794009
+74989	","		","	Human	","	2264447	","	EUTHYROX	","		","	N	","		","	1	","	05-May-15	","	107794003
+74991	","		","	Human	","	2264455	","	EUTHYROX	","		","	N	","		","	1	","	05-May-15	","	107794002
+87626	","	CAT IV - ANTIDANDRUFF PRODUCTS	","	Human	","	2390876	","	EVERYDAY CLEAN DANDRUFF SHAMPOO	","		","	N	","		","	1	","	29-Jan-15	","	108628001
+82792	","		","	Human	","	2342421	","	EVERYTHING BUTT	","		","	N	","		","	2	","	29-Apr-15	","	244187006
+87581	","		","	Human	","	2390361	","	EVERYTHING BUTT CREAM FOR ADULTS	","		","	N	","		","	2	","	13-Mar-14	","	244187006
+83385	","		","	Human	","	2348497	","	EVICEL	","		","	N	","		","	2	","	02-May-13	","	252708001
+62480	","		","	Human	","	2239028	","	EVISTA (60MG)	","		","	N	","		","	1	","	30-Sep-09	","	151607001
+72637	","		","	Human	","	2248297	","	EVRA   -(6/0.60)	","		","	N	","		","	2	","	10-Feb-09	","	248061002
+15586	","		","	Disinfectant	","	2078090	","	EW 150 NEUTRAL CLEANER LIQ 15.36%	","		","	N	","	77291	","	1	","	10-Feb-10	","	111516006
+82801	","	CAT IV - ANTISEPTIC SKIN CLEANSERS	","	Human	","	2342529	","	EXACT ANTIBACTERIAL WIPES	","		","	N	","		","	1	","	23-Jul-13	","	104993016
+79263	","		","	Human	","	2306956	","	EXACT BABIES SUNSCREEN LOTION SPF FPS 45	","		","	N	","		","	4	","	21-May-15	","	420277003
+79262	","		","	Human	","	2306948	","	EXACT BABIES SUNSCREEN SPRAY SPF FPS 45	","		","	N	","		","	4	","	22-May-08	","	420277003
+67838	","		","	Human	","	2243896	","	EXACT COATED DAILY LOW-DOSE ASA	","		","	N	","		","	1	","	12-Jul-12	","	101169013
+79257	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2306883	","	EXACT KIDS' SUNSCREEN LOTION SPF FPS 30	","		","	N	","		","	5	","	21-May-15	","	544758013
+79416	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2308525	","	EXACT LIP BALM CONDITIONING FORMULA	","		","	N	","		","	2	","	20-Aug-08	","	216932064
+79415	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2308517	","	EXACT LIP BALM MOISTURIZING	","		","	N	","		","	2	","	21-May-15	","	216932017
+79439	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2308770	","	EXACT LIP BALM REGULAR	","		","	N	","		","	2	","	26-May-15	","	214715037
+79440	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2308789	","	EXACT LIP BALM YEAR-ROUND PROTECTION	","		","	N	","		","	5	","	21-May-15	","	525723003
+84320	","		","	Human	","	2358131	","	EXACT NO ODOUR PAIN RELIEF CREAM	","		","	N	","		","	1	","	03-Aug-12	","	103740005
+79417	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2308533	","	EXACT SPF 15 FPS FRUIT FLAVOURS	","		","	N	","		","	2	","	21-May-15	","	216932017
+89974	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2415127	","	EXACT SPF FPS 30 SPORT SUNSCREEN LOTION	","		","	N	","		","	4	","	19-May-15	","	451521014
+89973	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2415119	","	EXACT SPF FPS 50+ KIDS SUNSCREEN LOTION	","		","	N	","		","	5	","	19-May-15	","	544758040
+79238	","		","	Human	","	2306689	","	EXACT SUNSCREEN LOTION SPF FPS 30	","		","	N	","		","	5	","	21-May-15	","	544758013
+86118	","		","	Human	","	2375761	","	EXACT WET CLOTHS ANTIBACTERIAL	","		","	N	","		","	1	","	19-Aug-14	","	104993052
+77751	","		","	Veterinary	","	2292149	","	EXCEDE	","		","	N	","		","	1	","	05-May-15	","	119705002
+79102	","		","	Veterinary	","	2305453	","	EXCEDE 100	","		","	N	","		","	1	","	10-Oct-14	","	119705005
+84555	","		","	Veterinary	","	2360586	","	EXCEDE 200	","	I.M. FOR HORSE; S.C. FOR CATTLE.	","	N	","		","	1	","	08-Sep-14	","	119705002
+14316	","		","	Human	","	1990675	","	EXCEDRIN EXTRA-STRENGTH	","		","	N	","	75892	","	2	","	12-Jul-12	","	211744002
+75299	","	LS - ANALGESICS/CAFFEINE	","	Human	","	2267586	","	EXCEDRIN TENSION HEADACHE	","		","	N	","		","	2	","	12-Jul-12	","	211744002
+77277	","	CAT IV - ANTISEPTIC SKIN CLEANSERS	","	Human	","	2287366	","	EXCELON ANTIBACTERIAL FOAM CLEANSER	","		","	N	","		","	1	","	11-Jul-12	","	108865003
+86600	","		","	Human	","	2380161	","	EXCELON ANTIBACTERIAL PLUM SCENT FOAM HANDWASH TRICLOSAN LIQUID	","		","	N	","		","	1	","	16-Jan-14	","	108865003
+10382	","		","	Veterinary	","	813567	","	EXCENEL	","		","	N	","	70196	","	1	","	09-Apr-15	","	119705001
+62738	","		","	Veterinary	","	2239274	","	EXCENEL RTU	","	I.M. FOR SWINE; I.M. & S.C. FOR CATTLE	","	N	","		","	1	","	05-May-15	","	119705001
+51868	","		","	Human	","	2232388	","	EXDOL-15	","		","	N	","		","	3	","	29-Apr-15	","	302037003
+51869	","		","	Human	","	2232389	","	EXDOL-30	","		","	N	","		","	3	","	29-Apr-15	","	302037004
+51867	","		","	Human	","	2232387	","	EXDOL-8	","		","	N	","		","	3	","	29-Apr-15	","	302037009
+65792	","		","	Human	","	2242116	","	EXELON	","		","	N	","		","	1	","	04-Apr-14	","	140521002
+65793	","		","	Human	","	2242117	","	EXELON	","		","	N	","		","	1	","	04-Apr-14	","	140521003
+65794	","		","	Human	","	2242118	","	EXELON	","		","	N	","		","	1	","	04-Apr-14	","	140521004
+69257	","		","	Human	","	2245240	","	EXELON	","		","	N	","		","	1	","	05-Jun-06	","	140521005
+65791	","		","	Human	","	2242115	","	EXELON 1.5 MG	","		","	N	","		","	1	","	04-Apr-14	","	140521001
+78817	","		","	Human	","	2302853	","	EXELON PATCH 10	","	IN VIVO RELEASE RATE OF 9.5 MG/24 H	","	N	","		","	1	","	27-May-15	","	140521006
+91722	","		","	Human	","	2432803	","	EXELON PATCH 15	","		","	N	","		","	1	","	14-Aug-15	","	140521006
+78816	","		","	Human	","	2302845	","	EXELON PATCH 5	","	IN VIVO RELEASE RATE OF 4.6 MG/24 H	","	N	","		","	1	","	27-May-15	","	140521006
+81834	","		","	Veterinary	","	2332671	","	EXIDINE OINTMENT	","		","	N	","		","	1	","	16-Jun-11	","	107805001
+77283	","		","	Human	","	2287420	","	EXJADE	","		","	N	","		","	1	","	28-Apr-09	","	151733001
+77284	","		","	Human	","	2287439	","	EXJADE	","		","	N	","		","	1	","	21-Jan-15	","	151733002
+77285	","		","	Human	","	2287447	","	EXJADE	","		","	N	","		","	1	","	28-Apr-09	","	151733003
+70966	","		","	Veterinary	","	2246766	","	EXODUS PASTE (PYRANTEL PAMOATE) APPLE FLAVOURED HORSE DEWORMER 23.6G	","		","	N	","		","	1	","	16-Aug-12	","	108709006
+70967	","		","	Veterinary	","	2246767	","	EXODUS PASTE (PYRANTEL PAMOATE) APPLE FLAVOURED HORSE DEWORMER 47.2G	","		","	N	","		","	1	","	20-May-03	","	108709006
+42609	","		","	Human	","	2184672	","	EXOREX GEL 1	","		","	N	","	M2897	","	1	","	08-May-15	","	107207008
+42610	","		","	Human	","	2184680	","	EXOREX GEL 2	","		","	N	","	M2898	","	1	","	08-May-15	","	107207005
+66724	","		","	Human	","	2242892	","	EXPECTORANT (EXTRA STRENGTH) SYRUP	","		","	N	","		","	1	","	28-Jul-08	","	103181003
+65128	","		","	Human	","	2241488	","	EXPECTORANT (REGULAR STRENGTH) COUGH SYRUP	","		","	N	","		","	1	","	27-Feb-09	","	103181002
+14486	","		","	Human	","	813095	","	EXPECTORANT COUGH FORMULA SYR 100MG/5ML	","		","	N	","	76119	","	1	","	25-Jul-06	","	103181002
+14485	","		","	Human	","	833258	","	EXPECTORANT DM COUGH SYRUP	","		","	N	","	76118	","	2	","	29-Apr-15	","	200826001
+11001	","		","	Human	","	800821	","	EXPECTORANT SYRUP	","		","	N	","	71187	","	1	","	29-Apr-15	","	103181002
+12620	","		","	Human	","	1952129	","	EXPECTORANT SYRUP (SUCROSE FREE)	","		","	N	","	73777	","	1	","	29-Apr-15	","	103181002
+89446	","		","	Human	","	2409798	","	EXPERT FINISH MAKEUP BROAD SPECTRUM SPF 25	","		","	N	","		","	2	","	03-Feb-15	","	216790112
+69617	","		","	Human	","	2245530	","	EXSEPT	","		","	N	","		","	1	","	15-Jun-06	","	106897014
+69903	","		","	Human	","	2245790	","	EXSEPT (0.114%)	","		","	N	","		","	1	","	15-Jun-06	","	106897015
+82345	","		","	Human	","	2337819	","	EXTAVIA	","		","	N	","		","	1	","	01-Sep-10	","	152204001
+84344	","		","	Human	","	2358387	","	EXTRA LASTING CREAM-TO-POWDER FOUNDATION	","		","	N	","		","	2	","	26-Sep-14	","	216790003
+91311	","		","	Human	","	2428660	","	EXTRA MOISTURIZING NASAL SPRAY	","	SOLUTION	","	N	","		","	1	","	19-Aug-15	","	101481001
+77128	","		","	Human	","	2285797	","	EXTRA STRENGTH ACETAMINOPHEN	","		","	N	","		","	1	","	06-Jun-12	","	102009002
+77807	","		","	Human	","	2292718	","	EXTRA STRENGTH ACETAMINOPHEN 500 MG	","		","	N	","		","	1	","	17-Jul-12	","	102009002
+75452	","	"LS - ANALG. (ACETAMINOPHEN, SALICYLATES, CODEINE)"	","	Human	","	2269120	","	EXTRA STRENGTH ACETAMINOPHEN 500MG EASY TO SWALLOW TABLETS	","		","	N	","		","	1	","	16-Nov-05	","	102009002
+37097	","	"LS - ANALG. (ACETAMINOPHEN, SALICYLATES, CODEINE)"	","	Human	","	2216817	","	EXTRA STRENGTH ACETAMINOPHEN CAPLETS	","		","	N	","	H4544	","	1	","	10-Jul-12	","	102009002
+81204	","		","	Human	","	2326698	","	EXTRA STRENGTH ACETAMINOPHEN CAPLETS	","		","	N	","		","	1	","	29-Apr-15	","	102009002
+5571	","		","	Human	","	605778	","	EXTRA STRENGTH ACETAMINOPHEN TABLETS 500 MG	","		","	N	","	61015	","	1	","	14-Jan-14	","	102009002
+80667	","		","	Human	","	2321270	","	EXTRA STRENGTH ALLERGY FORMULA LIQUID CAPSULES	","		","	N	","		","	1	","	27-Nov-13	","	102639001
+80148	","		","	Human	","	2315955	","	EXTRA STRENGTH ALLERGY RELIEF	","		","	N	","		","	1	","	16-Dec-14	","	122686001
+34150	","		","	Human	","	2159546	","	EXTRA STRENGTH ALLERGY SINUS MEDICATION	","		","	N	","	H0896	","	3	","	27-May-14	","	312435001
+78913	","		","	Human	","	2303833	","	EXTRA STRENGTH ALLERGY TOTAL	","		","	N	","		","	3	","	03-Oct-14	","	327704004
+69836	","	"LS - ANALG. (ACETAMINOPHEN, SALICYLATES, CODEINE)"	","	Human	","	2245729	","	EXTRA STRENGTH ASA 500MG	","		","	N	","		","	1	","	09-Mar-06	","	101169012
+42373	","		","	Human	","	2074702	","	EXTRA STRENGTH ASPERCREME CREME RUB 15%	","		","	N	","	M2643	","	1	","	29-Apr-15	","	103740002
+78953	","		","	Human	","	2304244	","	EXTRA STRENGTH BENADRYL ALLERGY NIGHTTIME	","		","	N	","		","	1	","	29-Apr-15	","	102639001
+71331	","		","	Human	","	2247094	","	EXTRA STRENGTH BISMUTH	","		","	N	","		","	1	","	30-Jul-04	","	111864004
+81398	","		","	Human	","	2328453	","	EXTRA STRENGTH BISMUTH SUBSALICYLATE LIQUID	","		","	N	","		","	1	","	17-Jul-12	","	111864004
+17880	","		","	Human	","	2083736	","	EXTRA STRENGTH COLD MEDICATION DAYTIME RELIEF	","	CAPLET	","	N	","	80088	","	3	","	30-Dec-14	","	319503001
+17887	","		","	Human	","	2039842	","	EXTRA STRENGTH COLD MEDICATION NIGHTTIME RELIEF	","		","	N	","	80095	","	4	","	04-Jul-14	","	414717004
+75163	","		","	Human	","	2266199	","	EXTRA STRENGTH COLD SYRUP	","		","	N	","		","	2	","	29-Apr-15	","	244021004
+76238	","		","	Human	","	2276704	","	EXTRA STRENGTH CONTAC COLD & SORE THROAT	","		","	N	","		","	2	","	28-May-15	","	217793003
+76189	","		","	Human	","	2276224	","	"EXTRA STRENGTH CONTAC COMPLETE COUGH, COLD & FLU"	","		","	N	","		","	3	","	28-May-15	","	351264002
+83796	","	CAT IV - MEDICATED SKIN CARE PRODUCTS	","	Human	","	2352702	","	EXTRA STRENGTH DIAPER RASH OINTMENT	","		","	N	","		","	2	","	29-Apr-15	","	244187007
+75286	","		","	Human	","	2267454	","	EXTRA STRENGTH DM COUGH AND COLD LIQUID	","		","	N	","		","	3	","	13-Mar-07	","	344063003
+75190	","		","	Human	","	2266474	","	EXTRA STRENGTH DM COUGH AND COLD SYRUP	","		","	N	","		","	3	","	29-Apr-15	","	344063003
+89397	","	LS - SLEEP AIDS	","	Human	","	2409259	","	EXTRA STRENGTH DORMEX CAPLETS	","		","	N	","		","	1	","	14-Jan-15	","	102639001
+89394	","	LS - SLEEP AIDS	","	Human	","	2409224	","	EXTRA STRENGTH DORMEX CAPSULES	","		","	N	","		","	1	","	14-Jan-15	","	102639001
+72935	","		","	Human	","	2248580	","	EXTRA STRENGTH FLU RELIEF DAYTIME	","		","	N	","		","	3	","	27-May-14	","	319503001
+73064	","		","	Human	","	2248700	","	EXTRA STRENGTH FLU RELIEF NIGHTIME	","		","	N	","		","	3	","	27-May-14	","	327704004
+73003	","		","	Human	","	2248646	","	EXTRA STRENGTH HEAD COLD AND SINUS	","	CAPLETS	","	N	","		","	2	","	04-Feb-15	","	216113001
+80031	","		","	Human	","	2314770	","	EXTRA STRENGTH IBUPROFEN	","		","	N	","		","	1	","	09-Mar-12	","	108883002
+84241	","		","	Human	","	2357283	","	EXTRA STRENGTH IBUPROFEN LIQUID CAPSULES	","		","	N	","		","	1	","	18-Dec-12	","	108883002
+79650	","		","	Human	","	2310880	","	EXTRA STRENGTH IBUPROFEN LIQUID FILLED CAPSULES	","		","	N	","		","	1	","	11-Jul-12	","	108883002
+86209	","		","	Human	","	2376601	","	EXTRA STRENGTH IBUPROFEN LIQUID GEL CAPSULES	","		","	N	","		","	1	","	03-Apr-14	","	108883002
+83879	","		","	Human	","	2353571	","	EXTRA STRENGTH MUCOUS RELIEF CHEST	","		","	N	","		","	1	","	29-Apr-15	","	103181006
+83878	","		","	Human	","	2353563	","	EXTRA STRENGTH MUCOUS RELIEF COUGH	","		","	N	","		","	2	","	29-Apr-15	","	200826011
+63299	","		","	Human	","	2239813	","	EXTRA STRENGTH MULTI-SYMPTOM PMS RELIEF	","		","	N	","		","	3	","	27-Nov-13	","	316117002
+73710	","		","	Human	","	2252228	","	EXTRA STRENGTH MUSCLE & BACK PAIN ASA 500 MG METHOCARBAMOL 400 MG & ACETYLSALICYLIC ACID 500 MG	","		","	N	","		","	2	","	13-May-14	","	201273002
+62597	","		","	Human	","	2239141	","	EXTRA STRENGTH MUSCLE & BACK PAIN RELIEF	","		","	N	","		","	2	","	28-May-15	","	212017002
+91119	","		","	Human	","	2426625	","	EXTRA STRENGTH MUSCLE & BACK PAIN RELIEF WITH ASA	","		","	N	","		","	2	","	03-Oct-14	","	201273002
+10188	","		","	Human	","	843792	","	EXTRA STRENGTH NEOCITRAN COLD & CONGESTION	","		","	N	","	69907	","	2	","	29-Apr-15	","	217793001
+37051	","	"LS - ANALG. (ACETAMINOPHEN, SALICYLATES, CODEINE)"	","	Human	","	2215403	","	EXTRA STRENGTH NEOCITRAN COLD & SINUS NIGHT	","		","	N	","	H4481	","	3	","	29-Apr-15	","	312118007
+79002	","		","	Human	","	2304740	","	EXTRA STRENGTH NEOCITRAN COLD SYRUP WITH MUCUS RELIEF	","		","	N	","		","	3	","	29-Apr-15	","	351580002
+35886	","		","	Human	","	2196174	","	EXTRA STRENGTH NEOCITRAN FLU NIGHT	","		","	N	","	H3176	","	4	","	29-Apr-15	","	414717002
+76164	","		","	Human	","	2275961	","	EXTRA STRENGTH NEOCITRAN FLU SYRUP	","		","	N	","		","	3	","	29-Apr-15	","	351461003
+75146	","		","	Human	","	2266024	","	EXTRA STRENGTH NEOCITRAN TOTAL NIGHT	","		","	N	","		","	4	","	29-Apr-15	","	414717002
+80466	","		","	Human	","	2319195	","	EXTRA STRENGTH NEOCITRAN TOTAL SYMPTOM RELIEF - SUGAR FREE	","		","	N	","		","	3	","	12-Jul-12	","	351461005
+76166	","		","	Human	","	2275988	","	EXTRA STRENGTH NEOCITRAN TOTAL SYRUP	","		","	N	","		","	3	","	29-Apr-15	","	351264004
+68103	","		","	Human	","	2244142	","	EXTRA STRENGTH NIGHTTIME COLD RELIEF	","		","	N	","		","	4	","	17-Jul-12	","	414717004
+60487	","	LS - SLEEP AIDS	","	Human	","	2237169	","	EXTRA STRENGTH NYTOL QUICKGELS	","		","	N	","		","	1	","	29-Apr-15	","	102639001
+5187	","		","	Human	","	583332	","	EXTRA STRENGTH NYTOL TAB 50MG	","		","	N	","	59862	","	1	","	29-Apr-15	","	102639001
+66847	","		","	Human	","	2243006	","	EXTRA STRENGTH SINUS RELIEF	","		","	N	","		","	2	","	29-Apr-15	","	216113003
+27225	","		","	Human	","	2050242	","	EXTRA STRENGTH SINUS RELIEF DAYTIME	","		","	N	","	F1553	","	2	","	27-May-14	","	216113003
+77809	","	LS - SLEEP AIDS	","	Human	","	2292734	","	EXTRA STRENGTH SLEEP AID	","		","	N	","		","	1	","	17-Jul-12	","	102639001
+90552	","		","	Human	","	2420937	","	EXTRA STRENGTH TOTAL SYMPTOM RELIEF SUGAR-FREE	","		","	N	","		","	3	","	18-Dec-14	","	351461005
+76172	","		","	Human	","	2276054	","	EXTRA STRENGTH TYLENOL ALLERGY	","		","	N	","		","	3	","	08-Apr-11	","	316099001
+13804	","		","	Human	","	1933728	","	EXTRA STRENGTH TYLENOL ALLERGY SINUS CAPLETS	","		","	N	","	75261	","	3	","	07-Aug-07	","	312435001
+60817	","		","	Human	","	2237483	","	EXTRA STRENGTH TYLENOL ALLERGY SINUS NIGHTTIME CAPLET	","		","	N	","		","	3	","	30-Aug-06	","	327704004
+77584	","		","	Human	","	2290510	","	EXTRA STRENGTH TYLENOL BACK PAIN	","		","	N	","		","	2	","	21-Feb-12	","	212017002
+84247	","		","	Human	","	2357356	","	EXTRA STRENGTH TYLENOL BODY PAIN NIGHT	","		","	N	","		","	2	","	30-Aug-11	","	212017002
+83343	","		","	Human	","	2348071	","	EXTRA STRENGTH TYLENOL COLD & SINUS DAYTIME	","		","	N	","		","	2	","	10-Sep-10	","	216113003
+83344	","		","	Human	","	2348098	","	EXTRA STRENGTH TYLENOL COLD & SINUS NIGHTTIME	","		","	N	","		","	3	","	23-Sep-10	","	312435001
+76185	","		","	Human	","	2276186	","	EXTRA STRENGTH TYLENOL COLD DAYTIME	","		","	N	","		","	3	","	29-Mar-11	","	351264005
+8250	","		","	Human	","	743267	","	EXTRA STRENGTH TYLENOL COLD DAYTIME	","		","	N	","	66572	","	3	","	29-Apr-15	","	319503001
+76192	","		","	Human	","	2276259	","	EXTRA STRENGTH TYLENOL COLD NIGHTTIME	","		","	N	","		","	4	","	24-Aug-06	","	451565002
+8251	","		","	Human	","	743275	","	EXTRA STRENGTH TYLENOL COLD NIGHTTIME CAPLET	","		","	N	","	66573	","	4	","	27-Mar-06	","	414717004
+83304	","		","	Human	","	2347660	","	"EXTRA STRENGTH TYLENOL COMPLETE COLD, COUGH & FLU"	","		","	N	","		","	4	","	17-Apr-15	","	421980007
+85062	","		","	Human	","	2365731	","	"EXTRA STRENGTH TYLENOL COMPLETE COLD, COUGH & FLU DAYTIME"	","	CAPLET	","	N	","		","	4	","	06-Nov-14	","	421980007
+85064	","		","	Human	","	2365766	","	"EXTRA STRENGTH TYLENOL COMPLETE COLD, COUGH & FLU NIGHTTIME"	","	CAPLETS	","	N	","		","	3	","	08-Sep-11	","	327704004
+85065	","		","	Human	","	2365774	","	"EXTRA STRENGTH TYLENOL COMPLETE COLD, COUGH & FLU PLUS MUCUS RELIEF"	","		","	N	","		","	4	","	28-Mar-12	","	421980003
+85048	","		","	Human	","	2365596	","	"EXTRA STRENGTH TYLENOL COMPLETE COLD, COUGH & FLU PLUS MUCUS RELIEF NIGHTTIME"	","		","	N	","		","	5	","	23-Jul-12	","	550062001
+16437	","		","	Human	","	2017377	","	EXTRA STRENGTH TYLENOL COUGH CAPLETS	","		","	N	","	78325	","	2	","	11-Apr-11	","	212074002
+65178	","		","	Human	","	2241526	","	EXTRA STRENGTH TYLENOL FLU DAYTIME	","		","	N	","		","	3	","	30-Sep-10	","	319503001
+76167	","		","	Human	","	2275996	","	EXTRA STRENGTH TYLENOL FLU DAYTIME	","		","	N	","		","	3	","	24-Aug-06	","	351264005
+76171	","		","	Human	","	2276046	","	EXTRA STRENGTH TYLENOL FLU NIGHTTIME	","		","	N	","		","	4	","	24-Aug-06	","	451565002
+19429	","		","	Human	","	2167670	","	EXTRA STRENGTH TYLENOL FLU NIGHTTIME GELCAP	","		","	N	","	81725	","	3	","	07-Aug-07	","	327704004
+50547	","		","	Human	","	2231239	","	EXTRA STRENGTH TYLENOL MENSTRUAL CAPLETS	","		","	N	","		","	3	","	08-Apr-11	","	316117002
+87122	","		","	Human	","	2385619	","	EXTRA STRENGTH TYLENOL NIGHTTIME	","		","	N	","		","	2	","	24-May-13	","	233808001
+76168	","		","	Human	","	2276003	","	EXTRA STRENGTH TYLENOL SINUS DAYTIME	","		","	N	","		","	2	","	11-Apr-11	","	217793003
+76170	","		","	Human	","	2276038	","	EXTRA STRENGTH TYLENOL SINUS NIGHTTIME	","		","	N	","		","	3	","	07-Jul-15	","	316099001
+7081	","		","	Human	","	663980	","	EXTRA STRENGTH TYLENOL SINUS PAIN AND CONGESTION DAYTIME	","		","	N	","	64620	","	2	","	07-Aug-07	","	216113003
+75371	","		","	Human	","	2268310	","	EXTRA STRENGTH TYLENOL SINUS PAIN AND CONGESTION NIGHTTIME	","		","	N	","		","	3	","	29-Aug-06	","	312435001
+64397	","		","	Human	","	2240806	","	EXTRANEAL	","		","	N	","		","	5	","	28-May-09	","	538301002
+66286	","		","	Human	","	2242537	","	EXTRA-STRENGTH BISMUTH	","		","	N	","		","	1	","	18-Mar-14	","	111864004
+11133	","		","	Human	","	806714	","	EYE DROPS 0.5MG/ML	","		","	N	","	71617	","	1	","	09-Jul-12	","	107579001
+7474	","		","	Human	","	707937	","	EYESTREAM	","		","	N	","	65529	","	4	","	18-Jul-12	","	400082002
+90055	","		","	Human	","	2415992	","	EYLEA	","	SINGLE-USE VIAL. 2MG/50ÁL	","	N	","		","	1	","	03-Jun-15	","	154950001
+13003	","		","	Human	","	1939947	","	E-Z SCRUB 747 4%	","		","	N	","	74254	","	1	","	15-Feb-06	","	107629001
+90723	","		","	Human	","	2422549	","	EZETIMIBE	","		","	N	","		","	1	","	16-Dec-14	","	149164001
+91410	","		","	Human	","	2429659	","	EZETIMIBE	","		","	N	","		","	1	","	23-Sep-14	","	149164001
+91572	","		","	Human	","	2431300	","	EZETIMIBE	","		","	N	","		","	1	","	05-May-15	","	149164001
+71771	","		","	Human	","	2247521	","	EZETROL	","		","	N	","		","	1	","	08-Feb-12	","	149164001
+67609	","		","	Disinfectant	","	2243679	","	F.S. PROSAN 512	","		","	N	","		","	1	","	26-Jul-07	","	104993003
+91680	","	CAT IV - HARD SURFACE DISINFECTANTS	","	Disinfectant	","	2432315	","	F-1984	","		","	N	","		","	2	","	25-Feb-15	","	205019002
+73340	","		","	Human	","	2248965	","	FABRAZYME	","		","	N	","		","	1	","	10-Dec-14	","	149901001
+73341	","		","	Human	","	2248966	","	FABRAZYME	","		","	N	","		","	1	","	10-Dec-14	","	149901002
+80435	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2318857	","	FACE AND BODY LOTION SPF 50	","		","	N	","		","	6	","	31-Jul-12	","	652219005
+78221	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2296853	","	FACE MULTI-PROTECTION SUN CREAM SPF 50	","		","	N	","		","	5	","	31-Jul-12	","	551637008
+89028	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2405490	","	FACIAL FUEL SPF 15	","		","	N	","		","	3	","	10-Jan-14	","	335121016
+86801	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2382148	","	FACIAL FUEL UV GUARD	","		","	N	","		","	5	","	12-Jun-12	","	544758065
+77546	","		","	Disinfectant	","	2290170	","	FACILITIES MAINTENANCE QUATERNARY DISINFECTANT SPRAY CLEANER GP-20	","		","	N	","		","	2	","	03-Apr-07	","	205019008
+77548	","		","	Disinfectant	","	2290197	","	FACILITY MAINTENANCE DISINFECTANT CLEANER DEGREASER GC-3	","		","	N	","		","	1	","	29-Apr-15	","	111516005
+5110	","		","	Veterinary	","	573760	","	FACTREL	","	INJECTION	","	N	","	59709	","	1	","	05-May-15	","	125108003
+81030	","		","	Human	","	2324865	","	FAMCICLOVIR	","		","	N	","		","	1	","	06-Nov-09	","	127885003
+81031	","		","	Human	","	2324873	","	FAMCICLOVIR	","		","	N	","		","	1	","	06-Nov-09	","	127885001
+81032	","		","	Human	","	2324881	","	FAMCICLOVIR	","		","	N	","		","	1	","	06-Nov-09	","	127885002
+92436	","		","	Disinfectant	","	2439972	","	FAMILIPRIX ESSENTIEL DISINFECTANT & MULTI-SURFACE CLEANER	","	SOLUTION	","	N	","		","	4	","	30-Jul-15	","	414758036
+65637	","		","	Human	","	2241967	","	FAMILY MEDIC FIRST-AID TREATMENT LIQUID	","		","	N	","		","	2	","	13-Feb-15	","	201287003
+65636	","		","	Human	","	2241966	","	FAMILY MEDIC FIRST-AID TREATMENT LOTION	","		","	N	","		","	2	","	13-Feb-15	","	201287003
+72026	","		","	Human	","	2247745	","	"FAMOTIDINE OMEGA   -(WITH PRESERVATIVE,BENZYL ALCOHOL)"	","		","	N	","		","	1	","	17-Jan-07	","	118722003
+72016	","		","	Human	","	2247735	","	FAMOTIDINE OMEGA  -(WITHOUT PRESERVATIVE)	","		","	N	","		","	1	","	12-Apr-06	","	118722003
+83631	","		","	Human	","	2351102	","	FAMOTIDINE TABLETS	","		","	N	","		","	1	","	05-May-15	","	118722001
+83632	","		","	Human	","	2351110	","	FAMOTIDINE TABLETS	","		","	N	","		","	1	","	05-May-15	","	118722002
+86577	","		","	Human	","	2379910	","	FAMPYRA	","		","	N	","		","	1	","	10-Apr-12	","	153090001
+43513	","		","	Human	","	2229110	","	FAMVIR TABLETS 125MG	","		","	N	","	P9854	","	1	","	22-Feb-06	","	127885003
+43514	","		","	Human	","	2229129	","	FAMVIR TABLETS 250MG	","		","	N	","	P9855	","	1	","	22-Feb-06	","	127885001
+18768	","		","	Human	","	2177102	","	FAMVIR TABLETS 500MG	","		","	N	","	81042	","	1	","	22-Feb-06	","	127885002
+72833	","		","	Disinfectant	","	2248481	","	FANTASTIK CREAM CLEANSER WITH BAKING SODA AND DISINFECTING BLEACH	","		","	N	","		","	1	","	17-Aug-05	","	106897007
+74536	","		","	Disinfectant	","	2260123	","	FANTASTIK DISINFECTANT TOILET BOWL CLEANER	","		","	N	","		","	1	","	07-Jun-06	","	101890008
+72575	","		","	Disinfectant	","	2248238	","	FANTASTIK FOR TOTAL BATHROOM WITH BLEACH	","		","	N	","		","	1	","	27-Oct-06	","	106897018
+70433	","		","	Disinfectant	","	2246272	","	FANTASTIK GERM AWAY	","		","	N	","		","	3	","	27-Jan-06	","	347982001
+72574	","		","	Disinfectant	","	2248237	","	FANTASTIK WITH BLEACH ALL PURPOSE CLEANER	","		","	N	","		","	1	","	16-May-14	","	106897018
+69735	","		","	Disinfectant	","	2245635	","	FARM AND ANIMAL CARE DISINFECTANT-256	","		","	N	","		","	4	","	07-Jun-02	","	414758006
+72981	","		","	Human	","	2248624	","	FASLODEX	","		","	N	","		","	1	","	04-Oct-06	","	149744001
+2305	","		","	Disinfectant	","	351717	","	FASSIL SAN-DET	","		","	N	","	48712	","	3	","	29-Sep-10	","	310810001
+72766	","		","	Human	","	2248416	","	FASTURTEC	","		","	N	","		","	1	","	15-Nov-07	","	149668001
+80670	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2321300	","	FC5 NURTURING DAY LOTION WITH SPF 20	","		","	N	","		","	4	","	29-Apr-15	","	439981011
+80669	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2321297	","	FC5 OIL-ABSORBING DAY LOTION WITH SPF 20	","		","	N	","		","	4	","	29-Apr-15	","	439981011
+70549	","		","	Disinfectant	","	2246382	","	FEBREZE ANTIBACTERIAL (DOMESTIC)	","		","	N	","		","	1	","	23-Oct-02	","	111516013
+2405	","		","	Disinfectant	","	371564	","	FECTOL 3105 LIQ 3.13%	","		","	N	","	49460	","	1	","	11-Jul-11	","	109460005
+2406	","		","	Disinfectant	","	371572	","	FECTOL 3120 LIQ	","		","	N	","	49461	","	2	","	11-Jul-11	","	204994001
+3732	","		","	Disinfectant	","	470767	","	FECTOL 3122	","		","	N	","	55211	","	1	","	11-Jul-11	","	104993014
+2589	","		","	Disinfectant	","	390577	","	FECTOL 3125	","		","	N	","	50476	","	1	","	11-Jul-11	","	104993005
+2404	","		","	Disinfectant	","	371556	","	FECTOL 3130 LIQ 4.2%	","		","	N	","	49459	","	1	","	11-Jul-11	","	104993007
+6450	","		","	Disinfectant	","	664065	","	FECTOLIME LIQ 4.8%	","		","	N	","	63124	","	1	","	08-Jun-06	","	104993012
+42981	","		","	Human	","	2202581	","	FEIBA NF	","	20ML VIAL - 400 TO 1200IU/VIAL	","	N	","	P9228	","	2	","	29-Apr-15	","	228277001
+83912	","		","	Human	","	2353903	","	FEIBA NF	","	50ML VIAL - 1750 TO 3250 IU/VIAL	","	N	","		","	2	","	29-Apr-15	","	228277002
+4518	","		","	Veterinary	","	522945	","	FELAXIN	","		","	N	","	57906	","	2	","	29-Apr-15	","	252661001
+89613	","		","	Veterinary	","	2411512	","	FELIMAZOLE 1.25 MG	","		","	N	","		","	1	","	12-Feb-14	","	104552005
+81832	","		","	Veterinary	","	2332655	","	FELIMAZOLE 2.5MG	","		","	N	","		","	1	","	03-Feb-10	","	104552004
+81833	","		","	Veterinary	","	2332663	","	FELIMAZOLE 5MG	","		","	N	","		","	1	","	08-Nov-11	","	104552001
+50695	","		","	Human	","	2231384	","	FEMARA 2.5MG	","		","	N	","		","	1	","	22-Feb-06	","	132937001
+66279	","		","	Human	","	2242531	","	FEMHRT	","		","	N	","		","	2	","	31-Mar-11	","	206375004
+77156	","		","	Human	","	2286092	","	FENOFIBRATE MICRO	","		","	N	","		","	1	","	18-Mar-10	","	118895001
+84171	","		","	Human	","	2356570	","	FENOFIBRATE-S	","	MICRONIZED	","	N	","		","	1	","	05-May-15	","	118895002
+84172	","		","	Human	","	2356589	","	FENOFIBRATE-S	","	MICRONIZED	","	N	","		","	1	","	05-May-15	","	118895004
+73482	","		","	Human	","	2250004	","	FENOMAX	","		","	N	","		","	1	","	02-Jan-07	","	118895004
+63903	","		","	Human	","	2240360	","	FENO-MICRO-200	","		","	N	","		","	1	","	30-Sep-10	","	118895001
+12664	","		","	Human	","	888346	","	FENTANYL CITRATE INJECTION	","		","	N	","	73832	","	1	","	13-Aug-10	","	123302002
+86987	","		","	Human	","	2384124	","	FENTANYL CITRATE INJECTION SDZ	","		","	N	","		","	1	","	26-Feb-13	","	123302011
+63983	","		","	Human	","	2240434	","	FENTANYL CITRATE INJECTION USP	","		","	N	","		","	1	","	06-May-15	","	123302002
+88073	","		","	Human	","	2395657	","	FENTANYL PATCH	","		","	N	","		","	1	","	17-Jan-14	","	123302015
+88074	","		","	Human	","	2395665	","	FENTANYL PATCH	","		","	N	","		","	1	","	17-Jan-14	","	123302014
+88075	","		","	Human	","	2395673	","	FENTANYL PATCH	","		","	N	","		","	1	","	17-Jan-14	","	123302011
+88076	","		","	Human	","	2395681	","	FENTANYL PATCH	","		","	N	","		","	1	","	17-Jan-14	","	123302013
+88077	","		","	Human	","	2395703	","	FENTANYL PATCH	","		","	N	","		","	1	","	17-Jan-14	","	123302012
+89270	","		","	Human	","	2408007	","	FENTORA	","		","	N	","		","	1	","	05-Jun-14	","	123302012
+86283	","		","	Human	","	2377217	","	FERAHEME	","	FOR I.V. USE ONLY. 510MG/17ML SINGLE USE VIALS	","	N	","		","	1	","	25-Sep-15	","	108536002
+92088	","		","	Human	","	2436558	","	FERRIPROX	","		","	N	","		","	1	","	11-May-15	","	156430003
+67236	","		","	Human	","	2243333	","	FERRLECIT	","		","	N	","		","	1	","	18-Dec-13	","	108536035
+12802	","		","	Veterinary	","	1941852	","	FERROFAX INJ 100MG/ML	","		","	N	","	74012	","	1	","	13-Aug-03	","	108536004
+11872	","		","	Veterinary	","	857041	","	FERROFORTE INJECTION 200MG/ML	","		","	N	","	72800	","	1	","	16-Jun-04	","	108536032
+80160	","		","	Veterinary	","	2316072	","	FERTAGYL 2	","		","	N	","		","	1	","	07-Jul-15	","	125108004
+16433	","		","	Veterinary	","	2057751	","	FERTAGYL INJECTION 100MCG/ML	","		","	N	","	78321	","	1	","	05-May-15	","	125108001
+14403	","		","	Veterinary	","	2030314	","	FERTILINE STERILE INJECTABLE SOLUTION	","		","	N	","	76019	","	1	","	15-Jun-04	","	121867003
+69987	","	LS - LAXATIVES (GENERAL)	","	Human	","	2245870	","	FIBER-ON-TABLET	","		","	N	","		","	1	","	21-Dec-09	","	144341001
+71429	","	LS - LAXATIVES (GENERAL)	","	Human	","	2247187	","	FIBRE LAXATIVE	","		","	N	","		","	1	","	10-Jul-12	","	144341001
+89291	","		","	Human	","	2408163	","	FIBRISTAL	","		","	N	","		","	1	","	12-May-15	","	154390001
+77175	","		","	Disinfectant	","	2286297	","	FIGHT BAC RTU	","		","	N	","		","	2	","	08-May-14	","	205019008
+89955	","		","	Disinfectant	","	2414929	","	FIGHT BACK RTU	","		","	N	","		","	2	","	07-Jan-15	","	205019008
+68309	","		","	Disinfectant	","	2244341	","	FIGHTBAC 64	","		","	N	","		","	4	","	29-Apr-15	","	414758004
+68306	","		","	Disinfectant	","	2244338	","	FIGHTBAC RTU	","		","	N	","		","	2	","	29-Apr-15	","	205019008
+76443	","		","	Disinfectant	","	2278863	","	FIGHT-IT 32	","		","	N	","		","	4	","	16-Nov-06	","	414758012
+75617	","		","	Human	","	2270811	","	FINACEA	","		","	N	","		","	1	","	06-Jul-10	","	126787002
+82413	","	CAT IV - HARD SURFACE DISINFECTANTS	","	Disinfectant	","	2338475	","	FINAL RINSE	","		","	N	","		","	2	","	29-Mar-10	","	205019044
+90928	","	CAT IV - HARD SURFACE DISINFECTANTS	","	Disinfectant	","	2424606	","	FINAL RINSE CONCENTRATE	","		","	N	","		","	2	","	06-Aug-14	","	205019044
+20265	","		","	Disinfectant	","	2213117	","	FINALE - LIQ HOM HOS	","		","	N	","	82569	","	2	","	15-Jun-06	","	213172007
+83549	","		","	Human	","	2350270	","	FINASTERIDE	","		","	N	","		","	1	","	22-Jul-10	","	124110001
+79995	","	CAT IV - HARD SURFACE DISINFECTANTS	","	Disinfectant	","	2314401	","	FINI-TECH NETTOYANT D?SINFECTANT	","		","	N	","		","	4	","	02-Sep-15	","	414758036
+873	","		","	Human	","	176206	","	FIORINAL C1/2	","		","	N	","	31447	","	4	","	30-Sep-10	","	401238001
+872	","		","	Human	","	176192	","	FIORINAL C1/4 CAP	","		","	N	","	31446	","	4	","	13-Mar-12	","	401238002
+1233	","		","	Human	","	226327	","	FIORINAL CAP	","		","	N	","	37707	","	3	","	02-Dec-09	","	301241001
+91034	","		","	Human	","	2425696	","	FIRAZYR	","	PRE-FILLED SYRINGE	","	N	","		","	1	","	10-Sep-14	","	155710001
+82263	","		","	Human	","	2337029	","	FIRMAGON	","		","	N	","		","	1	","	08-Jul-10	","	152667001
+82264	","		","	Human	","	2337037	","	FIRMAGON	","		","	N	","		","	1	","	15-Dec-09	","	152667002
+87798	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2392739	","	FIRMALIFT FIRMING AND LIFTING CREAM SPF 30	","		","	N	","		","	4	","	20-Jan-15	","	421125011
+87518	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2389681	","	FIRMARINE DAY CREAM SPF 30 CR?ME DE JOUR SPF 30	","		","	N	","		","	3	","	27-May-14	","	331813001
+83729	","		","	Human	","	2352079	","	FIRST AID ANTIBIOTIC OINTMENT	","		","	N	","		","	1	","	21-Jan-13	","	105861007
+74413	","	CAT IV - ANTISEPTIC SKIN CLEANSERS	","	Human	","	2258900	","	FIRST AID ANTISEPTIC SKIN CLEANSER	","		","	N	","		","	1	","	18-Jul-12	","	107629004
+87414	","		","	Veterinary	","	2388634	","	FIRST DEFENCE	","	TEAT DIP	","	N	","		","	1	","	12-Aug-14	","	103970015
+84151	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2356368	","	FIT ME MAYBELLINE NEW-YORK	","		","	N	","		","	1	","	31-Jul-12	","	116791007
+88059	","		","	Disinfectant	","	2395509	","	FITWIPES DISINFECTING WIPES	","		","	N	","		","	2	","	03-Dec-12	","	205019038
+83903	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2353822	","	FIVE STAR LIP PROTECTION	","		","	N	","		","	4	","	31-Jul-12	","	420277021
+82548	","		","	Disinfectant	","	2339919	","	FIX DISINFECTANT CLEANER WIPES	","		","	N	","		","	2	","	22-Mar-10	","	205019008
+78430	","		","	Disinfectant	","	2298910	","	FIX TERG-O-CIDE FOAMING GERMICIDAL CLEANER	","		","	N	","		","	3	","	20-Mar-08	","	311888002
+84638	","		","	Disinfectant	","	2361329	","	FIXX-ICIDE	","		","	N	","		","	1	","	06-Feb-15	","	111516017
+12221	","		","	Human	","	1926853	","	FLAGYL	","		","	N	","	73270	","	1	","	01-Oct-10	","	102572003
+12997	","		","	Human	","	1926861	","	FLAGYL CREAM 10%	","		","	N	","	74248	","	1	","	15-Oct-08	","	102572004
+12996	","		","	Human	","	1926845	","	FLAGYSTATIN CREAM	","		","	N	","	74247	","	2	","	15-Oct-08	","	202573002
+12654	","		","	Human	","	1926829	","	FLAGYSTATIN VAGINAL OVULE	","		","	N	","	73821	","	2	","	15-Oct-08	","	202573001
+2146	","		","	Human	","	323098	","	FLAMAZINE CRM 1%	","		","	N	","	47762	","	1	","	20-Jul-07	","	110157001
+8229	","		","	Human	","	756784	","	FLAREX OPH SUSP 0.1%	","		","	N	","	66547	","	1	","	19-Apr-06	","	119742001
+15953	","		","	Veterinary	","	577235	","	FLAVOMYCIN 4 ANTIBIOTIC PREMIX	","		","	N	","	77719	","	1	","	05-May-15	","	115674001
+60251	","		","	Human	","	2236956	","	FLAVOXATE	","		","	N	","		","	1	","	30-Dec-13	","	115677001
+89451	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2409852	","	FLAWLESS FINISH PERFECTLY NUDE	","		","	N	","		","	2	","	03-Feb-14	","	216790136
+91074	","		","	Human	","	2426137	","	FLAWLESS FINISH PERFECTLY SATIN 24HR	","		","	N	","		","	2	","	02-Dec-14	","	216790141
+90252	","		","	Human	","	2417928	","	FLAWLESS FUTURE	","		","	N	","		","	4	","	10-Jul-14	","	423152039
+76117	","		","	Human	","	2275538	","	FLECAINIDE	","		","	N	","		","	1	","	03-Feb-12	","	116696004
+76118	","		","	Human	","	2275546	","	FLECAINIDE	","		","	N	","		","	1	","	03-Feb-12	","	116696001
+721	","		","	Human	","	107875	","	FLEET ENEMA MINERAL OIL	","		","	N	","	27828	","	1	","	22-May-15	","	136741002
+64100	","	LS - TRIETHANOLAMINE SALICYLATE (TROLAMINE)	","	Human	","	2240530	","	FLEXACR?ME EXTRA-STRENGTH	","		","	N	","		","	1	","	29-Apr-15	","	103740002
+78123	","	CAT IV - ATHLETES FOOT TREATMENTS	","	Human	","	2295873	","	FLEXITOL MEDICATED ANTI-FUNGAL CREAM	","		","	N	","		","	1	","	30-Sep-15	","	102537001
+7022	","		","	Disinfectant	","	692336	","	FLEXO CSG 1000	","		","	N	","	64461	","	2	","	29-Sep-10	","	205019002
+68668	","		","	Human	","	2244680	","	FLOCTAFENINE	","		","	N	","		","	1	","	10-Apr-12	","	114463002
+68669	","		","	Human	","	2244681	","	FLOCTAFENINE	","		","	N	","		","	1	","	10-Apr-12	","	114463001
+50121	","		","	Human	","	2230845	","	FLOLAN	","		","	N	","		","	1	","	13-Jul-15	","	133040001
+50122	","		","	Human	","	2230848	","	FLOLAN	","		","	N	","		","	1	","	13-Jul-15	","	133040002
+75550	","		","	Human	","	2270102	","	FLOMAX CR	","		","	N	","		","	1	","	26-Feb-13	","	133680001
+43126	","		","	Human	","	2213672	","	FLONASE - AEM-SUS NAS  50MCG/MD	","		","	N	","	P9421	","	1	","	28-Aug-08	","	124685001
+7122	","		","	Human	","	708232	","	FLORAFREE GEL 0.3%	","		","	N	","	64675	","	1	","	18-Jul-12	","	108865003
+77829	","		","	Disinfectant	","	2292947	","	FLORALIFE D.C.D. DETERGENT DISINFECTANT	","		","	N	","		","	2	","	29-Apr-15	","	205019005
+19460	","		","	Human	","	2086026	","	FLORINEF	","		","	N	","	81757	","	1	","	29-Dec-09	","	106361002
+60564	","		","	Human	","	2237244	","	FLOVENT DISKUS	","		","	N	","		","	1	","	28-Aug-08	","	124685001
+60565	","		","	Human	","	2237245	","	FLOVENT DISKUS	","		","	N	","		","	1	","	28-Aug-08	","	124685007
+60566	","		","	Human	","	2237246	","	FLOVENT DISKUS	","		","	N	","		","	1	","	28-Aug-08	","	124685003
+60567	","		","	Human	","	2237247	","	FLOVENT DISKUS	","		","	N	","		","	1	","	11-Apr-06	","	124685005
+68258	","		","	Human	","	2244291	","	FLOVENT HFA	","		","	N	","		","	1	","	11-Apr-06	","	124685001
+68259	","		","	Human	","	2244292	","	FLOVENT HFA	","		","	N	","		","	1	","	03-Oct-07	","	124685004
+68260	","		","	Human	","	2244293	","	FLOVENT HFA	","		","	N	","		","	1	","	03-Oct-07	","	124685003
+86911	","		","	Human	","	2383357	","	FLU RELIEF	","	"COMBO PACK, PINK DAYTIME CAPLET AND BLUE NIGHTIME CAPLET"	","	N	","		","	6	","	27-May-14	","	653137001
+86625	","		","	Human	","	2380447	","	"FLU, COUGH & COLD COMPLETE"	","		","	N	","		","	4	","	02-Sep-14	","	421980007
+87328	","		","	Human	","	2387697	","	"FLU, COUGH & COLD COMPLETE DAY AND NIGHT"	","	"COMBO PACK, GREEN DAYTIME CAPLET AND WHITE NIGHTIME CAPLET"	","	N	","		","	7	","	27-May-14	","	752931001
+84739	","		","	Human	","	2362384	","	"FLUAD (INFLUENZA VACCINE, SURFACE ANTIGEN, INACTIVATED, ADJUVANTED WITH MF59C.1)"	","	SINGLE-DOSE GLASS PREFILLED 1ML SYRINGE CONTAINING 1 DOSE OF 0.5ML	","	N	","		","	3	","	26-Nov-14	","	324197003
+18739	","		","	Human	","	2156008	","	FLUANXOL 0.5MG - TAB	","		","	N	","	81013	","	1	","	26-Feb-09	","	131297001
+18740	","		","	Human	","	2156016	","	FLUANXOL 3MG - TAB	","		","	N	","	81014	","	1	","	03-May-05	","	131297002
+18737	","		","	Human	","	2156040	","	FLUANXOL DEPOT 10%- LIQ IM 100MG/ML	","		","	N	","	81011	","	1	","	10-Aug-07	","	114584002
+18800	","		","	Human	","	2156032	","	FLUANXOL DEPOT 2% -LIQ IM 20MG/ML	","		","	N	","	81075	","	1	","	10-Aug-07	","	114584001
+83738	","		","	Human	","	2352133	","	FLUCONAZOLE 150	","		","	N	","		","	1	","	18-Dec-12	","	122529004
+72232	","		","	Human	","	2247922	","	FLUCONAZOLE INJECTION	","		","	N	","		","	1	","	08-May-15	","	122529003
+72794	","		","	Human	","	2248443	","	FLUCONAZOLE INJECTION	","		","	N	","		","	1	","	06-May-15	","	122529003
+74685	","		","	Human	","	2261472	","	FLUCONAZOLE INJECTION	","		","	N	","		","	1	","	10-Nov-06	","	122529003
+87397	","		","	Human	","	2388448	","	FLUCONAZOLE INJECTION SDZ	","		","	N	","		","	1	","	31-Mar-14	","	122529003
+72035	","		","	Human	","	2247749	","	FLUCONAZOLE OMEGA	","		","	N	","		","	1	","	12-Apr-06	","	122529003
+82561	","		","	Human	","	2340046	","	FLUCONAZOLE-150	","		","	N	","		","	1	","	08-Apr-14	","	122529004
+70384	","		","	Human	","	2246226	","	FLUDARA	","		","	N	","		","	1	","	02-Sep-14	","	123842002
+76943	","		","	Human	","	2283859	","	FLUDARABINE PHOSPHATE FOR INJECTION	","		","	N	","		","	1	","	05-May-15	","	123842003
+77921	","		","	Human	","	2293846	","	FLUDARABINE PHOSPHATE FOR INJECTION USP	","		","	N	","		","	1	","	26-Feb-15	","	123842001
+83698	","		","	Human	","	2351722	","	FLUDARABINE PHOSPHATE INJECTION	","	SINGLE-DOSE VIAL	","	N	","		","	1	","	05-Jun-15	","	123842003
+86371	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2377926	","	FLUIDE ?CLAT DU JOUR SPF 15	","		","	N	","		","	4	","	31-Dec-13	","	439981008
+89402	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2409305	","	FLUIDE FONDANT D?SALTERANT SPF 15	","		","	N	","		","	3	","	07-Apr-14	","	352510005
+73439	","		","	Human	","	2249561	","	FLUMAZENIL INJECTION	","		","	N	","		","	1	","	06-May-15	","	122202001
+75176	","		","	Human	","	2266342	","	FLUMAZENIL INJECTION	","		","	N	","		","	1	","	26-Aug-15	","	122202001
+83789	","		","	Human	","	2352621	","	FLUMIST	","	EACH 0.2ML DOSE CONTAINS 7 LOG 10 FFU OF LIVE ATTENUATED INFLUENZA VIRUS REASSORTANTS OF EACH OF THE THREE VIRUS STRAINS FOR THE SPECIFIC SEASON	","	N	","		","	3	","	29-Oct-11	","	352747002
+91111	","		","	Human	","	2426544	","	FLUMIST QUADRIVALENT	","	"0.2ML PREFILLED, SINGLE-USE GLASS SPRAYER"	","	N	","		","	4	","	27-Aug-15	","	455811001
+70217	","		","	Human	","	2246082	","	FLUNARIZINE	","		","	N	","		","	1	","	03-Feb-12	","	133140001
+64080	","		","	Veterinary	","	2240510	","	FLUNAZINE	","		","	N	","		","	1	","	04-Feb-13	","	113433001
+54227	","		","	Veterinary	","	2234061	","	FLUNIXIN INJECTION	","		","	N	","		","	1	","	17-Jan-14	","	113433001
+9273	","		","	Human	","	716782	","	FLUODERM CRM 0.01%	","		","	N	","	68226	","	1	","	17-Feb-06	","	106314002
+8975	","		","	Human	","	716790	","	FLUODERM CRM 0.025%	","		","	N	","	67695	","	1	","	17-Feb-06	","	106314001
+9447	","		","	Human	","	716812	","	FLUODERM ONT 0.025%	","		","	N	","	68585	","	1	","	24-Feb-06	","	106314001
+6721	","		","	Human	","	629707	","	FLUORACAINE OPH SOLN	","		","	N	","	63906	","	2	","	22-May-15	","	216732001
+61132	","		","	Human	","	2237775	","	"FLUORESCEIN SODIUM & BENOXINATE HYDROCHLORIDE OPHTALMIC SOLUTION, USP"	","		","	N	","		","	2	","	01-Oct-08	","	207547001
+3781	","		","	Human	","	505005	","	FLUORESCITE INJ 10%	","		","	N	","	55467	","	1	","	21-Aug-09	","	107752002
+16977	","		","	Human	","	2026252	","	FLUORETS (FLUORESCEIN OPHTHALMIC STRIPS)	","		","	N	","	79096	","	1	","	27-Sep-08	","	107752003
+6722	","		","	Human	","	687812	","	FLUORETS STP 1MG	","		","	N	","	63907	","	1	","	22-May-15	","	107752003
+10015	","		","	Human	","	12882	","	FLUOROURACIL INJECTION	","		","	N	","	69645	","	1	","	05-May-15	","	107505001
+89810	","		","	Human	","	2413450	","	FLUOROURACIL INJECTION	","		","	N	","		","	1	","	09-Oct-14	","	107505004
+42841	","		","	Human	","	2182742	","	FLUOROURACIL INJECTION USP	","		","	N	","	P9007	","	1	","	09-Feb-10	","	107505001
+50635	","		","	Human	","	2231328	","	FLUOXETINE	","		","	N	","		","	1	","	17-Jul-14	","	116847002
+77154	","		","	Human	","	2286068	","	FLUOXETINE	","		","	N	","		","	1	","	25-Sep-15	","	116847003
+77155	","		","	Human	","	2286076	","	FLUOXETINE	","		","	N	","		","	1	","	25-Sep-15	","	116847001
+85969	","		","	Human	","	2374447	","	FLUOXETINE	","		","	N	","		","	1	","	08-Nov-12	","	116847003
+85980	","		","	Human	","	2374455	","	FLUOXETINE	","		","	N	","		","	1	","	08-Nov-12	","	116847001
+63304	","		","	Human	","	2239817	","	FLUOXETINE CAPSULES	","		","	N	","		","	1	","	05-May-15	","	116847003
+63305	","		","	Human	","	2239818	","	FLUOXETINE CAPSULES	","		","	N	","		","	1	","	29-Mar-06	","	116847001
+81742	","		","	Human	","	2331721	","	FLUPENTIXOL DECANOATE INJECTION BP	","		","	N	","		","	1	","	27-Oct-10	","	114584002
+2858	","		","	Human	","	405345	","	FLUPHENAZINE	","		","	N	","	51677	","	1	","	29-Apr-15	","	106171001
+2860	","		","	Human	","	405361	","	FLUPHENAZINE	","		","	N	","	51679	","	1	","	05-May-14	","	106171003
+2861	","		","	Human	","	410632	","	FLUPHENAZINE	","		","	N	","	51682	","	1	","	29-Apr-15	","	106171004
+63107	","		","	Human	","	2239636	","	FLUPHENAZINE OMEGA	","		","	N	","		","	1	","	12-Apr-06	","	110769001
+66341	","		","	Human	","	2242570	","	FLUPHENAZINE OMEGA	","		","	N	","		","	1	","	12-Apr-06	","	110769002
+4728	","		","	Human	","	521698	","	FLURAZEPAM	","		","	N	","	58584	","	1	","	24-Aug-15	","	108704002
+4729	","		","	Human	","	521701	","	FLURAZEPAM	","		","	N	","	58585	","	1	","	24-Aug-15	","	108704001
+5108	","		","	Human	","	578479	","	FLURAZEPAM 15	","		","	N	","	59704	","	1	","	30-Sep-10	","	108704002
+5109	","		","	Human	","	578487	","	FLURAZEPAM 30	","		","	N	","	59705	","	1	","	30-Sep-10	","	108704001
+37090	","		","	Human	","	2216728	","	FLURESS	","		","	N	","	H4534	","	2	","	29-Apr-15	","	207547001
+50149	","		","	Human	","	2230875	","	FLUTAMIDE	","		","	N	","		","	1	","	20-Sep-06	","	116869001
+62498	","		","	Human	","	2239045	","	FLUTAMIDE	","		","	N	","		","	1	","	15-Sep-06	","	116869001
+14488	","		","	Human	","	2015986	","	FLUVIRAL	","		","	N	","	76121	","	3	","	04-Feb-14	","	324197001
+60041	","		","	Human	","	2236754	","	FLUVOXAMINE-100	","		","	N	","		","	1	","	30-Sep-10	","	122450001
+60040	","		","	Human	","	2236753	","	FLUVOXAMINE-50	","		","	N	","		","	1	","	30-Sep-10	","	122450002
+85059	","		","	Human	","	2365707	","	FLUZONE	","	INFLUENZA VIRUS VACCINE TRIVALENT TYPES A & B (SPLIT VIRION). 0.5ML PRE-FILLED SYRINGE	","	N	","		","	3	","	01-Sep-15	","	324197003
+85079	","		","	Human	","	2365936	","	FLUZONE	","	INFLUENZA VIRUS VACCINE TRIVALENT TYPES A & B (SPLIT VIRION).  5 ML MULTIDOSE VIAL	","	N	","		","	3	","	01-Sep-15	","	324197003
+90522	","		","	Human	","	2420643	","	FLUZONE QUADRIVALENT	","	10X0.5ML SINGLE DOSE PREFILLED SYRINGES. INFLUENZA VIRUS VACCINE QUADRIVALENT TYPES A AND B (SPLIT VIRION)	","	N	","		","	4	","	02-Dec-14	","	455410001
+1470	","		","	Human	","	247855	","	FML 0.1%	","		","	N	","	40545	","	1	","	29-Nov-05	","	106315001
+7626	","		","	Human	","	707511	","	FML FORTE SUS 0.25%	","		","	N	","	65751	","	1	","	29-Nov-05	","	106315002
+86369	","	CAT IV - ANTISEPTIC SKIN CLEANSERS	","	Human	","	2377896	","	FOAM SANITIZER	","		","	N	","		","	1	","	23-Apr-14	","	104367006
+25675	","		","	Disinfectant	","	2004313	","	FOAMING GERMICIDAL CLEANSER	","		","	N	","	E7346	","	3	","	29-Apr-15	","	311888002
+84702	","	CAT IV - ANTISEPTIC SKIN CLEANSERS	","	Human	","	2361981	","	FOAMING HAND SOAP	","		","	N	","		","	1	","	18-Dec-12	","	108865019
+74299	","	CAT IV - ANTISEPTIC SKIN CLEANSERS	","	Human	","	2257750	","	FOAMY SANZ	","		","	N	","		","	1	","	27-Jul-06	","	104367006
+31358	","		","	Human	","	2139480	","	FOLIC ACID INJECTION	","		","	N	","	F8592	","	1	","	29-Apr-15	","	108418001
+10312	","		","	Human	","	816086	","	FOLIC ACID INJECTION USP	","		","	N	","	70081	","	1	","	29-Apr-15	","	108418001
+2283	","		","	Human	","	356557	","	FOLIC ACID TAB 25MG	","		","	N	","	48597	","	1	","	06-Jul-11	","	108418006
+3778	","		","	Human	","	498777	","	FOLIC ACID TAB 5MG	","		","	N	","	55461	","	1	","	29-Apr-15	","	108418001
+10688	","		","	Veterinary	","	806285	","	FOLLIGON	","		","	N	","	70698	","	1	","	04-Feb-13	","	106482001
+11439	","		","	Veterinary	","	867357	","	FOLLTROPIN-V	","	FOLLICLE STIMULATING HORMONE FOR INJECTION	","	N	","	72117	","	1	","	05-May-15	","	148523001
+83526	","		","	Veterinary	","	2350017	","	FOLLTROPIN-V DUAL PACK	","	FOLLICLE STIMULATING HORMONE FOR INJECTION	","	N	","		","	1	","	05-May-15	","	148523001
+89154	","		","	Human	","	2406853	","	FONDAPARINUX SODIUM INJECTION	","		","	N	","		","	1	","	02-Apr-14	","	146781001
+89156	","		","	Human	","	2406896	","	FONDAPARINUX SODIUM INJECTION	","		","	N	","		","	1	","	02-Apr-14	","	146781002
+79220	","		","	Veterinary	","	2306492	","	FOOT CURE	","		","	N	","		","	1	","	21-Jul-14	","	107806001
+2015	","		","	Veterinary	","	319414	","	FOOT ROT BOLUSES	","		","	N	","	46390	","	2	","	26-Feb-02	","	206099001
+88180	","		","	Human	","	2396785	","	FOOTWORKS HEALTHY ANTIFUNGAL POWDER FOR ATHLETE'S FOOT	","		","	N	","		","	1	","	06-Jan-15	","	102537001
+86080	","	CAT IV - ATHLETES FOOT TREATMENTS	","	Human	","	2375397	","	FOOTWORKS HEALTHY ANTIFUNGAL SPRAY FOR ATHLETE'S FOOT	","	SPRAY SOLUTION	","	N	","		","	1	","	06-Mar-12	","	102537001
+88252	","		","	Human	","	2397587	","	FOOTWORKS HEALTHY CRACKED HEEL CREAM	","		","	N	","		","	2	","	13-Mar-15	","	219031002
+80668	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2321289	","	FOR MEN MACA ROOT ENERGETIC FACE PROTECTOR	","		","	N	","		","	3	","	04-Dec-13	","	331813022
+50160	","		","	Human	","	2230898	","	FORADIL DRY POWDER CAPSULES FOR INHALATION	","		","	N	","		","	1	","	14-Jul-06	","	131817001
+20160	","		","	Human	","	2188856	","	FORANE	","		","	N	","	82463	","	1	","	29-Apr-15	","	114368001
+1926	","		","	Disinfectant	","	292303	","	FORMALINE DESINFECTANT	","		","	N	","	45720	","	1	","	01-Jun-12	","	107090001
+18901	","		","	Disinfectant	","	1983342	","	FORMULA 12167 LIQ 10.4%	","		","	N	","	81182	","	1	","	27-Jul-06	","	106897001
+3015	","		","	Disinfectant	","	439193	","	FORMULA 19 GERM LIQ CLEANER	","		","	N	","	52533	","	1	","	24-Jul-06	","	104993008
+89839	","		","	Human	","	2413760	","	FORMULA 3	","		","	N	","		","	1	","	18-Dec-14	","	102537001
+11296	","		","	Disinfectant	","	1909657	","	FORMULA 333 LIQ	","		","	N	","	71900	","	2	","	14-Feb-07	","	222801001
+91285	","	CAT IV - HARD SURFACE DISINFECTANTS	","	Disinfectant	","	2428369	","	FORMULA 362 NO RINSE CLEANER/SANITIZER	","		","	N	","		","	2	","	14-Oct-14	","	205019005
+60867	","		","	Disinfectant	","	2237530	","	FORMULA 410	","		","	N	","		","	2	","	21-Feb-08	","	205019005
+73723	","		","	Disinfectant	","	2252341	","	FORMULA C	","		","	N	","		","	2	","	29-Apr-15	","	205019003
+13233	","		","	Disinfectant	","	1944037	","	FORMULATION HWS-128	","		","	N	","	74552	","	2	","	10-Feb-10	","	213172033
+13249	","		","	Disinfectant	","	1944029	","	FORMULATION HWS-256	","		","	N	","	74572	","	2	","	16-Mar-10	","	213172025
+13294	","		","	Disinfectant	","	1944045	","	FORMULATION HWS-64	","		","	N	","	74641	","	2	","	08-Mar-10	","	213172032
+3228	","		","	Human	","	438898	","	FORMULE C34	","		","	N	","	53611	","	1	","	10-Aug-07	","	102269001
+3546	","		","	Human	","	469203	","	FORMULE L2	","		","	N	","	54658	","	2	","	20-Jan-00	","	211091002
+74044	","		","	Veterinary	","	2255286	","	FORSHNER'S HOOF PACKING	","		","	N	","		","	3	","	29-Jun-05	","	325695001
+3497	","		","	Human	","	463434	","	FORTAPLEX INJ	","		","	N	","	54548	","	6	","	06-Jul-11	","	608243001
+43080	","		","	Human	","	2212218	","	FORTAZ - INJ 1G/VIAL	","		","	N	","	P9372	","	1	","	03-Jun-09	","	116900007
+43081	","		","	Human	","	2212226	","	FORTAZ - INJ 2G/VIAL	","		","	N	","	P9373	","	1	","	03-Jun-09	","	116900008
+43082	","		","	Human	","	2212234	","	FORTAZ - INJ 6G/VIAL	","		","	N	","	P9374	","	1	","	03-Jun-09	","	116900009
+43285	","		","	Veterinary	","	2220555	","	FORTEKOR FLAVOR TABS	","		","	N	","	P9616	","	1	","	05-May-15	","	122438002
+43286	","		","	Veterinary	","	2220563	","	FORTEKOR FLAVOR TABS	","		","	N	","	P9617	","	1	","	28-May-13	","	122438001
+79077	","		","	Veterinary	","	2305232	","	FORTEKOR FLAVOR TABS	","		","	N	","		","	1	","	21-Feb-13	","	122438004
+73983	","		","	Human	","	2254689	","	FORTEO	","		","	N	","		","	1	","	15-Nov-07	","	150152001
+68664	","	"LS - ANALG. (ACETAMINOPHEN, SALICYLATES, CODEINE)"	","	Human	","	2244676	","	FORTOLIN	","		","	N	","		","	1	","	06-Dec-05	","	102009002
+67114	","		","	Disinfectant	","	2243228	","	FORWARD DC DISINFECTANT CLEANER	","		","	N	","		","	1	","	29-Apr-15	","	104993008
+91977	","		","	Human	","	2435462	","	FORXIGA	","		","	N	","		","	1	","	27-Mar-15	","	156370001
+91978	","		","	Human	","	2435470	","	FORXIGA	","		","	N	","		","	1	","	27-Mar-15	","	156370002
+69356	","		","	Human	","	2245329	","	FOSAMAX	","		","	N	","		","	1	","	10-Feb-11	","	150323002
+76210	","		","	Human	","	2276429	","	FOSAVANCE	","		","	N	","		","	2	","	19-Apr-13	","	251575001
+80047	","		","	Human	","	2314940	","	FOSAVANCE	","		","	N	","		","	2	","	10-Feb-11	","	251575002
+78832	","		","	Human	","	2303000	","	FOSINOPRIL-10	","		","	N	","		","	1	","	15-Jan-10	","	122777001
+78833	","		","	Human	","	2303019	","	FOSINOPRIL-20	","		","	N	","		","	1	","	15-Jan-10	","	122777002
+77258	","		","	Human	","	2287145	","	FOSRENOL	","		","	N	","		","	1	","	05-May-15	","	151709001
+77259	","		","	Human	","	2287153	","	FOSRENOL	","		","	N	","		","	1	","	05-May-15	","	151709002
+77260	","		","	Human	","	2287161	","	FOSRENOL	","		","	N	","		","	1	","	05-May-15	","	151709003
+77261	","		","	Human	","	2287188	","	FOSRENOL	","		","	N	","		","	1	","	05-May-15	","	151709004
+69957	","	LS - QUATERNARY AMMONIUM COMP. AGAINST HIV	","	Disinfectant	","	2245840	","	FOSTER 40-80 HVAC & WALL DISINFECTANT	","		","	N	","		","	4	","	29-Apr-15	","	414758024
+50417	","		","	Veterinary	","	2231110	","	FOUL BROOD MIX	","		","	N	","		","	1	","	21-Jun-10	","	105555012
+9551	","		","	Veterinary	","	628859	","	FOULEX	","		","	N	","	68741	","	4	","	06-Oct-00	","	416849001
+85341	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2368455	","	FOUNDATION PRIMER PLUS SPF 15	","		","	N	","		","	2	","	21-Jan-13	","	218807007
+89471	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2410044	","	FPS 30 SOIN COMPLET	","		","	N	","		","	6	","	10-Jan-14	","	653694003
+89472	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2410052	","	FPS 45 SOIN COMPLET	","		","	N	","		","	6	","	10-Jan-14	","	653694002
+89473	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2410060	","	FPS 60 SOIN COMPLET	","		","	N	","		","	6	","	10-Jan-14	","	653694001
+83791	","		","	Human	","	2352656	","	FRAGMIN 10000 IU(ANTI-XA)/0.4ML	","	SINGLE DOSE PREFILLED SYRINGES	","	N	","		","	1	","	26-Aug-14	","	126861002
+18235	","		","	Human	","	2132664	","	FRAGMIN 10000 IU(ANTI-XA)/ML	","	10X1ML AMPOULES	","	N	","	80458	","	1	","	26-Aug-14	","	126861003
+83792	","		","	Human	","	2352664	","	FRAGMIN 12500 IU(ANTI-XA)/0.5ML	","	SINGLE DOSE PREFILLED SYRINGES	","	N	","		","	1	","	26-Aug-14	","	126861002
+83793	","		","	Human	","	2352672	","	FRAGMIN 15000 IU(ANTI-XA)/0.6ML	","	SINGLE DOSE PREFILLED SYRINGES	","	N	","		","	1	","	26-Aug-14	","	126861002
+83794	","		","	Human	","	2352680	","	FRAGMIN 18000 IU(ANTI-XA)/0.72ML	","	SINGLE DOSE PREFILLED SYRINGES	","	N	","		","	1	","	09-Dec-14	","	126861002
+86316	","		","	Human	","	2377454	","	FRAGMIN 2500 IU(ANTI-FACTOR XA)/ML	","	4ML SINGLE-DOSE VIALS	","	N	","		","	1	","	08-Dec-14	","	126861001
+18307	","		","	Human	","	2132621	","	FRAGMIN 2500 IU(ANTI-XA)/0.2ML	","	SINGLE DOSE PREFILLED SYRINGES	","	N	","	80535	","	1	","	26-Aug-14	","	126861001
+50478	","		","	Human	","	2231171	","	FRAGMIN 25000 IU(ANTI-XA)/ML	","	3.8ML MULTI-DOSE VIALS	","	N	","		","	1	","	26-Aug-14	","	126861002
+91522	","		","	Human	","	2430789	","	FRAGMIN 3500 IU(ANTI-FACTOR XA)/0.28ML	","	SINGLE DOSE PREFILLED SYRINGES	","	N	","		","	1	","	31-Mar-15	","	126861004
+18306	","		","	Human	","	2132648	","	FRAGMIN 5000 IU(ANTI-XA)/0.2ML	","	SINGLE DOSE PREFILLED SYRINGES	","	N	","	80534	","	1	","	26-Aug-14	","	126861002
+83790	","		","	Human	","	2352648	","	FRAGMIN 7500 IU(ANTI-XA)/0.3ML	","	SINGLE DOSE PREFILLED SYRINGES	","	N	","		","	1	","	26-Aug-14	","	126861002
+83994	","	CAT IV - ANTISEPTIC SKIN CLEANSERS	","	Human	","	2354780	","	FRAGRANCE FOAM	","		","	N	","		","	1	","	15-Feb-11	","	104993016
+89648	","		","	Disinfectant	","	2411881	","	FRANK ULTRA DISINFECTANT BLEACH	","		","	N	","		","	1	","	04-Feb-15	","	106897016
+60205	","		","	Human	","	2236913	","	FRAXIPARINE	","		","	N	","		","	1	","	29-Apr-15	","	131662001
+63628	","		","	Human	","	2240114	","	FRAXIPARINE FORTE	","		","	N	","		","	1	","	29-Apr-15	","	131662002
+3297	","		","	Veterinary	","	455458	","	FREEZEX HOOF FREEZE	","		","	N	","	53774	","	4	","	14-Jul-11	","	413235001
+3313	","		","	Veterinary	","	455466	","	FREEZEX ONT	","		","	N	","	53846	","	3	","	14-Jul-11	","	309699001
+18329	","		","	Disinfectant	","	2164035	","	FRESH 100	","		","	N	","	80557	","	2	","	24-Jun-11	","	205019007
+84061	","		","	Human	","	2355361	","	FRESH ESSENTIALS DAILY NOURISHING MOISTURIZER	","		","	N	","		","	5	","	02-Aug-12	","	544758024
+65956	","	CAT IV - ANTISEPTIC SKIN CLEANSERS	","	Human	","	2242263	","	FRESH POWER GOLD	","		","	N	","		","	1	","	07-Nov-06	","	108865008
+75783	","		","	Disinfectant	","	2272318	","	FRESH-GEAR	","		","	N	","		","	2	","	24-Jul-06	","	213172005
+88154	","		","	Human	","	2396491	","	FREYA 21	","		","	N	","		","	2	","	25-Sep-15	","	224591001
+88165	","		","	Human	","	2396610	","	FREYA 28	","		","	N	","		","	2	","	25-Sep-15	","	224591001
+41578	","		","	Human	","	545279	","	FRIAR'S BALSAM BENZOIN TINCTURE	","		","	N	","	M1043	","	4	","	29-Apr-15	","	444601001
+43305	","		","	Human	","	2221799	","	FRISIUM TABLET 10MG	","		","	N	","	P9636	","	1	","	05-May-15	","	114637001
+74230	","		","	Human	","	2257084	","	FROVA	","		","	N	","		","	1	","	21-Jan-08	","	150262001
+79648	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2310864	","	FRUIT FLAVOURS LIP BALM	","		","	N	","		","	2	","	21-May-15	","	216932017
+67987	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2244044	","	FRUIT SMOOTHIES	","		","	N	","		","	2	","	11-Jun-14	","	216932017
+30372	","		","	Human	","	2119242	","	FS ANTIMICROBIAL HAND CLEANER - 2.5% LIQ	","		","	N	","	F7157	","	1	","	15-Sep-06	","	104993018
+76041	","		","	Veterinary	","	2274884	","	FUCIDERM GEL	","		","	N	","		","	2	","	22-Feb-13	","	245421001
+5637	","		","	Human	","	586668	","	FUCIDIN CREAM 2%	","		","	N	","	61174	","	1	","	04-Feb-09	","	114230003
+62005	","		","	Human	","	2238578	","	FUCIDIN H	","		","	N	","		","	2	","	22-Sep-14	","	234281001
+5638	","		","	Human	","	586676	","	FUCIDIN OINTMENT 2%	","		","	N	","	61175	","	1	","	28-May-09	","	114229001
+67802	","		","	Human	","	2243861	","	FUCITHALMIC	","	WITHOUT PRESERVATIVE	","	N	","		","	1	","	05-May-15	","	114230001
+67803	","		","	Human	","	2243862	","	FUCITHALMIC	","	WITH PRESERVATIVE	","	N	","		","	1	","	17-Nov-14	","	114230001
+76538	","		","	Veterinary	","	2279797	","	FUCITHALMIC VET EYE GEL	","		","	N	","		","	1	","	16-Nov-10	","	114230001
+79976	","		","	Disinfectant	","	2314193	","	FULL SPECTRUM DISINFECTANT WIPES	","		","	N	","		","	2	","	27-Mar-09	","	205019008
+50488	","		","	Veterinary	","	2231180	","	FUMAGILIN-B	","		","	N	","		","	1	","	05-Apr-13	","	117345001
+66752	","		","	Disinfectant	","	2242918	","	FUMALYSE II	","		","	N	","		","	3	","	27-Nov-12	","	337002001
+62521	","	LS - ANTIFUNGALS (TOPICAL)	","	Human	","	2239066	","	FUNGICURE GEL	","		","	N	","		","	1	","	09-Jul-12	","	102537001
+933	","		","	Human	","	29149	","	FUNGIZONE INTRAVENOUS INJECTION 50MG	","		","	N	","	32540	","	1	","	05-May-15	","	105864001
+87211	","		","	Veterinary	","	2386542	","	FURANTOIN SUSPENSION	","		","	N	","		","	1	","	19-Sep-13	","	101480004
+79745	","		","	Veterinary	","	2311917	","	FURAZONE DRESSING	","		","	N	","		","	1	","	27-Nov-14	","	107236008
+79744	","		","	Veterinary	","	2311909	","	FURAZONE SOLUTION	","		","	N	","		","	1	","	12-Jun-14	","	107236008
+83669	","		","	Human	","	2351420	","	FUROSEMIDE	","		","	N	","		","	1	","	20-May-15	","	101944002
+83670	","		","	Human	","	2351439	","	FUROSEMIDE	","		","	N	","		","	1	","	20-May-15	","	101944001
+83671	","		","	Human	","	2351447	","	FUROSEMIDE	","		","	N	","		","	1	","	20-May-15	","	101944004
+3809	","		","	Human	","	496723	","	FUROSEMIDE 20 TAB	","		","	N	","	55565	","	1	","	05-Jul-10	","	101944002
+2851	","		","	Human	","	397792	","	FUROSEMIDE 40MG	","		","	N	","	51648	","	1	","	05-Jul-10	","	101944001
+4431	","		","	Human	","	527033	","	FUROSEMIDE INJ USP	","		","	N	","	57596	","	1	","	12-Dec-12	","	101944003
+84533	","		","	Human	","	2360365	","	FUROSEMIDE INJECTION	","	SINGLE USE VIALS. 20MG/2ML AND 40MG/4ML VIALS. PRESERVATIVE-FREE.	","	N	","		","	1	","	18-Dec-12	","	101944003
+68956	","		","	Veterinary	","	2244958	","	FUROSEMIDE INJECTION SANDOZ STANDARD	","		","	N	","		","	1	","	05-May-15	","	101944005
+86837	","		","	Human	","	2382539	","	FUROSEMIDE INJECTION SDZ	","	SINGLE USE 2ML AND 4ML AMPOULES	","	N	","		","	1	","	19-Nov-12	","	101944003
+4910	","		","	Human	","	565040	","	FUROSEMIDE INJECTION USP	","		","	N	","	59117	","	1	","	30-Jun-15	","	101944003
+86984	","		","	Human	","	2384094	","	FUROSEMIDE INJECTION USP	","		","	N	","		","	1	","	15-Jan-15	","	101944003
+12218	","		","	Human	","	401633	","	FUROSEMIDE SPECIAL	","		","	N	","	73266	","	1	","	05-May-15	","	101944003
+84539	","		","	Human	","	2360446	","	FUROSEMIDE SPECIAL INJECTION	","	"SINGLE USE VIAL, PRESERVATIVE FREE"	","	N	","		","	1	","	18-Dec-12	","	101944003
+19189	","		","	Human	","	667080	","	FUROSEMIDE-80 TAB 80MG	","		","	N	","	81480	","	1	","	05-Jul-10	","	101944004
+87609	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2390671	","	FUTUR E SPF 15 MOISTURIZING LOTION	","		","	N	","		","	2	","	17-Jul-13	","	233480002
+65332	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2241672	","	FUTURIST TIME-RESISTING MAKEUP SPF 15	","		","	N	","		","	1	","	13-Jul-12	","	116791013
+72003	","		","	Human	","	2247725	","	FUZEON	","	SINGLE USE VIAL	","	N	","		","	1	","	14-Dec-10	","	149321001
+88927	","		","	Human	","	2404516	","	FYCOMPA	","		","	N	","		","	1	","	14-Aug-13	","	154211001
+88928	","		","	Human	","	2404567	","	FYCOMPA	","		","	N	","		","	1	","	13-Jun-13	","	154211006
+88929	","		","	Human	","	2404524	","	FYCOMPA	","		","	N	","		","	1	","	03-Jul-13	","	154211002
+88930	","		","	Human	","	2404532	","	FYCOMPA	","		","	N	","		","	1	","	03-Jul-13	","	154211003
+88931	","		","	Human	","	2404540	","	FYCOMPA	","		","	N	","		","	1	","	03-Jul-13	","	154211004
+88932	","		","	Human	","	2404559	","	FYCOMPA	","		","	N	","		","	1	","	13-Jun-13	","	154211005

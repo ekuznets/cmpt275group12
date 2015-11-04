@@ -1,0 +1,621 @@
+14255	","		","	Disinfectant	","	2034689	","	G-1085 LIQ	","		","	N	","	75824	","	4	","	29-Sep-10	","	414758011
+77075	","	CAT IV - HARD SURFACE DISINFECTANTS	","	Disinfectant	","	2285231	","	G-12	","		","	N	","		","	1	","	04-Dec-06	","	106897001
+8435	","		","	Disinfectant	","	695580	","	G-1250	","		","	N	","	66914	","	4	","	30-Aug-06	","	414758002
+67988	","		","	Disinfectant	","	2244045	","	G2	","		","	N	","		","	2	","	19-Feb-02	","	220398004
+7079	","		","	Disinfectant	","	695572	","	G-700	","		","	N	","	64614	","	4	","	13-Apr-07	","	414758022
+70477	","		","	Human	","	2246314	","	GABAPENTIN	","		","	N	","		","	1	","	08-Nov-12	","	125929001
+70478	","		","	Human	","	2246315	","	GABAPENTIN	","		","	N	","		","	1	","	08-Nov-12	","	125929003
+70479	","		","	Human	","	2246316	","	GABAPENTIN	","		","	N	","		","	1	","	08-Nov-12	","	125929002
+83846	","		","	Human	","	2353245	","	GABAPENTIN	","		","	N	","		","	1	","	05-May-15	","	125929001
+83847	","		","	Human	","	2353253	","	GABAPENTIN	","		","	N	","		","	1	","	05-May-15	","	125929003
+83848	","		","	Human	","	2353261	","	GABAPENTIN	","		","	N	","		","	1	","	05-May-15	","	125929002
+87375	","		","	Human	","	2388200	","	GABAPENTIN	","		","	N	","		","	1	","	14-Nov-12	","	125929004
+87376	","		","	Human	","	2388219	","	GABAPENTIN	","		","	N	","		","	1	","	14-Nov-12	","	125929005
+91570	","		","	Human	","	2431289	","	GABAPENTIN	","		","	N	","		","	1	","	24-Mar-15	","	125929004
+91571	","		","	Human	","	2431297	","	GABAPENTIN	","		","	N	","		","	1	","	24-Mar-15	","	125929005
+90145	","		","	Human	","	2416840	","	GABAPENTIN CAPSULES USP	","		","	N	","		","	1	","	16-Jun-14	","	125929001
+90146	","		","	Human	","	2416859	","	GABAPENTIN CAPSULES USP	","		","	N	","		","	1	","	16-Jun-14	","	125929003
+90147	","		","	Human	","	2416867	","	GABAPENTIN CAPSULES USP	","		","	N	","		","	1	","	17-Jun-14	","	125929002
+87778	","		","	Human	","	2392526	","	GABAPENTIN TABLETS USP	","		","	N	","		","	1	","	11-Dec-13	","	125929004
+87779	","		","	Human	","	2392534	","	GABAPENTIN TABLETS USP	","		","	N	","		","	1	","	11-Dec-13	","	125929005
+64684	","		","	Human	","	2241089	","	GADOVIST 1.0	","		","	N	","		","	1	","	28-Aug-08	","	138761002
+90117	","		","	Human	","	2416573	","	GALANTAMINE ER	","		","	N	","		","	1	","	31-Mar-15	","	144660002
+90118	","		","	Human	","	2416581	","	GALANTAMINE ER	","		","	N	","		","	1	","	31-Mar-15	","	144660004
+90119	","		","	Human	","	2416603	","	GALANTAMINE ER	","		","	N	","		","	1	","	31-Mar-15	","	144660005
+90105	","		","	Human	","	2416441	","	GALEXOS	","		","	N	","		","	1	","	09-Jun-14	","	154990001
+4681	","		","	Veterinary	","	531960	","	GALLIMYCIN	","		","	N	","	58442	","	1	","	26-Jul-11	","	105708016
+42865	","		","	Veterinary	","	2185385	","	GALLIMYCIN-50	","		","	N	","	P9038	","	1	","	26-Jul-11	","	105717003
+49688	","		","	Human	","	2230579	","	GAMASTAN S/D	","		","	N	","		","	1	","	19-Feb-13	","	106267001
+76503	","		","	Human	","	2279444	","	GAMMAGARD LIQUID	","		","	N	","		","	1	","	05-May-15	","	106267005
+50794	","		","	Human	","	2231470	","	GAMMAGARD S/D	","		","	N	","		","	1	","	29-Apr-15	","	106267013
+50795	","		","	Human	","	2231471	","	GAMMAGARD S/D	","		","	N	","		","	1	","	29-Apr-15	","	106267017
+72002	","		","	Human	","	2247724	","	GAMUNEX	","	SINGLE USE VIALS	","	N	","		","	1	","	04-Oct-12	","	106267015
+75711	","		","	Disinfectant	","	2271567	","	GAMUT PLUS	","		","	N	","		","	2	","	30-Jan-07	","	231243005
+75722	","		","	Disinfectant	","	2271680	","	GAMUT PLUS WIPES	","		","	N	","		","	2	","	30-Jan-07	","	231243005
+88956	","		","	Human	","	2404761	","	GANCICLOVIR FOR INJECTION	","		","	N	","		","	1	","	03-Jun-15	","	128037002
+76882	","		","	Human	","	2283190	","	GARDASIL	","		","	N	","		","	4	","	02-Feb-15	","	451650001
+92136	","		","	Human	","	2437058	","	GARDASIL 9	","	0.5ML SINGLE-DOSE VIALS AND PREFILLED SYRINGES	","	N	","		","	9	","	31-Mar-15	","	956550001
+81363	","		","	Human	","	2328127	","	GAS RELIEF TABLETS	","		","	N	","		","	1	","	17-Jul-12	","	131347001
+13362	","		","	Human	","	896675	","	GAS X EXTRA STRENGTH	","		","	N	","	74723	","	1	","	12-Jul-12	","	131347001
+75572	","	LS - ANTIFLATULENTS	","	Human	","	2270331	","	GAS X THIN STRIPS 62.5MG SIMETHICONE	","		","	N	","		","	1	","	12-Jul-12	","	131347011
+78612	","		","	Human	","	2300761	","	GAS X ULTRA STRENGTH	","		","	N	","		","	1	","	12-Jul-12	","	131347005
+5221	","		","	Human	","	591645	","	GASEOUS NITROGEN 99.0%	","		","	N	","	59998	","	1	","	31-May-10	","	115497001
+73515	","		","	Veterinary	","	2250349	","	GASTROGARD	","		","	N	","		","	1	","	26-Oct-10	","	121643004
+37570	","		","	Human	","	2228564	","	GASTROGRAFIN - LIQ ORL	","		","	N	","	H5112	","	2	","	04-Jul-07	","	201807001
+41821	","		","	Human	","	1907875	","	GAS-X REGULAR STRENGTH	","		","	N	","	M1954	","	1	","	23-Feb-15	","	131347002
+65429	","		","	Human	","	2241766	","	GAS-X SUPER EXTRA STRENGTH	","		","	N	","		","	1	","	12-Jul-12	","	131347007
+91910	","		","	Human	","	2434806	","	GAZYVA	","	SINGLE DOSE VIAL	","	N	","		","	1	","	28-May-15	","	156270001
+81651	","		","	Disinfectant	","	2330768	","	GC2 NEUTRAL DISINFECTANT CLEANER	","		","	N	","		","	4	","	23-Jun-11	","	414758006
+76580	","		","	Human	","	2280124	","	GD-AMLODIPINE	","		","	N	","		","	1	","	03-Aug-12	","	131437003
+76581	","		","	Human	","	2280132	","	GD-AMLODIPINE	","		","	N	","		","	1	","	17-May-11	","	131437002
+76582	","		","	Human	","	2280140	","	GD-AMLODIPINE	","		","	N	","		","	1	","	17-May-11	","	131437001
+84775	","		","	Human	","	2362759	","	GD-AMLODIPINE/ATORVASTATIN	","		","	N	","		","	2	","	23-Aug-11	","	251555001
+84776	","		","	Human	","	2362767	","	GD-AMLODIPINE/ATORVASTATIN	","		","	N	","		","	2	","	23-Aug-11	","	251555002
+84777	","		","	Human	","	2362775	","	GD-AMLODIPINE/ATORVASTATIN	","		","	N	","		","	2	","	23-Aug-11	","	251555003
+84778	","		","	Human	","	2362783	","	GD-AMLODIPINE/ATORVASTATIN	","		","	N	","		","	2	","	23-Aug-11	","	251555004
+84779	","		","	Human	","	2362791	","	GD-AMLODIPINE/ATORVASTATIN	","		","	N	","		","	2	","	23-Aug-11	","	251555005
+84780	","		","	Human	","	2362805	","	GD-AMLODIPINE/ATORVASTATIN	","		","	N	","		","	2	","	23-Aug-11	","	251555006
+84781	","		","	Human	","	2362813	","	GD-AMLODIPINE/ATORVASTATIN	","		","	N	","		","	2	","	23-Aug-11	","	251555007
+84782	","		","	Human	","	2362821	","	GD-AMLODIPINE/ATORVASTATIN	","		","	N	","		","	2	","	23-Aug-11	","	251555008
+77377	","		","	Human	","	2288346	","	GD-ATORVASTATIN	","		","	N	","		","	1	","	17-May-11	","	133055001
+77378	","		","	Human	","	2288354	","	GD-ATORVASTATIN	","		","	N	","		","	1	","	17-May-11	","	133055002
+77379	","		","	Human	","	2288362	","	GD-ATORVASTATIN	","		","	N	","		","	1	","	11-Aug-15	","	133055003
+77380	","		","	Human	","	2288370	","	GD-ATORVASTATIN	","		","	N	","		","	1	","	17-May-11	","	133055004
+75998	","		","	Human	","	2274531	","	GD-AZITHROMYCIN	","		","	N	","		","	1	","	29-Aug-11	","	126072001
+76000	","		","	Human	","	2274566	","	GD-AZITHROMYCIN	","		","	N	","		","	1	","	20-Nov-13	","	126072002
+76001	","		","	Human	","	2274574	","	GD-AZITHROMYCIN	","		","	N	","		","	1	","	20-Nov-13	","	126072003
+77734	","		","	Human	","	2291975	","	GD-CELECOXIB	","		","	N	","		","	1	","	28-Nov-14	","	137043001
+77735	","		","	Human	","	2291983	","	GD-CELECOXIB	","		","	N	","		","	1	","	28-Nov-14	","	137043002
+82718	","		","	Human	","	2341689	","	GD-DICLOFENAC/MISOPROSTOL	","		","	N	","		","	2	","	12-Mar-15	","	222885003
+82719	","		","	Human	","	2341697	","	GD-DICLOFENAC/MISOPROSTOL	","		","	N	","		","	2	","	12-Mar-15	","	222885004
+82774	","		","	Human	","	2342235	","	GD-ELETRIPTAN	","		","	N	","		","	1	","	02-Nov-12	","	150241001
+82775	","		","	Human	","	2342243	","	GD-ELETRIPTAN	","		","	N	","		","	1	","	02-Nov-12	","	150241002
+77130	","		","	Human	","	2285819	","	GD-GABAPENTIN	","		","	N	","		","	1	","	18-Dec-12	","	125929001
+77131	","		","	Human	","	2285827	","	GD-GABAPENTIN	","		","	N	","		","	1	","	18-Dec-12	","	125929003
+77132	","		","	Human	","	2285835	","	GD-GABAPENTIN	","		","	N	","		","	1	","	18-Dec-12	","	125929002
+77133	","		","	Human	","	2285843	","	GD-GABAPENTIN	","		","	N	","		","	1	","	29-Aug-11	","	125929004
+77134	","		","	Human	","	2285851	","	GD-GABAPENTIN	","		","	N	","		","	1	","	29-Aug-11	","	125929005
+85817	","		","	Human	","	2373041	","	GD-LATANOPROST	","		","	N	","		","	1	","	31-Oct-11	","	132916002
+85818	","		","	Human	","	2373068	","	GD-LATANOPROST/TIMOLOL	","		","	N	","		","	2	","	17-May-13	","	248501002
+77638	","		","	Human	","	2290987	","	GD-QUINAPRIL	","		","	N	","		","	1	","	09-Jun-14	","	123206001
+77639	","		","	Human	","	2290995	","	GD-QUINAPRIL	","		","	N	","		","	1	","	09-Jun-14	","	123206002
+77640	","		","	Human	","	2291002	","	GD-QUINAPRIL	","		","	N	","		","	1	","	09-Jun-14	","	123206003
+77641	","		","	Human	","	2291010	","	GD-QUINAPRIL	","		","	N	","		","	1	","	09-Jun-14	","	123206004
+75916	","		","	Human	","	2273683	","	GD-SERTRALINE	","		","	N	","		","	1	","	29-Aug-11	","	123417003
+75917	","		","	Human	","	2273691	","	GD-SERTRALINE	","		","	N	","		","	1	","	29-Aug-11	","	123417001
+75918	","		","	Human	","	2273705	","	GD-SERTRALINE	","		","	N	","		","	1	","	29-Aug-11	","	123417002
+77738	","		","	Human	","	2292017	","	GD-SILDENAFIL	","		","	N	","		","	1	","	30-Nov-12	","	136261003
+89382	","		","	Human	","	2409097	","	GD-TRANEXAMIC ACID	","		","	N	","		","	1	","	31-Mar-14	","	114760001
+84500	","		","	Human	","	2360020	","	GD-VENLAFAXINE XR	","		","	N	","		","	1	","	31-Oct-11	","	131294002
+84501	","		","	Human	","	2360039	","	GD-VENLAFAXINE XR	","		","	N	","		","	1	","	31-Oct-11	","	131294001
+84502	","		","	Human	","	2360047	","	GD-VENLAFAXINE XR	","		","	N	","		","	1	","	31-Oct-11	","	131294005
+90453	","	CAT IV - ACNE THERAPY	","	Human	","	2419912	","	GEL-CREME ACNE BPO GEL-CREAM 5%	","		","	N	","		","	1	","	22-Aug-14	","	107205001
+85101	","		","	Human	","	2366150	","	GELNIQUE	","	FOR TOPICAL USE ONLY.  1G UNIT DOSE OF 100MG/G PER SACHET. 30 SACHETS.	","	N	","		","	1	","	11-Sep-15	","	114692006
+91120	","	LS - ANTACID	","	Human	","	2426668	","	GELUSIL ANTACID & ANTI-GAS	","		","	N	","		","	3	","	10-Sep-14	","	331160011
+89449	","	LS - ANTIFLATULANTS/ANTACIDS	","	Human	","	2409836	","	GELUSIL ANTACID AND ANTI-GAS	","		","	N	","		","	3	","	04-Feb-14	","	354550001
+79107	","		","	Human	","	2305526	","	GEMCITABINE FOR INJECTION	","		","	N	","		","	1	","	05-May-15	","	133122001
+79108	","		","	Human	","	2305534	","	GEMCITABINE FOR INJECTION	","		","	N	","		","	1	","	05-May-15	","	133122003
+80968	","		","	Human	","	2324202	","	GEMCITABINE FOR INJECTION	","		","	N	","		","	1	","	21-Sep-11	","	133122001
+80969	","		","	Human	","	2324210	","	GEMCITABINE FOR INJECTION	","		","	N	","		","	1	","	27-Jul-09	","	133122003
+85506	","		","	Human	","	2370034	","	GEMCITABINE FOR INJECTION	","	SINGLE-USE VIAL	","	N	","		","	1	","	21-Sep-11	","	133122004
+90823	","		","	Human	","	2423510	","	GEMCITABINE FOR INJECTION CONCENTRATE	","	2/10/15/20ML SINGLE DOSE VIALS. FOR I.V. INFUSION.	","	N	","		","	1	","	29-May-14	","	133122006
+78408	","		","	Human	","	2298775	","	"GEMCITABINE FOR INJECTION, USP"	","		","	N	","		","	1	","	26-Aug-08	","	133122001
+80422	","		","	Human	","	2318741	","	"GEMCITABINE FOR INJECTION, USP"	","		","	N	","		","	1	","	26-Oct-09	","	133122004
+89201	","		","	Human	","	2407302	","	"GEMCITABINE FOR INJECTION, USP"	","		","	N	","		","	1	","	13-Aug-14	","	133122003
+89202	","		","	Human	","	2407310	","	"GEMCITABINE FOR INJECTION, USP"	","		","	N	","		","	1	","	13-Aug-14	","	133122004
+78741	","		","	Human	","	2302098	","	GEMCITABINE HYDROCHLORIDE FOR INJECTION	","		","	N	","		","	1	","	27-Dec-07	","	133122001
+78742	","		","	Human	","	2302101	","	GEMCITABINE HYDROCHLORIDE FOR INJECTION	","		","	N	","		","	1	","	27-Dec-07	","	133122003
+88767	","		","	Human	","	2402831	","	GEMCITABINE INJECTION	","	SINGLE-USE VIALS. 200MG/5.3ML; 1G/26.3ML; 2G/52.6ML. READY-TO-USE	","	N	","		","	1	","	09-Apr-13	","	133122005
+89685	","		","	Human	","	2412292	","	GEMCITABINE INJECTION	","	5ML/25ML/50ML SINGLE USE VIALS	","	N	","		","	1	","	14-Jan-14	","	133122005
+85835	","		","	Human	","	2373173	","	GEMCITABINE SUN FOR INJECTION	","	I.V. USE ONLY	","	N	","		","	1	","	10-Apr-13	","	133122001
+85836	","		","	Human	","	2373181	","	GEMCITABINE SUN FOR INJECTION	","	I.V. USE ONLY	","	N	","		","	1	","	10-Apr-13	","	133122003
+49070	","		","	Human	","	2230309	","	GEMZAR  (1GM/VIAL)	","		","	N	","		","	1	","	03-Apr-14	","	133122002
+49068	","		","	Human	","	2230308	","	GEMZAR  (200MG/VIAL)	","		","	N	","		","	1	","	03-Apr-14	","	133122001
+81854	","		","	Disinfectant	","	2332892	","	GENBACT	","		","	N	","		","	2	","	05-May-10	","	205019008
+71485	","		","	Human	","	2247243	","	GEN-CLOZAPINE	","		","	N	","		","	1	","	21-Dec-10	","	122583001
+71486	","		","	Human	","	2247244	","	GEN-CLOZAPINE	","		","	N	","		","	1	","	02-Nov-09	","	122583002
+79038	","		","	Human	","	2305003	","	GEN-CLOZAPINE	","		","	N	","		","	1	","	21-Dec-10	","	122583003
+79039	","		","	Human	","	2305011	","	GEN-CLOZAPINE	","		","	N	","		","	1	","	21-Dec-10	","	122583004
+73298	","		","	Disinfectant	","	2248923	","	GENERATION 5	","		","	N	","		","	4	","	29-Apr-15	","	414758004
+86700	","		","	Disinfectant	","	2381222	","	GENERATION 5 PLUS	","		","	N	","		","	4	","	08-Jan-14	","	414758006
+80406	","		","	Disinfectant	","	2318571	","	GENERATION V	","		","	N	","		","	2	","	31-Oct-11	","	251672001
+37743	","		","	Disinfectant	","	2190826	","	GENIE PLUS - LIQ	","		","	N	","	J0252	","	2	","	08-Aug-04	","	228121001
+73676	","		","	Disinfectant	","	2251868	","	GENIE PLUS WIPES	","		","	N	","		","	2	","	28-Jul-15	","	228121001
+88659	","		","	Human	","	2401703	","	GENOTROPIN	","	GOQUICK - PREFILLED PEN	","	N	","		","	1	","	01-Nov-13	","	131827001
+88660	","		","	Human	","	2401711	","	GENOTROPIN	","	GOQUICK - PREFILLED PEN	","	N	","		","	1	","	01-Nov-13	","	131827008
+88664	","		","	Human	","	2401762	","	GENOTROPIN	","	MINIQUICK - PREFILLED SYRINGE	","	N	","		","	1	","	01-Nov-13	","	131827017
+88665	","		","	Human	","	2401770	","	GENOTROPIN	","	MINIQUICK - PREFILLED SYRINGE	","	N	","		","	1	","	01-Nov-13	","	131827018
+88666	","		","	Human	","	2401789	","	GENOTROPIN	","	MINIQUICK - PREFILLED SYRINGE	","	N	","		","	1	","	01-Nov-13	","	131827007
+88667	","		","	Human	","	2401797	","	GENOTROPIN	","	MINIQUICK - PREFILLED SYRINGE	","	N	","		","	1	","	01-Nov-13	","	131827019
+88668	","		","	Human	","	2401800	","	GENOTROPIN	","	MINIQUICK - PREFILLED SYRINGE	","	N	","		","	1	","	01-Nov-13	","	131827020
+88669	","		","	Human	","	2401819	","	GENOTROPIN	","	MINIQUICK - PREFILLED SYRINGE	","	N	","		","	1	","	01-Nov-13	","	131827002
+88670	","		","	Human	","	2401827	","	GENOTROPIN	","	MINIQUICK - PREFILLED SYRINGE	","	N	","		","	1	","	01-Nov-13	","	131827021
+88671	","		","	Human	","	2401835	","	GENOTROPIN	","	MINIQUICK - PREFILLED SYRINGE	","	N	","		","	1	","	01-Nov-13	","	131827022
+37211	","		","	Human	","	2219581	","	GENTAMICIN	","		","	N	","	H4688	","	1	","	29-Apr-15	","	105695002
+66434	","		","	Human	","	2242652	","	GENTAMICIN INJECTION USP	","		","	N	","		","	1	","	05-May-15	","	105695005
+75394	","		","	Human	","	2268531	","	GENTAMICIN INJECTION USP	","		","	N	","		","	1	","	23-Sep-05	","	105695003
+12674	","		","	Human	","	1913530	","	GENTAMICIN SULFATE IN 0.9% SODIUM CHLORIDE INJECTION	","		","	N	","	73842	","	2	","	06-Aug-15	","	222855003
+18242	","		","	Human	","	2082136	","	GENTAMICIN(E) 100MG LIQ IV 1MG/ML	","		","	N	","	80465	","	1	","	16-Jun-06	","	105695001
+18241	","		","	Human	","	2082144	","	GENTAMICIN(E) 120MG LIQ IV 1.2MG/ML	","		","	N	","	80464	","	1	","	22-Jun-06	","	105695009
+18243	","		","	Human	","	2082152	","	GENTAMICIN(E) 80MG LIQ IV 1.6MG/ML	","		","	N	","	80466	","	1	","	22-Jun-06	","	105695010
+50599	","		","	Human	","	2231289	","	GENTEAL	","		","	N	","		","	1	","	27-May-14	","	108634003
+66817	","		","	Human	","	2242977	","	GENTEAL GEL	","		","	N	","		","	1	","	27-May-14	","	108634003
+44	","		","	Human	","	50857	","	GENTIANE VIOLET LIQ TOP	","		","	N	","	1747	","	1	","	22-Oct-12	","	107228001
+73652	","	CAT IV - ANTISEPTIC SKIN CLEANSERS	","	Human	","	2251604	","	GENTLE FRESH DEFENSE	","		","	N	","		","	1	","	10-May-04	","	108865001
+76652	","		","	Human	","	2280841	","	GENTLE FRESH SANITIZER	","		","	N	","		","	1	","	02-Oct-06	","	104367006
+12798	","		","	Veterinary	","	1941577	","	GENTLE IODINE SPRAY	","		","	N	","	74007	","	1	","	27-Oct-02	","	107785003
+79431	","	CAT IV - ANTISEPTIC SKIN CLEANSERS	","	Human	","	2308673	","	GENTLE RAIN ANTIBACTERIAL	","		","	N	","		","	1	","	23-Jun-09	","	108865003
+5562	","		","	Veterinary	","	592293	","	GENTOCIN	","		","	N	","	60996	","	1	","	05-Feb-13	","	105695008
+1581	","		","	Veterinary	","	256536	","	GENTOCIN DURAFILM	","		","	N	","	41601	","	2	","	24-Sep-15	","	252189001
+69419	","	CAT IV - HARD SURFACE DISINFECTANTS	","	Disinfectant	","	2245380	","	GERM CLEAN	","		","	N	","		","	1	","	28-Feb-06	","	104993008
+72295	","		","	Disinfectant	","	2247985	","	GERMA-CERT	","		","	N	","		","	2	","	28-Jun-11	","	205019005
+14321	","		","	Disinfectant	","	2026236	","	GERMAL LIQ	","		","	N	","	75897	","	2	","	29-Sep-10	","	205019002
+77370	","		","	Disinfectant	","	2288257	","	GERMALIN CLEANER DEGREASER DISINFECTANT	","		","	N	","		","	2	","	02-Jan-07	","	205019002
+4190	","		","	Disinfectant	","	522880	","	GERMARC	","		","	N	","	56879	","	1	","	24-Jul-06	","	104993003
+8354	","		","	Disinfectant	","	716340	","	GERM-CID-800	","		","	N	","	66770	","	2	","	28-Jun-11	","	205019010
+76459	","		","	Disinfectant	","	2279037	","	GERM-DESTROYER 15	","		","	N	","		","	1	","	04-Dec-06	","	104993022
+76452	","		","	Disinfectant	","	2278960	","	GERM-DESTROYER 24	","		","	N	","		","	1	","	31-Mar-06	","	104993045
+76453	","		","	Disinfectant	","	2278979	","	GERM-DESTROYER 38A	","		","	N	","		","	1	","	31-Mar-06	","	104993046
+129	","		","	Veterinary	","	97403	","	GERME ZONE	","		","	N	","	4439	","	5	","	05-Jul-99	","	500219001
+3797	","		","	Disinfectant	","	503851	","	GERMEX	","		","	N	","	55534	","	3	","	29-Sep-10	","	311324001
+234	","		","	Disinfectant	","	141569	","	GERMEX 11.5%	","		","	N	","	8994	","	1	","	13-Apr-06	","	104993001
+16238	","		","	Disinfectant	","	2081415	","	GERMEX LIQ	","		","	N	","	78089	","	2	","	30-Sep-10	","	205019015
+34190	","		","	Disinfectant	","	2160250	","	GERMGUARD DETERGENT	","		","	N	","	H0946	","	1	","	17-Aug-11	","	104993006
+11826	","		","	Human	","	1930079	","	GERMI STAT GEL 2%	","		","	N	","	72744	","	1	","	18-Jul-12	","	107629004
+12713	","		","	Human	","	1930087	","	GERMI STAT GEL 4%	","		","	N	","	73889	","	1	","	18-Jul-12	","	107629001
+2901	","		","	Disinfectant	","	405671	","	GERMICIDAL DETERGENT NO 1492	","		","	N	","	51940	","	1	","	01-Aug-08	","	104993024
+12639	","		","	Human	","	1977873	","	GERMICIDAL HAND SOAP LIQ 0.6%	","		","	N	","	73804	","	1	","	13-Jul-11	","	106942007
+5579	","		","	Disinfectant	","	611441	","	GERMICIDAL MULTI-PURPOSE CLEANER 9%	","		","	N	","	61027	","	1	","	01-Aug-08	","	104993028
+12255	","		","	Disinfectant	","	1945467	","	GERMICIDAL MULTIPURPOSE CLEANER SPRAY	","		","	N	","	73322	","	2	","	29-Apr-15	","	205019015
+70165	","		","	Disinfectant	","	2246034	","	GERMICIDAL SURFACE CLEANER	","		","	N	","		","	2	","	31-Aug-11	","	205019018
+4110	","		","	Veterinary	","	523704	","	GERMICIDAL TEAT DIP	","		","	N	","	56678	","	1	","	06-Feb-14	","	103970003
+90429	","	CAT IV - HARD SURFACE DISINFECTANTS	","	Disinfectant	","	2419653	","	GERMICIDE	","		","	N	","		","	4	","	14-Feb-14	","	414758027
+80336	","		","	Disinfectant	","	2317842	","	GERMICIDE 3 SURFACE WIPES	","		","	N	","		","	3	","	12-May-10	","	312484004
+77845	","		","	Disinfectant	","	2293072	","	GERMICIDE-3 SURFACE DISINFECTANT CLEANER	","		","	N	","		","	3	","	30-Aug-11	","	312484004
+2868	","		","	Disinfectant	","	398144	","	GERMIDET	","		","	N	","	51703	","	1	","	29-Sep-10	","	104993006
+12289	","		","	Disinfectant	","	1945440	","	GERMIFOAM	","		","	N	","	73377	","	2	","	28-May-14	","	205019015
+85333	","		","	Disinfectant	","	2368366	","	GERMIKEM	","		","	N	","		","	4	","	11-Feb-13	","	414758020
+45490	","		","	Disinfectant	","	890359	","	GERMINAL LIQ	","		","	N	","	W7694	","	2	","	09-May-06	","	205019025
+17243	","		","	Disinfectant	","	2025442	","	GERMINIX  LIQ	","		","	N	","	79396	","	2	","	16-Dec-14	","	205019003
+17241	","		","	Disinfectant	","	2024780	","	GERMINIX 16 LIQ	","		","	N	","	79394	","	2	","	06-Jul-11	","	205019002
+17242	","		","	Disinfectant	","	2024799	","	GERMINIX 20 LIQ	","		","	N	","	79395	","	2	","	06-Jul-11	","	205019005
+91882	","		","	Disinfectant	","	2434490	","	GERMINIX-256	","		","	N	","		","	4	","	28-May-15	","	414758006
+76639	","		","	Disinfectant	","	2280728	","	GERMINIX-64	","		","	N	","		","	4	","	19-Mar-15	","	414758004
+91881	","		","	Disinfectant	","	2434482	","	GERMINIX-RTU	","	LIQUID	","	N	","		","	2	","	28-May-15	","	205019008
+869	","		","	Human	","	109991	","	GERMIPHENE CONCENTRATE 13.0%	","		","	N	","	31390	","	1	","	04-Apr-04	","	104993002
+12288	","		","	Disinfectant	","	1945483	","	GERMIST	","		","	N	","	73376	","	3	","	29-Apr-15	","	309109001
+12861	","	CAT IV - ANTISEPTIC SKIN CLEANSERS	","	Human	","	1975242	","	GERMI-STAT 0.5% ANTISEPTIC PREP GEL	","		","	N	","	74090	","	2	","	18-Jul-12	","	213979002
+65180	","		","	Human	","	2241528	","	GERMI-STAT PREP GEL	","		","	N	","		","	2	","	18-Jul-12	","	213979002
+76264	","		","	Disinfectant	","	2276976	","	GERMISYL	","		","	N	","		","	2	","	21-Dec-07	","	213172005
+76777	","	CAT IV - HARD SURFACE DISINFECTANTS	","	Disinfectant	","	2282100	","	GERM-KILLER 107	","		","	N	","		","	4	","	14-Jul-06	","	414758024
+91041	","	CAT IV - HARD SURFACE DISINFECTANTS	","	Disinfectant	","	2425807	","	GERMOSOLVE 5	","		","	N	","		","	2	","	18-Aug-14	","	205019024
+91335	","	CAT IV - HARD SURFACE DISINFECTANTS	","	Disinfectant	","	2428903	","	GERMOSOLVE 5 NATURAL	","		","	N	","		","	2	","	18-Aug-14	","	205019024
+62709	","		","	Disinfectant	","	2239248	","	GERMXTRA	","		","	N	","		","	3	","	30-Sep-10	","	321564003
+85038	","		","	Human	","	2365480	","	GILENYA	","		","	N	","		","	1	","	06-Apr-11	","	152886001
+49958	","		","	Veterinary	","	2230699	","	GIMBORN QUIK KLOT	","		","	N	","		","	5	","	20-Jul-10	","	503163001
+90026	","		","	Human	","	2415666	","	GIOTRIF	","		","	N	","		","	1	","	10-Jun-14	","	154930001
+90027	","		","	Human	","	2415674	","	GIOTRIF	","		","	N	","		","	1	","	10-Jun-14	","	154930002
+90028	","		","	Human	","	2415682	","	GIOTRIF	","		","	N	","		","	1	","	10-Jun-14	","	154930003
+80464	","		","	Disinfectant	","	2319179	","	GL-100 CLEANER-DEGREASER-DISINFECTANT	","		","	N	","		","	2	","	12-Jul-13	","	205019002
+73824	","		","	Human	","	2253275	","	GLEEVEC	","		","	N	","		","	1	","	27-Oct-06	","	145503002
+73825	","		","	Human	","	2253283	","	GLEEVEC	","		","	N	","		","	1	","	31-Oct-06	","	145503003
+70078	","		","	Veterinary	","	2245952	","	GLEPTOSIL	","		","	N	","		","	1	","	05-May-15	","	108536032
+77250	","		","	Human	","	2287072	","	GLICLAZIDE	","		","	N	","		","	1	","	05-May-15	","	119934001
+72804	","		","	Human	","	2248453	","	GLICLAZIDE-80	","		","	N	","		","	1	","	10-Mar-06	","	119934001
+90015	","		","	Disinfectant	","	2415569	","	GLISTEN DISHWASHER MAGIC MACHINE CLEANER & DISINFECTANT	","		","	N	","		","	1	","	31-Jul-14	","	102158011
+81942	","		","	Disinfectant	","	2333775	","	GLOVES OFF	","		","	N	","		","	2	","	15-Jun-11	","	252654001
+81923	","		","	Human	","	2333619	","	GLUCAGEN	","		","	N	","		","	1	","	02-Mar-10	","	142861001
+81924	","		","	Human	","	2333627	","	GLUCAGEN HYPOKIT	","		","	N	","		","	1	","	02-Mar-10	","	142861001
+67195	","		","	Human	","	2243297	","	GLUCAGON	","		","	N	","		","	1	","	19-Oct-09	","	142861001
+19648	","		","	Human	","	2190885	","	GLUCOBAY	","		","	N	","	81945	","	1	","	02-Nov-06	","	123099002
+19655	","		","	Human	","	2190893	","	GLUCOBAY	","		","	N	","	81952	","	1	","	02-Nov-06	","	123099001
+63424	","		","	Human	","	2239924	","	GLUCONORM 0.5MG	","		","	N	","		","	1	","	06-Jan-09	","	137035001
+63425	","		","	Human	","	2239925	","	GLUCONORM 1.0MG	","		","	N	","		","	1	","	06-Aug-04	","	137035002
+63426	","		","	Human	","	2239926	","	GLUCONORM 2.0MG	","		","	N	","		","	1	","	06-Aug-04	","	137035003
+17104	","		","	Human	","	2099233	","	GLUCOPHAGE	","		","	N	","	79254	","	1	","	12-Feb-15	","	101773001
+18835	","		","	Human	","	2162849	","	GLUCOPHAGE	","		","	N	","	81115	","	1	","	13-Mar-08	","	101773002
+75387	","		","	Human	","	2268493	","	GLUMETZA	","		","	N	","		","	1	","	20-Jan-14	","	101773001
+78575	","		","	Human	","	2300451	","	GLUMETZA	","		","	N	","		","	1	","	16-Apr-13	","	101773003
+76631	","		","	Disinfectant	","	2280647	","	GLUQUAT	","		","	N	","		","	5	","	21-Aug-06	","	551641001
+80388	","		","	Disinfectant	","	2318393	","	GLUQUAT 2	","		","	N	","		","	5	","	31-Mar-09	","	551641002
+11834	","		","	Disinfectant	","	1936956	","	GLUTACIDE	","		","	N	","	72755	","	1	","	13-Jun-06	","	108829001
+47571	","		","	Disinfectant	","	2229641	","	GLUTACIDE CONCENTRATE 10% W/V	","		","	N	","		","	1	","	01-Oct-10	","	108829009
+89661	","		","	Disinfectant	","	2412020	","	GLUTER8	","		","	N	","		","	1	","	24-Jun-14	","	108829001
+37137	","		","	Disinfectant	","	2217902	","	GLUTERATE	","		","	N	","	H4603	","	1	","	29-Mar-12	","	108829001
+12865	","		","	Human	","	1959352	","	GLYBURIDE-2.5 TAB 2.5MG	","		","	N	","	74094	","	1	","	10-Mar-06	","	108708002
+1912	","		","	Human	","	298417	","	GLYCERINATED PHENOL SALINE	","		","	N	","	45616	","	3	","	29-Apr-15	","	309608001
+11330	","		","	Human	","	783668	","	GLYCEROLYTE 57 SOLUTION	","		","	N	","	71964	","	5	","	15-Nov-11	","	520437001
+3865	","		","	Human	","	498793	","	GLYCINE 1.5% IRRIGATION	","		","	N	","	55750	","	1	","	12-Aug-10	","	105118001
+9828	","		","	Human	","	799955	","	GLYCINE 1.5% IRRIGATION USP SOL	","		","	N	","	69135	","	1	","	21-Jun-06	","	105118001
+15540	","		","	Human	","	1963945	","	GLYCINE IRRIGATION 1.5% USP	","		","	N	","	77235	","	1	","	30-Apr-15	","	105118001
+5147	","		","	Veterinary	","	560170	","	GLYCOL-P (PROPYLENE GLYCOL ORAL SOLUTION)	","		","	N	","	59786	","	5	","	18-Aug-08	","	509976001
+47421	","		","	Human	","	2229516	","	GLYCON	","		","	N	","		","	1	","	15-Jul-14	","	101773001
+62674	","		","	Human	","	2239214	","	GLYCON 850MG	","		","	N	","		","	1	","	15-Jul-14	","	101773002
+86866	","		","	Human	","	2382857	","	GLYCOPYRROLATE INJECTION	","	SINGLE USE VIAL	","	N	","		","	1	","	03-Aug-12	","	102396002
+86865	","		","	Human	","	2382849	","	GLYCOPYRROLATE INJECTION MULTIDOSE	","	"CONTAINS BENZYL ALCHOL, MULTIDOSE VIAL"	","	N	","		","	1	","	25-Jul-13	","	102396002
+14577	","		","	Human	","	2039508	","	GLYCOPYRROLATE INJECTION USP	","		","	N	","	76226	","	1	","	05-May-15	","	102396002
+90499	","		","	Disinfectant	","	2420406	","	GLYCO-SAN	","		","	N	","		","	1	","	18-Nov-14	","	119972009
+72192	","		","	Human	","	2247884	","	GLYQUIN XM	","		","	N	","		","	4	","	15-Nov-13	","	449401001
+12247	","		","	Disinfectant	","	1910604	","	G-NOL DISINFECTANT SOL	","		","	N	","	73304	","	2	","	22-Oct-09	","	213136002
+86057	","	CAT IV - ANTISEPTIC SKIN CLEANSERS	","	Human	","	2375168	","	GOJO ANTIBACTERIAL FOAM HANDWASH TRICLOSAN LIQUID	","	FOAM	","	N	","		","	1	","	23-May-12	","	108865003
+73604	","		","	Human	","	2251094	","	GOJO ANTIBACTERIAL LUXURY FOAM HANDWASH	","		","	N	","		","	1	","	11-Jul-12	","	106942008
+86054	","	CAT IV - ANTISEPTIC SKIN CLEANSERS	","	Human	","	2375133	","	GOJO ANTIBACTERIAL PLUM SCENT FOAM HANDWASH TRICLOSAN LIQUID	","	FOAM SOAP	","	N	","		","	1	","	16-Jan-14	","	108865003
+75542	","	CAT IV - ANTISEPTIC SKIN CLEANSERS	","	Human	","	2270021	","	GOJO E2 FOAM SANITIZING SOAP	","		","	N	","		","	1	","	11-Jul-12	","	106942005
+77286	","		","	Human	","	2287455	","	GOJO PREMIUM FOAM ANTIBACTERIAL HANDWASH	","		","	N	","		","	1	","	11-Jul-12	","	106942008
+80397	","	LS - TOPICAL - ANAESTHETIC/ANALGESIC/ANTIPRURITIC	","	Human	","	2318482	","	GOLD BOND ANTI-ITCH LOTION	","		","	N	","		","	3	","	29-Apr-15	","	352493001
+60901	","		","	Human	","	2237563	","	GOLD BOND EXTRA STRENGTH MEDICATED BODY LOTION	","		","	N	","		","	2	","	29-Apr-15	","	231755002
+60289	","		","	Human	","	2236991	","	GOLD BOND MEDICATED ANTI-ITCH CREAM	","		","	N	","		","	2	","	29-Apr-15	","	219439002
+60861	","		","	Human	","	2237526	","	GOLD BOND MEDICATED BODY LOTION	","		","	N	","		","	2	","	29-Apr-15	","	231755001
+88804	","		","	Human	","	2403226	","	GOLD BOND ULTIMATE DERM INTENSE DRY SKIN RELIEF FOOT CREAM	","		","	N	","		","	1	","	23-Sep-13	","	148022002
+6370	","		","	Human	","	652512	","	GOLYTELY GI LAVAGE SOLUTION	","		","	N	","	62883	","	5	","	10-May-06	","	516978001
+72486	","		","	Human	","	2248154	","	GONAL-F	","		","	N	","		","	1	","	02-Feb-11	","	145621003
+72488	","		","	Human	","	2248156	","	GONAL-F	","		","	N	","		","	1	","	02-Feb-11	","	145621005
+72489	","		","	Human	","	2248157	","	GONAL-F	","		","	N	","		","	1	","	02-Feb-11	","	145621006
+75576	","		","	Human	","	2270382	","	GONAL-F PEN	","		","	N	","		","	1	","	03-Feb-11	","	145621007
+75577	","		","	Human	","	2270390	","	GONAL-F PEN	","		","	N	","		","	1	","	03-Feb-11	","	145621008
+75578	","		","	Human	","	2270404	","	GONAL-F PEN	","		","	N	","		","	1	","	03-Feb-11	","	145621009
+82417	","		","	Disinfectant	","	2338513	","	GOOD AND CLEAN DISINFECTANT WIPES	","		","	N	","		","	2	","	13-Feb-12	","	205019038
+86690	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2381133	","	GOT THE GOODS MULTI-BENEFIT FOUNDATION LOTION	","		","	N	","		","	3	","	08-Jan-14	","	321685071
+79450	","		","	Human	","	2308894	","	GRANISETRON	","		","	N	","		","	1	","	17-May-11	","	123183001
+78998	","		","	Human	","	2304708	","	GRANISETRON HYDROCHLORIDE INJECTION	","		","	N	","		","	1	","	16-Mar-09	","	123183001
+80824	","		","	Human	","	2322765	","	GRANISETRON HYDROCHLORIDE INJECTION	","		","	N	","		","	1	","	05-Jun-09	","	123183001
+87104	","		","	Human	","	2385414	","	GRANISETRON HYDROCHLORIDE INJECTION SDZ	","	PRESERVATIVE FREE	","	N	","		","	1	","	14-Jan-13	","	123183001
+90288	","		","	Human	","	2418304	","	GRASTEK	","		","	N	","		","	1	","	06-Jun-14	","	134163005
+193	","	LS - DIMENHYDRINATE	","	Human	","	13609	","	GRAVOL COMFORT SHAPED SUPPOSITORIES	","		","	N	","	7140	","	1	","	29-Apr-15	","	102747003
+3944	","	LS - DIMENHYDRINATE	","	Human	","	13803	","	GRAVOL EASY TO SWALLOW TABLETS	","		","	N	","	56148	","	1	","	29-Apr-15	","	102747004
+197	","	LS - DIMENHYDRINATE	","	Human	","	13579	","	GRAVOL IM	","		","	N	","	7159	","	1	","	29-Apr-15	","	102747004
+73930	","		","	Human	","	2254409	","	GRAVOL IMMEDIATE RELEASE & LONG ACTING CAPLETS	","		","	N	","		","	1	","	20-Nov-12	","	102747003
+9585	","	LS - DIMENHYDRINATE	","	Human	","	783595	","	GRAVOL KIDS COMFORT SHAPED SUPPOSITORIES	","		","	N	","	68789	","	1	","	29-Apr-15	","	102747006
+1256	","	LS - DIMENHYDRINATE	","	Human	","	230197	","	GRAVOL KIDS LIQUID	","		","	N	","	38220	","	1	","	29-Apr-15	","	102747007
+86986	","	LS - DIMENHYDRINATE	","	Human	","	2384116	","	GRAVOL KIDS QUICK DISSOLVE CHEWABLE	","		","	N	","		","	1	","	03-Dec-12	","	102747005
+86988	","	LS - DIMENHYDRINATE	","	Human	","	2384132	","	GRAVOL QUICK DISSOLVE CHEWABLE	","		","	N	","		","	1	","	20-Nov-12	","	102747004
+69984	","	LS - DIMENHYDRINATE	","	Human	","	2245867	","	GRAVOL TASTEFREE LIQUID GEL CAPSULES	","		","	N	","		","	1	","	29-Apr-15	","	102747004
+88228	","		","	Disinfectant	","	2397315	","	GREAT VALUE ALL PURPOSE CONCENTRATED CLEANER AND DISINFECTANT	","		","	N	","		","	4	","	19-Jun-14	","	414758036
+82428	","		","	Disinfectant	","	2338610	","	GREAT VALUE DISINFECTANT WIPES	","		","	N	","		","	2	","	19-Aug-14	","	205019038
+89611	","		","	Disinfectant	","	2411490	","	GREAT VALUE HEAVY-DUTY BLEACH/EAU DE JAVEL ULTRA PUISSANT	","		","	N	","		","	1	","	19-Mar-14	","	106897024
+75959	","		","	Disinfectant	","	2274132	","	GREEN EARTH DAILY DISINFECTANT	","		","	N	","		","	2	","	26-Nov-08	","	213172005
+7139	","		","	Disinfectant	","	693057	","	GREER CSG 1000	","		","	N	","	64783	","	2	","	26-May-14	","	205019002
+13565	","		","	Human	","	1915533	","	GUAITUSSIN DM COUGH FORMULA SYR	","		","	N	","	74976	","	2	","	05-Apr-00	","	200826001
+89204	","		","	Veterinary	","	2407337	","	GUARD AND WOUND SPRAY	","		","	N	","		","	3	","	30-Jun-15	","	354351001
+87001	","		","	Human	","	2384272	","	GUM PAROEX	","		","	N	","		","	1	","	01-Oct-12	","	107629007
+85902	","		","	Human	","	2373807	","	H.E.L.P. ACETATE BUFFER PH 4.85	","	BUFFFER SOLUTION FOR PLASMA DIALYSIS WITH THE H.E.L.P SYSTEM. EXTRACORPOREAL USE ONLY (SINGLE-USE)	","	N	","		","	2	","	27-Mar-12	","	252999001
+85903	","		","	Human	","	2373815	","	H.E.L.P. NACI 0.9%	","	PRIMING AND RINSING SOLUTION FOR H.E.L.P SYSTEM. FOR EXTRACORPOREAL USE ONLY.	","	N	","		","	1	","	27-Mar-12	","	100053044
+85901	","		","	Human	","	2373793	","	H.E.L.P.BICEL	","	"BICARBONATE PLASMA DIALYSIS. FOR EXTRACORPOREAL USE ONLY, WITH THE H.E.L.P SYSTEM. SINGLE-USE."	","	N	","		","	7	","	27-Mar-12	","	752998001
+88266	","		","	Disinfectant	","	2397730	","	H202 CONCENTRATE DISINFECTANT CLEANER	","		","	N	","		","	2	","	30-Apr-15	","	252197003
+73893	","		","	Disinfectant	","	2254018	","	H2ORANGE2 CONCENTRATE 117	","		","	N	","		","	1	","	02-Nov-10	","	106899017
+7269	","		","	Veterinary	","	726990	","	H-30 TEAT DIP 0.55%	","		","	N	","	65040	","	2	","	13-Jul-11	","	216755002
+7270	","		","	Veterinary	","	727008	","	H-50 UDDER WASH 1.6%	","		","	N	","	65041	","	1	","	13-Jul-11	","	107805002
+9254	","		","	Veterinary	","	715808	","	HAEMATONE-15	","		","	N	","	68193	","	10	","	28-Jun-05	","	1013258001
+84173	","		","	Human	","	2356597	","	HAIR REGROWTH FORMULA	","		","	N	","		","	1	","	26-Mar-13	","	114429001
+79248	","		","	Veterinary	","	2306794	","	HAIRBALL PREPARATION	","		","	N	","		","	2	","	29-Jul-09	","	250201002
+86314	","		","	Human	","	2377438	","	HALAVEN	","	2ML SINGLE USE VIAL	","	N	","		","	1	","	22-Mar-12	","	153064001
+87355	","		","	Veterinary	","	2387980	","	HALOCUR	","		","	N	","		","	1	","	19-Dec-13	","	131295002
+10026	","		","	Human	","	808652	","	HALOPERIDOL INJ 5MG/ML USP	","		","	N	","	69669	","	1	","	05-May-15	","	101774001
+85088	","		","	Human	","	2366010	","	HALOPERIDOL INJECTION	","	FOR I.M. INJECTION ONLY. NOT FOR I.V USE. PRESERVATIVE-FREE.	","	N	","		","	1	","	21-Oct-13	","	101774001
+89112	","		","	Human	","	2406411	","	"HALOPERIDOL INJECTION, USP"	","	1ML & 10 ML MULTIDOSE VIALS	","	N	","		","	1	","	03-Jun-15	","	101774001
+16901	","		","	Human	","	2130297	","	HALOPERIDOL LA	","		","	N	","	78971	","	1	","	05-May-15	","	101774007
+16902	","		","	Human	","	2130300	","	HALOPERIDOL LA	","		","	N	","	78972	","	1	","	05-May-15	","	101774008
+63111	","		","	Human	","	2239639	","	HALOPERIDOL-LA OMEGA	","		","	N	","		","	1	","	12-Apr-06	","	101774007
+63112	","		","	Human	","	2239640	","	HALOPERIDOL-LA OMEGA	","		","	N	","		","	1	","	12-Apr-06	","	101774008
+2226	","		","	Human	","	346314	","	HALOTHANE	","		","	N	","	48205	","	1	","	29-Apr-15	","	103138002
+83325	","	CAT IV - ANTISEPTIC SKIN CLEANSERS	","	Human	","	2347881	","	HAND SANITIZING MOISTURIZER	","		","	N	","		","	1	","	29-Apr-15	","	104367006
+88424	","	CAT IV - ANTISEPTIC SKIN CLEANSERS	","	Human	","	2399350	","	HAND SANITIZING WIPES	","		","	N	","		","	1	","	14-Jan-15	","	104993016
+80569	","	CAT IV - ANTISEPTIC SKIN CLEANSERS	","	Human	","	2320258	","	HANDS FRESH ALCOHOL-FREE FOAM SANITIZER	","		","	N	","		","	1	","	09-Nov-09	","	104993004
+61938	","	CAT IV - ANTISEPTIC SKIN CLEANSERS	","	Human	","	2238517	","	HANDS ON ANTISEPTIC	","		","	N	","		","	1	","	12-Jul-12	","	104993004
+61762	","	CAT IV - ANTISEPTIC SKIN CLEANSERS	","	Human	","	2238350	","	HANDS ON DEFENSE	","		","	N	","		","	1	","	12-Jul-12	","	108865003
+74517	","	CAT IV - ANTISEPTIC SKIN CLEANSERS	","	Human	","	2259915	","	HANDS2GO	","		","	N	","		","	1	","	25-Aug-15	","	104993027
+84026	","		","	Veterinary	","	2355019	","	HARTZ HAIRBALL REMEDY PLUS	","		","	N	","		","	3	","	30-May-12	","	352767001
+50230	","		","	Veterinary	","	2230952	","	HARTZ ULTRA GUARD PLUS RID WORM TABLET	","		","	N	","		","	2	","	29-Apr-15	","	231530004
+50331	","		","	Veterinary	","	2231050	","	HARTZ ULTRA GUARD PLUS RID WORM TABLET	","		","	N	","		","	2	","	29-Apr-15	","	231530001
+91668	","		","	Human	","	2432226	","	HARVONI	","		","	N	","		","	2	","	25-May-15	","	256070001
+90992	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2425289	","	HAUTE EXIGENCE JOUR SPF 20 MULTI-INTENSIVE	","		","	N	","		","	3	","	26-Jun-15	","	352510010
+20256	","		","	Human	","	2187078	","	HAVRIX - SUS IM 1440 ELISA UNITS/ML	","		","	N	","	82560	","	1	","	02-Mar-15	","	126318002
+50339	","		","	Human	","	2231056	","	HAVRIX 720 JUNIOR	","		","	N	","		","	1	","	02-Mar-15	","	126318002
+81366	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2328151	","	HAWAIIAN TROPIC DRY OIL HUILE S?CHE SUNSCREEN SPRAY ?CRAN SOLAIRE EN VAPORISATEUR 10	","		","	N	","		","	3	","	10-Mar-10	","	350421010
+81893	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2333309	","	HAWAIIAN TROPIC KIDS LOTION SUNSCREEN ?CRAN SOLAIRE POUR ENFANTS 60	","		","	N	","		","	3	","	12-May-11	","	350421006
+90795	","		","	Human	","	2423219	","	HAWAIIAN TROPIC KIDS SUNSCREEN LOTION SPF/FPS 50+	","		","	N	","		","	3	","	25-Sep-15	","	350421018
+90652	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2421844	","	HAWAIIAN TROPIC PROTECTIVE DRY OIL SUNSCREEN SPRAY SPF/FPS 10	","		","	N	","		","	2	","	25-Sep-15	","	242881005
+91047	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2425831	","	HAWAIIAN TROPIC SHEER TOUCH CLEAR SUNSCREEN SPRAY SPF 30 ULTRA RADIANCE	","	LOTION	","	N	","		","	4	","	17-Feb-15	","	451521035
+91061	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2425998	","	HAWAIIAN TROPIC SHEER TOUCH CLEAR SUNSCREEN SPRAY SPF 50+ ULTRA RADIANCE	","	LOTION	","	N	","		","	4	","	17-Feb-15	","	451521046
+91515	","		","	Human	","	2430703	","	HAWAIIAN TROPIC SHEER TOUCH OIL-FREE SUNSCREEN LOTION SPF/FPS 60	","		","	N	","		","	4	","	25-Sep-15	","	451521042
+81370	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2328186	","	HAWAIIAN TROPIC SHEER TOUCH TOUCHER SOYEUX CLEAR SUNSCREEN SPRAY ?CRAN SOLAIRE TRANSPARENT EN VAPORISATEUR 30	","		","	N	","		","	3	","	24-May-11	","	350421009
+81367	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2328178	","	HAWAIIAN TROPIC SHEER TOUCH TOUCHER SOYEUX OIL-FREE SUNSCREEN ?CRAN SOLAIRE SANS HUILE 15 SPF/FPS	","		","	N	","		","	3	","	05-May-11	","	350421005
+84262	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2357518	","	HAWAIIAN TROPIC SHIMMER EFFECT OIL-FREE SUNSCREEN ?CRAN SOLAIRE SANS HUILE 15 SPF/FPS	","		","	N	","		","	3	","	13-Jul-11	","	350421020
+90936	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2424681	","	HAWAIIAN TROPIC SILK HYDRATION FACE OIL-FREEE SUNSCREEN	","		","	N	","		","	3	","	17-Feb-15	","	350421017
+85883	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2373602	","	HAWAIIAN TROPIC SILK HYDRATION SUNSCREEN LOTION ?CRAN SOLAIRE 30 SPF/FPS	","		","	N	","		","	3	","	25-Sep-15	","	350421017
+85882	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2373599	","	HAWAIIAN TROPIC SILK HYDRATION SUNSCREEN LOTION ?CRAN SOLAIRE 50 SPF/FPS	","		","	N	","		","	3	","	25-Sep-15	","	350421018
+81490	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2329212	","	HAWAIIAN TROPIC SUNSCREEN LOTION ?CRAN SOLAIRE 4	","		","	N	","		","	2	","	25-Sep-15	","	252622001
+81491	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2329220	","	HAWAIIAN TROPIC SUNSCREEN LOTION ?CRAN SOLAIRE 8	","		","	N	","		","	2	","	10-Mar-10	","	252622002
+91046	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2425823	","	HAWAIIAN TROPIC TOUCH OF COLOUR TINTED SUNSCREEN SPRAY LOTION SPF 15	","		","	N	","		","	3	","	20-Feb-15	","	335121020
+91055	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2425920	","	HAWAIIAN TROPIC TOUCH OF COLOUR TINTED SUNSCREEN SPRAY LOTION SPF 4	","		","	N	","		","	3	","	17-Feb-15	","	335121021
+88364	","	CAT IV - ANTIDANDRUFF PRODUCTS	","	Human	","	2398702	","	HEAD & SHOULDERS ACTIVE SPORT 2 IN 1 MEN	","		","	N	","		","	1	","	22-Jan-14	","	108628001
+88363	","	CAT IV - ANTIDANDRUFF PRODUCTS	","	Human	","	2398699	","	HEAD & SHOULDERS ACTIVE SPORT MEN	","		","	N	","		","	1	","	22-Jan-14	","	108628001
+88452	","	CAT IV - ANTIDANDRUFF PRODUCTS	","	Human	","	2399660	","	HEAD & SHOULDERS CITRUS BREEZE	","		","	N	","		","	1	","	22-Jan-14	","	108628001
+88450	","	CAT IV - ANTIDANDRUFF PRODUCTS	","	Human	","	2399644	","	HEAD & SHOULDERS CLASSIC CLEAN	","		","	N	","		","	1	","	22-Jan-14	","	108628001
+88449	","	CAT IV - ANTIDANDRUFF PRODUCTS	","	Human	","	2399636	","	HEAD & SHOULDERS CLASSIC CLEAN 2 IN 1	","		","	N	","		","	1	","	22-Jan-14	","	108628001
+88484	","		","	Human	","	2400006	","	HEAD & SHOULDERS DAMAGE RESCUE	","		","	N	","		","	1	","	23-Apr-14	","	108628001
+87287	","	CAT IV - ANTIDANDRUFF PRODUCTS	","	Human	","	2387263	","	HEAD & SHOULDERS DAMAGE RESCUE 2IN1	","		","	N	","		","	1	","	21-Feb-14	","	108628001
+68253	","		","	Human	","	2244286	","	HEAD & SHOULDERS DANDRUFF CONDITIONER	","		","	N	","		","	1	","	09-May-13	","	108628013
+62742	","	CAT IV - ANTIDANDRUFF PRODUCTS	","	Human	","	2239278	","	HEAD & SHOULDERS DANDRUFF SHAMPOO	","		","	N	","		","	1	","	25-Jan-06	","	108628001
+88362	","	CAT IV - ANTIDANDRUFF PRODUCTS	","	Human	","	2398680	","	HEAD & SHOULDERS DEEP CLEAN 2 IN 1 MEN	","		","	N	","		","	1	","	22-Jan-14	","	108628001
+88360	","	CAT IV - ANTIDANDRUFF PRODUCTS	","	Human	","	2398664	","	HEAD & SHOULDERS DEEP CLEAN MEN	","		","	N	","		","	1	","	22-Jan-14	","	108628001
+88453	","	CAT IV - ANTIDANDRUFF PRODUCTS	","	Human	","	2399679	","	HEAD & SHOULDERS DRY SCALP CARE	","		","	N	","		","	1	","	22-Jan-14	","	108628001
+89821	","		","	Human	","	2413566	","	HEAD & SHOULDERS DRY SCALP CARE 2 MINUTE MOISTURIZER SCALP & HAIR TREATMENT	","		","	N	","		","	1	","	08-May-15	","	108628014
+88442	","	CAT IV - ANTIDANDRUFF PRODUCTS	","	Human	","	2399547	","	HEAD & SHOULDERS DRY SCALP CARE 2IN1	","		","	N	","		","	1	","	22-Jan-14	","	108628001
+88485	","		","	Human	","	2400014	","	HEAD & SHOULDERS EXTRA VOLUME	","		","	N	","		","	1	","	22-Jan-14	","	108628001
+88934	","	CAT IV - ANTIDANDRUFF PRODUCTS	","	Human	","	2404583	","	HEAD & SHOULDERS EXTRA VOLUME 2IN1	","		","	N	","		","	1	","	07-Mar-14	","	108628001
+88499	","		","	Human	","	2400200	","	HEAD & SHOULDERS FULL & STRONG	","		","	N	","		","	1	","	15-Oct-14	","	108628001
+88503	","		","	Human	","	2400219	","	HEAD & SHOULDERS FULL & STRONG 2 IN 1	","		","	N	","		","	1	","	14-Oct-14	","	108628001
+89820	","		","	Human	","	2413558	","	HEAD & SHOULDERS FULL & STRONG 2 MINUTE STRENGTHENER SCALP & HAIR TREATMENT	","		","	N	","		","	1	","	08-May-15	","	108628014
+89793	","		","	Human	","	2413264	","	HEAD & SHOULDERS FULL & STRONG CONDITIONER	","		","	N	","		","	1	","	15-Oct-14	","	108628013
+88501	","	CAT IV - ANTIDANDRUFF PRODUCTS	","	Human	","	2400189	","	HEAD & SHOULDERS FULL & THICK 2 IN 1 MEN	","		","	N	","		","	1	","	26-Feb-14	","	108628001
+88500	","	CAT IV - ANTIDANDRUFF PRODUCTS	","	Human	","	2400170	","	HEAD & SHOULDERS FULL & THICK MEN	","		","	N	","		","	1	","	26-Feb-14	","	108628001
+88443	","	CAT IV - ANTIDANDRUFF PRODUCTS	","	Human	","	2399555	","	HEAD & SHOULDERS GREEN APPLE	","		","	N	","		","	1	","	22-Jan-14	","	108628001
+88444	","	CAT IV - ANTIDANDRUFF PRODUCTS	","	Human	","	2399563	","	HEAD & SHOULDERS GREEN APPLE 2IN1	","		","	N	","		","	1	","	22-Jan-14	","	108628001
+88440	","		","	Human	","	2399520	","	HEAD & SHOULDERS ITCHY SCALP CARE	","		","	N	","		","	1	","	03-Feb-14	","	108628001
+88454	","	CAT IV - ANTIDANDRUFF PRODUCTS	","	Human	","	2399687	","	HEAD & SHOULDERS ITCHY SCALP CARE 2 IN 1	","		","	N	","		","	1	","	22-Jan-14	","	108628001
+88448	","	CAT IV - ANTIDANDRUFF PRODUCTS	","	Human	","	2399628	","	HEAD & SHOULDERS OCEAN LIFT	","		","	N	","		","	1	","	22-Jan-14	","	108628001
+88447	","	CAT IV - ANTIDANDRUFF PRODUCTS	","	Human	","	2399601	","	HEAD & SHOULDERS OCEAN LIFT 2 IN 1	","		","	N	","		","	1	","	23-Jan-14	","	108628001
+87305	","	CAT IV - ANTIDANDRUFF PRODUCTS	","	Human	","	2387476	","	HEAD & SHOULDERS OLD SPICE	","		","	N	","		","	1	","	21-Feb-14	","	108628001
+87288	","	CAT IV - ANTIDANDRUFF PRODUCTS	","	Human	","	2387271	","	HEAD & SHOULDERS OLD SPICE 2IN1	","		","	N	","		","	1	","	21-Feb-14	","	108628001
+88540	","	CAT IV - ANTIDANDRUFF PRODUCTS	","	Human	","	2400634	","	HEAD & SHOULDERS PURELY GENTLE SCALP CARE	","		","	N	","		","	1	","	07-Mar-14	","	108628001
+88542	","	CAT IV - ANTIDANDRUFF PRODUCTS	","	Human	","	2400642	","	HEAD & SHOULDERS PURELY GENTLE SCALP CARE 2IN1	","		","	N	","		","	1	","	07-Mar-14	","	108628001
+88370	","	CAT IV - ANTIDANDRUFF PRODUCTS	","	Human	","	2398761	","	HEAD & SHOULDERS REFRESH 2 IN 1 MEN	","		","	N	","		","	1	","	23-Jan-14	","	108628001
+88369	","	CAT IV - ANTIDANDRUFF PRODUCTS	","	Human	","	2398753	","	HEAD & SHOULDERS REFRESH MEN	","		","	N	","		","	1	","	23-Jan-14	","	108628001
+88455	","	CAT IV - ANTIDANDRUFF PRODUCTS	","	Human	","	2399695	","	HEAD & SHOULDERS SMOOTH & SILKY	","		","	N	","		","	1	","	23-Jan-14	","	108628001
+88456	","	CAT IV - ANTIDANDRUFF PRODUCTS	","	Human	","	2399709	","	HEAD & SHOULDERS SMOOTH & SILKY 2 IN 1	","		","	N	","		","	1	","	23-Jan-14	","	108628001
+89106	","	CAT IV - ANTIDANDRUFF PRODUCTS	","	Human	","	2406349	","	HEAD & SHOULDERS TOTAL CARE ALL-IN-1 MEN	","		","	N	","		","	1	","	07-Mar-14	","	108628001
+9415	","		","	Human	","	784044	","	HEALTH CARE ANTISEPTIC LOTION SOAP	","		","	N	","	68483	","	1	","	01-Dec-10	","	106942004
+11499	","		","	Human	","	1922734	","	HEALTH CARE E-2 ANTIS LOT SOAP	","		","	N	","	72203	","	1	","	01-Dec-10	","	106942004
+61680	","	CAT IV - HARD SURFACE DISINFECTANTS	","	Disinfectant	","	2238284	","	HEALTH SAVER DISINFECTANT II	","		","	N	","		","	4	","	29-Apr-15	","	414758028
+82161	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2336030	","	HEALTHY DEFENSE DAILY MOISTURIZER SPF 30	","		","	N	","		","	5	","	11-May-11	","	544758018
+77721	","		","	Human	","	2291851	","	HEALTHY DEFENSE DAILY MOISTURIZER SPF 45	","		","	N	","		","	5	","	29-Apr-15	","	544758018
+88951	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2404710	","	HEALTHY SKIN CC CREAM SPF 30	","		","	N	","		","	4	","	26-May-14	","	420277038
+90887	","		","	Human	","	2424169	","	HEALTHY SKIN INSTANT TONE CORRECTOR	","		","	N	","		","	3	","	13-Mar-15	","	344423005
+84415	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2359146	","	HEALTHY SKIN LIFT & FIRM	","		","	N	","		","	5	","	24-Jun-11	","	544758074
+85553	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2370379	","	HEALTHY SKIN PROTECTION	","		","	N	","		","	2	","	29-Apr-15	","	216792042
+92002	","		","	Human	","	2435683	","	HEARTBURN CONTROL	","		","	N	","		","	1	","	18-Mar-15	","	121643001
+12688	","		","	Veterinary	","	1909975	","	HEARTGARD-30 PLUS	","		","	N	","	73861	","	2	","	21-Sep-10	","	231434003
+12689	","		","	Veterinary	","	1909983	","	HEARTGARD-30 PLUS	","		","	N	","	73862	","	2	","	21-Sep-10	","	231434002
+12690	","		","	Veterinary	","	1909991	","	HEARTGARD-30 PLUS	","		","	N	","	73863	","	2	","	21-Sep-10	","	231434001
+8254	","		","	Veterinary	","	651982	","	HEARTGARD-30 TABLETS FOR DOGS 136MCG	","		","	N	","	66577	","	1	","	05-May-15	","	124785004
+8255	","		","	Veterinary	","	651990	","	HEARTGARD-30 TABLETS FOR DOGS 272MCG	","		","	N	","	66578	","	1	","	05-May-15	","	124785008
+8253	","		","	Veterinary	","	651966	","	HEARTGARD-30 TABLETS FOR DOGS 68MCG	","		","	N	","	66576	","	1	","	05-May-15	","	124785003
+90422	","	CAT IV - HARD SURFACE DISINFECTANTS	","	Disinfectant	","	2419629	","	HEAVY DUTY DISINFECTANT	","		","	N	","		","	2	","	21-Feb-14	","	213172035
+19290	","		","	Human	","	2154846	","	HELIOX	","	O2 BALANCED BY HE	","	N	","	81582	","	2	","	29-Apr-15	","	215574003
+90106	","		","	Human	","	2416468	","	HELIOX 70/30	","		","	N	","		","	2	","	15-Jun-15	","	215574004
+5688	","		","	Human	","	572888	","	HELIUM 100%	","		","	N	","	61294	","	1	","	11-Jul-06	","	115495001
+5689	","		","	Human	","	572896	","	HELIUM OXYGEN MIXTURE	","	HE:80% BALANCED WITH O2	","	N	","	61295	","	2	","	14-Jul-10	","	215574001
+19294	","		","	Human	","	2154765	","	HELIUM USP	","		","	N	","	81586	","	1	","	29-Apr-15	","	115495001
+13883	","		","	Human	","	2014475	","	HELIUM USP 99%	","		","	N	","	75358	","	1	","	11-Jan-06	","	115495001
+46353	","		","	Human	","	1906801	","	HELIUM-OXYGEN MIX GAS	","	O2:23.1-50% BALANCED WITH HE	","	N	","	W8961	","	2	","	14-Jul-10	","	215574003
+67066	","		","	Human	","	2243186	","	HELIXATE FS	","		","	N	","		","	1	","	20-Apr-15	","	124180001
+67067	","		","	Human	","	2243187	","	HELIXATE FS	","		","	N	","		","	1	","	02-Jun-10	","	124180003
+67068	","		","	Human	","	2243188	","	HELIXATE FS	","		","	N	","		","	1	","	02-Jun-10	","	124180002
+79422	","		","	Human	","	2308592	","	HELIXATE FS	","		","	N	","		","	1	","	02-Jun-10	","	124180006
+76654	","		","	Human	","	2280884	","	HEMA BP-38	","		","	N	","		","	1	","	28-Jul-06	","	104153020
+49287	","		","	Human	","	2230417	","	HEMABATE	","		","	N	","		","	1	","	13-May-09	","	133100001
+81113	","		","	Human	","	2325772	","	HEMACART	","		","	N	","		","	1	","	29-Apr-15	","	104153021
+80867	","		","	Disinfectant	","	2323184	","	HEMACLENSE	","		","	N	","		","	1	","	16-Aug-13	","	106897005
+89956	","		","	Disinfectant	","	2414937	","	"HEMAPEROXY LIQUID DISINFECTANT, USP"	","		","	N	","		","	2	","	11-Jul-14	","	223947020
+12562	","		","	Veterinary	","	1944010	","	HEMO-15	","		","	N	","	73690	","	14	","	14-Jan-10	","	1416453003
+85125	","		","	Disinfectant	","	2366401	","	HEMOCLEAN	","		","	N	","		","	2	","	20-May-15	","	223947018
+73689	","		","	Human	","	2251981	","	HEMORRHOID OINTMENT	","		","	N	","		","	2	","	09-Mar-06	","	214197002
+37185	","	LS - ANORECTAL DRUG PRODUCTS	","	Human	","	2218887	","	HEMORRHOIDAL OINTMENT	","		","	N	","	H4658	","	2	","	18-Dec-14	","	253370001
+73264	","		","	Human	","	2248891	","	HEMORRHOIDAL OINTMENT	","		","	N	","		","	2	","	12-Jul-12	","	214197002
+49424	","	LS - ANORECTAL DRUG PRODUCTS	","	Human	","	2230466	","	HEMORRHOIDAL RELIEF OINTMENT	","		","	N	","		","	1	","	26-Mar-13	","	100662006
+9527	","		","	Veterinary	","	654620	","	HEMOSTAM INJ	","		","	N	","	68712	","	9	","	12-Jun-08	","	906561001
+86607	","		","	Veterinary	","	2380250	","	HEMO-STAT POWDER	","		","	N	","		","	3	","	23-May-14	","	352709001
+8567	","		","	Veterinary	","	308234	","	HEMOSTOP POWDER	","		","	N	","	67106	","	4	","	23-Nov-04	","	407031001
+14496	","		","	Human	","	1994042	","	HENRY SCHEIN ANTIMICROBIAL SKIN CLEANSER	","		","	N	","	76129	","	1	","	17-Apr-13	","	107629001
+63709	","		","	Disinfectant	","	2240189	","	HENRY SCHEIN SURFACE DISINFECTANT	","		","	N	","		","	3	","	08-Sep-07	","	321564003
+78918	","		","	Disinfectant	","	2303876	","	HEPACIDE UNITED C262	","		","	N	","		","	2	","	08-May-08	","	205019005
+77637	","		","	Human	","	2290979	","	HEPAGAM B	","	ACTIVE INGREDIENT STRENGTH > 312 IU/ML	","	N	","		","	1	","	09-Jul-10	","	114080004
+8042	","		","	Human	","	727520	","	HEPARIN LEO 100UNIT/ML	","		","	N	","	66269	","	1	","	18-Jul-07	","	104596003
+10526	","		","	Human	","	453811	","	HEPARIN LEO INJ 1000UNIT/ML	","		","	N	","	70454	","	1	","	25-Jul-05	","	104596004
+9790	","		","	Human	","	725323	","	HEPARIN LOCK FLUSH SOLUTION INJECTION USP	","		","	N	","	69052	","	1	","	29-Nov-07	","	104596009
+9791	","		","	Human	","	725315	","	HEPARIN LOCK FLUSH SOLUTION INJECTION USP	","		","	N	","	69053	","	1	","	29-Nov-07	","	104596003
+10521	","		","	Human	","	828750	","	HEPARIN SOD AND 0.9% SOD CHLORIDE INJ	","		","	N	","	70448	","	2	","	21-Sep-06	","	231405001
+21993	","		","	Human	","	1935933	","	HEPARIN SODIUM 1000UNITS IN 0.9% SODIUM CHLORIDE INJECTION USP	","		","	N	","	E1855	","	4	","	30-Apr-15	","	422730001
+12647	","		","	Human	","	894648	","	HEPARIN SODIUM 20000UNIT/500ML IN DEXT 5% INJ	","		","	N	","	73813	","	1	","	29-Nov-07	","	104596010
+36794	","		","	Human	","	2209713	","	HEPARIN SODIUM 20000UNITS IN 5% DEXTROSE INJ	","		","	N	","	H4164	","	2	","	29-Apr-15	","	220064001
+12646	","		","	Human	","	894605	","	HEPARIN SODIUM 25000UNIT/500ML IN 5% DEXTR INJ	","		","	N	","	73812	","	1	","	29-Nov-07	","	104596005
+36795	","		","	Human	","	2209721	","	HEPARIN SODIUM 25000UNITS IN 5% DEXTROSE INJ	","		","	N	","	H4165	","	2	","	29-Apr-15	","	220064003
+45892	","		","	Human	","	622354	","	HEPARIN SODIUM 5000UNIT/500ML IN SODIUM CHLORIDE 0.9%	","		","	N	","	W8254	","	1	","	29-Apr-15	","	104596009
+17227	","		","	Human	","	1990748	","	HEPARIN SODIUM IN .9% SODIUM CHLORIDE INJECTION	","		","	N	","	79380	","	2	","	08-Sep-08	","	200243001
+16794	","		","	Human	","	1935941	","	"HEPARIN SODIUM IN 5% DEXTROSE INJECTION, 25000UNIT/500ML"	","		","	N	","	78716	","	4	","	29-Apr-15	","	423088001
+86815	","		","	Human	","	2382296	","	HEPARIN SODIUM INJECTION USP	","	"WITH PRESERVATIVE. 10,000 UNITS/10ML VIALS. (MULTIDOSE)"	","	N	","		","	1	","	12-Mar-13	","	104596004
+86817	","		","	Human	","	2382326	","	HEPARIN SODIUM INJECTION USP	","	"WITH PRESERVATIVE. 10,000 UNITS/2ML (1ML FILL) VIALS. (MULTIDOSE)"	","	N	","		","	1	","	12-Mar-13	","	104596002
+78842	","		","	Human	","	2303094	","	HEPARIN SODIUM INJECTION USP         (SINGLE USE VIAL-PRESERVATIVE FREE)	","		","	N	","		","	1	","	21-Nov-08	","	104596002
+78841	","		","	Human	","	2303086	","	HEPARIN SODIUM INJECTION USP        (MULTIDOSE VIAL-WITH PRESERVATIVE)	","		","	N	","		","	1	","	21-Nov-08	","	104596004
+78843	","		","	Human	","	2303108	","	HEPARIN SODIUM INJECTION USP       (MULTIDOSE VIAL-WITH PRESERVATIVE)	","		","	N	","		","	1	","	21-Nov-08	","	104596002
+74973	","		","	Human	","	2264307	","	"HEPARIN SODIUM INJECTION, USP"	","	WITH PRESERVATIVE	","	N	","		","	1	","	24-Sep-15	","	104596002
+74976	","		","	Human	","	2264315	","	"HEPARIN SODIUM INJECTION, USP"	","		","	N	","		","	1	","	29-Apr-15	","	104596004
+87773	","		","	Human	","	2392453	","	"HEPARIN SODIUM INJECTION, USP"	","	PRESERVATIVE-FREE. 0.5ML SINGLE-DOSE VIAL	","	N	","		","	1	","	24-Sep-15	","	104596002
+19369	","		","	Veterinary	","	780731	","	HEPAVIT FCC	","		","	N	","	81662	","	10	","	23-Mar-05	","	1009107001
+72117	","		","	Human	","	2247823	","	HEPSERA	","		","	N	","		","	1	","	05-May-15	","	149364001
+62649	","		","	Human	","	2239193	","	HEPTOVIR	","		","	N	","		","	1	","	17-Dec-14	","	128157003
+62650	","		","	Human	","	2239194	","	HEPTOVIR	","		","	N	","		","	1	","	22-Aug-14	","	128157004
+83720	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2351951	","	HERBAL DAY CREME SPF 15	","		","	N	","		","	3	","	08-Jan-14	","	325724006
+64277	","		","	Human	","	2240692	","	HERCEPTIN	","	VIALS	","	N	","		","	1	","	12-Apr-13	","	154252001
+84422	","	CAT IV - HARD SURFACE DISINFECTANTS	","	Disinfectant	","	2359197	","	HERTEL BIOD?GRADABLE TOUT USAGE ALL PURPOSE D?SINFECTANT DISINFECTANT	","		","	N	","		","	1	","	29-May-15	","	104993048
+84419	","	CAT IV - HARD SURFACE DISINFECTANTS	","	Disinfectant	","	2359162	","	HERTEL CR?ME D?SINFECTANT/ HERTEL CREAM DISINFECTANT	","		","	N	","		","	1	","	29-May-15	","	104993048
+89638	","		","	Disinfectant	","	2411792	","	HERTEL MULTI SURFACE DISINFECTANT CLEANER	","		","	N	","		","	1	","	20-Mar-14	","	104993053
+68933	","		","	Disinfectant	","	2244935	","	HERTEL PLUS ULTRA PUISSANT D?SINFECTANT + D?GRAISSANT/ HERTEL PLUS EXTRA STRENGTH DISINFECTANT + DEGREASER	","		","	N	","		","	1	","	28-May-15	","	104993040
+65206	","	CAT IV - HARD SURFACE DISINFECTANTS	","	Disinfectant	","	2241553	","	HERTEL PRO	","		","	N	","		","	1	","	25-Nov-08	","	104993040
+81120	","		","	Disinfectant	","	2325845	","	HERTEL SALLE DE BAINS D?SINFECTANT AVEC EAU DE JAVEL / HERTEL BATHROOM DISINFECTANT WITH BLEACH	","		","	N	","		","	1	","	28-May-15	","	106897031
+84441	","	CAT IV - HARD SURFACE DISINFECTANTS	","	Disinfectant	","	2359383	","	HERTEL TOILET BOWL DISINFECTANT CLEANER	","		","	N	","		","	1	","	07-Aug-14	","	104993033
+64983	","		","	Veterinary	","	2241352	","	HEXADENE FLUSH	","		","	N	","		","	1	","	29-Oct-01	","	107629018
+64984	","		","	Veterinary	","	2241353	","	HEXADENE SHAMPOO	","		","	N	","		","	1	","	29-Oct-01	","	107629004
+78509	","		","	Veterinary	","	2299720	","	HEXI PREP	","		","	N	","		","	1	","	27-Dec-07	","	107805002
+70475	","		","	Disinfectant	","	2246312	","	"HEX-ODOUR CONTROL LIQUID DISINFECTANT, DEODORIZER, & CLEANER"	","		","	N	","		","	1	","	15-Sep-15	","	104993035
+77213	","		","	Human	","	2286688	","	HFS ANTIMICROBIAL FOAM HAND SOAP WITH TRICLOSAN	","		","	N	","		","	1	","	11-Jul-12	","	108865003
+3093	","		","	Disinfectant	","	388300	","	HG7 HOS GERMICIDE	","		","	N	","	52800	","	2	","	08-Jul-11	","	213136012
+19113	","		","	Disinfectant	","	2160293	","	HI SEPT	","		","	N	","	81403	","	2	","	15-Dec-08	","	205019013
+62657	","		","	Human	","	2239200	","	HIBERIX	","		","	N	","		","	1	","	14-Jan-14	","	153511001
+89	","		","	Veterinary	","	53201	","	HIBITANE	","		","	N	","	2340	","	1	","	29-Apr-15	","	107805001
+1016	","		","	Disinfectant	","	53236	","	HIBITANE DISINFECTANT	","		","	N	","	34123	","	1	","	29-Apr-15	","	107805009
+1436	","	CAT IV - ANTISEPTIC SKIN CLEANSERS	","	Human	","	245097	","	HIBITANE SKIN CLEANSER	","		","	N	","	40149	","	1	","	29-Apr-15	","	107629001
+75707	","		","	Veterinary	","	2271524	","	HIGH POTENCY CALCIUM GEL	","		","	N	","		","	1	","	25-Feb-09	","	108565019
+83706	","		","	Human	","	2351811	","	HIGH PROTECTION EMULSION	","		","	N	","		","	3	","	13-Jul-12	","	352739002
+83710	","		","	Human	","	2351862	","	HIGH PROTECTION LOTION	","		","	N	","		","	3	","	13-Jul-12	","	352739003
+92153	","		","	Human	","	2437236	","	HIGH PROTECTION LOTION SPF 50+	","		","	N	","		","	5	","	20-Apr-15	","	556570001
+92160	","		","	Human	","	2437309	","	HIGH PROTECTION SPRAY SPF 50+	","		","	N	","		","	5	","	20-Apr-15	","	556570002
+61193	","		","	Veterinary	","	2237834	","	HI-PENCIN 300	","		","	N	","		","	1	","	29-Apr-15	","	105890001
+9554	","		","	Veterinary	","	719021	","	HIPPIRON 1000	","		","	N	","	68744	","	1	","	29-Apr-15	","	108536014
+5368	","		","	Human	","	575178	","	HISTANTIL TAB 25MG	","		","	N	","	60478	","	1	","	12-Jul-12	","	106204001
+5369	","		","	Human	","	575186	","	HISTANTIL TAB 50MG	","		","	N	","	60479	","	1	","	12-Jul-12	","	106204002
+5537	","		","	Human	","	609692	","	HISTATROL	","		","	N	","	60933	","	1	","	01-Sep-09	","	107535001
+5538	","		","	Human	","	609706	","	HISTATROL	","		","	N	","	60934	","	1	","	17-Aug-09	","	107535002
+76178	","		","	Human	","	2276119	","	HISTENOL II	","		","	N	","		","	4	","	09-Jul-12	","	451421003
+71475	","		","	Veterinary	","	2247233	","	HISTOSTAT 50	","		","	N	","		","	1	","	30-Apr-15	","	148984001
+85549	","		","	Human	","	2370352	","	HIZENTRA	","		","	N	","		","	1	","	31-Oct-11	","	106267011
+76483	","	CAT IV - HARD SURFACE DISINFECTANTS	","	Disinfectant	","	2279274	","	HLD5	","		","	N	","		","	1	","	29-Apr-15	","	106899018
+82791	","		","	Disinfectant	","	2342413	","	HMTS STERILANT AGENT	","		","	N	","		","	1	","	26-Oct-10	","	106899005
+130	","		","	Veterinary	","	97292	","	HOG DEWORMER 1.5%	","		","	N	","	4440	","	1	","	01-Oct-10	","	107409001
+1993	","		","	Veterinary	","	308242	","	HOG SCOUR SUS	","		","	N	","	46363	","	7	","	09-Sep-02	","	702295002
+92023	","		","	Human	","	2436027	","	HOLKIRA PAK	","	"KIT INCLUDES PINK TAB. (OMBITASVIR/ PARITAPREVIR/ RITONAVIR FIXED COMBINATION), AND BEIGE TAB. (DASABUVIR)"	","	N	","		","	4	","	19-Jun-15	","	456390001
+84713	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2362112	","	HOMME DAILY MOISTURIZING LOTION SPF 15	","		","	N	","		","	2	","	18-Dec-12	","	218882007
+50133	","		","	Human	","	2230860	","	HONEY BEE VENOM MULTIDOSE 13.0 ML (1300MCG)	","		","	N	","		","	1	","	10-Oct-12	","	123304003
+91362	","		","	Veterinary	","	2429187	","	HOOF & HIDE BALM	","		","	N	","		","	6	","	12-Mar-15	","	656450001
+3758	","		","	Veterinary	","	467413	","	HOOF DRESSING	","		","	N	","	55337	","	4	","	04-Apr-13	","	436768001
+5167	","		","	Veterinary	","	575038	","	HOOF SHIELD	","		","	N	","	59826	","	5	","	27-Oct-04	","	515615001
+83945	","		","	Disinfectant	","	2354268	","	HOSPISEPTIC	","		","	N	","		","	3	","	03-Sep-10	","	309109001
+12254	","		","	Disinfectant	","	1945475	","	HOSP-I-SEPTIC-G SURFACE DISINFECTANT DEODORANT SPRAY	","		","	N	","	73321	","	3	","	29-Apr-15	","	309109001
+67366	","		","	Disinfectant	","	2243456	","	HOSPITAL DISINFECTANT SPRAY	","		","	N	","		","	1	","	30-Jan-07	","	105057001
+67367	","		","	Disinfectant	","	2243457	","	HOSPITAL DISINFECTANT WIPES	","		","	N	","		","	1	","	30-Jan-07	","	105057001
+65060	","		","	Human	","	2241424	","	HOT LEMON COUGH AND COLDS RELIEF DM	","		","	N	","		","	3	","	03-Oct-02	","	315156004
+62576	","		","	Human	","	2239121	","	HOT LEMON RELIEF - EXTRA STRENGTH	","		","	N	","		","	4	","	20-Oct-02	","	411174014
+26397	","		","	Human	","	2023113	","	HOT LEMON RELIEF  PCK-PWS	","		","	N	","	E8833	","	4	","	11-Jul-12	","	411174003
+62330	","		","	Human	","	2238890	","	HOT LEMON RELIEF FOR SYMPTOMS OF COLD AND FLU EXTRA STRENGTH	","		","	N	","		","	4	","	31-Oct-14	","	411174013
+32780	","		","	Human	","	2047349	","	HOT LEMON RELIEF FOR SYMPTOMS OF COLD AND FLU REGULAR STRENGTH	","		","	N	","	G5005	","	4	","	29-Oct-14	","	411174015
+19088	","		","	Human	","	893463	","	HOT LEMON RELIEF FOR SYMPTOMS OF COUGH AND COLD	","		","	N	","	81377	","	4	","	29-Apr-15	","	416555005
+71050	","		","	Human	","	2246848	","	"HOT LEMON RELIEF FOR SYMPTOMS OF COUGH, COLD AND FLU EXTRA STRENGTH"	","		","	N	","		","	4	","	28-Apr-15	","	414717017
+73067	","		","	Human	","	2248703	","	HOT LEMON RELIEF POWDER	","		","	N	","		","	4	","	19-May-06	","	411174006
+31530	","		","	Human	","	2143186	","	HOT LEMON RELIEF REGULAR STRENGTH	","		","	N	","	F8854	","	4	","	29-Apr-15	","	411174006
+26396	","		","	Human	","	2023105	","	HOT LEMON RELIEF-EXTRA STRENGTH PCK-PWS	","		","	N	","	E8832	","	4	","	02-Feb-15	","	411174004
+61948	","		","	Human	","	2238525	","	HP-PAC	","		","	N	","		","	3	","	05-May-15	","	334201001
+12947	","		","	Human	","	1939068	","	HUILE DE BAIN THERAPEUTIQUE	","		","	N	","	74189	","	2	","	11-Dec-13	","	236767001
+41698	","		","	Human	","	704172	","	HUILE MINERALE LOURDE LIQ 100% USP	","		","	N	","	M1518	","	1	","	08-May-15	","	136741002
+47871	","		","	Human	","	2229704	","	HUMALOG	","		","	N	","		","	1	","	01-Oct-15	","	131614001
+47872	","		","	Human	","	2229705	","	HUMALOG  (CARTRIDGE)	","		","	N	","		","	1	","	22-Aug-13	","	131614001
+88822	","		","	Human	","	2403412	","	HUMALOG  (KWIKPEN)	","	PREFILLED PEN	","	N	","		","	1	","	22-Aug-13	","	131614001
+92402	","		","	Human	","	2439611	","	HUMALOG 200 UNITS/ML KWIKPEN	","	PREFILLED PEN	","	N	","		","	1	","	23-Sep-15	","	131614002
+63832	","		","	Human	","	2240294	","	HUMALOG MIX 25  (CARTRIDGE)	","		","	N	","		","	2	","	17-Dec-13	","	242161001
+88823	","		","	Human	","	2403420	","	HUMALOG MIX 25  (KWIKPEN)	","	PREFILLED PEN	","	N	","		","	2	","	16-Dec-13	","	242161001
+63835	","		","	Human	","	2240297	","	HUMALOG MIX 50  (CARTRIDGE)	","		","	N	","		","	2	","	04-Feb-14	","	242161002
+88824	","		","	Human	","	2403439	","	HUMALOG MIX 50  (KWIKPEN)	","	PREFILLED PEN	","	N	","		","	2	","	07-Feb-14	","	242161002
+74661	","		","	Human	","	2261219	","	HUMATE-P	","		","	N	","		","	2	","	29-Apr-15	","	250427004
+74662	","		","	Human	","	2261227	","	HUMATE-P	","		","	N	","		","	2	","	29-Apr-15	","	250427004
+74663	","		","	Human	","	2261235	","	HUMATE-P	","		","	N	","		","	2	","	29-Apr-15	","	250427003
+16701	","		","	Human	","	2078759	","	HUMATIN CAP 250MG	","		","	N	","	78617	","	1	","	02-Jan-07	","	125807001
+66943	","		","	Human	","	2243077	","	HUMATROPE	","		","	N	","		","	2	","	20-Jul-05	","	231839004
+66944	","		","	Human	","	2243078	","	HUMATROPE	","		","	N	","		","	2	","	20-Jul-05	","	231839005
+66945	","		","	Human	","	2243079	","	HUMATROPE	","		","	N	","		","	2	","	27-Sep-07	","	231839006
+8187	","		","	Human	","	745626	","	HUMATROPE INJ 1MG/ML	","		","	N	","	66482	","	1	","	05-May-15	","	131827007
+74379	","		","	Human	","	2258595	","	HUMIRA	","		","	N	","		","	1	","	05-May-15	","	150364001
+9788	","		","	Human	","	795879	","	HUMULIN 30/70 (INSULIN HUMAN BIOSYNTH INJ)	","		","	N	","	69050	","	2	","	29-Apr-15	","	220670002
+12568	","		","	Human	","	1959212	","	HUMULIN 30/70 CARTRIDGE	","		","	N	","	73705	","	2	","	29-Apr-15	","	223312003
+12570	","		","	Human	","	1959239	","	HUMULIN N (CARTRIDGE)	","		","	N	","	73707	","	1	","	27-Sep-13	","	123341001
+88825	","		","	Human	","	2403447	","	HUMULIN N (KWIKPEN)	","		","	N	","		","	1	","	03-Jul-14	","	123341001
+5326	","		","	Human	","	587737	","	HUMULIN N INJ 100UNIT/ML	","		","	N	","	60284	","	1	","	01-Oct-15	","	115861001
+89971	","		","	Human	","	2415089	","	HUMULIN R (KWIKPEN)	","	3ML PREFILLED PEN	","	N	","		","	1	","	02-May-14	","	121352001
+12569	","		","	Human	","	1959220	","	HUMULIN R CARTRIDGE	","		","	N	","	73706	","	1	","	29-Apr-15	","	123340001
+5325	","		","	Human	","	586714	","	HUMULIN R INJ	","		","	N	","	60283	","	1	","	29-Apr-15	","	115840001
+80645	","		","	Disinfectant	","	2321033	","	HUSKY 891 ARENA DISINFECTANT	","		","	N	","		","	4	","	01-Dec-09	","	414758020
+19632	","		","	Veterinary	","	2186101	","	HX DIP	","	(POST MILKING TEAT DIP)	","	N	","	81929	","	2	","	29-Apr-15	","	216755003
+19631	","		","	Veterinary	","	2186128	","	HX DIP LV	","	(POST MILKING TEAT DIP)	","	N	","	81928	","	2	","	29-Apr-15	","	216755003
+77870	","		","	Disinfectant	","	2293323	","	HX2	","		","	N	","		","	2	","	17-Sep-09	","	205019008
+77871	","		","	Disinfectant	","	2293331	","	HX2 READY TO USE TOWELETTES	","		","	N	","		","	2	","	14-Jul-11	","	205019008
+61993	","		","	Veterinary	","	2238566	","	HY-50	","		","	N	","		","	1	","	21-Mar-12	","	115449003
+8228	","		","	Veterinary	","	710164	","	HYALOVET 20	","		","	N	","	66546	","	1	","	05-May-15	","	115449001
+50424	","		","	Human	","	2231116	","	HYCAMTIN	","		","	N	","		","	1	","	25-Sep-15	","	132984001
+13315	","		","	Human	","	1916580	","	HYCODAN SYRUP	","		","	N	","	74665	","	1	","	27-May-08	","	107555001
+13314	","		","	Human	","	1916599	","	HYCODAN TABLETS	","		","	N	","	74663	","	1	","	01-Aug-13	","	107555002
+690	","		","	Human	","	176176	","	"HYDERGINE TABLETS, 1MG"	","		","	N	","	26941	","	1	","	01-Jun-11	","	115212001
+88715	","		","	Human	","	2402300	","	HYDRA LIFE BB CREME	","		","	N	","		","	3	","	16-May-14	","	321685098
+83288	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2347490	","	HYDRA LIFE CR?ME PRO-JEUNESSE AVEC PROTECTION UVA/UVB	","		","	N	","		","	4	","	20-Jan-12	","	452707001
+83289	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2347504	","	HYDRA LIFE FLUIDE PRO-JEUNESSE AVEC PROTECTION UVA/UVB	","		","	N	","		","	4	","	22-Jan-13	","	452707002
+83280	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2347415	","	HYDRA LIFE SOIN TEINT? PRO-JEUNESSE	","		","	N	","		","	2	","	20-Jan-12	","	216790116
+82244	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2336820	","	HYDRA MOISTURIZING LOTION SPF 30	","		","	N	","		","	3	","	27-May-10	","	331813001
+88104	","		","	Human	","	2395991	","	HYDRA V?G?TAL CR?ME HYDRATANTE FPS 25	","		","	N	","		","	4	","	17-Nov-14	","	453052001
+84120	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2356023	","	HYDRA-C RADIANCE 24H + SPF 15 FPS MOISTURIZING CREAM DRY SKIN CR?ME HYDRATANTE PEAUX S?CHES	","		","	N	","		","	3	","	09-Jul-12	","	324234009
+81450	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2328844	","	HYDRA-C/ RADIANCE 24H PLUS SPF 15 FPS/ MOISTURIZING CREAM NORMAL SKIN/CR?ME HYDRATANTE PEAUX NORMALES	","		","	N	","		","	3	","	09-Jul-12	","	324234009
+78023	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2294893	","	HYDRACTION VISIBLE DEFENSE CREME LEGERE HYDRA-PROTECTRICE SPF 20	","		","	N	","		","	5	","	12-Jul-07	","	552210001
+78024	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2294907	","	HYDRACTION VISIBLE DEFENSE CREME RICHE HYDRA-PROTECTRICE SPF 20	","		","	N	","		","	5	","	12-Jul-07	","	552210001
+78025	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2294915	","	HYDRACTION VISIBLE DEFENSE CREME YEUX HYDRA-PROTECTRICE SPF 20	","		","	N	","		","	2	","	12-Jul-07	","	216790018
+74358	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2258374	","	HYDRAFRESH GEL-CREME NORMAL TO DRY SKIN	","		","	N	","		","	2	","	31-Jul-12	","	223205002
+74357	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2258366	","	HYDRAFRESH GEL-CREME NORMAL TO OILY SKIN	","		","	N	","		","	2	","	31-Jul-12	","	223205002
+11047	","		","	Human	","	441619	","	HYDRALAZINE	","		","	N	","	71260	","	1	","	21-Mar-13	","	107444003
+11626	","		","	Human	","	441627	","	HYDRALAZINE	","		","	N	","	72441	","	1	","	21-Mar-13	","	107444002
+11627	","		","	Human	","	441635	","	HYDRALAZINE	","		","	N	","	72442	","	1	","	21-Mar-13	","	107444001
+75565	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2270269	","	HYDRANCE OPTIMALE SPF 25	","		","	N	","		","	3	","	13-Jul-12	","	324027008
+74217	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2256940	","	HYDRAPHASE UV	","		","	N	","		","	3	","	31-Jul-12	","	327546005
+84707	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2362058	","	HYDRAPHASE UV INTENSE	","		","	N	","		","	4	","	31-Aug-11	","	451521013
+86908	","		","	Human	","	2383322	","	HYDRAPHEL DAY CREAM SPF 15	","		","	N	","		","	2	","	27-May-14	","	218882003
+81909	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2333465	","	HYDRA-SEAL SPF 25 / HYDRA-SCELLANTE SPF 25	","		","	N	","		","	5	","	10-Jul-12	","	525322023
+77926	","		","	Human	","	2293889	","	HYDRASILK DAY & NIGHT CREAM SPF 12	","		","	N	","		","	2	","	25-Oct-10	","	218882003
+77925	","		","	Human	","	2293870	","	HYDRASILK EYE CREAM SPF 12	","		","	N	","		","	2	","	25-Oct-10	","	218882003
+90312	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2418568	","	HYDRATOR PLUS SPF 30	","		","	N	","		","	3	","	10-Mar-15	","	346162009
+3453	","		","	Human	","	465283	","	HYDREA CAP 500MG	","		","	N	","	54399	","	1	","	05-May-15	","	113432001
+3502	","		","	Human	","	463477	","	HYDRO COBEX INJ 1000MCG/ML	","		","	N	","	54554	","	1	","	06-Jul-11	","	108455001
+84556	","		","	Human	","	2360594	","	HYDROCHLOROTHIAZIDE	","		","	N	","		","	1	","	27-Jun-14	","	101048002
+84557	","		","	Human	","	2360608	","	HYDROCHLOROTHIAZIDE	","		","	N	","		","	1	","	27-Jun-14	","	101048001
+2170	","		","	Human	","	341975	","	HYDROCHLOROTHIAZIDE TAB 25MG	","		","	N	","	47908	","	1	","	03-Sep-09	","	101048002
+15606	","		","	Human	","	878618	","	HYDROCORTISONE SODIUM SUCCINATE FOR INJECTION	","		","	N	","	77311	","	1	","	29-Apr-15	","	106344011
+15607	","		","	Human	","	872539	","	HYDROCORTISONE SODIUM SUCCINATE FOR INJECTION	","		","	N	","	77312	","	1	","	29-Apr-15	","	106344004
+15608	","		","	Human	","	872520	","	HYDROCORTISONE SODIUM SUCCINATE FOR INJECTION	","		","	N	","	77313	","	1	","	29-Apr-15	","	106344003
+15605	","		","	Human	","	878626	","	HYDROCORTISONE SODIUM SUCCINATE INJECTION	","		","	N	","	77310	","	1	","	29-Apr-15	","	106344010
+84452	","		","	Human	","	2359502	","	HYDROMORPH CONTIN	","	CONTROLLED RELEASE CAPSULE	","	N	","		","	1	","	21-Apr-11	","	108698018
+84453	","		","	Human	","	2359510	","	HYDROMORPH CONTIN	","	CONTROLLED RELEASE CAPSULE	","	N	","		","	1	","	18-Apr-11	","	108698019
+20171	","		","	Human	","	2125366	","	HYDROMORPH CONTIN-CONTROLLED RELEASE CAP - 12MG	","		","	N	","	82474	","	1	","	07-Oct-10	","	108698011
+67480	","		","	Human	","	2243562	","	HYDROMORPH CONTIN-CONTROLLED RELEASE CAP - 18MG	","		","	N	","		","	1	","	06-Oct-10	","	108698015
+20172	","		","	Human	","	2125382	","	HYDROMORPH CONTIN-CONTROLLED RELEASE CAP - 24MG	","		","	N	","	82475	","	1	","	07-Oct-10	","	108698012
+43838	","		","	Human	","	2125390	","	HYDROMORPH CONTIN-CONTROLLED RELEASE CAP - 30MG	","		","	N	","	S9885	","	1	","	07-Oct-10	","	108698013
+18556	","		","	Human	","	2125323	","	HYDROMORPH CONTIN-CONTROLLED RELEASE CAP - 3MG	","		","	N	","	80816	","	1	","	07-Oct-10	","	108698002
+18558	","		","	Human	","	2125331	","	HYDROMORPH CONTIN-CONTROLLED RELEASE CAP - 6MG	","		","	N	","	80818	","	1	","	07-Oct-10	","	108698010
+18323	","		","	Human	","	2145928	","	HYDROMORPHONE HP 10	","		","	N	","	80551	","	1	","	05-May-15	","	108698001
+18325	","		","	Human	","	2145936	","	HYDROMORPHONE HP 20	","		","	N	","	80553	","	1	","	05-May-15	","	108698009
+18324	","		","	Human	","	2146126	","	HYDROMORPHONE HP 50	","		","	N	","	80552	","	1	","	05-May-15	","	108698008
+68787	","		","	Human	","	2244797	","	HYDROMORPHONE HP FORTE INJECTION	","		","	N	","		","	1	","	05-May-15	","	108698016
+18315	","		","	Human	","	2145901	","	HYDROMORPHONE HYDROCHLORIDE INJECTION USP	","		","	N	","	80543	","	1	","	05-May-15	","	108698003
+86845	","		","	Human	","	2382636	","	HYDROMORPHONE HYDROCHLORIDE INJECTION USP HP 10	","	1/5/50ML SINGLE USE VIALS	","	N	","		","	1	","	26-Nov-14	","	108698001
+5569	","		","	Human	","	566810	","	HYDROPHIL ONT	","		","	N	","	61011	","	2	","	01-May-06	","	236772001
+66824	","		","	Human	","	2242984	","	HYDROVAL CREAM 0.2%	","		","	N	","		","	1	","	24-Jan-06	","	112513001
+66825	","		","	Human	","	2242985	","	HYDROVAL OINTMENT 0.2%	","		","	N	","		","	1	","	24-Jan-06	","	112513001
+11758	","		","	Disinfectant	","	893250	","	HYDROX DISINFECTANT CLEANER	","		","	N	","	72662	","	1	","	29-Apr-15	","	106899001
+5852	","		","	Human	","	623857	","	HYDROXY COBAL INJ 1000MCG/ML	","		","	N	","	61634	","	1	","	21-Jul-15	","	108455001
+82857	","		","	Human	","	2343096	","	HYDROXYUREA	","		","	N	","		","	1	","	18-Mar-10	","	113432001
+8118	","		","	Human	","	742813	","	HYDROXYZINE HYDROCHLORIDE INJECTION USP	","		","	N	","	66390	","	1	","	05-Aug-15	","	106172004
+50516	","		","	Human	","	2231209	","	"HYDROXYZINE HYDROCHLORIDE INJECTION, USP"	","		","	N	","		","	1	","	22-Apr-04	","	106172004
+18442	","		","	Human	","	2158442	","	HYGENIPAK GREEN ANTI-MICROBIAL SKIN CLEANSER	","		","	N	","	80701	","	2	","	18-Jul-12	","	216514001
+50961	","	CAT IV - ANTISEPTIC SKIN CLEANSERS	","	Human	","	2231594	","	HYGENIPAK INSTAFOAM ANTI-MICROBIAL FOAMING SKIN CLEANSER	","		","	N	","		","	1	","	23-Jan-15	","	108865003
+20166	","		","	Human	","	2217937	","	HYGENIPAK PLUS ANTI-MICROBIAL SKIN CLEANSER	","		","	N	","	82469	","	1	","	18-Jul-12	","	108865003
+75254	","		","	Human	","	2267144	","	HYGIENIPAK 2% CHG FOAMING SKIN CLEANSER	","		","	N	","		","	1	","	18-Jul-12	","	107629004
+43774	","		","	Veterinary	","	2091240	","	HYLARTIL VET	","		","	N	","	S9720	","	1	","	11-Jun-15	","	115449001
+91638	","		","	Veterinary	","	2431912	","	HYMATIL	","		","	N	","		","	1	","	15-Jul-15	","	121139001
+43270	","		","	Human	","	2220075	","	HYMENOPTERA VENOM PRODUCT - HONEY BEE VENOM (550 MCG)	","		","	N	","	P9601	","	1	","	09-Oct-12	","	114085001
+43274	","		","	Human	","	2220113	","	HYMENOPTERA VENOM PRODUCT - YELLOW JACKET VENOM PROTEIN (550 MCG)	","		","	N	","	P9605	","	1	","	12-Feb-13	","	114082003
+43302	","		","	Human	","	2221314	","	HYMENOPTERA VENOM PRODUCT-MIXED VESPID VENOM PROTEIN (1650 MCG)	","		","	N	","	P9633	","	3	","	12-Feb-13	","	315776001
+43271	","		","	Human	","	2220083	","	HYMENOPTERA VENOM PRODUCTS-YELLOW HORNET VENOM PROTEIN (550 MCG)	","		","	N	","	P9602	","	1	","	12-Feb-13	","	114081001
+43272	","		","	Human	","	2220091	","	HYMENOPTERA VENOM PRODUCT-WASP VENOM PROTEIN (550 MCG)	","		","	N	","	P9603	","	1	","	09-Oct-12	","	114083003
+43273	","		","	Human	","	2220105	","	HYMENOPTERA VENOM PRODUCT-WHITE-FACED HORNET VENOM PROTEIN (550 MCG)	","		","	N	","	P9604	","	1	","	28-Oct-13	","	114084001
+48226	","		","	Human	","	2229868	","	HYOSCINE BUTYLBROMIDE INJECTION SANDOZ STANDARD	","		","	N	","		","	1	","	19-Dec-13	","	104703002
+50001	","		","	Human	","	2230738	","	HYPERHEP B S/D	","	5ML VIAL	","	N	","		","	1	","	20-Apr-15	","	114080002
+86536	","		","	Human	","	2379465	","	HYPERHEP B S/D	","	0.5ML SYRINGE	","	N	","		","	1	","	15-Feb-13	","	114080002
+23184	","		","	Human	","	1963910	","	HYPERLYTE (MULTI-ELECTROLYTE CONCENTRATE)	","		","	N	","	E4014	","	6	","	29-Apr-15	","	610335001
+21691	","		","	Human	","	1924311	","	HYPERLYTE CR MULTI-ELECTROLYTE CONCENTRATE	","		","	N	","	E1074	","	5	","	29-Apr-15	","	500160004
+63904	","		","	Disinfectant	","	2240361	","	HYPEROX	","		","	N	","		","	2	","	18-Aug-08	","	223947010
+64646	","	CAT IV - HARD SURFACE DISINFECTANTS	","	Disinfectant	","	2241052	","	HYPERQUAT	","		","	N	","		","	2	","	30-Sep-10	","	213172002
+49960	","		","	Human	","	2230700	","	HYPERRAB S/D	","		","	N	","		","	1	","	28-Dec-12	","	110666002
+91218	","		","	Veterinary	","	2427672	","	HYPERSALINE 7.2%	","		","	N	","		","	1	","	12-Jun-15	","	100053045
+49957	","		","	Human	","	2230697	","	HYPERTET S/D	","	SINGLE DOSE PREFILLED SYRINGE	","	N	","		","	1	","	28-Dec-12	","	133051001
+76152	","		","	Human	","	2275864	","	HYPURIN NPH INSULIN ISOPHANE PORK	","		","	N	","		","	1	","	20-Aug-12	","	151573001
+76153	","		","	Human	","	2275872	","	HYPURIN REGULAR INSULIN PORK	","		","	N	","		","	1	","	20-Aug-12	","	151574001
+12778	","		","	Human	","	818674	","	HYTRIN	","		","	N	","	73975	","	1	","	15-May-15	","	121210004
+9542	","		","	Human	","	818666	","	HYTRIN	","		","	N	","	68732	","	1	","	15-May-15	","	121210001
+9618	","		","	Human	","	818658	","	HYTRIN	","		","	N	","	68828	","	1	","	15-May-15	","	121210003
+9619	","		","	Human	","	818682	","	HYTRIN	","		","	N	","	68829	","	1	","	15-May-15	","	121210002
+78318	","		","	Human	","	2297841	","	HYZAAR	","		","	N	","		","	2	","	10-Feb-11	","	233168003
+48580	","		","	Human	","	2230047	","	HYZAAR 50/12.5MG	","		","	N	","		","	2	","	10-Feb-11	","	233168001
+64599	","		","	Human	","	2241007	","	HYZAAR DS 100/25 MG	","		","	N	","		","	2	","	16-Aug-12	","	233168002

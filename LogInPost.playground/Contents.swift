@@ -27,17 +27,6 @@ let task = NSURLSession.sharedSession().dataTaskWithRequest(request) {(data, res
     let responseString = NSString(data: data, encoding: NSUTF8StringEncoding)
     println("responseString = \(responseString)")
     
-    //Let’s convert response sent from a server side script to a NSDictionary object:
-    
-    var err: NSError?
-    var myJSON = NSJSONSerialization.JSONObjectWithData(data, options: .MutableLeaves, error:&err) as? NSDictionary
-    
-    if let parseJSON = myJSON {
-        // Now we can access value of First Name by its key
-        var firstNameValue = parseJSON["location"] as? String
-        println("firstNameValue: \(firstNameValue)")
-    }
-    
 }
 
 

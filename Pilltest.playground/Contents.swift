@@ -75,9 +75,10 @@ func pillSearchDin (pills: [Pill], DIN: String) ->Pill //din getter
     return pills[0] // a pill to say that we have not found it in a list
 }
 
-let nameOfPill="pill"
-let firstletter = nameOfPill[nameOfPill.startIndex]
-let fileNameInit = "DIN" + "\(firstletter)"
+let nameOfPill="YERVOY"
+let nameOfPillUpper=nameOfPill.uppercaseString
+let PillLetter = nameOfPillUpper[nameOfPill.startIndex]
+let fileNameInit = "name" + "\(PillLetter)"
 
 var error: NSError?
 let fileURL = NSBundle.mainBundle().URLForResource(fileNameInit, withExtension: "txt")

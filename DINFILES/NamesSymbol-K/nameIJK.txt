@@ -1,0 +1,671 @@
+91049	","		","	Human	","	2425890	","	IBAVYR	","		","	N	","		","	1	","	07-Aug-14	","	111643002
+91050	","		","	Human	","	2425904	","	IBAVYR	","		","	N	","		","	1	","	07-Aug-14	","	111643003
+92360	","		","	Human	","	2439212	","	IBAVYR	","		","	N	","		","	1	","	21-May-15	","	111643004
+80029	","		","	Human	","	2314754	","	IBUPROFEN	","		","	N	","		","	1	","	09-Mar-12	","	108883004
+80030	","		","	Human	","	2314762	","	IBUPROFEN	","	CAPLETS	","	N	","		","	1	","	09-Mar-12	","	108883004
+74314	","		","	Human	","	2257912	","	IBUPROFEN 200 MG	","		","	N	","		","	1	","	15-May-14	","	108883004
+75315	","		","	Human	","	2267748	","	IBUPROFEN AND PSEUDOEPHEDRINE	","		","	N	","		","	2	","	05-May-15	","	222394001
+80286	","		","	Human	","	2317338	","	IBUPROFEN CAPLETS	","		","	N	","		","	1	","	15-May-14	","	108883002
+75836	","		","	Human	","	2272857	","	IBUPROFEN CAPLETS 200 MG	","		","	N	","		","	1	","	05-Nov-14	","	108883004
+81864	","		","	Human	","	2332981	","	"IBUPROFEN CAPSULES, 400MG"	","		","	N	","		","	1	","	11-Jul-12	","	108883002
+85291	","		","	Human	","	2368099	","	IBUPROFEN EXTRA STRENGTH CAPLETS	","	CAPLET	","	N	","		","	1	","	03-Oct-14	","	108883002
+84240	","		","	Human	","	2357275	","	IBUPROFEN LIQUID CAPSULES	","		","	N	","		","	1	","	03-Mar-15	","	108883004
+76703	","		","	Human	","	2281384	","	IBUPROFEN LIQUID FILLED CAPSULES	","		","	N	","		","	1	","	05-May-15	","	108883004
+80349	","		","	Human	","	2317982	","	IBUPROFEN MENSTRUAL PAIN RELIEF	","		","	N	","		","	1	","	11-Jul-12	","	108883002
+86271	","		","	Human	","	2377101	","	IBUPROFEN MUSCLE AND JOINT	","		","	N	","		","	1	","	08-Apr-14	","	108883002
+91521	","		","	Human	","	2430770	","	IBUPROFEN NIGHTTIME	","	LIQUID GEL CAPSULES	","	N	","		","	2	","	04-Feb-15	","	252788001
+6161	","		","	Human	","	636533	","	IBUPROFEN TAB 400MG	","		","	N	","	62454	","	1	","	09-Mar-06	","	108883002
+75835	","		","	Human	","	2272849	","	IBUPROFEN TABLETS 200 MG	","		","	N	","		","	1	","	05-Apr-12	","	108883004
+3312	","		","	Veterinary	","	455431	","	ICE O GEL	","		","	N	","	53845	","	3	","	14-Jul-11	","	313234001
+62057	","		","	Veterinary	","	2238629	","	ICE-O-POULTICE	","		","	N	","		","	5	","	14-Jul-11	","	534360001
+18418	","		","	Human	","	2014793	","	IC-GREEN	","		","	N	","	80676	","	1	","	18-Jul-12	","	150962001
+92168	","		","	Human	","	2437333	","	ICLUSIG	","		","	N	","		","	1	","	31-Aug-15	","	156590001
+76813	","		","	Human	","	2282496	","	IDAMYCIN PFS	","		","	N	","		","	1	","	21-Jan-14	","	122755004
+89467	","		","	Human	","	2410028	","	IDARUBICIN	","		","	N	","		","	1	","	21-Nov-14	","	122755004
+82316	","		","	Human	","	2337584	","	IDARUBICIN HYDROCHLORIDE INJECTION	","	SINGLE-DOSE VIAL	","	N	","		","	1	","	06-Aug-15	","	122755004
+86629	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2380498	","	IDC FPS/SPF 30	","		","	N	","		","	5	","	19-Feb-14	","	525322034
+86630	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2380501	","	IDC FPS/SPF 50	","		","	N	","		","	5	","	19-Feb-14	","	544758093
+89333	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2408597	","	IDEAL FLAWLESS CC COLOR CORRECTOR CREAM	","		","	N	","		","	5	","	27-Jan-14	","	554430001
+85935	","		","	Human	","	2374145	","	IDEAL FLAWLESS INVISIBLE COVERAGE CREAM-TO-POWDER FOUNDATION	","		","	N	","		","	2	","	01-May-12	","	216790003
+87970	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2394545	","	IDEAL MOISTURE DRY SKIN	","		","	N	","		","	4	","	05-Mar-13	","	451521020
+87969	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2394537	","	IDEAL MOISTURE EVEN TONE	","		","	N	","		","	4	","	12-Mar-13	","	451521025
+87971	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2394553	","	IDEAL MOISTURE NORMAL SKIN	","		","	N	","		","	4	","	05-Mar-13	","	451521025
+87968	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2394529	","	IDEAL MOISTURE SENSITIVE SKIN	","		","	N	","		","	4	","	05-Mar-13	","	451521020
+67103	","		","	Veterinary	","	2243220	","	I-DEAL TEAT DIP	","		","	N	","		","	4	","	31-Aug-02	","	442745001
+64989	","		","	Human	","	2241357	","	IFEX (IFOSFAMIDE) 1 G/VIAL	","		","	N	","		","	1	","	05-Apr-06	","	120706002
+64988	","		","	Human	","	2241356	","	IFEX (IFOSFAMIDE) 3 G/VIAL	","		","	N	","		","	1	","	05-Apr-06	","	120706001
+70748	","		","	Human	","	2246565	","	IFOSFAMIDE FOR INJECTION	","		","	N	","		","	1	","	25-Sep-15	","	120706002
+76352	","		","	Human	","	2277921	","	IGIVNEX	","		","	N	","		","	1	","	22-Oct-12	","	106267015
+83040	","		","	Human	","	2344939	","	ILARIS	","		","	N	","		","	1	","	05-May-10	","	152696001
+89601	","		","	Human	","	2411393	","	ILEVRO	","		","	N	","		","	1	","	17-Jul-14	","	152459002
+11656	","		","	Veterinary	","	768685	","	IMAVEROL	","	CONCENTRATED SOLUTION	","	N	","	72485	","	1	","	05-May-15	","	119995001
+91874	","		","	Human	","	2434407	","	IMBRUVICA	","		","	N	","		","	1	","	28-May-15	","	156250001
+78162	","		","	Veterinary	","	2296292	","	IMBRYN (ANTISEPTIC DAIRY CREAM)	","		","	N	","		","	1	","	28-Aug-08	","	124370001
+16804	","		","	Human	","	2126559	","	IMDUR - EXTENDED RELEASE TABLETS 60 MG	","		","	N	","	78738	","	1	","	17-May-06	","	120456002
+84256	","		","	Human	","	2357437	","	IMIPENEM AND CILASTATIN FOR INJECTION	","		","	N	","		","	2	","	22-Jun-11	","	218820001
+84339	","		","	Human	","	2358336	","	IMIPENEM AND CILASTATIN FOR INJECTION USP	","		","	N	","		","	2	","	01-Jun-11	","	218820002
+84340	","		","	Human	","	2358344	","	IMIPENEM AND CILASTATIN FOR INJECTION USP	","		","	N	","		","	2	","	01-Jun-11	","	218820001
+10008	","		","	Human	","	644579	","	IMIPRAMINE	","		","	N	","	69610	","	1	","	13-May-13	","	103832004
+2211	","		","	Human	","	312797	","	IMIPRAMINE	","		","	N	","	48163	","	1	","	07-Mar-11	","	103832002
+2212	","		","	Human	","	326852	","	IMIPRAMINE	","		","	N	","	48165	","	1	","	13-May-13	","	103832001
+2444	","		","	Human	","	360201	","	IMIPRAMINE	","		","	N	","	49642	","	1	","	07-Mar-11	","	103832003
+43077	","		","	Human	","	2212161	","	IMITREX DF - TAB 100MG	","		","	N	","	P9369	","	1	","	03-Oct-07	","	123238001
+43076	","		","	Human	","	2212153	","	IMITREX DF - TAB 50MG	","		","	N	","	P9368	","	1	","	03-Oct-07	","	123238002
+43078	","		","	Human	","	2212188	","	IMITREX INJECTION 12MG/ML	","		","	N	","	P9370	","	1	","	03-Oct-07	","	123238006
+49288	","		","	Human	","	2230418	","	IMITREX NASAL SPRAY	","		","	N	","		","	1	","	07-Jul-06	","	123238003
+49290	","		","	Human	","	2230420	","	IMITREX NASAL SPRAY	","		","	N	","		","	1	","	07-Jul-06	","	123238005
+65746	","		","	Veterinary	","	2242073	","	IMMITICIDE STERILE POWDER	","		","	N	","		","	2	","	05-May-10	","	252717001
+20020	","		","	Human	","	2194376	","	IMMUCYST	","		","	N	","	82319	","	1	","	21-Aug-15	","	140101003
+49876	","		","	Human	","	2230647	","	IMMUNE SERUM GLOBULIN (HUMAN)	","		","	N	","		","	1	","	05-May-15	","	106267001
+43011	","		","	Human	","	2206021	","	IMMUNINE VH	","		","	N	","	P9265	","	1	","	29-Apr-15	","	128463008
+35201	","		","	Human	","	2183862	","	IMODIUM - CAPLET 2MG	","		","	N	","	H2357	","	1	","	24-Mar-06	","	111332001
+77716	","		","	Human	","	2291800	","	IMODIUM CALMING LIQUID	","		","	N	","		","	1	","	05-May-15	","	111332003
+69200	","		","	Human	","	2245185	","	IMODIUM COMPLETE CAPLETS	","		","	N	","		","	2	","	05-May-15	","	231812001
+60618	","		","	Human	","	2237297	","	IMODIUM COMPLETE CHEWABLE TABLETS	","		","	N	","		","	2	","	05-May-15	","	231812001
+86147	","		","	Human	","	2376016	","	IMODIUM LIQUI-GELS	","	LACTOSE FREE	","	N	","		","	1	","	12-Jul-13	","	111332001
+49614	","		","	Human	","	2230542	","	IMODIUM QUICK DISSOLVE	","		","	N	","		","	1	","	05-May-15	","	111332001
+60651	","		","	Human	","	2237328	","	IMOGAM RABIES PASTEURIZED	","		","	N	","		","	1	","	08-Jun-10	","	110666002
+43171	","		","	Human	","	2216167	","	IMOVANE - TAB 5MG	","		","	N	","	P9483	","	1	","	15-Oct-08	","	122562002
+12426	","		","	Human	","	1926799	","	IMOVANE 7.5 - TAB 7.5MG	","		","	N	","	73522	","	1	","	06-Aug-07	","	122562001
+44019	","		","	Human	","	1959042	","	IMOVAX POLIO	","		","	N	","	T9423	","	3	","	04-Jan-11	","	323332001
+46832	","		","	Human	","	1908286	","	IMOVAX RABIES RABIES VACCINE INACTIVATED (DCO)	","		","	N	","	Y9697	","	1	","	29-Apr-08	","	151401001
+85446	","		","	Veterinary	","	2369532	","	IMPROVEST	","		","	N	","		","	1	","	13-May-14	","	152937001
+78504	","		","	Veterinary	","	2299674	","	IMREX CLOTTING SOLUTION	","		","	N	","		","	2	","	16-Feb-12	","	200256001
+64296	","		","	Human	","	2240713	","	IMUNOVIR	","		","	N	","		","	1	","	22-May-13	","	137182001
+1192	","		","	Human	","	4596	","	IMURAN	","		","	N	","	37208	","	1	","	12-May-15	","	101830001
+68893	","		","	Human	","	2244895	","	IMURAN	","		","	N	","		","	1	","	12-May-15	","	101830001
+90830	","		","	Human	","	2423596	","	INCRUSE ELLIPTA	","	POWDER FOR ORAL INHALATION	","	N	","		","	1	","	14-May-15	","	155530001
+16123	","		","	Human	","	2042258	","	INDERAL-LA	","		","	N	","	77909	","	1	","	25-Jan-13	","	101831002
+16124	","		","	Human	","	2042266	","	INDERAL-LA	","		","	N	","	77910	","	1	","	25-Jan-13	","	101831001
+16579	","		","	Human	","	2042274	","	INDERAL-LA	","		","	N	","	78477	","	1	","	25-Jan-13	","	101831006
+17780	","		","	Human	","	2042231	","	INDERAL-LA	","		","	N	","	79986	","	1	","	25-Jan-13	","	101831008
+18417	","		","	Human	","	2014815	","	INDIGO CARMINE	","		","	N	","	80675	","	1	","	29-Apr-15	","	107536001
+72943	","	LS - ANTIFLATULENTS	","	Human	","	2248588	","	INFACOL	","		","	N	","		","	1	","	31-Oct-14	","	131347009
+73878	","		","	Human	","	2253852	","	INFANRIX-HEXA	","		","	N	","		","	11	","	08-Jul-10	","	1152394001
+64893	","		","	Human	","	2241284	","	INFANRIX-IPV	","	PRE-FILLED SYRINGES	","	N	","		","	8	","	04-Dec-12	","	839081001
+74234	","		","	Human	","	2257122	","	INFANRIX-IPV/HIB	","		","	N	","		","	9	","	08-Dec-12	","	950281002
+60714	","	"LS - ANALG. (ACETAMINOPHEN, SALICYLATES, CODEINE)"	","	Human	","	2237390	","	INFANT'S ACETAMINOPHEN SUSPENSION	","	DROPS (80MG/1ML CHERRY AND GRAPE FLAVOURS)	","	N	","		","	1	","	10-Jul-12	","	102009003
+87083	","	"LS - ANALG. (ACETAMINOPHEN, SALICYLATES, CODEINE)"	","	Human	","	2385171	","	INFANTS LITTLE REMEDIES FOR FEVERS	","	DYE & GLUTEN FREE	","	N	","		","	1	","	15-Oct-12	","	102009003
+62054	","		","	Human	","	2238626	","	INFANT'S MOTRIN SUSPENSION DROPS	","		","	N	","		","	1	","	28-Jul-15	","	108883007
+42341	","		","	Human	","	2046059	","	INFANTS' TYLENOL ACETAMINOPHEN SUS DPS	","		","	N	","	M2605	","	1	","	08-May-15	","	102009003
+90410	","		","	Human	","	2419475	","	INFLECTRA	","		","	N	","		","	1	","	02-Jun-15	","	144162001
+75489	","		","	Human	","	2269562	","	INFLUVAC	","	PRE-FILLED SYRINGES. 1 OR 10 PER PACK. PRESERVATIVE FREE.	","	N	","		","	3	","	05-May-15	","	324197002
+62605	","		","	Veterinary	","	2239149	","	INFLUX-50 (FLUNIXIN MEGLUMINE INJECTION) STERILE INJECTABLE SOLUTION	","		","	N	","		","	1	","	05-May-15	","	113433001
+43298	","		","	Human	","	2221780	","	INFUFER	","		","	N	","	P9629	","	1	","	05-May-15	","	108536006
+44252	","		","	Human	","	2181479	","	INHIBACE PLUS - TAB	","		","	N	","	T9963	","	2	","	03-Sep-09	","	227949001
+13835	","		","	Human	","	1911473	","	INHIBACE TAB 2.5MG	","		","	N	","	75298	","	1	","	15-Sep-09	","	122806004
+13834	","		","	Human	","	1911481	","	INHIBACE TAB 5MG	","		","	N	","	75297	","	1	","	15-Sep-09	","	122806002
+74900	","		","	Veterinary	","	2263629	","	INHIBIDEX	","		","	N	","		","	2	","	21-Dec-07	","	216755002
+79622	","	CAT IV - ANTISEPTIC SKIN CLEANSERS	","	Human	","	2310597	","	INHIBIDEX NAF HAND SANITIZER	","		","	N	","		","	1	","	03-Jan-12	","	104993004
+74946	","		","	Veterinary	","	2264048	","	INHIBIDEX UDDER WASH	","		","	N	","		","	1	","	21-Dec-07	","	104993023
+7145	","		","	Veterinary	","	612766	","	INJECTABLE IRON	","		","	N	","	64791	","	1	","	06-Mar-00	","	108536004
+15622	","		","	Veterinary	","	2061066	","	INJECTABLE IRON LIQ IM	","		","	N	","	77355	","	1	","	08-Jul-04	","	108536004
+87513	","		","	Human	","	2389630	","	INLYTA	","		","	N	","		","	1	","	19-Mar-14	","	153228001
+87514	","		","	Human	","	2389649	","	INLYTA	","		","	N	","		","	1	","	19-Mar-14	","	153228002
+47983	","		","	Human	","	2229755	","	INNOHEP	","	UNIT DOSE 0.25ML PRE-FILLED SYRINGES 10000 ANTI-XA IU/ML PRESERVATIVE FREE	","	N	","		","	1	","	19-Dec-11	","	124929001
+50802	","		","	Human	","	2231478	","	INNOHEP	","	GRADUATED 0.5ML PRE-FILLED SYRINGES 20000 ANTI-XA IU/ML PRESERVATIVE FREE	","	N	","		","	1	","	06-Aug-14	","	124929003
+84321	","		","	Human	","	2358158	","	INNOHEP	","	UNIT DOSE 0.35ML PRE-FILLED SYRINGES 10000 ANTI-XA IU/ML. PRESERVATIVE FREE	","	N	","		","	1	","	06-Aug-14	","	124929001
+84322	","		","	Human	","	2358166	","	INNOHEP	","	UNIT DOSE 0.45ML PRE-FILLED SYRINGES 10000 ANTI-XA IU/ML PRESERVATIVE FREE	","	N	","		","	1	","	06-Aug-14	","	124929001
+84323	","		","	Human	","	2358174	","	INNOHEP	","	GRADUATED 0.7ML PRE-FILLED SYRINGES 20000 ANTI-XA IU/ML PRESERVATIVE FREE	","	N	","		","	1	","	03-Oct-11	","	124929003
+84324	","		","	Human	","	2358182	","	INNOHEP	","	GRADUATED 0.9ML PRE-FILLED SYRINGES 20000 ANTI-XA IU/ML PRESERVATIVE FREE	","	N	","		","	1	","	03-Oct-11	","	124929003
+91392	","		","	Human	","	2429462	","	INNOHEP	","	UNIT DOSE 0.4ML PRE-FILLED SYRINGES. 20000 ANTI-XA IU/ML. PRESERVATIVE FREE	","	N	","		","	1	","	08-Oct-14	","	124929003
+91393	","		","	Human	","	2429470	","	INNOHEP	","	UNIT DOSE 0.6ML PRE-FILLED SYRINGES. 20000 ANTI-XA IU/ML. PRESERVATIVE FREE	","	N	","		","	1	","	08-Oct-14	","	124929003
+91394	","		","	Human	","	2429489	","	INNOHEP	","	UNIT DOSE 0.8ML PRE-FILLED SYRINGES. 20000 ANTI-XA IU/ML. PRESERVATIVE FREE	","	N	","		","	1	","	08-Oct-14	","	124929003
+47420	","		","	Human	","	2229515	","	INNOHEP - 20000ANTI-XA IU/ML	","		","	N	","		","	1	","	13-Sep-10	","	124929003
+19202	","		","	Human	","	2167840	","	INNOHEP MULTI-DOSE VIAL- 10000 ANTI-XA IU/ML	","		","	N	","	81493	","	1	","	24-Sep-10	","	124929001
+77369	","		","	Disinfectant	","	2288249	","	INO CLEANER DEGREASER DISINFECTANT	","		","	N	","		","	2	","	26-Jul-13	","	205019002
+76819	","		","	Disinfectant	","	2282550	","	INO D?SINFECTANT ET ASSAINISSEUR/INO DISINFECTANT AND SANITIZER	","		","	N	","		","	2	","	26-Oct-10	","	205019003
+76820	","		","	Disinfectant	","	2282569	","	INO EKO NEUTRAL DISINFECTANT	","		","	N	","		","	2	","	29-Apr-15	","	213172032
+75280	","	CAT IV - ANTISEPTIC SKIN CLEANSERS	","	Human	","	2267373	","	INO-F ANTIBAC ANTIBACTERIAL HAND SOAP	","		","	N	","		","	1	","	29-Apr-15	","	108865001
+75279	","	CAT IV - ANTISEPTIC SKIN CLEANSERS	","	Human	","	2267365	","	INO-F-SAN INSTANT HAND SANITIZER	","		","	N	","		","	1	","	29-Apr-15	","	104367006
+75619	","		","	Human	","	2270846	","	INOMAX	","		","	N	","		","	1	","	24-Jan-12	","	151361002
+84371	","		","	Human	","	2358689	","	INSOMNAL	","		","	N	","		","	1	","	29-Apr-15	","	102639001
+19820	","		","	Human	","	2153165	","	INSOMNAL DS	","		","	N	","	82117	","	1	","	18-Jul-12	","	102639001
+92626	","		","	Human	","	2441888	","	INSPIOLTO RESPIMAT	","	FOR ORAL INHALATION. WITH INSPIOLTO RESPIMAT INHALER	","	N	","		","	2	","	10-Jul-15	","	256970001
+80855	","		","	Human	","	2323052	","	INSPRA	","		","	N	","		","	1	","	25-Jan-13	","	152537001
+80856	","		","	Human	","	2323060	","	INSPRA	","		","	N	","		","	1	","	25-Jan-13	","	152537002
+78032	","		","	Human	","	2294990	","	INSTILLAGEL	","		","	N	","		","	2	","	05-Dec-13	","	252212001
+63892	","		","	Human	","	2240351	","	INTEGRILIN	","		","	N	","		","	1	","	05-May-15	","	137621001
+63894	","		","	Human	","	2240352	","	INTEGRILIN	","		","	N	","		","	1	","	05-May-15	","	137621002
+79246	","		","	Human	","	2306778	","	INTELENCE	","		","	N	","		","	1	","	09-Nov-12	","	152450001
+86137	","		","	Human	","	2375931	","	INTELENCE	","		","	N	","		","	1	","	28-Feb-12	","	152450002
+88177	","		","	Human	","	2396750	","	INTELENCE	","		","	N	","		","	1	","	19-Jan-15	","	152450003
+89806	","		","	Human	","	2413396	","	INTENSE CLEAR PURE	","		","	N	","		","	1	","	21-Jan-14	","	108628001
+91487	","		","	Human	","	2430401	","	INTENSIVE DAY CREME BROAD SPECTRUM SPF 15	","		","	N	","		","	3	","	21-May-15	","	352510014
+18244	","		","	Veterinary	","	2141418	","	INTERCEPTOR FLAVOR TABS 11.5MG	","		","	N	","	80467	","	1	","	05-May-15	","	121642002
+18245	","		","	Veterinary	","	2141434	","	INTERCEPTOR FLAVOR TABS 2.3MG	","		","	N	","	80468	","	1	","	05-May-15	","	121642004
+18536	","		","	Veterinary	","	2141396	","	INTERCEPTOR FLAVOR TABS 23MG	","		","	N	","	80795	","	1	","	05-May-15	","	121642003
+18537	","		","	Veterinary	","	2141426	","	INTERCEPTOR FLAVOR TABS 5.75MG	","		","	N	","	80796	","	1	","	05-May-15	","	121642001
+76533	","		","	Disinfectant	","	2279746	","	INTERVENTION RTU	","		","	N	","		","	1	","	25-May-15	","	106899010
+85205	","		","	Disinfectant	","	2367254	","	INTERVENTION WIPES	","		","	N	","		","	1	","	12-May-14	","	106899010
+18484	","		","	Human	","	2065681	","	INTRALIPID 10%	","		","	N	","	80743	","	1	","	26-Aug-15	","	124460002
+18647	","		","	Human	","	2065673	","	INTRALIPID 20%	","		","	N	","	80918	","	1	","	26-Aug-15	","	124460003
+43172	","		","	Human	","	2216175	","	INTRALIPID 30%	","		","	N	","	P9484	","	1	","	26-Aug-15	","	124460004
+15973	","		","	Disinfectant	","	2089726	","	INTREPID LIQ	","		","	N	","	77748	","	4	","	29-Sep-10	","	414758014
+43361	","		","	Human	","	2223406	","	INTRON A	","		","	N	","	P9692	","	2	","	29-Apr-15	","	228673003
+51025	","		","	Human	","	2231651	","	INTRON A	","		","	N	","		","	2	","	25-Sep-15	","	228673008
+62105	","		","	Human	","	2238674	","	INTRON A	","		","	N	","		","	1	","	29-Apr-15	","	118647004
+62106	","		","	Human	","	2238675	","	INTRON A	","		","	N	","		","	1	","	29-Apr-15	","	118647003
+64280	","		","	Human	","	2240693	","	INTRON A	","		","	N	","		","	1	","	29-Apr-15	","	118647005
+64281	","		","	Human	","	2240694	","	INTRON A	","		","	N	","		","	1	","	29-Apr-15	","	118647006
+64282	","		","	Human	","	2240695	","	INTRON A	","		","	N	","		","	1	","	29-Apr-15	","	118647007
+89383	","		","	Human	","	2409100	","	INTUNIV XR	","		","	N	","		","	1	","	19-May-15	","	154470001
+89384	","		","	Human	","	2409119	","	INTUNIV XR	","		","	N	","		","	1	","	08-Sep-15	","	154470002
+89385	","		","	Human	","	2409127	","	INTUNIV XR	","		","	N	","		","	1	","	19-May-15	","	154470003
+89386	","		","	Human	","	2409135	","	INTUNIV XR	","		","	N	","		","	1	","	08-Sep-15	","	154470004
+71683	","		","	Human	","	2247437	","	INVANZ	","		","	N	","		","	1	","	21-Aug-06	","	149104001
+78559	","		","	Human	","	2300273	","	INVEGA	","		","	N	","		","	1	","	28-Apr-09	","	152320001
+78560	","		","	Human	","	2300281	","	INVEGA	","		","	N	","		","	1	","	28-Apr-09	","	152320002
+78561	","		","	Human	","	2300303	","	INVEGA	","		","	N	","		","	1	","	28-Apr-09	","	152320003
+83941	","		","	Human	","	2354217	","	INVEGA SUSTENNA	","	PRE-FILLED SYRINGE	","	N	","		","	1	","	20-Aug-10	","	152320009
+83942	","		","	Human	","	2354225	","	INVEGA SUSTENNA	","	PRE-FILLED SYRINGE	","	N	","		","	1	","	20-Aug-10	","	152320009
+83943	","		","	Human	","	2354233	","	INVEGA SUSTENNA	","	PRE-FILLED SYRINGE	","	N	","		","	1	","	20-Aug-10	","	152320009
+83944	","		","	Human	","	2354241	","	INVEGA SUSTENNA	","	PRE-FILLED SYRINGE	","	N	","		","	1	","	20-Aug-10	","	152320009
+76489	","		","	Human	","	2279320	","	INVIRASE	","		","	N	","		","	1	","	28-Jul-10	","	128571002
+19918	","		","	Human	","	2216965	","	INVIRASE - CAP 200MG	","		","	N	","	82217	","	1	","	01-Jun-09	","	128571001
+89477	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2410117	","	INVISIBLE PROTECT SPF 30 SHEER SPRAY	","		","	N	","		","	4	","	06-Jun-14	","	451521021
+89447	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2409801	","	INVISIBLE PROTECT SPF 50 SHEER SPRAY	","		","	N	","		","	5	","	08-Apr-14	","	544758095
+91807	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2433710	","	INVISIBLUR PERFECTING SHIELD BROAD SPECTRUM SPF 30 PA+++	","		","	N	","		","	4	","	07-Jul-15	","	451521010
+91013	","		","	Human	","	2425483	","	INVOKANA	","		","	N	","		","	1	","	12-Jun-14	","	155670001
+91014	","		","	Human	","	2425491	","	INVOKANA	","		","	N	","		","	1	","	12-Jun-14	","	155670002
+10873	","		","	Disinfectant	","	778001	","	IOCIDE	","		","	N	","	70996	","	1	","	27-Jul-11	","	109444001
+78465	","		","	Veterinary	","	2299267	","	IODAPHOR 110	","		","	N	","		","	2	","	27-Dec-07	","	249221001
+78464	","		","	Veterinary	","	2299259	","	IODAPHOR 110 HV	","		","	N	","		","	2	","	27-Dec-07	","	249221001
+80014	","		","	Veterinary	","	2314614	","	IODAPHOR PREP	","		","	N	","		","	2	","	12-Mar-09	","	224626003
+79866	","		","	Disinfectant	","	2313138	","	IODASAN	","		","	N	","		","	1	","	15-Jun-12	","	123905002
+74867	","		","	Veterinary	","	2263289	","	IODEX	","		","	N	","		","	4	","	21-Dec-07	","	450436001
+230	","		","	Veterinary	","	142077	","	IODINE TINCTURE 5%	","		","	N	","	8735	","	2	","	01-Oct-10	","	204073002
+19634	","		","	Veterinary	","	2186136	","	IODIP 10	","	(1% IODINE POST MILKING TEAT DIP)	","	N	","	81931	","	2	","	29-Apr-15	","	249221002
+74399	","		","	Human	","	2258757	","	IODOFORM PACKING STRIP	","		","	N	","		","	1	","	14-May-08	","	102245001
+28197	","		","	Veterinary	","	2083701	","	IODOPHOR II LIQ	","		","	N	","	F4212	","	2	","	14-May-08	","	224626002
+69660	","		","	Veterinary	","	2245568	","	IODOVET TOPICAL SOLUTION	","		","	N	","		","	1	","	28-Apr-06	","	107785002
+19633	","		","	Veterinary	","	2186144	","	IOKLEEN	","		","	N	","	81930	","	3	","	29-Apr-15	","	350383002
+51033	","		","	Veterinary	","	2231659	","	IOKOTE	","		","	N	","		","	2	","	29-Apr-15	","	232901001
+91044	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2425769	","	IOPE AIR CUSHION XP	","		","	N	","		","	3	","	02-Sep-15	","	327220036
+18228	","		","	Human	","	2076306	","	IOPIDINE LIQ OPH 0.5%	","		","	N	","	80451	","	1	","	19-Apr-06	","	122471002
+12993	","		","	Human	","	888354	","	IOPIDINE OPH SOL 1%	","		","	N	","	74244	","	1	","	19-Apr-06	","	122471001
+26011	","		","	Veterinary	","	2012197	","	IOSAN LIQ	","		","	N	","	E8054	","	3	","	29-Sep-10	","	308595002
+9355	","		","	Veterinary	","	642258	","	IOSPRAY 10%	","		","	N	","	68364	","	1	","	27-Oct-02	","	107785002
+50507	","	CAT IV - HARD SURFACE DISINFECTANTS	","	Disinfectant	","	2231200	","	IOTERGE	","		","	N	","		","	1	","	03-Feb-09	","	103970012
+35469	","	LS - VIT. SUPPLEMENTS/MIN SUPPLEMENTS	","	Veterinary	","	2189712	","	IOVIT-CAL	","		","	N	","	H2719	","	4	","	29-Apr-15	","	411300001
+74898	","		","	Veterinary	","	2263602	","	IO-WASH	","		","	N	","		","	4	","	31-May-10	","	450440001
+70218	","		","	Human	","	2246083	","	IPRAVENT	","		","	N	","		","	1	","	05-May-15	","	115643005
+70219	","		","	Human	","	2246084	","	IPRAVENT	","		","	N	","		","	1	","	25-Jul-14	","	115643006
+85004	","		","	Human	","	2365197	","	IRBESARTAN	","		","	N	","		","	1	","	29-Jun-11	","	131700001
+85005	","		","	Human	","	2365200	","	IRBESARTAN	","		","	N	","		","	1	","	29-Jun-11	","	131700002
+85006	","		","	Human	","	2365219	","	IRBESARTAN	","		","	N	","		","	1	","	29-Jun-11	","	131700003
+85748	","		","	Human	","	2372347	","	IRBESARTAN	","		","	N	","		","	1	","	13-May-15	","	131700001
+85751	","		","	Human	","	2372371	","	IRBESARTAN	","		","	N	","		","	1	","	13-May-15	","	131700002
+85752	","		","	Human	","	2372398	","	IRBESARTAN	","		","	N	","		","	1	","	13-May-15	","	131700003
+87092	","		","	Human	","	2385287	","	IRBESARTAN	","		","	N	","		","	1	","	14-Nov-12	","	131700001
+87093	","		","	Human	","	2385295	","	IRBESARTAN	","		","	N	","		","	1	","	14-Nov-12	","	131700002
+87094	","		","	Human	","	2385309	","	IRBESARTAN	","		","	N	","		","	1	","	14-Nov-12	","	131700003
+87095	","		","	Human	","	2385317	","	IRBESARTAN HCT	","		","	N	","		","	2	","	14-Nov-12	","	240086001
+87096	","		","	Human	","	2385325	","	IRBESARTAN HCT	","		","	N	","		","	2	","	14-Nov-12	","	240086002
+87097	","		","	Human	","	2385333	","	IRBESARTAN HCT	","		","	N	","		","	2	","	14-Nov-12	","	240086003
+85799	","		","	Human	","	2372886	","	IRBESARTAN/HCTZ	","		","	N	","		","	2	","	05-May-15	","	240086001
+85800	","		","	Human	","	2372894	","	IRBESARTAN/HCTZ	","		","	N	","		","	2	","	05-May-15	","	240086002
+85801	","		","	Human	","	2372908	","	IRBESARTAN/HCTZ	","		","	N	","		","	2	","	05-May-15	","	240086003
+85001	","		","	Human	","	2365162	","	IRBESARTAN-HCTZ	","		","	N	","		","	2	","	29-Jun-11	","	240086001
+85002	","		","	Human	","	2365170	","	IRBESARTAN-HCTZ	","		","	N	","		","	2	","	29-Jun-11	","	240086002
+85003	","		","	Human	","	2365189	","	IRBESARTAN-HCTZ	","		","	N	","		","	2	","	29-Jun-11	","	240086003
+73040	","		","	Human	","	2248676	","	IRESSA	","		","	N	","		","	1	","	04-Oct-06	","	149783001
+89508	","		","	Human	","	2410419	","	IRINOTECAN	","		","	N	","		","	1	","	16-Sep-14	","	132910001
+79791	","		","	Human	","	2312409	","	IRINOTECAN FOR INJECTION	","		","	N	","		","	1	","	05-May-15	","	132910001
+74343	","		","	Human	","	2258218	","	IRINOTECAN HYDROCHLORIDE INJECTION	","		","	N	","		","	1	","	18-Sep-15	","	132910001
+89675	","		","	Human	","	2412187	","	IRINOTECAN HYDROCHLORIDE INJECTION	","	2/5/15/25ML SINGLE USE VIALS	","	N	","		","	1	","	02-Jun-15	","	132910001
+83053	","		","	Human	","	2345080	","	IRINOTECAN HYDROCHLORIDE TRIHYDRATE FOR INJECTION	","		","	N	","		","	1	","	25-Sep-15	","	132910001
+84269	","		","	Human	","	2357585	","	IRINOTECAN HYDROCHLORIDE TRIHYDRATE FOR INJECTION	","		","	N	","		","	1	","	13-May-13	","	132910001
+79064	","		","	Human	","	2305143	","	IRINOTECAN HYDROCHLORIDE TRIHYDRATE INJECTION	","		","	N	","		","	1	","	20-Aug-08	","	132910001
+36697	","		","	Veterinary	","	2207893	","	IRON COPPER PLUS	","		","	N	","	H4055	","	3	","	12-Jun-12	","	306556001
+4396	","		","	Veterinary	","	540625	","	IRON DEXTRAN	","		","	N	","	57504	","	1	","	29-Apr-15	","	108536004
+2010	","		","	Veterinary	","	308498	","	IRON DEXTRAN INJ 100MG/ML	","		","	N	","	46384	","	1	","	05-Jul-99	","	108536004
+5924	","		","	Veterinary	","	611891	","	IRON DEXTRAN INJ 100MG/ML	","		","	N	","	61783	","	1	","	08-Jul-04	","	108536004
+519	","		","	Veterinary	","	118427	","	IRON INJ 100MG/ML COOP	","		","	N	","	21420	","	1	","	26-Aug-04	","	108548001
+91235	","		","	Veterinary	","	2427850	","	ISADERM GEL	","		","	N	","		","	2	","	12-Mar-15	","	245421002
+91236	","		","	Veterinary	","	2427869	","	ISATHAL EYE GEL	","		","	N	","		","	1	","	19-Mar-15	","	114230004
+4730	","		","	Human	","	441686	","	ISDN	","		","	N	","	58586	","	1	","	17-Jul-13	","	103176001
+4731	","		","	Human	","	441694	","	ISDN	","		","	N	","	58587	","	1	","	17-May-11	","	103176003
+6550	","		","	Human	","	670944	","	ISDN	","		","	N	","	63427	","	1	","	24-Apr-12	","	103176002
+78722	","		","	Human	","	2301881	","	ISENTRESS	","		","	N	","		","	1	","	05-May-15	","	152351001
+87770	","		","	Human	","	2392429	","	ISENTRESS	","		","	N	","		","	1	","	15-Feb-13	","	152351002
+87771	","		","	Human	","	2392437	","	ISENTRESS	","		","	N	","		","	1	","	17-Apr-14	","	152351003
+2744	","		","	Human	","	393711	","	ISOCAINE HCL INJ 2%	","		","	N	","	51133	","	2	","	22-Dec-09	","	248622002
+2743	","		","	Human	","	364304	","	ISOCAINE HCL INJ 3%	","		","	N	","	51132	","	1	","	24-Mar-10	","	100583001
+67373	","		","	Disinfectant	","	2243462	","	ISOCARE M.V.R.	","		","	N	","		","	2	","	20-May-03	","	205019003
+14631	","		","	Veterinary	","	2026635	","	ISOFLO	","		","	N	","	76287	","	1	","	01-Oct-15	","	114368001
+14158	","		","	Human	","	2032384	","	ISOFLURANE USP	","		","	N	","	75672	","	1	","	09-Apr-15	","	114368001
+44067	","		","	Veterinary	","	2157217	","	ISOFLURANE USP	","		","	N	","	T9518	","	1	","	27-Mar-00	","	114368001
+51381	","		","	Human	","	2231929	","	ISOFLURANE USP	","		","	N	","		","	1	","	05-May-15	","	114368001
+60853	","		","	Veterinary	","	2237518	","	ISOFLURANE USP	","		","	N	","		","	1	","	05-May-15	","	114368001
+14578	","		","	Human	","	1931768	","	ISOLYTE H WITH DEXTROSE 5% INJ	","		","	N	","	76227	","	5	","	29-Apr-15	","	518862003
+21767	","		","	Human	","	1931776	","	ISOLYTE M IN 5% DEXTROSE	","		","	N	","	E1275	","	5	","	29-Apr-15	","	522410001
+21764	","		","	Human	","	1931709	","	ISOLYTE R IN 5% DEXTROSE	","		","	N	","	E1268	","	6	","	29-Apr-15	","	600063025
+12741	","		","	Human	","	1931628	","	ISOLYTE S (MULTI-ELECTROLYTE INJECTION)	","		","	N	","	73930	","	5	","	29-Apr-15	","	500064002
+21757	","		","	Human	","	1931679	","	ISOLYTE S PH 7.4 (MULTI-ELECTROLYTE INJECTION)	","		","	N	","	E1259	","	7	","	29-Apr-15	","	723018002
+21998	","		","	Human	","	1935992	","	ISOLYTE S WITH 5% DEXTROSE INJ	","		","	N	","	E1861	","	6	","	29-Apr-15	","	600060003
+86491	","		","	Veterinary	","	2379066	","	"ISOPROPYL ALCOHOL, USP"	","		","	N	","		","	1	","	01-Feb-13	","	105057002
+4815	","		","	Veterinary	","	555827	","	ISOPROPYL RUBBING ALCOHOL 70%	","		","	N	","	58808	","	1	","	29-Sep-00	","	105057001
+11642	","		","	Human	","	897639	","	ISOPROTERENOL HYDROCHLORIDE INJECTION USP	","		","	N	","	72462	","	1	","	29-Apr-15	","	101873001
+11534	","		","	Human	","	1907123	","	ISOPTIN SR	","		","	N	","	72309	","	1	","	05-May-15	","	113846001
+15585	","		","	Human	","	1934317	","	ISOPTIN SR	","		","	N	","	77290	","	1	","	05-May-15	","	113846004
+9264	","		","	Human	","	742554	","	ISOPTIN SR	","		","	N	","	68215	","	1	","	05-May-15	","	113846003
+254	","		","	Human	","	35017	","	ISOPTO ATROPINE  1%	","		","	N	","	9922	","	1	","	19-Apr-06	","	104748001
+2376	","		","	Human	","	841	","	ISOPTO CARPINE LIQ 1%	","		","	N	","	49192	","	1	","	17-Mar-08	","	107358005
+2375	","		","	Human	","	868	","	ISOPTO CARPINE LIQ 2%	","		","	N	","	49191	","	1	","	17-Mar-08	","	107358003
+2374	","		","	Human	","	884	","	ISOPTO CARPINE LIQ 4%	","		","	N	","	49189	","	1	","	17-Mar-08	","	107358002
+257	","		","	Human	","	779	","	ISOPTO HOMATROPINE 2%	","		","	N	","	9937	","	1	","	01-Oct-10	","	104789001
+258	","		","	Human	","	787	","	ISOPTO HOMATROPINE 5%	","		","	N	","	9938	","	1	","	20-Apr-06	","	104789002
+793	","		","	Human	","	809	","	ISOPTO TEARS 0.5%	","		","	N	","	29908	","	1	","	18-Jul-12	","	108634001
+794	","		","	Human	","	817	","	ISOPTO TEARS 1.0%	","		","	N	","	29909	","	1	","	18-Jul-12	","	108634002
+11457	","		","	Human	","	786640	","	ISOSORBIDE TAB 30MG	","		","	N	","	72139	","	1	","	12-Jul-12	","	103176003
+2396	","		","	Human	","	236799	","	ISOTAMINE B 300	","		","	N	","	49435	","	2	","	29-Apr-15	","	207350001
+2553	","		","	Human	","	261289	","	ISOTAMINE POWDER	","		","	N	","	50270	","	1	","	29-Apr-15	","	107349006
+2865	","		","	Human	","	265500	","	ISOTAMINE SYR PEDIATRIC 50MG/5ML	","		","	N	","	51693	","	1	","	06-Mar-06	","	107349003
+2400	","		","	Human	","	261270	","	ISOTAMINE-100	","		","	N	","	49440	","	1	","	29-Apr-15	","	107349002
+2401	","		","	Human	","	272655	","	ISOTAMINE-300	","		","	N	","	49441	","	1	","	14-Dec-05	","	107349001
+43504	","		","	Human	","	2229013	","	ISOVUE 200 INJECTION	","		","	N	","	P9844	","	1	","	07-Feb-08	","	116899004
+43505	","		","	Human	","	2229021	","	ISOVUE 300 INJECTION	","		","	N	","	P9845	","	1	","	07-Jul-08	","	116899003
+43506	","		","	Human	","	2229048	","	ISOVUE 370 INJECTION	","		","	N	","	P9846	","	1	","	07-Jul-08	","	116899001
+65800	","		","	Human	","	2242122	","	ISOVUE MULTIPACK-300	","		","	N	","		","	1	","	02-Jul-08	","	116899003
+65799	","		","	Human	","	2242121	","	ISOVUE MULTIPACK-370	","		","	N	","		","	1	","	02-Jul-08	","	116899001
+89895	","		","	Human	","	2414295	","	ISTODAX	","	SINGLE-USE VIAL	","	N	","		","	1	","	18-Jun-14	","	154830001
+80391	","		","	Human	","	2318423	","	ITCH RELIEF LOTION	","		","	N	","		","	2	","	31-Oct-14	","	233086001
+80231	","		","	Veterinary	","	2316811	","	ITRAFUNGOL	","		","	N	","		","	1	","	05-May-15	","	123311001
+88975	","		","	Veterinary	","	2404915	","	IVERMECTIN LIQUID FOR HORSES	","		","	N	","		","	1	","	14-Aug-13	","	124785002
+81610	","		","	Veterinary	","	2330369	","	IVERMECTIN POUR-ON FOR CATTLE	","		","	N	","		","	1	","	01-Aug-13	","	124785009
+5974	","		","	Veterinary	","	622125	","	IVOMEC	","	IVOMEC DRENCH FOR SHEEP	","	N	","	61981	","	1	","	05-May-15	","	124785011
+7268	","		","	Veterinary	","	630470	","	IVOMEC	","		","	N	","	65038	","	1	","	29-May-09	","	124785002
+9878	","		","	Veterinary	","	761842	","	IVOMEC	","	POUR-ON FOR CATTLE	","	N	","	69232	","	1	","	03-Dec-14	","	124785009
+43421	","		","	Veterinary	","	2225204	","	IVOMEC 0.04% PREMIX FOR SWINE	","		","	N	","	P9759	","	1	","	14-Feb-08	","	124785005
+14687	","		","	Veterinary	","	1913085	","	IVOMEC PREMIX FOR SWINE	","		","	N	","	76345	","	1	","	05-May-15	","	115694003
+81890	","		","	Human	","	2333279	","	IXIARO	","		","	N	","		","	1	","	29-Apr-15	","	152652001
+14688	","		","	Human	","	868450	","	JAA AMINOPHYLLINE TAB 100MG	","		","	N	","	76346	","	1	","	13-Dec-05	","	102399001
+66101	","		","	Human	","	868426	","	JAA PREDNISONE TAB 1MG USP	","		","	N	","	W6162	","	1	","	05-Aug-05	","	106321003
+14281	","		","	Human	","	868434	","	JAA PREDNISONE TAB 50MG USP	","		","	N	","	75851	","	1	","	05-Aug-05	","	106321002
+44807	","		","	Human	","	868442	","	JAA PREDNISONE TAB 5MG USP	","		","	N	","	W6164	","	1	","	05-Aug-05	","	106321001
+62729	","		","	Human	","	786055	","	JAA PYRAL 125 TABLET 125MG	","		","	N	","	K7776	","	1	","	14-Feb-08	","	108709003
+10128	","		","	Human	","	786047	","	JAA PYRAL 35 TABLET 35MG	","		","	N	","	69827	","	1	","	05-Aug-05	","	108709002
+19275	","		","	Human	","	2175339	","	JAA PYRAL P ORAL PASTE - 125MG/G	","		","	N	","	81567	","	1	","	23-Jun-06	","	108709004
+18664	","		","	Human	","	786063	","	JAA PYRAL S SUSPENSION 50MG/76	","		","	N	","	80935	","	1	","	23-Jun-06	","	108709001
+14282	","		","	Human	","	889393	","	JAA TETRA TAB 250MG	","		","	N	","	75852	","	1	","	05-Aug-05	","	105499002
+64773	","		","	Human	","	2241167	","	JACK & JILL BEDTIME	","		","	N	","		","	1	","	11-Jul-12	","	102639004
+89696	","		","	Human	","	2412349	","	JACK & JILL BEDTIME COUGH & COLD	","		","	N	","		","	2	","	19-Aug-14	","	251550004
+10675	","		","	Human	","	823023	","	JACK & JILL CHILDREN'S FORMULA COUGH LIQUID	","		","	N	","	70680	","	2	","	11-Jul-12	","	231408001
+89697	","		","	Human	","	2412357	","	JACK & JILL COUGH & COLD	","		","	N	","		","	2	","	20-Aug-14	","	216794007
+83532	","		","	Human	","	2350084	","	JACK & JILL EXPECTORANT	","		","	N	","		","	1	","	09-Sep-11	","	103181007
+87357	","		","	Human	","	2388006	","	JAKAVI	","		","	N	","		","	1	","	29-Nov-14	","	153186002
+87358	","		","	Human	","	2388014	","	JAKAVI	","		","	N	","		","	1	","	29-Nov-14	","	153186003
+87359	","		","	Human	","	2388022	","	JAKAVI	","		","	N	","		","	1	","	29-Nov-14	","	153186001
+91911	","		","	Human	","	2434814	","	JAKAVI	","		","	N	","		","	1	","	24-Apr-15	","	153186004
+85714	","		","	Human	","	2372010	","	JALYN	","	"MODIFIED-RELEASE CAPSULE (DUTASTERIDE: IMMEDIATE RELEASE, AND TAMSULOSIN HCL: EXTENDED RELEASE)"	","	N	","		","	2	","	18-Dec-12	","	252960001
+84054	","		","	Human	","	2355299	","	JAMP - ACETAMINOPHEN BLAZON 500MG TABLETS	","		","	N	","		","	1	","	18-Jan-13	","	102009002
+82884	","		","	Human	","	2343371	","	JAMP ACETAMINOPHEN 500 MG F.C. TABLETS	","		","	N	","		","	1	","	17-Mar-10	","	102009002
+82069	","	LS - LAXATIVES (GENERAL)	","	Human	","	2335085	","	JAMP DOCUSATE SODIUM 250MG SOFTGELS	","		","	N	","		","	1	","	18-Jan-13	","	104351009
+90188	","		","	Human	","	2417243	","	JAMP OLANZAPINE FC	","	FILM COATED	","	N	","		","	1	","	11-Jun-15	","	128783001
+90189	","		","	Human	","	2417251	","	JAMP OLANZAPINE FC	","	FILM COATED	","	N	","		","	1	","	11-Jun-15	","	128783003
+90190	","		","	Human	","	2417278	","	JAMP OLANZAPINE FC	","	FILM COATED	","	N	","		","	1	","	11-Jun-15	","	128783004
+90191	","		","	Human	","	2417286	","	JAMP OLANZAPINE FC	","	FILM COATED	","	N	","		","	1	","	11-Jun-15	","	128783002
+90192	","		","	Human	","	2417294	","	JAMP OLANZAPINE FC	","	FILM COATED	","	N	","		","	1	","	11-Jun-15	","	128783005
+90193	","		","	Human	","	2417308	","	JAMP OLANZAPINE FC	","	FILM COATED	","	N	","		","	1	","	11-Jun-15	","	128783006
+89131	","		","	Human	","	2406624	","	JAMP OLANZAPINE ODT	","		","	N	","		","	1	","	11-Aug-14	","	128783003
+89132	","		","	Human	","	2406632	","	JAMP OLANZAPINE ODT	","		","	N	","		","	1	","	11-Aug-14	","	128783002
+89133	","		","	Human	","	2406640	","	JAMP OLANZAPINE ODT	","		","	N	","		","	1	","	11-Aug-14	","	128783005
+89134	","		","	Human	","	2406659	","	JAMP OLANZAPINE ODT	","		","	N	","		","	1	","	11-Aug-14	","	128783006
+76948	","		","	Human	","	2283905	","	JAMP-A.S.A.	","		","	N	","		","	1	","	08-Jun-12	","	101169013
+87385	","		","	Human	","	2388308	","	JAMP-ACET-TRAMADOL	","		","	N	","		","	2	","	06-Feb-14	","	250601001
+87070	","		","	Human	","	2385031	","	JAMP-ALENDRONATE	","		","	N	","		","	1	","	08-Jan-14	","	150323002
+90624	","		","	Human	","	2421593	","	JAMP-ALLOPURINOL	","		","	N	","		","	1	","	18-Mar-14	","	103654001
+90625	","		","	Human	","	2421607	","	JAMP-ALLOPURINOL	","		","	N	","		","	1	","	18-Mar-14	","	103654002
+90626	","		","	Human	","	2421615	","	JAMP-ALLOPURINOL	","		","	N	","		","	1	","	18-Mar-14	","	103654003
+88494	","		","	Human	","	2400111	","	JAMP-ALPRAZOLAM	","		","	N	","		","	1	","	16-Jun-14	","	115008001
+88495	","		","	Human	","	2400138	","	JAMP-ALPRAZOLAM	","		","	N	","		","	1	","	16-Jun-14	","	115008002
+88496	","		","	Human	","	2400146	","	JAMP-ALPRAZOLAM	","		","	N	","		","	1	","	16-Jun-14	","	115008003
+91987	","		","	Human	","	2435527	","	JAMP-AMITRIPTYLINE TABLETS	","		","	N	","		","	1	","	20-Jan-15	","	101524001
+91988	","		","	Human	","	2435535	","	JAMP-AMITRIPTYLINE TABLETS	","		","	N	","		","	1	","	20-Jan-15	","	101524002
+91989	","		","	Human	","	2435543	","	JAMP-AMITRIPTYLINE TABLETS	","		","	N	","		","	1	","	20-Jan-15	","	101524003
+91990	","		","	Human	","	2435551	","	JAMP-AMITRIPTYLINE TABLETS	","		","	N	","		","	1	","	20-Jan-15	","	101524004
+84231	","		","	Human	","	2357186	","	JAMP-AMLODIPINE	","		","	N	","		","	1	","	18-Jan-13	","	131437003
+84232	","		","	Human	","	2357194	","	JAMP-AMLODIPINE	","		","	N	","		","	1	","	18-Dec-12	","	131437002
+84233	","		","	Human	","	2357208	","	JAMP-AMLODIPINE	","		","	N	","		","	1	","	18-Dec-12	","	131437001
+82471	","		","	Human	","	2339080	","	JAMP-ANASTROZOLE	","		","	N	","		","	1	","	07-Nov-12	","	128681001
+91173	","		","	Human	","	2427206	","	JAMP-ASA 81MG EC	","		","	N	","		","	1	","	04-Feb-15	","	101169013
+85239	","		","	Human	","	2367556	","	JAMP-ATENOLOL	","		","	N	","		","	1	","	18-Jan-13	","	113847004
+85240	","		","	Human	","	2367564	","	JAMP-ATENOLOL	","		","	N	","		","	1	","	07-Jul-11	","	113847002
+85241	","		","	Human	","	2367572	","	JAMP-ATENOLOL	","		","	N	","		","	1	","	18-Jan-13	","	113847001
+87642	","		","	Human	","	2391058	","	JAMP-ATORVASTATIN	","		","	N	","		","	1	","	08-Jan-14	","	133055001
+87643	","		","	Human	","	2391066	","	JAMP-ATORVASTATIN	","		","	N	","		","	1	","	08-Jan-14	","	133055002
+87644	","		","	Human	","	2391074	","	JAMP-ATORVASTATIN	","		","	N	","		","	1	","	08-Jan-14	","	133055003
+87645	","		","	Human	","	2391082	","	JAMP-ATORVASTATIN	","		","	N	","		","	1	","	08-Jan-14	","	133055004
+83697	","		","	Human	","	2351714	","	JAMP-BACITRACINE	","		","	N	","		","	1	","	29-Apr-15	","	105859006
+84234	","		","	Human	","	2357216	","	JAMP-BICALUTAMIDE	","		","	N	","		","	1	","	26-Oct-10	","	127996001
+70170	","	LS - LAXATIVES (GENERAL)	","	Human	","	2246039	","	JAMP-BISACODYL	","		","	N	","		","	1	","	04-May-15	","	101506001
+87207	","		","	Human	","	2386496	","	JAMP-CANDESARTAN	","		","	N	","		","	1	","	08-Jan-14	","	135220001
+87208	","		","	Human	","	2386518	","	JAMP-CANDESARTAN	","		","	N	","		","	1	","	08-Jan-14	","	135220002
+87209	","		","	Human	","	2386526	","	JAMP-CANDESARTAN	","		","	N	","		","	1	","	08-Jan-14	","	135220003
+87210	","		","	Human	","	2386534	","	JAMP-CANDESARTAN	","		","	N	","		","	1	","	08-Jan-14	","	135220004
+85386	","		","	Human	","	2368897	","	JAMP-CARVEDILOL	","		","	N	","		","	1	","	18-Jan-13	","	122683003
+85387	","		","	Human	","	2368900	","	JAMP-CARVEDILOL	","		","	N	","		","	1	","	18-Jan-13	","	122683004
+85388	","		","	Human	","	2368919	","	JAMP-CARVEDILOL	","		","	N	","		","	1	","	18-Jan-13	","	122683005
+85389	","		","	Human	","	2368927	","	JAMP-CARVEDILOL	","		","	N	","		","	1	","	18-Jan-13	","	122683001
+90922	","		","	Human	","	2424533	","	JAMP-CELECOXIB	","		","	N	","		","	1	","	16-Mar-15	","	137043001
+90923	","		","	Human	","	2424541	","	JAMP-CELECOXIB	","		","	N	","		","	1	","	16-Mar-15	","	137043002
+86616	","		","	Human	","	2380358	","	JAMP-CIPROFLOXACIN	","		","	N	","		","	1	","	05-May-15	","	123207006
+86617	","		","	Human	","	2380366	","	JAMP-CIPROFLOXACIN	","		","	N	","		","	1	","	05-May-15	","	123207001
+86618	","		","	Human	","	2380374	","	JAMP-CIPROFLOXACIN	","		","	N	","		","	1	","	05-May-15	","	123207002
+79893	","		","	Human	","	2313405	","	JAMP-CITALOPRAM	","		","	N	","		","	1	","	24-Sep-08	","	136243001
+79894	","		","	Human	","	2313413	","	JAMP-CITALOPRAM	","		","	N	","		","	1	","	24-Sep-08	","	136243002
+85511	","		","	Human	","	2370085	","	JAMP-CITALOPRAM	","		","	N	","		","	1	","	13-Aug-15	","	136243003
+90014	","		","	Human	","	2415550	","	JAMP-CLOPIDOGREL	","		","	N	","		","	1	","	02-May-14	","	134440001
+85904	","		","	Human	","	2373823	","	JAMP-COLCHICINE	","		","	N	","		","	1	","	25-Oct-11	","	107264001
+90475	","		","	Human	","	2420147	","	JAMP-CYANOCOBALAMIN	","		","	N	","		","	1	","	31-Mar-14	","	108437026
+84222	","		","	Human	","	2357127	","	JAMP-CYCLOBENZAPRINE	","		","	N	","		","	1	","	18-Dec-12	","	112363001
+85095	","		","	Human	","	2366088	","	JAMP-DICYCLOMINE HCL	","		","	N	","		","	1	","	18-Jan-13	","	107449002
+87694	","		","	Human	","	2391619	","	JAMP-DICYCLOMINE HCL	","		","	N	","		","	1	","	08-Nov-12	","	107449001
+69468	","	LS - DIMENHYDRINATE	","	Human	","	2245416	","	JAMP-DIMENHYDRINATE 50 MG TABLETS	","		","	N	","		","	1	","	29-Apr-15	","	102747004
+76885	","	LS - LAXATIVES (GENERAL)	","	Human	","	2283220	","	JAMP-DOCUSATE SODIUM	","		","	N	","		","	1	","	29-Apr-15	","	104351005
+81816	","		","	Human	","	2332485	","	JAMP-DOCUSATE SODIUM	","		","	N	","		","	1	","	29-Apr-15	","	104351004
+85414	","		","	Human	","	2369206	","	JAMP-DOMPERIDONE	","		","	N	","		","	1	","	24-Oct-11	","	116957001
+88918	","		","	Human	","	2404419	","	JAMP-DONEPEZIL	","		","	N	","		","	1	","	08-Jan-14	","	131548001
+88919	","		","	Human	","	2404427	","	JAMP-DONEPEZIL	","		","	N	","		","	1	","	08-Jan-14	","	131548002
+90157	","		","	Human	","	2416948	","	JAMP-DONEPEZIL TABLETS	","		","	N	","		","	1	","	06-Oct-14	","	131548001
+90158	","		","	Human	","	2416956	","	JAMP-DONEPEZIL TABLETS	","		","	N	","		","	1	","	06-Oct-14	","	131548002
+91422	","		","	Human	","	2429780	","	JAMP-ESCITALOPRAM	","		","	N	","		","	1	","	19-Sep-14	","	150435002
+91423	","		","	Human	","	2429799	","	JAMP-ESCITALOPRAM	","		","	N	","		","	1	","	16-Sep-14	","	150435004
+90797	","		","	Human	","	2423235	","	JAMP-EZETIMIBE	","		","	N	","		","	1	","	16-Dec-14	","	149164001
+84235	","		","	Human	","	2357224	","	JAMP-FINASTERIDE	","	FILM-COATED TABLET	","	N	","		","	1	","	25-May-15	","	124110001
+91671	","		","	Human	","	2432471	","	JAMP-FLUCONAZOLE	","		","	N	","		","	1	","	20-Jan-15	","	122529004
+87199	","		","	Human	","	2386402	","	JAMP-FLUOXETINE	","		","	N	","		","	1	","	08-Jan-14	","	116847001
+88677	","		","	Human	","	2401894	","	JAMP-FLUOXETINE	","		","	N	","		","	1	","	13-Jan-15	","	116847003
+85094	","		","	Human	","	2366061	","	JAMP-FOLIC ACID	","		","	N	","		","	1	","	10-Jun-11	","	108418001
+81674	","		","	Human	","	2331004	","	JAMP-FOSINOPRIL	","		","	N	","		","	1	","	27-May-10	","	122777001
+81675	","		","	Human	","	2331012	","	JAMP-FOSINOPRIL	","		","	N	","		","	1	","	27-May-10	","	122777002
+84654	","		","	Human	","	2361469	","	JAMP-GABAPENTIN	","		","	N	","		","	1	","	05-May-15	","	125929001
+84656	","		","	Human	","	2361485	","	JAMP-GABAPENTIN	","		","	N	","		","	1	","	05-May-15	","	125929003
+84657	","		","	Human	","	2361493	","	JAMP-GABAPENTIN	","		","	N	","		","	1	","	05-May-15	","	125929002
+88713	","		","	Human	","	2402289	","	JAMP-GABAPENTIN TABLETS	","		","	N	","		","	1	","	22-May-13	","	125929004
+88714	","		","	Human	","	2402297	","	JAMP-GABAPENTIN TABLETS	","		","	N	","		","	1	","	13-Jan-15	","	125929005
+88621	","		","	Human	","	2401290	","	JAMP-IBUPROFEN	","		","	N	","		","	1	","	10-Jan-14	","	108883002
+85911	","		","	Human	","	2373904	","	JAMP-INDAPAMIDE	","		","	N	","		","	1	","	05-May-15	","	115402002
+85912	","		","	Human	","	2373912	","	JAMP-INDAPAMIDE	","		","	N	","		","	1	","	05-May-15	","	115402001
+90277	","		","	Human	","	2418193	","	JAMP-IRBESARTAN	","		","	N	","		","	1	","	17-Jan-14	","	131700001
+90278	","		","	Human	","	2418207	","	JAMP-IRBESARTAN	","		","	N	","		","	1	","	17-Jan-14	","	131700002
+90279	","		","	Human	","	2418215	","	JAMP-IRBESARTAN	","		","	N	","		","	1	","	17-Jan-14	","	131700003
+90280	","		","	Human	","	2418223	","	JAMP-IRBESARTAN AND HYDROCHLOROTHIAZIDE	","		","	N	","		","	2	","	06-May-14	","	240086001
+90281	","		","	Human	","	2418231	","	JAMP-IRBESARTAN AND HYDROCHLOROTHIAZIDE	","		","	N	","		","	2	","	06-May-14	","	240086002
+90282	","		","	Human	","	2418258	","	JAMP-IRBESARTAN AND HYDROCHLOROTHIAZIDE	","		","	N	","		","	2	","	06-May-14	","	240086003
+78124	","		","	Human	","	2295881	","	JAMP-LACTULOSE	","		","	N	","		","	1	","	29-Apr-15	","	113020001
+85813	","		","	Human	","	2373009	","	JAMP-LETROZOLE	","		","	N	","		","	1	","	25-Oct-11	","	132937001
+88784	","		","	Human	","	2403005	","	JAMP-LEVETIRACETAM	","		","	N	","		","	1	","	22-May-13	","	148843001
+88785	","		","	Human	","	2403021	","	JAMP-LEVETIRACETAM	","		","	N	","		","	1	","	22-May-13	","	148843002
+88786	","		","	Human	","	2403048	","	JAMP-LEVETIRACETAM	","		","	N	","		","	1	","	22-May-13	","	148843003
+84661	","		","	Human	","	2361531	","	JAMP-LISINOPRIL	","		","	N	","		","	1	","	18-Jan-13	","	121550003
+84662	","		","	Human	","	2361558	","	JAMP-LISINOPRIL	","		","	N	","		","	1	","	18-Jan-13	","	121550001
+84663	","		","	Human	","	2361566	","	JAMP-LISINOPRIL	","		","	N	","		","	1	","	18-Jan-13	","	121550002
+88375	","		","	Human	","	2398834	","	JAMP-LOSARTAN	","		","	N	","		","	1	","	13-Jan-15	","	127971001
+88376	","		","	Human	","	2398842	","	JAMP-LOSARTAN	","		","	N	","		","	1	","	13-Jan-15	","	127971003
+88377	","		","	Human	","	2398850	","	JAMP-LOSARTAN	","		","	N	","		","	1	","	05-May-15	","	127971002
+89297	","		","	Human	","	2408244	","	JAMP-LOSARTAN HCTZ	","		","	N	","		","	2	","	22-Aug-14	","	233168001
+89298	","		","	Human	","	2408252	","	JAMP-LOSARTAN HCTZ	","		","	N	","		","	2	","	22-Aug-14	","	233168002
+86602	","		","	Human	","	2380196	","	JAMP-METFORMIN	","		","	N	","		","	1	","	04-Dec-13	","	101773001
+86603	","		","	Human	","	2380218	","	JAMP-METFORMIN	","		","	N	","		","	1	","	04-Dec-13	","	101773002
+86650	","		","	Human	","	2380722	","	JAMP-METFORMIN BLACKBERRY	","		","	N	","		","	1	","	04-Dec-13	","	101773001
+86651	","		","	Human	","	2380730	","	JAMP-METFORMIN BLACKBERRY	","		","	N	","		","	1	","	04-Dec-13	","	101773002
+90372	","		","	Human	","	2419173	","	JAMP-METHOTREXATE	","		","	N	","		","	1	","	09-May-14	","	107545002
+84194	","		","	Human	","	2356813	","	JAMP-METOPROLOL-L	","		","	N	","		","	1	","	26-Oct-10	","	111923005
+84195	","		","	Human	","	2356821	","	JAMP-METOPROLOL-L	","		","	N	","		","	1	","	26-Oct-10	","	111923002
+84196	","		","	Human	","	2356848	","	JAMP-METOPROLOL-L	","		","	N	","		","	1	","	26-Oct-10	","	111923003
+85354	","		","	Human	","	2368560	","	JAMP-MIRTAZAPINE	","		","	N	","		","	1	","	18-Jan-13	","	143928001
+85356	","		","	Human	","	2368579	","	JAMP-MIRTAZAPINE	","		","	N	","		","	1	","	18-Jan-13	","	143928002
+87677	","		","	Human	","	2391422	","	JAMP-MONTELUKAST	","		","	N	","		","	1	","	17-Oct-12	","	133823002
+86619	","		","	Human	","	2380382	","	JAMP-MYCOPHENOLATE	","	FILM COATED TABLETS	","	N	","		","	1	","	04-Dec-13	","	128158002
+87198	","		","	Human	","	2386399	","	JAMP-MYCOPHENOLATE CAPSULES	","		","	N	","		","	1	","	08-Jan-14	","	128158001
+91783	","		","	Human	","	2433443	","	JAMP-NYSTATIN ORAL SUSPENSION USP	","		","	N	","		","	1	","	20-Jan-15	","	105858002
+91225	","		","	Human	","	2427745	","	JAMPOCAINE 2% VISCOUS SOLUTION	","		","	N	","		","	1	","	06-Oct-14	","	101280001
+87241	","		","	Human	","	2386836	","	JAMPOCAINE 5%	","		","	N	","		","	1	","	29-Apr-15	","	103565001
+84267	","	LS - TOPICAL ANTIBIOTICS	","	Human	","	2357569	","	JAMPOLYCIN	","		","	N	","		","	2	","	13-Jan-15	","	231428005
+90479	","		","	Human	","	2420198	","	JAMP-OMEPRAZOLE DR	","		","	N	","		","	1	","	24-Jun-14	","	121643001
+79919	","		","	Human	","	2313685	","	JAMP-ONDANSETRON	","		","	N	","		","	1	","	14-Sep-15	","	131120003
+79920	","		","	Human	","	2313693	","	JAMP-ONDANSETRON	","		","	N	","		","	1	","	14-Sep-15	","	131120001
+90500	","		","	Human	","	2420414	","	JAMP-ONDANSETRON	","	SINGLE-DOSE VIAL	","	N	","		","	1	","	14-Sep-15	","	131120004
+90501	","		","	Human	","	2420422	","	JAMP-ONDANSETRON	","	MULTI-DOSE VIAL	","	N	","		","	1	","	14-Sep-15	","	131120004
+92508	","		","	Human	","	2440717	","	JAMP-OXCARBAZEPINE	","		","	N	","		","	1	","	11-Jun-15	","	140461001
+92509	","		","	Human	","	2440725	","	JAMP-OXCARBAZEPINE	","		","	N	","		","	1	","	11-Jun-15	","	140461002
+92510	","		","	Human	","	2440733	","	JAMP-OXCARBAZEPINE	","		","	N	","		","	1	","	11-Jun-15	","	140461003
+84215	","		","	Human	","	2357054	","	JAMP-PANTOPRAZOLE	","		","	N	","		","	1	","	23-Jan-15	","	133229001
+89317	","		","	Human	","	2408414	","	JAMP-PANTOPRAZOLE	","		","	N	","		","	1	","	16-Sep-14	","	133229002
+85383	","		","	Human	","	2368862	","	JAMP-PAROXETINE	","		","	N	","		","	1	","	18-Jan-13	","	123131003
+85384	","		","	Human	","	2368870	","	JAMP-PAROXETINE	","		","	N	","		","	1	","	24-Oct-11	","	123131002
+85385	","		","	Human	","	2368889	","	JAMP-PAROXETINE	","		","	N	","		","	1	","	18-Jan-13	","	123131001
+85042	","		","	Human	","	2365529	","	JAMP-PIOGLITAZONE	","		","	N	","		","	1	","	10-Jun-11	","	141541002
+85043	","		","	Human	","	2365537	","	JAMP-PIOGLITAZONE	","		","	N	","		","	1	","	10-Jun-11	","	141541003
+88227	","		","	Human	","	2397307	","	JAMP-PIOGLITAZONE	","		","	N	","		","	1	","	18-Dec-14	","	141541001
+90502	","		","	Human	","	2420430	","	JAMP-PIP/TAZ	","		","	N	","		","	2	","	31-Mar-14	","	225919006
+81669	","		","	Human	","	2330954	","	JAMP-PRAVASTATIN	","		","	N	","		","	1	","	24-Sep-15	","	122563001
+81670	","		","	Human	","	2330962	","	JAMP-PRAVASTATIN	","		","	N	","		","	1	","	24-Sep-15	","	122563002
+81671	","		","	Human	","	2330970	","	JAMP-PRAVASTATIN	","		","	N	","		","	1	","	24-Sep-15	","	122563003
+86640	","	LS - ANTHELMINTICS	","	Human	","	2380617	","	JAMP-PYRANTEL PAMOATE	","		","	N	","		","	1	","	13-May-14	","	108709003
+89708	","	LS - ANTHELMINTICS	","	Human	","	2412470	","	JAMP-PYRANTEL PAMOATE SUSPENSION	","		","	N	","		","	1	","	29-Jul-14	","	108709001
+81615	","		","	Human	","	2330415	","	JAMP-QUETIAPINE	","		","	N	","		","	1	","	13-Jan-11	","	131858001
+81616	","		","	Human	","	2330423	","	JAMP-QUETIAPINE	","		","	N	","		","	1	","	13-Apr-10	","	131858002
+81618	","		","	Human	","	2330458	","	JAMP-QUETIAPINE	","		","	N	","		","	1	","	13-Apr-10	","	131858003
+81619	","		","	Human	","	2330466	","	JAMP-QUETIAPINE	","		","	N	","		","	1	","	21-Jun-10	","	131858005
+93042	","		","	Human	","	2445190	","	JAMP-QUININE	","		","	N	","		","	1	","	18-Sep-15	","	106604001
+93043	","		","	Human	","	2445204	","	JAMP-QUININE	","		","	N	","		","	1	","	18-Sep-15	","	106604002
+81683	","		","	Human	","	2331101	","	JAMP-RAMIPRIL	","		","	N	","		","	1	","	24-Sep-15	","	122858001
+81684	","		","	Human	","	2331128	","	JAMP-RAMIPRIL	","		","	N	","		","	1	","	24-Sep-15	","	122858004
+81685	","		","	Human	","	2331136	","	JAMP-RAMIPRIL	","		","	N	","		","	1	","	24-Sep-15	","	122858003
+81686	","		","	Human	","	2331144	","	JAMP-RAMIPRIL	","		","	N	","		","	1	","	24-Sep-15	","	122858002
+92469	","		","	Human	","	2440334	","	JAMP-RAMIPRIL	","		","	N	","		","	1	","	15-Sep-15	","	122858005
+85353	","		","	Human	","	2368552	","	JAMP-RISEDRONATE	","		","	N	","		","	1	","	18-Jan-13	","	135301003
+84454	","		","	Human	","	2359529	","	JAMP-RISPERIDONE	","		","	N	","		","	1	","	12-Jan-11	","	124332006
+84455	","		","	Human	","	2359537	","	JAMP-RISPERIDONE	","		","	N	","		","	1	","	12-Jan-11	","	124332007
+84456	","		","	Human	","	2359545	","	JAMP-RISPERIDONE	","		","	N	","		","	1	","	12-Jan-11	","	124332003
+84457	","		","	Human	","	2359553	","	JAMP-RISPERIDONE	","		","	N	","		","	1	","	12-Jan-11	","	124332004
+84458	","		","	Human	","	2359561	","	JAMP-RISPERIDONE	","		","	N	","		","	1	","	12-Jan-11	","	124332002
+84459	","		","	Human	","	2359588	","	JAMP-RISPERIDONE	","		","	N	","		","	1	","	12-Jan-11	","	124332005
+86626	","		","	Human	","	2380455	","	JAMP-RIZATRIPTAN	","		","	N	","		","	1	","	04-Dec-13	","	137841001
+86627	","		","	Human	","	2380463	","	JAMP-RIZATRIPTAN	","		","	N	","		","	1	","	04-Dec-13	","	137841002
+91367	","		","	Human	","	2429233	","	JAMP-RIZATRIPTAN IR	","		","	N	","		","	1	","	06-Oct-14	","	137841001
+91368	","		","	Human	","	2429241	","	JAMP-RIZATRIPTAN IR	","		","	N	","		","	1	","	06-Oct-14	","	137841002
+83760	","		","	Human	","	2352338	","	JAMP-ROPINIROLE	","		","	N	","		","	1	","	21-Jun-10	","	132618001
+83761	","		","	Human	","	2352346	","	JAMP-ROPINIROLE	","		","	N	","		","	1	","	21-Jun-10	","	132618003
+83762	","		","	Human	","	2352354	","	JAMP-ROPINIROLE	","		","	N	","		","	1	","	21-Jun-10	","	132618004
+83763	","		","	Human	","	2352362	","	JAMP-ROPINIROLE	","		","	N	","		","	1	","	21-Jun-10	","	132618005
+87660	","		","	Human	","	2391252	","	JAMP-ROSUVASTATIN	","		","	N	","		","	1	","	08-Jan-14	","	148963004
+87661	","		","	Human	","	2391260	","	JAMP-ROSUVASTATIN	","		","	N	","		","	1	","	01-Nov-12	","	148963001
+87662	","		","	Human	","	2391279	","	JAMP-ROSUVASTATIN	","		","	N	","		","	1	","	01-Nov-12	","	148963002
+87663	","		","	Human	","	2391287	","	JAMP-ROSUVASTATIN	","		","	N	","		","	1	","	08-Jan-14	","	148963003
+77658	","	LS - LAXATIVES (GENERAL)	","	Human	","	2291215	","	JAMP-SENNA S	","		","	N	","		","	2	","	29-Apr-15	","	215780001
+84228	","		","	Human	","	2357143	","	JAMP-SERTRALINE	","		","	N	","		","	1	","	18-Jan-13	","	123417003
+84229	","		","	Human	","	2357151	","	JAMP-SERTRALINE	","		","	N	","		","	1	","	18-Jan-13	","	123417001
+84230	","		","	Human	","	2357178	","	JAMP-SERTRALINE	","		","	N	","		","	1	","	13-Aug-15	","	123417002
+89043	","		","	Human	","	2405660	","	JAMP-SILDENAFIL	","		","	N	","		","	1	","	16-Dec-14	","	136261001
+89044	","		","	Human	","	2405679	","	JAMP-SILDENAFIL	","		","	N	","		","	1	","	16-Dec-14	","	136261002
+89045	","		","	Human	","	2405687	","	JAMP-SILDENAFIL	","		","	N	","		","	1	","	16-Dec-14	","	136261003
+86101	","		","	Human	","	2375591	","	JAMP-SIMVASTATIN	","		","	N	","		","	1	","	08-Jan-14	","	122415001
+86102	","		","	Human	","	2375605	","	JAMP-SIMVASTATIN	","		","	N	","		","	1	","	08-Jan-14	","	122415004
+86103	","		","	Human	","	2375613	","	JAMP-SIMVASTATIN	","		","	N	","		","	1	","	04-Dec-13	","	122415003
+86104	","		","	Human	","	2375621	","	JAMP-SIMVASTATIN	","		","	N	","		","	1	","	04-Dec-13	","	122415002
+86105	","		","	Human	","	2375648	","	JAMP-SIMVASTATIN	","		","	N	","		","	1	","	08-Jan-14	","	122415005
+85359	","		","	Human	","	2368617	","	JAMP-SOTALOL	","		","	N	","		","	1	","	18-Jan-13	","	113778002
+85360	","		","	Human	","	2368625	","	JAMP-SOTALOL	","		","	N	","		","	1	","	18-Jan-13	","	113778001
+84217	","		","	Human	","	2357070	","	JAMP-TERBINAFINE	","		","	N	","		","	1	","	26-Oct-10	","	132855002
+90487	","		","	Human	","	2420287	","	JAMP-TOBRAMYCIN	","		","	N	","		","	1	","	11-Aug-14	","	110230001
+91994	","		","	Human	","	2435608	","	JAMP-TOPIRAMATE	","		","	N	","		","	1	","	17-Feb-15	","	132938001
+91995	","		","	Human	","	2435616	","	JAMP-TOPIRAMATE	","		","	N	","		","	1	","	17-Feb-15	","	132938002
+91996	","		","	Human	","	2435624	","	JAMP-TOPIRAMATE	","		","	N	","		","	1	","	17-Feb-15	","	132938006
+89245	","		","	Human	","	2407744	","	JAMP-VANCOMYCIN	","		","	N	","		","	1	","	08-Apr-14	","	131315002
+89246	","		","	Human	","	2407752	","	JAMP-VANCOMYCIN	","		","	N	","		","	1	","	08-Apr-14	","	131315006
+90488	","		","	Human	","	2420295	","	JAMP-VANCOMYCIN	","		","	N	","		","	1	","	06-Oct-14	","	131315003
+90489	","		","	Human	","	2420309	","	JAMP-VANCOMYCIN	","		","	N	","		","	1	","	06-Oct-14	","	131315009
+90490	","		","	Human	","	2420317	","	JAMP-VANCOMYCIN	","		","	N	","		","	1	","	06-Oct-14	","	131315007
+90491	","		","	Human	","	2420325	","	JAMP-VANCOMYCIN	","		","	N	","		","	1	","	13-Jun-14	","	131315008
+86482	","		","	Human	","	2379007	","	JAMP-VITAMIN D	","		","	N	","		","	1	","	04-Dec-13	","	108504006
+87281	","		","	Human	","	2387239	","	JAMPZINC-HC	","	"ANORECTAL (TOPICAL), HYDROCORTISONE ACETATE AND ZINC SULFATE MONOHYDRATE"	","	N	","		","	2	","	06-Jan-15	","	253182001
+90627	","		","	Human	","	2421623	","	JAMP-ZOLMITRIPTAN	","		","	N	","		","	1	","	26-Mar-14	","	134381001
+91271	","		","	Human	","	2428237	","	JAMP-ZOLMITRIPTAN ODT	","		","	N	","		","	1	","	06-Oct-14	","	134381001
+84193	","		","	Human	","	2356805	","	JAMP-ZOPICLONE	","		","	N	","		","	1	","	03-Nov-11	","	122562001
+89162	","		","	Human	","	2406969	","	JAMP-ZOPICLONE TABLETS	","		","	N	","		","	1	","	13-Jan-14	","	122562002
+89163	","		","	Human	","	2406977	","	JAMP-ZOPICLONE TABLETS	","		","	N	","		","	1	","	21-Nov-14	","	122562001
+81954	","		","	Human	","	2333856	","	JANUMET	","		","	N	","		","	2	","	04-Oct-11	","	252656001
+81955	","		","	Human	","	2333864	","	JANUMET	","		","	N	","		","	2	","	04-Oct-11	","	252656002
+81956	","		","	Human	","	2333872	","	JANUMET	","		","	N	","		","	2	","	04-Oct-11	","	252656003
+90139	","		","	Human	","	2416786	","	JANUMET XR	","		","	N	","		","	2	","	19-Jan-15	","	252656001
+90140	","		","	Human	","	2416794	","	JANUMET XR	","		","	N	","		","	2	","	09-Jun-14	","	252656003
+90141	","		","	Human	","	2416808	","	JANUMET XR	","		","	N	","		","	2	","	19-Jan-15	","	252656004
+78924	","		","	Human	","	2303922	","	JANUVIA	","		","	N	","		","	1	","	27-Jun-12	","	152414001
+87438	","		","	Human	","	2388839	","	JANUVIA	","		","	N	","		","	1	","	24-May-13	","	152414002
+87439	","		","	Human	","	2388847	","	JANUVIA	","		","	N	","		","	1	","	24-May-13	","	152414003
+92871	","		","	Human	","	2443937	","	JARDIANCE	","		","	N	","		","	1	","	21-Aug-15	","	157150001
+92872	","		","	Human	","	2443945	","	JARDIANCE	","		","	N	","		","	1	","	21-Aug-15	","	157150002
+91805	","		","	Disinfectant	","	2433699	","	JAVEL-JFL	","		","	N	","		","	1	","	25-Feb-15	","	106897033
+89302	","		","	Human	","	2408295	","	JAYDESS	","		","	N	","		","	1	","	13-Jan-14	","	125218005
+65136	","	CAT IV - ANTIDANDRUFF PRODUCTS	","	Human	","	2241496	","	JEAN MURRAT SHAMPOOING ANTI-PELLICULAIRE	","		","	N	","		","	1	","	08-Jul-11	","	108628009
+1502	","		","	Veterinary	","	250341	","	JELL UDDER BALM	","		","	N	","	40865	","	1	","	13-Aug-03	","	107121001
+92570	","		","	Human	","	2441306	","	JENCYCLA	","		","	N	","		","	1	","	23-Sep-15	","	106372001
+88807	","		","	Human	","	2403250	","	JENTADUETO	","		","	N	","		","	2	","	29-Jul-14	","	254133001
+88808	","		","	Human	","	2403269	","	JENTADUETO	","		","	N	","		","	2	","	13-Jun-13	","	254133002
+88809	","		","	Human	","	2403277	","	JENTADUETO	","		","	N	","		","	2	","	29-Jul-14	","	254133003
+91478	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2430363	","	JERGENS BB HAND PERFECTING HAND CREAM WITH SUNSCREEN	","		","	N	","		","	3	","	13-Mar-15	","	335121022
+91550	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2431068	","	JERGENS BB PROTECT PERFECTING BODY CREAM WITH SUNSCREEN	","		","	N	","		","	3	","	13-Mar-15	","	335121022
+91476	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2430282	","	JERGENS NATURAL GLOW ?CLAT NATUREL DAILY FACIAL MOISTURIZER WITH SUNSCREEN	","		","	N	","		","	3	","	10-Apr-15	","	335121022
+77470	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2289334	","	JERGENS NATURAL GLOW DAILY FACIAL MOISTURIZER	","		","	N	","		","	2	","	07-Oct-13	","	216932009
+89546	","		","	Human	","	2410818	","	JETREA	","		","	N	","		","	1	","	20-May-15	","	154610001
+85445	","		","	Human	","	2369524	","	JEVTANA	","	1.5ML SINGLE-USE VIALS. FOR I.V. INFUSION ONLY.	","	N	","		","	1	","	30-May-13	","	152936001
+92184	","		","	Human	","	2437503	","	JINARC	","	COMBINATION PACK: 45+15MG	","	N	","		","	2	","	24-Jun-15	","	256610002
+92185	","		","	Human	","	2437511	","	JINARC	","	COMBINATION PACK: 60+30MG	","	N	","		","	2	","	24-Jun-15	","	256610003
+92186	","		","	Human	","	2437538	","	JINARC	","	COMBINATION PACK: 90+30MG	","	N	","		","	2	","	24-Jun-15	","	256610001
+89805	","		","	Human	","	2413388	","	JUBLIA	","		","	N	","		","	1	","	28-Jul-14	","	154810001
+86164	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2376172	","	JUICY LIP BALM SPF 15	","		","	N	","		","	3	","	17-Jan-14	","	320543021
+50212	","	"LS - ANALG. (ACETAMINOPHEN, SALICYLATES, CODEINE)"	","	Human	","	2230934	","	JUNIOR STRENGTH ACETAMINOPHEN TABLETS	","		","	N	","		","	1	","	07-Dec-10	","	102009006
+31506	","		","	Human	","	2142805	","	JUNIOR STRENGTH ACETAMINOPHEN TABLETS-160MG	","		","	N	","	F8816	","	1	","	27-Nov-13	","	102009006
+70575	","		","	Human	","	2246403	","	JUNIOR STRENGTH ADVIL	","		","	N	","		","	1	","	23-May-13	","	108883008
+81395	","		","	Human	","	2328429	","	JUNIOR STRENGTH ADVIL FEVER FROM COLDS OR FLU	","	FRUIT FLAVOUR	","	N	","		","	1	","	17-Jul-13	","	108883008
+81456	","		","	Human	","	2328895	","	JUNIOR STRENGTH ALLERGY FORMULA	","		","	N	","		","	1	","	26-Jun-15	","	102639007
+64993	","	"LS - ANALG. (ACETAMINOPHEN, SALICYLATES, CODEINE)"	","	Human	","	2241361	","	JUNIOR STRENGTH CHILDREN'S TYLENOL	","		","	N	","		","	1	","	29-Apr-15	","	102009006
+83316	","		","	Human	","	2347792	","	JUNIOR STRENGTH CHILDREN'S TYLENOL FASTMELTS	","		","	N	","		","	1	","	29-Apr-15	","	102009006
+64097	","		","	Human	","	2240527	","	JUNIOR STRENGTH MOTRIN CAPLETS	","		","	N	","		","	1	","	28-Jul-15	","	108883008
+71587	","		","	Human	","	2247344	","	JUNIOR STRENGTH MOTRIN CHEWABLE TABLETS	","		","	N	","		","	1	","	28-Jul-15	","	108883008
+11646	","		","	Human	","	890677	","	JUNIOR STRENGTH TYLENOL COLD AND COUGH	","		","	N	","	72468	","	4	","	29-Apr-15	","	414717010
+85627	","		","	Human	","	2371073	","	"JUNIOR STRENGTH TYLENOL COMPLETE COLD, COUGH & FEVER"	","		","	N	","		","	4	","	21-Oct-11	","	414717010
+82361	","		","	Veterinary	","	2337967	","	JURAMATE	","		","	N	","		","	1	","	05-May-15	","	112396003
+82286	","		","	Human	","	2337266	","	JURNISTA	","		","	N	","		","	1	","	10-Aug-15	","	108698006
+82287	","		","	Human	","	2337274	","	JURNISTA	","		","	N	","		","	1	","	11-Mar-10	","	108698005
+82288	","		","	Human	","	2337282	","	JURNISTA	","		","	N	","		","	1	","	11-Mar-10	","	108698014
+82289	","		","	Human	","	2337290	","	JURNISTA	","		","	N	","		","	1	","	11-Mar-10	","	108698013
+90495	","		","	Human	","	2420341	","	JUXTAPID	","		","	N	","		","	1	","	28-Jul-14	","	155310001
+90496	","		","	Human	","	2420376	","	JUXTAPID	","		","	N	","		","	1	","	28-Jul-14	","	155310002
+90498	","		","	Human	","	2420384	","	JUXTAPID	","		","	N	","		","	1	","	28-Jul-14	","	155310003
+13833	","		","	Human	","	1905740	","	K + 45	","		","	N	","	75296	","	1	","	16-Apr-02	","	100273017
+5679	","		","	Veterinary	","	617253	","	K.O.DYNE	","		","	N	","	61279	","	1	","	16-Oct-12	","	103970012
+7457	","		","	Disinfectant	","	725870	","	K-20 LIQUID LEMON	","		","	N	","	65486	","	2	","	29-Apr-15	","	205019005
+3890	","		","	Veterinary	","	504807	","	K24 GERMICIDAL TEAT DIP 10%	","		","	N	","	55865	","	2	","	13-Jul-11	","	249221001
+5510	","		","	Veterinary	","	600539	","	K3 VITE PWS 25MG/GM	","		","	N	","	60850	","	1	","	14-Aug-03	","	108529001
+89698	","		","	Human	","	2412365	","	KADCYLA	","	100MG AND 160MG SINGLE-USE VIALS	","	N	","		","	1	","	30-Apr-14	","	154730001
+42846	","		","	Human	","	2184435	","	KADIAN CAPSULES	","		","	N	","	P9013	","	1	","	25-Sep-15	","	104545002
+42847	","		","	Human	","	2184443	","	KADIAN CAPSULES	","		","	N	","	P9014	","	1	","	25-Sep-15	","	104545006
+42848	","		","	Human	","	2184451	","	KADIAN CAPSULES	","		","	N	","	P9015	","	1	","	25-Sep-15	","	104545012
+65841	","		","	Human	","	2242163	","	KADIAN CAPSULES	","		","	N	","		","	1	","	25-Sep-15	","	104545001
+87729	","		","	Disinfectant	","	2391996	","	KAIBOSH D?SINFENTANT / DISINFECTANT	","		","	N	","		","	1	","	22-Jun-15	","	111516005
+67570	","		","	Human	","	2243644	","	KALETRA	","		","	N	","		","	2	","	20-Apr-15	","	243421002
+77104	","		","	Human	","	2285533	","	KALETRA	","		","	N	","		","	2	","	20-Apr-15	","	243421003
+79781	","		","	Human	","	2312301	","	KALETRA	","		","	N	","		","	2	","	20-Apr-15	","	243421004
+88237	","		","	Human	","	2397412	","	KALYDECO	","		","	N	","		","	1	","	30-Dec-13	","	153450001
+1827	","		","	Veterinary	","	283851	","	KANADOM TETRACYCLINE HCL 55MG/G	","		","	N	","	44797	","	1	","	13-Aug-03	","	105499004
+15550	","		","	Human	","	2024659	","	KANK-A	","		","	N	","	77245	","	2	","	28-Aug-13	","	204959004
+78861	","		","	Veterinary	","	2303280	","	KAOLIN PECTIN SUSPENSION	","		","	N	","		","	2	","	24-Apr-08	","	202280003
+77846	","		","	Veterinary	","	2293080	","	KAOPECLIN	","		","	N	","		","	2	","	01-Feb-12	","	202280003
+84574	","		","	Human	","	2360748	","	KARA VITA SPF 29	","		","	N	","		","	5	","	17-Jan-13	","	525322023
+84576	","		","	Human	","	2360756	","	KARA VITA SPF 30	","		","	N	","		","	4	","	17-Jan-13	","	420277005
+85169	","		","	Human	","	2366878	","	KARESSE	","		","	N	","		","	1	","	08-Jan-13	","	108865005
+82513	","		","	Human	","	2339536	","	KARTICAINE	","		","	N	","		","	2	","	15-Apr-10	","	252683001
+82514	","		","	Human	","	2339544	","	KARTICAINE FORTE	","		","	N	","		","	2	","	15-Apr-10	","	252683002
+17752	","		","	Human	","	2026961	","	KAYEXALATE	","		","	N	","	79954	","	1	","	20-Feb-09	","	108701002
+79876	","		","	Disinfectant	","	2313235	","	KAYQUAT	","		","	N	","		","	2	","	23-Nov-10	","	205019003
+90185	","		","	Human	","	2417219	","	KAZANO	","		","	N	","		","	2	","	06-Jun-14	","	255072001
+90186	","		","	Human	","	2417227	","	KAZANO	","		","	N	","		","	2	","	06-Jun-14	","	255072002
+90187	","		","	Human	","	2417235	","	KAZANO	","		","	N	","		","	2	","	06-Jun-14	","	255072003
+1184	","		","	Human	","	15547	","	KEFLEX	","		","	N	","	37037	","	1	","	05-May-15	","	105911001
+1212	","		","	Human	","	35645	","	KEFLEX	","		","	N	","	37462	","	1	","	05-May-15	","	105911002
+1434	","		","	Human	","	244392	","	KEFLEX	","		","	N	","	40078	","	1	","	05-May-15	","	105911003
+2809	","		","	Human	","	403628	","	KEFLEX	","		","	N	","	51449	","	1	","	05-May-15	","	105911004
+4156	","		","	Veterinary	","	439339	","	KELAMYCIN	","		","	N	","	56794	","	1	","	08-Apr-04	","	105553005
+84307	","	CAT IV - ACNE THERAPY	","	Human	","	2357992	","	KELLETT CLARIFYING ACNE TREATMENT	","		","	N	","		","	1	","	21-Jan-13	","	107205001
+80719	","		","	Disinfectant	","	2321785	","	KEMSOL AIRX 44 PLUS DETERGENT/DISINFECTANT	","		","	N	","		","	2	","	11-Feb-10	","	205019005
+82544	","		","	Disinfectant	","	2339870	","	KEMSOL AIRX 75 DETERGENT DISINFECTANT PUMP SPRAY	","		","	N	","		","	2	","	17-Jan-13	","	205019008
+7041	","		","	Disinfectant	","	693065	","	KEMSOL CSG 1000	","		","	N	","	64526	","	2	","	29-Apr-15	","	205019002
+15482	","		","	Human	","	1999761	","	KENALOG-10 INJECTION 10MG/ML	","		","	N	","	77170	","	1	","	29-Apr-15	","	106310007
+15481	","		","	Human	","	1999869	","	KENALOG-40 INJECTION 40MG/ML	","		","	N	","	77169	","	1	","	11-Jan-11	","	106310006
+15947	","		","	Disinfectant	","	1938177	","	KENNELSOL LIQ	","		","	N	","	77711	","	2	","	05-Jun-13	","	213172006
+75968	","		","	Human	","	2274221	","	KEPIVANCE	","		","	N	","		","	1	","	12-Sep-12	","	151563001
+71262	","		","	Human	","	2247027	","	KEPPRA	","		","	N	","		","	1	","	15-Oct-10	","	148843001
+71263	","		","	Human	","	2247028	","	KEPPRA	","		","	N	","		","	1	","	15-Oct-10	","	148843002
+71264	","		","	Human	","	2247029	","	KEPPRA	","		","	N	","		","	1	","	17-Jun-11	","	148843003
+3466	","		","	Veterinary	","	486388	","	KERAPLEX	","	SOLUTION	","	N	","	54436	","	2	","	30-May-13	","	209077001
+1214	","		","	Human	","	224391	","	KETALAR	","		","	N	","	37465	","	1	","	14-May-07	","	131360002
+1215	","		","	Human	","	224405	","	KETALAR	","		","	N	","	37466	","	1	","	14-May-07	","	131360003
+6011	","		","	Veterinary	","	612316	","	KETALEAN	","		","	N	","	62101	","	1	","	05-May-15	","	131360001
+12874	","		","	Veterinary	","	746177	","	KETAMALT	","		","	N	","	74103	","	8	","	23-Apr-10	","	823929001
+90409	","		","	Veterinary	","	2419467	","	KETAMALT 50	","		","	N	","		","	6	","	09-Jul-14	","	655270001
+87292	","		","	Human	","	2387336	","	KETAMINE HYDROCHLORIDE INJECTION SDZ	","	PRESERVATIVE-FREE. 2ML & 10ML AMPOULES	","	N	","		","	1	","	15-Aug-13	","	131360003
+70995	","		","	Human	","	2246795	","	KETAMINE HYDROCHLORIDE INJECTION USP	","		","	N	","		","	1	","	05-May-15	","	131360002
+70996	","		","	Human	","	2246796	","	KETAMINE HYDROCHLORIDE INJECTION USP	","		","	N	","		","	1	","	05-May-15	","	131360003
+44189	","		","	Veterinary	","	2173239	","	KETASET	","		","	N	","	T9834	","	1	","	05-May-15	","	131360001
+69762	","		","	Human	","	2245662	","	KETODERM CREAM 2%	","		","	N	","		","	1	","	10-Aug-05	","	116793002
+10136	","		","	Human	","	790427	","	KETOPROFEN	","		","	N	","	69838	","	1	","	21-Mar-13	","	110497001
+19115	","		","	Human	","	2172577	","	KETOPROFEN SR	","		","	N	","	81406	","	1	","	25-Aug-11	","	110497004
+60312	","		","	Human	","	2237011	","	KETOPROFEN SUPPOSITORIES	","		","	N	","		","	1	","	07-May-14	","	110497002
+10134	","		","	Human	","	842664	","	KETOPROFEN-E	","		","	N	","	69836	","	1	","	10-Apr-12	","	110497002
+10135	","		","	Human	","	790435	","	KETOPROFEN-E	","		","	N	","	69837	","	1	","	05-May-15	","	110497001
+43510	","		","	Human	","	2229080	","	KETOROLAC	","		","	N	","	P9851	","	1	","	25-Jun-15	","	121995001
+69937	","		","	Human	","	2245821	","	KETOROLAC	","		","	N	","		","	1	","	25-Jun-15	","	121995003
+63447	","		","	Human	","	2239944	","	KETOROLAC TROMETHAMINE INJECTION USP	","		","	N	","		","	1	","	05-May-15	","	121995002
+68945	","		","	Human	","	2244947	","	"KETOROLAC TROMETHAMINE INJECTION, USP"	","		","	N	","		","	1	","	15-Sep-15	","	121995002
+87600	","		","	Human	","	2390582	","	"KETOROLAC TROMETHAMINE INJECTION, USP"	","		","	N	","		","	1	","	08-Jul-14	","	121995002
+88567	","		","	Human	","	2400871	","	KETOTIFEN OPHTHALMIC SOLUTION	","	WITH PRESERVATIVE	","	N	","		","	1	","	12-Mar-13	","	115676003
+8468	","		","	Human	","	765252	","	K-EXIT POUDRE	","		","	N	","	66963	","	1	","	29-Apr-15	","	108701002
+67995	","	CAT IV - ANTISEPTIC SKIN CLEANSERS	","	Human	","	2244052	","	KEYSTONE ANTIBACTERIAL FOAM HAND SOAP	","		","	N	","		","	1	","	24-Mar-06	","	108865003
+70601	","	CAT IV - ANTISEPTIC SKIN CLEANSERS	","	Human	","	2246427	","	KEYSTONE FOAM HAND SANITIZER	","		","	N	","		","	1	","	18-Jul-06	","	104993004
+92551	","		","	Human	","	2441152	","	KEYTRUDA	","	FOR I.V. INFUSION. SINGLE USE VIAL.	","	N	","		","	1	","	26-Jun-15	","	156910001
+12995	","		","	Human	","	1926438	","	KIDROLASE	","		","	N	","	74246	","	1	","	05-May-15	","	109328001
+77814	","	CAT IV - ANTISEPTIC SKIN CLEANSERS	","	Human	","	2292785	","	KID'S HAND GEL	","		","	N	","		","	1	","	29-Apr-15	","	104993027
+79255	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2306867	","	KIDS SPF 50 SUNSCREEN SPRAY	","		","	N	","		","	6	","	02-Jul-08	","	652451001
+85590	","		","	Human	","	2370778	","	KIDS SUNSCREEN LOTION SPF 100	","		","	N	","		","	3	","	18-Jan-12	","	350421022
+91610	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2431610	","	KIDS SUNSCREEN LOTION SPF/FPS 60	","		","	N	","		","	5	","	22-May-15	","	544758040
+85657	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2371391	","	KIDS SUNSCREEN SPRAY SPF 100	","	AEROSOL (SOLUTION)	","	N	","		","	5	","	18-Jan-12	","	544758083
+80328	","		","	Human	","	2317745	","	KIDS SUNSCREEN STICK ?CRAN SOLAIRE EN B?TONNET POUR ENFANTS SPF FPS 50	","		","	N	","		","	3	","	29-Apr-15	","	350421013
+82062	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2335018	","	KIDS TEAR FREE/ SANS LARMES SUNSCREEN LOTION/LOTION ?CRAN SOLAIRE POUR ENFANTS SPF FPS 60	","		","	N	","		","	4	","	10-Mar-10	","	435800003
+88937	","		","	Human	","	2404613	","	KIDS WET & DRY SUNSCREEN SPF 60	","	"SPRAY, BAG-ON-VALVE (SOLUTION)"	","	N	","		","	5	","	25-Sep-13	","	544758034
+75118	","		","	Disinfectant	","	2265737	","	KILPHOR PLUS	","		","	N	","		","	1	","	17-May-05	","	131330001
+82224	","		","	Disinfectant	","	2336642	","	KIMTECH BRAND DISINFECTANT WIPE	","		","	N	","		","	3	","	29-Apr-15	","	352491002
+70033	","		","	Human	","	2245913	","	KINERET	","	"100MG PER SYRINGE  SINGLE-USE, PRESERVATIVE-FREE PREFILLED SYRINGES"	","	N	","		","	1	","	31-Aug-12	","	147441001
+60302	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2237002	","	KINESYS SPF 30 SUN STICK	","		","	N	","		","	4	","	25-Sep-15	","	419998030
+37574	","		","	Human	","	2228602	","	KINEVAC (SINCALIDE) FOR INJECTION 5MCG/VIAL	","		","	N	","	H5116	","	1	","	11-Aug-11	","	113162001
+91858	","	CAT IV - HARD SURFACE DISINFECTANTS	","	Disinfectant	","	2434237	","	KIRKLAND SIGNATURE DISINFECTING WIPES	","		","	N	","		","	2	","	09-Feb-15	","	205019038
+76460	","		","	Disinfectant	","	2279045	","	KIRKLAND SIGNATURE HOUSEHOLD SURFACE WIPES	","		","	N	","		","	3	","	20-Jun-06	","	312484001
+75473	","		","	Human	","	2269341	","	KIVEXA	","		","	N	","		","	2	","	30-Sep-14	","	251241001
+33649	","		","	Human	","	2147793	","	KLEAN-PREP	","		","	N	","	H0080	","	5	","	29-Apr-15	","	524479005
+75436	","		","	Veterinary	","	2268981	","	KLEEN & DRI XL	","		","	N	","		","	3	","	08-Nov-05	","	351202001
+82524	","	CAT IV - ANTISEPTIC SKIN CLEANSERS	","	Human	","	2339641	","	KLEENEX ANTIBACTERIAL FOAM SKIN CLEANSER	","		","	N	","		","	1	","	29-Apr-15	","	108865001
+67289	","	CAT IV - ANTISEPTIC SKIN CLEANSERS	","	Human	","	2243381	","	KLEENEX ANTIBACTERIAL SKIN CLEANSER	","		","	N	","		","	1	","	29-Apr-15	","	108865002
+81564	","	CAT IV - ANTISEPTIC SKIN CLEANSERS	","	Human	","	2329891	","	KLERE	","		","	N	","		","	1	","	28-Apr-11	","	104993027
+3619	","		","	Disinfectant	","	472255	","	KO 10	","		","	N	","	54839	","	2	","	29-Sep-10	","	205019002
+11848	","		","	Human	","	1928783	","	KOFFEX DM	","		","	N	","	72769	","	1	","	29-Apr-15	","	100807001
+11847	","		","	Human	","	1928791	","	KOFFEX DM  (SUCROSE FREE)	","		","	N	","	72768	","	1	","	29-Apr-15	","	100807001
+73937	","		","	Human	","	2254476	","	KOGENATE FS	","	WITH BIO-SET	","	N	","		","	1	","	05-May-15	","	124180001
+73938	","		","	Human	","	2254484	","	KOGENATE FS	","	WITH BIO-SET	","	N	","		","	1	","	05-May-15	","	124180003
+73939	","		","	Human	","	2254492	","	KOGENATE FS	","	WITH BIO-SET	","	N	","		","	1	","	05-May-15	","	124180002
+78756	","		","	Human	","	2302225	","	KOGENATE FS     -(WITH BIO-SET)	","		","	N	","		","	1	","	13-Aug-09	","	124180006
+82823	","		","	Human	","	2342731	","	KOGENATE FS     -(WITH VIAL ADAPTER)	","		","	N	","		","	1	","	22-Jul-15	","	124180007
+87467	","		","	Human	","	2389169	","	KOMBOGLYZE	","		","	N	","		","	2	","	26-Nov-14	","	253208001
+87468	","		","	Human	","	2389177	","	KOMBOGLYZE	","		","	N	","		","	2	","	18-Dec-14	","	253208002
+87469	","		","	Human	","	2389185	","	KOMBOGLYZE	","		","	N	","		","	2	","	26-Nov-14	","	253208003
+5922	","		","	Veterinary	","	603481	","	KOPPER KARE LIQ 37.5%	","		","	N	","	61781	","	1	","	05-Jul-99	","	107806001
+9363	","		","	Veterinary	","	643262	","	KOPPERSOL 37.5% LIQ	","		","	N	","	68380	","	1	","	05-Jul-99	","	107806001
+83577	","		","	Human	","	2350580	","	KUVAN	","		","	N	","		","	1	","	15-Jul-10	","	152714001
+7322	","		","	Disinfectant	","	696986	","	KWAT	","		","	N	","	65179	","	2	","	29-Sep-10	","	205019010
+50804	","		","	Human	","	2231480	","	KWELLADA-P CR?ME RINSE	","		","	N	","		","	1	","	03-Apr-14	","	120085001
+50657	","		","	Human	","	2231348	","	KWELLADA-P LOTION	","		","	N	","		","	1	","	03-Apr-14	","	120085002
+76196	","		","	Veterinary	","	2276283	","	KWIK STOP	","		","	N	","		","	5	","	04-Sep-12	","	503163001
+19688	","		","	Human	","	2185881	","	KYTRIL TABLETS 1MG	","		","	N	","	81984	","	1	","	29-Aug-05	","	123183001

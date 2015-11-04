@@ -1,0 +1,1124 @@
+1657	","		","	Human	","	265470	","	C.E.S. TABLETS	","		","	N	","	42684	","	1	","	20-Oct-09	","	106442006
+74691	","		","	Disinfectant	","	2261537	","	C.I. FORMULA 6-88	","		","	N	","		","	1	","	16-Jan-06	","	104993003
+62101	","	"LS - ANALG. (ACETAMINOPHEN, SALICYLATES, CODEINE)"	","	Human	","	2238670	","	C-2 BUFFERED WITH CODEINE	","		","	N	","		","	3	","	29-Apr-15	","	301235002
+5655	","		","	Veterinary	","	52531	","	CACO IRON COPPER (INJECTABLE STERILE SOLUTION)	","		","	N	","	61214	","	3	","	24-May-06	","	306556001
+3190	","		","	Veterinary	","	319392	","	CACO IRON COPPER INJ	","		","	N	","	53485	","	3	","	02-Jul-99	","	306556001
+3104	","		","	Veterinary	","	453730	","	CACO IRON COPPER SOLUTION INJ	","		","	N	","	52858	","	3	","	20-Jul-04	","	306556001
+4718	","		","	Veterinary	","	552992	","	CACO-IRON-COPPER INJ	","		","	N	","	58552	","	3	","	12-Apr-99	","	306556002
+75873	","		","	Human	","	2273233	","	CADUET	","		","	N	","		","	2	","	22-Nov-06	","	251555001
+75874	","		","	Human	","	2273241	","	CADUET	","		","	N	","		","	2	","	02-Feb-11	","	251555002
+75875	","		","	Human	","	2273268	","	CADUET	","		","	N	","		","	2	","	22-Nov-06	","	251555003
+75876	","		","	Human	","	2273276	","	CADUET	","		","	N	","		","	2	","	22-Nov-06	","	251555004
+75877	","		","	Human	","	2273284	","	CADUET	","		","	N	","		","	2	","	02-Feb-11	","	251555005
+75878	","		","	Human	","	2273292	","	CADUET	","		","	N	","		","	2	","	22-Nov-06	","	251555006
+75879	","		","	Human	","	2273306	","	CADUET	","		","	N	","		","	2	","	22-Nov-06	","	251555007
+75880	","		","	Human	","	2273314	","	CADUET	","		","	N	","		","	2	","	22-Nov-06	","	251555008
+61804	","		","	Human	","	2238389	","	CAELYX	","	SINGLE USE VIALS. 20MG/10ML AND 50MG/25ML. PEG. LIPOSOMAL SUSPENSION.	","	N	","		","	1	","	03-Mar-14	","	110825002
+3326	","		","	Veterinary	","	468959	","	CAL MAG K SOLUTION	","		","	N	","	53888	","	5	","	11-Aug-10	","	511261001
+12924	","		","	Veterinary	","	1941569	","	CAL MAG PHOS (STERILE INJECTION)	","		","	N	","	74161	","	4	","	28-May-09	","	400346003
+41558	","		","	Human	","	538493	","	CALAMINE LOTION WITH ANTIHISTAMINE	","		","	N	","	M0896	","	2	","	29-Apr-15	","	210943001
+70891	","	LS - TOPICAL - ANAESTHETIC/ANALGESIC/ANTIPRURITIC	","	Human	","	2246696	","	CALAMINE LOTION WITH ANTIHISTAMINE	","		","	N	","		","	2	","	05-Jul-11	","	210943001
+90698	","		","	Veterinary	","	2422271	","	CALBORO-23%	","		","	N	","		","	1	","	06-Nov-14	","	155450001
+64903	","		","	Veterinary	","	2241294	","	CAL-C-FRESH	","		","	N	","		","	7	","	18-Oct-14	","	756110001
+10770	","		","	Human	","	821780	","	CALCIJECT INJ 100MG/ML	","		","	N	","	70811	","	1	","	25-Feb-09	","	108565001
+11150	","		","	Human	","	891738	","	CALCIJEX	","		","	N	","	71647	","	1	","	27-May-14	","	113628002
+11291	","		","	Human	","	891746	","	CALCIJEX	","		","	N	","	71895	","	1	","	27-May-14	","	113628003
+12837	","		","	Human	","	1926691	","	CALCIMAR SOLUTION INJ 200UNIT/ML	","		","	N	","	74064	","	1	","	20-Mar-08	","	111011001
+69787	","		","	Human	","	2245686	","	CALCITRIOL INJECTION	","		","	N	","		","	1	","	25-Sep-15	","	113628002
+88422	","		","	Human	","	2399334	","	CALCITRIOL INJECTION USP	","		","	N	","		","	1	","	02-Apr-15	","	113628002
+88423	","		","	Human	","	2399342	","	CALCITRIOL INJECTION USP	","		","	N	","		","	1	","	20-Apr-15	","	113628003
+91612	","		","	Human	","	2431637	","	CALCITRIOL-ODAN	","		","	N	","		","	1	","	22-May-15	","	113628007
+91613	","		","	Human	","	2431645	","	CALCITRIOL-ODAN	","		","	N	","		","	1	","	22-May-15	","	113628005
+12932	","		","	Veterinary	","	1985272	","	CALCIUM BOROGLUCONATE 23% LIQ	","		","	N	","	74170	","	1	","	20-Jul-04	","	108571001
+12933	","		","	Veterinary	","	1985280	","	CALCIUM BOROGLUCONATE 23% STERILE INJECTION	","		","	N	","	74171	","	1	","	20-Jul-04	","	108571001
+87315	","		","	Human	","	2387549	","	CALCIUM CHLORIDE FOR HAEMODIALYSIS	","		","	N	","		","	1	","	15-Jan-15	","	108565027
+4770	","		","	Veterinary	","	553522	","	CALCIUM GLUCONATE 23% INJ	","		","	N	","	58682	","	1	","	18-Jan-05	","	108571001
+73240	","		","	Veterinary	","	2248867	","	CALCIUM GLUCONATE 23% INJECTION	","		","	N	","		","	1	","	13-Oct-09	","	108571001
+18936	","		","	Human	","	2141019	","	"CALCIUM GLUCONATE INJECTION, USP 10%"	","		","	N	","	81222	","	2	","	12-May-15	","	252192001
+4761	","		","	Human	","	532762	","	CALCIUM INJ	","		","	N	","	58640	","	2	","	06-Jul-11	","	210242001
+18310	","		","	Human	","	2161060	","	CALCIUM-45  0.25-4.5	","		","	N	","	80538	","	1	","	25-Feb-09	","	108565027
+18321	","		","	Human	","	2160986	","	CALCIUM-45  0.5-4.5	","		","	N	","	80549	","	1	","	25-Feb-09	","	108565025
+86244	","		","	Human	","	2376857	","	CALDOLOR	","	I.V INFUSION ONLY. 4ML & 8ML SINGLE DOSE VIALS.	","	N	","		","	1	","	29-May-13	","	108883008
+2005	","		","	Veterinary	","	308390	","	CALF SCOUR BOLUS	","		","	N	","	46376	","	9	","	19-Sep-11	","	902293001
+1142	","		","	Veterinary	","	118435	","	CALF SCOUR TAB COOP	","		","	N	","	36391	","	5	","	23-Mar-05	","	505532001
+65789	","		","	Veterinary	","	2242113	","	CALF-LYTE II	","		","	N	","		","	8	","	24-Jun-08	","	824124003
+65790	","		","	Veterinary	","	2242114	","	CALF-LYTE II HE	","		","	N	","		","	8	","	01-Mar-13	","	826077003
+11850	","		","	Veterinary	","	1908375	","	CALFSPAN TABLETS	","		","	N	","	72775	","	1	","	05-May-15	","	106055010
+69784	","		","	Veterinary	","	2245684	","	CALICIDE	","		","	N	","		","	1	","	19-Feb-14	","	147041001
+4253	","		","	Human	","	479764	","	CALMEX TAB 25MG	","		","	N	","	57109	","	1	","	18-Jul-12	","	102639002
+4469	","		","	Human	","	535230	","	CALMYLIN	","		","	N	","	57744	","	3	","	29-Apr-15	","	311067001
+19690	","		","	Human	","	2198630	","	CALMYLIN ACE	","		","	N	","	81986	","	3	","	29-Apr-15	","	303191001
+34650	","		","	Human	","	2172917	","	CALMYLIN PSE WITH CODEINE	","		","	N	","	H1658	","	3	","	29-Apr-15	","	321611001
+7401	","		","	Veterinary	","	712566	","	CAL-NATE 23%	","		","	N	","	65350	","	1	","	29-Apr-15	","	108574007
+66865	","		","	Veterinary	","	2243019	","	CAL-PASTE	","		","	N	","		","	6	","	25-Feb-09	","	642342002
+66864	","		","	Veterinary	","	2243018	","	CAL-PASTE PLUS	","		","	N	","		","	12	","	25-Feb-09	","	1242341002
+9526	","		","	Veterinary	","	654612	","	CALPHOS INJECTION LIQ	","		","	N	","	68711	","	4	","	28-May-09	","	400345006
+13009	","		","	Veterinary	","	1960873	","	CAL-PLUS	","		","	N	","	74262	","	4	","	28-May-09	","	400346003
+86754	","		","	Human	","	2381680	","	CAMBIA	","	EACH INDIVIDUAL DOSE SACHET DELIVERS A DOSE OF 50MG DICLOFENACE POTASSIUM WHEN MIXED IN WATER	","	N	","		","	1	","	03-Aug-12	","	122516001
+5880	","		","	Veterinary	","	613908	","	CAMPHOR INJ 200MG/ML	","		","	N	","	61671	","	1	","	12-Apr-99	","	104438003
+77863	","		","	Human	","	2293269	","	CAMPRAL	","		","	N	","		","	1	","	05-May-15	","	152200001
+50993	","		","	Human	","	2231622	","	CAMPTOSAR INJECTION	","		","	N	","		","	1	","	07-Aug-13	","	132910001
+64695	","		","	Veterinary	","	2241092	","	CANADIAN MEDICATED SHAMPOO	","		","	N	","		","	2	","	29-Jul-09	","	202770003
+76309	","		","	Veterinary	","	2277468	","	CANAURAL	","		","	N	","		","	4	","	17-Apr-12	","	419015001
+91237	","		","	Veterinary	","	2427877	","	CANAURAL	","		","	N	","		","	4	","	12-Mar-15	","	419015002
+80792	","		","	Human	","	2322471	","	CANCAP SIMETHICONE USP 180 MG SOFT CAPSULES	","		","	N	","		","	1	","	13-Mar-15	","	131347005
+68232	","		","	Human	","	2244265	","	CANCIDAS	","		","	N	","		","	1	","	10-Feb-11	","	144763001
+68233	","		","	Human	","	2244266	","	CANCIDAS	","		","	N	","		","	1	","	10-Feb-11	","	144763002
+86372	","		","	Human	","	2377934	","	CANDESARTAN	","		","	N	","		","	1	","	05-May-15	","	135220002
+86373	","		","	Human	","	2377942	","	CANDESARTAN	","		","	N	","		","	1	","	05-May-15	","	135220003
+87422	","		","	Human	","	2388693	","	CANDESARTAN	","		","	N	","		","	1	","	03-Jun-15	","	135220001
+87423	","		","	Human	","	2388707	","	CANDESARTAN	","		","	N	","		","	1	","	05-Jun-15	","	135220002
+87424	","		","	Human	","	2388715	","	CANDESARTAN	","		","	N	","		","	1	","	05-Jun-15	","	135220003
+87444	","		","	Human	","	2388901	","	CANDESARTAN	","		","	N	","		","	1	","	17-Aug-12	","	135220001
+87445	","		","	Human	","	2388928	","	CANDESARTAN	","		","	N	","		","	1	","	17-Aug-12	","	135220002
+87446	","		","	Human	","	2388936	","	CANDESARTAN	","		","	N	","		","	1	","	17-Aug-12	","	135220003
+90678	","		","	Human	","	2422069	","	CANDESARTAN	","		","	N	","		","	1	","	15-Jul-14	","	135220004
+92019	","		","	Human	","	2435845	","	CANDESARTAN	","		","	N	","		","	1	","	23-Feb-15	","	135220004
+87997	","		","	Human	","	2394812	","	CANDESARTAN HCT	","		","	N	","		","	2	","	04-Jan-13	","	244181001
+87995	","		","	Human	","	2394804	","	CANDESARTAN/HCTZ	","		","	N	","		","	2	","	07-Dec-12	","	244181001
+87755	","		","	Human	","	2392275	","	CANDESARTAN-HCTZ	","		","	N	","		","	2	","	03-Jan-13	","	244181001
+79724	","		","	Human	","	2311690	","	CANESORAL	","		","	N	","		","	1	","	10-Jul-12	","	122529004
+79728	","		","	Human	","	2311739	","	CANESORAL COMBI-PAK	","		","	N	","		","	2	","	10-Jul-12	","	252465001
+19487	","		","	Human	","	2150867	","	CANESTEN 1% TOPICAL CREAM	","		","	N	","	81784	","	1	","	10-Jul-12	","	110231001
+74952	","		","	Human	","	2264102	","	CANESTEN COMBI-PAK COMFORTAB 1	","		","	N	","		","	2	","	10-Jul-12	","	219813001
+74951	","		","	Human	","	2264099	","	CANESTEN COMBI-PAK COMFORTAB 3	","		","	N	","		","	2	","	10-Jul-12	","	219813002
+49563	","		","	Human	","	2230509	","	CANESTEN COMBI-PAK CREAM 1	","		","	N	","		","	2	","	10-Jul-12	","	219813004
+19480	","		","	Human	","	2150859	","	CANESTEN COMFORTAB 1	","		","	N	","	81777	","	1	","	05-May-15	","	110231005
+19479	","		","	Human	","	2150840	","	CANESTEN COMFORTAB 3	","		","	N	","	81776	","	1	","	05-May-15	","	110231004
+44016	","		","	Human	","	2150883	","	CANESTEN CREAM 1	","		","	N	","	T9411	","	1	","	10-Jul-12	","	110231006
+19484	","		","	Human	","	2150905	","	CANESTEN CREAM 3	","		","	N	","	81781	","	1	","	10-Jul-12	","	110231003
+19483	","		","	Human	","	2150891	","	CANESTEN CREAM 6	","		","	N	","	81780	","	1	","	10-Jul-12	","	110231001
+79727	","		","	Human	","	2311720	","	CANESTEN EXTERNAL CREAM	","		","	N	","		","	1	","	12-Apr-10	","	110231001
+62905	","		","	Human	","	2239432	","	CANESTEN EXTERNAL CREAM REFILL	","		","	N	","		","	1	","	05-May-15	","	110231001
+16466	","		","	Veterinary	","	2052474	","	CANINSULIN	","		","	N	","	78357	","	1	","	08-Nov-13	","	114888001
+90082	","		","	Veterinary	","	2416239	","	CANINSULIN	","	CARTRIDGES (2.7ML)	","	N	","		","	1	","	24-Jun-14	","	114888001
+5314	","		","	Human	","	589500	","	CANTHACUR-PS	","		","	N	","	60237	","	3	","	24-Nov-05	","	315894002
+9361	","		","	Human	","	772011	","	CANTHARONE PLUS	","		","	N	","	68373	","	3	","	21-Dec-05	","	315894001
+84541	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2360462	","	CAPITAL LUMIERE JOUR SPF 15	","		","	N	","		","	4	","	14-Apr-11	","	451521009
+86437	","		","	Human	","	2378582	","	CAPRELSA	","		","	N	","		","	1	","	07-Aug-12	","	153066001
+86438	","		","	Human	","	2378590	","	CAPRELSA	","		","	N	","		","	1	","	07-Aug-12	","	153066002
+67347	","		","	Veterinary	","	2243436	","	CAPSTAR	","	NITENPYRAM TABLETS FOR CATS AND DOGS	","	N	","		","	1	","	21-Jul-11	","	143041001
+67348	","		","	Veterinary	","	2243437	","	CAPSTAR	","	NITENPYRAM TABLETS FOR DOGS	","	N	","		","	1	","	16-Aug-11	","	143041002
+61982	","		","	Human	","	2238555	","	CAPTOPRIL	","		","	N	","		","	1	","	21-Sep-09	","	114954004
+61983	","		","	Human	","	2238556	","	CAPTOPRIL	","		","	N	","		","	1	","	21-Sep-09	","	114954001
+61984	","		","	Human	","	2238557	","	CAPTOPRIL	","		","	N	","		","	1	","	21-Sep-09	","	114954002
+61985	","		","	Human	","	2238558	","	CAPTOPRIL	","		","	N	","		","	1	","	21-Sep-09	","	114954003
+81144	","		","	Human	","	2326108	","	CAPTURE TOTALE ANTI-AGING EMULSION UVA/UVB PROTECTION	","		","	N	","		","	4	","	24-Apr-13	","	439065007
+82113	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2335522	","	CAPTURE TOTALE FOND DE TEINT CONCENTR? ?CLAT HAUTE D?FINTION	","		","	N	","		","	2	","	04-Jan-11	","	216790021
+84572	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2360713	","	CAPTURE TOTALE FOND DE TEINT CONCENTR? R?G?N?RATEUR D'?CLAT	","		","	N	","		","	2	","	07-Feb-12	","	216790021
+83950	","		","	Disinfectant	","	2354314	","	CAR INTERIOR DISINFECTANT/SANITIZER	","		","	N	","		","	4	","	29-Apr-15	","	414758048
+84853	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2363550	","	CARAMEL LATTE TINTED MOISTURIZER	","		","	N	","		","	2	","	18-Dec-12	","	216792005
+19401	","		","	Human	","	2060043	","	CARBACHOL	","		","	N	","	81695	","	1	","	30-Jul-15	","	103177001
+89824	","		","	Human	","	2413590	","	CARBAMAZEPINE CR	","		","	N	","		","	1	","	21-Jan-14	","	108674001
+89825	","		","	Human	","	2413604	","	CARBAMAZEPINE CR	","		","	N	","		","	1	","	21-Jan-14	","	108674004
+65669	","		","	Human	","	2241999	","	CARBOCAINE 1%	","		","	N	","		","	1	","	03-Aug-07	","	100583003
+65670	","		","	Human	","	2242000	","	CARBOCAINE 1%	","		","	N	","		","	1	","	03-Aug-07	","	100583003
+65671	","		","	Human	","	2242001	","	CARBOCAINE 2%	","		","	N	","		","	1	","	01-Apr-15	","	100583002
+76704	","		","	Human	","	2281414	","	CARBOCAINE 2% WITH NEO-COBEFRIN	","		","	N	","		","	2	","	03-Sep-09	","	248622002
+75732	","		","	Human	","	2271796	","	CARBOCAINE 3%	","		","	N	","		","	1	","	03-Sep-09	","	100583001
+19293	","		","	Human	","	2154749	","	CARBOGEN	","	CO2 BALANCED WITH 02	","	N	","	81585	","	2	","	29-Apr-15	","	213351004
+3414	","		","	Human	","	461733	","	CARBOLITH CAP 150MG	","		","	N	","	54281	","	1	","	03-Aug-07	","	101163001
+1327	","		","	Human	","	236683	","	CARBOLITH CAP 300MG	","		","	N	","	39051	","	1	","	08-Dec-05	","	101163002
+13429	","		","	Human	","	2011239	","	CARBOLITH CAPSULES 600MG	","		","	N	","	74814	","	1	","	08-Dec-05	","	101163003
+5687	","		","	Human	","	572861	","	CARBON DIOXIDE 100%	","		","	N	","	61293	","	1	","	11-Jul-06	","	110465002
+11059	","		","	Human	","	882763	","	CARBON DIOXIDE 12.1% W OXYGEN	","	CO2:12.1-23% BALANCED WITH O2	","	N	","	71278	","	2	","	14-Jul-10	","	213351003
+11060	","		","	Human	","	882771	","	CARBON DIOXIDE 23.1% W OXYGEN	","	CO2:23.1-50% BALANCED WITH O2	","	N	","	71279	","	2	","	14-Jul-10	","	213351004
+11058	","		","	Human	","	882755	","	CARBON DIOXIDE 7.1% W OXYGEN	","	CO2:7.1-12% BALANCED WITH O2	","	N	","	71277	","	2	","	14-Jul-10	","	213351005
+13884	","		","	Human	","	2014459	","	CARBON DIOXIDE USP	","		","	N	","	75359	","	1	","	05-May-08	","	110465002
+19263	","		","	Human	","	2154730	","	CARBON DIOXIDE USP	","		","	N	","	81554	","	1	","	29-Apr-15	","	110465002
+13892	","		","	Human	","	2014416	","	"CARBON DIOXIDE USP, COMPRESSED AIR USP M.G.M"	","	CO2:15.1-30% BALANCED WITH AIR	","	N	","	75368	","	2	","	14-Jul-10	","	221194002
+13897	","		","	Human	","	2014335	","	"CARBON DIOXIDE USP, COMPRESSED AIR USP M.G.M"	","	CO2:30.1-50% BALANCED WITH AIR	","	N	","	75373	","	2	","	14-Jul-10	","	221194003
+13910	","		","	Human	","	2014432	","	"CARBON DIOXIDE USP, OXYGEN USP MEDICAL G.M."	","	CO2:1-7% BALANCED WITH O2	","	N	","	75387	","	2	","	14-Jul-10	","	213351002
+13896	","		","	Human	","	2014343	","	"CARBON DIOXIDE, COMPRESSED AIR MEDICAL G.MIX."	","	CO2:1-15% BALANCED WITH AIR	","	N	","	75372	","	2	","	14-Jul-10	","	221194001
+13920	","		","	Human	","	2014424	","	"CARBON MONOX, HELIUM, OXYGEN, NITROGEN L.D.M."	","	"CO:0.2-3%, HE:9.5-10.5%, O2:20.5-21.5%, BALANCED WITH N2"	","	N	","	75399	","	4	","	14-Jul-10	","	415738002
+13895	","		","	Human	","	2014351	","	"CARBON MONOXIDE, COMPRESSED AIR MEDICAL G.M."	","	CO:0.005-0.3% BALANCED WITH AIR	","	N	","	75371	","	2	","	14-Jul-10	","	215737002
+17830	","		","	Human	","	2125439	","	CARBOPLATIN INJECTION	","	LIQ  IV  10MG/ML	","	N	","	80037	","	1	","	05-May-15	","	117892002
+80581	","		","	Human	","	2320371	","	CARBOPLATIN INJECTION	","		","	N	","		","	1	","	16-Mar-15	","	117892002
+85093	","		","	Human	","	2366053	","	CARBOPLATIN INJECTION	","	"SINGLE USE VIALS 50MG/5ML, 150MG/15ML, 450MG/45ML AND 600MG/60ML PRESERVATIVE FREE"	","	N	","		","	1	","	12-Jan-15	","	117892002
+43846	","		","	Human	","	2126680	","	CARBOPLATIN INJECTION BP	","		","	N	","	S9916	","	1	","	29-Apr-15	","	117892002
+11341	","		","	Human	","	703419	","	CARBOSYLANE	","		","	N	","	71988	","	2	","	29-Apr-15	","	218484001
+27931	","		","	Disinfectant	","	2074192	","	CARBOXIDE GAS 10%	","		","	N	","	F3457	","	1	","	16-Jan-06	","	124235003
+17102	","		","	Human	","	2097273	","	CARDIZEM CD	","	300MG CONTROLLED DELIVERY CAPSULE	","	N	","	79252	","	1	","	18-Dec-12	","	115863008
+17125	","		","	Human	","	2097249	","	CARDIZEM CD	","	120MG CONTROLLED DELIVERY CAPSULE	","	N	","	79275	","	1	","	18-Dec-12	","	115863004
+17253	","		","	Human	","	2097265	","	CARDIZEM CD	","	240MG CONTROLLED DELIVERY CAPSULE	","	N	","	79406	","	1	","	18-Dec-12	","	115863006
+17254	","		","	Human	","	2097257	","	CARDIZEM CD	","	180MG CONTROLLED DELIVERY CAPSULE	","	N	","	79407	","	1	","	18-Dec-12	","	115863007
+12455	","		","	Human	","	1958100	","	CARDURA-1 TAB 1MG	","		","	N	","	73560	","	1	","	26-Jan-13	","	131431001
+12456	","		","	Human	","	1958097	","	CARDURA-2 TAB 2MG	","		","	N	","	73561	","	1	","	25-Jan-13	","	131431003
+12457	","		","	Human	","	1958119	","	CARDURA-4 TAB 4MG	","		","	N	","	73562	","	1	","	05-May-15	","	131431002
+77330	","		","	Human	","	2287919	","	CARIBBEAN BREEZE BURN RELIEF	","		","	N	","		","	1	","	26-Aug-08	","	101280004
+77299	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2287609	","	CARIBBEAN BREEZE SPF 30 KIDS SUNSCREEN LOTION	","		","	N	","		","	4	","	26-Aug-08	","	421125031
+77322	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2287846	","	CARIBBEAN BREEZE SPF15 SUNSCREEN LOTION	","		","	N	","		","	4	","	26-Aug-08	","	419998053
+77321	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2287838	","	CARIBBEAN BREEZE SPF15 SUNSCREEN SPRAY LOTION	","		","	N	","		","	3	","	26-Aug-08	","	318802079
+77323	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2287854	","	CARIBBEAN BREEZE SPF20 SUNSCREEN SPRAY LOTION	","		","	N	","		","	3	","	26-Aug-08	","	318802027
+77325	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2287870	","	CARIBBEAN BREEZE SPF30 SUNSCREEN LOTION	","		","	N	","		","	4	","	26-Aug-08	","	419998054
+77324	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2287862	","	CARIBBEAN BREEZE SPF30 SUNSCREEN SPRAY LOTION	","		","	N	","		","	4	","	26-Aug-08	","	421125031
+77326	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2287889	","	CARIBBEAN BREEZE SPF45 SUNSCREEN SPRAY LOTION	","		","	N	","		","	4	","	26-Aug-08	","	421125032
+88240	","		","	Human	","	2397447	","	CARIPUL	","		","	N	","		","	1	","	29-Apr-13	","	133040001
+88241	","		","	Human	","	2397455	","	CARIPUL	","		","	N	","		","	1	","	29-Apr-13	","	133040002
+79168	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2306123	","	CARMEX CHERRY FLAVOURED LIP OINTMENT SPF 15	","		","	N	","		","	2	","	31-Jul-12	","	216932065
+79169	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2306131	","	CARMEX FLAVOURED LIP BALM	","		","	N	","		","	2	","	29-Apr-15	","	216932065
+18903	","		","	Human	","	2144344	","	CARNITOR - LIQ IV 200MG/ML	","		","	N	","	81185	","	1	","	21-Feb-06	","	127168001
+19094	","		","	Human	","	2144336	","	CARNITOR - LIQ ORL 100MG/ML	","		","	N	","	81383	","	1	","	03-Mar-06	","	127168003
+18931	","		","	Human	","	2144328	","	CARNITOR -TAB 330MG	","		","	N	","	81217	","	1	","	21-Feb-06	","	127168002
+37161	","	LS - LAXATIVES (GENERAL)	","	Human	","	2219190	","	CARTER'S LITTLE PILLS	","		","	N	","	H4630	","	1	","	28-Nov-13	","	101506001
+19092	","		","	Veterinary	","	2082101	","	CARTROPHEN VET INJ.SC 100MG/ML	","		","	N	","	81381	","	1	","	15-Apr-11	","	124416001
+73120	","		","	Human	","	2248752	","	CARVEDILOL	","		","	N	","		","	1	","	07-Nov-12	","	122683003
+73121	","		","	Human	","	2248753	","	CARVEDILOL	","		","	N	","		","	1	","	07-Nov-12	","	122683004
+73122	","		","	Human	","	2248754	","	CARVEDILOL	","		","	N	","		","	1	","	07-Nov-12	","	122683005
+73123	","		","	Human	","	2248755	","	CARVEDILOL	","		","	N	","		","	1	","	07-Nov-12	","	122683001
+80995	","		","	Human	","	2324504	","	CARVEDILOL	","		","	N	","		","	1	","	21-Sep-09	","	122683003
+80996	","		","	Human	","	2324512	","	CARVEDILOL	","		","	N	","		","	1	","	21-Sep-09	","	122683004
+80997	","		","	Human	","	2324520	","	CARVEDILOL	","		","	N	","		","	1	","	21-Sep-09	","	122683005
+80998	","		","	Human	","	2324539	","	CARVEDILOL	","		","	N	","		","	1	","	21-Sep-09	","	122683001
+84979	","		","	Human	","	2364913	","	CARVEDILOL	","		","	N	","		","	1	","	05-May-15	","	122683003
+84980	","		","	Human	","	2364921	","	CARVEDILOL	","		","	N	","		","	1	","	05-May-15	","	122683004
+84981	","		","	Human	","	2364948	","	CARVEDILOL	","		","	N	","		","	1	","	05-May-15	","	122683005
+84982	","		","	Human	","	2364956	","	CARVEDILOL	","	FILM-COATED	","	N	","		","	1	","	05-May-15	","	122683001
+19647	","		","	Human	","	2184478	","	CASODEX TAB 50MG	","		","	N	","	81944	","	1	","	24-Jan-08	","	127996001
+1601	","		","	Human	","	259527	","	CATAPRES TAB 0.1MG	","		","	N	","	41968	","	1	","	11-Aug-15	","	108891001
+85604	","		","	Human	","	2370840	","	CATHEJELL JELLY 2%	","	PRESERVATIVE-FREE. 12.5G SINGLE-USE SYRINGE WITH APPLICATOR.	","	N	","		","	1	","	05-Sep-14	","	101280001
+69976	","		","	Human	","	2245859	","	CATHFLO	","		","	N	","		","	1	","	28-Jul-10	","	120086003
+86743	","		","	Veterinary	","	2381583	","	CAUSTIC DEHORNING PASTE	","		","	N	","		","	2	","	31-Oct-14	","	203540001
+20353	","		","	Human	","	2215756	","	CAVERJECT STERILE POWDER - KIT 23.2MCG/VIAL	","		","	N	","	82663	","	2	","	22-Oct-08	","	228543006
+20013	","		","	Disinfectant	","	2161656	","	CAVICIDE	","		","	N	","	82312	","	2	","	30-Aug-11	","	231243004
+86560	","		","	Disinfectant	","	2379732	","	CAVICIDE 1	","		","	N	","		","	3	","	04-Dec-13	","	353089001
+65889	","		","	Disinfectant	","	2242209	","	CAVIWIPES	","		","	N	","		","	2	","	15-May-14	","	231243004
+86562	","		","	Disinfectant	","	2379759	","	CAVIWIPES 1	","		","	N	","		","	3	","	15-Sep-15	","	353089001
+70138	","		","	Disinfectant	","	2246012	","	CAVIWIPES XL	","		","	N	","		","	2	","	27-Apr-12	","	231243004
+86561	","		","	Disinfectant	","	2379740	","	CAVIWIPES1 XL	","		","	N	","		","	3	","	20-Jan-15	","	353089001
+81558	","		","	Human	","	2329840	","	CAYSTON	","		","	N	","		","	1	","	05-May-15	","	122819004
+88921	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2404443	","	CC CR?ME COLOR COMPLEXION CORRECTION BROAD SPECTRUM SPF 40	","		","	N	","		","	3	","	24-Jun-14	","	354190001
+91075	","		","	Human	","	2426145	","	CC CREAM BROAD SPECTRUM SPF 30	","		","	N	","		","	4	","	16-Mar-15	","	455770001
+88908	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2404303	","	CC CREAM BROAD SPECTRUM SPF 40	","		","	N	","		","	3	","	06-Nov-13	","	354190001
+91101	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2426420	","	CC CREME COLOR CORRECTION CREME	","		","	N	","		","	3	","	22-Aug-14	","	327220026
+78017	","		","	Disinfectant	","	2294842	","	CC-632	","		","	N	","		","	4	","	06-Oct-09	","	414758005
+80095	","		","	Disinfectant	","	2315416	","	CC-633	","		","	N	","		","	4	","	06-Oct-09	","	414758049
+85275	","		","	Disinfectant	","	2367920	","	CC-635 HF	","		","	N	","		","	4	","	13-Jan-14	","	414758053
+10545	","		","	Human	","	832804	","	CECLOR	","		","	N	","	70488	","	1	","	05-May-15	","	113428002
+3728	","		","	Human	","	465186	","	CECLOR	","		","	N	","	55205	","	1	","	05-May-15	","	113428003
+3729	","		","	Human	","	465194	","	CECLOR	","		","	N	","	55206	","	1	","	05-May-15	","	113428004
+3730	","		","	Human	","	465208	","	CECLOR	","		","	N	","	55207	","	1	","	10-Feb-14	","	113428001
+3731	","		","	Human	","	465216	","	CECLOR	","		","	N	","	55208	","	1	","	10-Feb-14	","	113428005
+2529	","		","	Human	","	360414	","	CEENU	","		","	N	","	50103	","	1	","	10-Sep-10	","	111021003
+2530	","		","	Human	","	360422	","	CEENU	","		","	N	","	50104	","	1	","	10-Sep-10	","	111021001
+2531	","		","	Human	","	360430	","	CEENU	","		","	N	","	50105	","	1	","	10-Sep-10	","	111021002
+61083	","		","	Human	","	2237729	","	CEFACLOR CAPSULES	","		","	N	","		","	1	","	05-May-15	","	113428003
+61084	","		","	Human	","	2237730	","	CEFACLOR CAPSULES	","		","	N	","		","	1	","	05-May-15	","	113428004
+44191	","		","	Veterinary	","	2173255	","	CEFA-DRI	","	INTRAMAMMARY INFUSION	","	N	","	T9836	","	1	","	05-May-15	","	131396001
+44192	","		","	Veterinary	","	2173263	","	CEFA-LAK	","	INTRAMAMMARY INFUSION (LACTATING COW)	","	N	","	T9837	","	1	","	06-May-15	","	131396002
+19521	","		","	Human	","	2108119	","	CEFAZOLIN FOR INJECTION	","		","	N	","	81818	","	1	","	29-Apr-15	","	109442008
+19532	","		","	Human	","	2108127	","	CEFAZOLIN FOR INJECTION	","		","	N	","	81829	","	1	","	29-Apr-15	","	109442001
+19534	","		","	Human	","	2108135	","	CEFAZOLIN FOR INJECTION	","		","	N	","	81831	","	1	","	05-May-15	","	109442003
+78258	","		","	Human	","	2297205	","	CEFAZOLIN FOR INJECTION	","		","	N	","		","	1	","	26-Apr-11	","	109442001
+78259	","		","	Human	","	2297213	","	CEFAZOLIN FOR INJECTION	","		","	N	","		","	1	","	26-Apr-11	","	109442003
+92143	","		","	Human	","	2437120	","	CEFAZOLIN FOR INJECTION	","		","	N	","		","	1	","	18-Jun-15	","	109442006
+79454	","		","	Human	","	2308932	","	CEFAZOLIN FOR INJECTION USP	","		","	N	","		","	1	","	23-May-08	","	109442002
+79456	","		","	Human	","	2308959	","	CEFAZOLIN FOR INJECTION USP	","		","	N	","		","	1	","	23-May-08	","	109442005
+79457	","		","	Human	","	2308967	","	CEFAZOLIN FOR INJECTION USP	","		","	N	","		","	1	","	23-May-08	","	109442006
+60452	","		","	Human	","	2237137	","	"CEFAZOLIN FOR INJECTION, USP"	","		","	N	","		","	1	","	03-Jun-15	","	109442002
+60453	","		","	Human	","	2237138	","	"CEFAZOLIN FOR INJECTION, USP"	","		","	N	","		","	1	","	03-Jun-15	","	109442001
+60455	","		","	Human	","	2237140	","	"CEFAZOLIN FOR INJECTION, USP"	","		","	N	","		","	1	","	03-Jun-15	","	109442003
+60456	","		","	Human	","	2237141	","	"CEFAZOLIN FOR INJECTION, USP"	","		","	N	","		","	1	","	05-May-15	","	109442004
+88577	","		","	Human	","	2401029	","	"CEFAZOLIN FOR INJECTION, USP"	","	SMARTPAK BULK PACKAGE	","	N	","		","	1	","	11-Sep-15	","	109442007
+80452	","		","	Human	","	2319039	","	CEFEPIME FOR INJECTION	","		","	N	","		","	1	","	12-Jan-10	","	150504005
+74688	","		","	Human	","	2261502	","	"CEFOTAXIME SODIUM FOR INJECTION, BP"	","		","	N	","		","	1	","	21-Jul-10	","	114953001
+74689	","		","	Human	","	2261510	","	"CEFOTAXIME SODIUM FOR INJECTION, BP"	","		","	N	","		","	1	","	26-Oct-10	","	114953002
+74690	","		","	Human	","	2261529	","	"CEFOTAXIME SODIUM FOR INJECTION, BP"	","		","	N	","		","	1	","	09-Jul-10	","	114953003
+91844	","		","	Human	","	2434091	","	"CEFOTAXIME SODIUM FOR INJECTION, BP"	","		","	N	","		","	1	","	18-Mar-15	","	152507001
+91845	","		","	Human	","	2434105	","	"CEFOTAXIME SODIUM FOR INJECTION, BP"	","		","	N	","		","	1	","	18-Mar-15	","	152507002
+19200	","		","	Human	","	2128187	","	CEFOXITIN FOR INJECTION	","		","	N	","	81491	","	1	","	05-May-15	","	113134002
+19201	","		","	Human	","	2128195	","	CEFOXITIN FOR INJECTION	","		","	N	","	81492	","	1	","	05-May-15	","	113134001
+64362	","		","	Human	","	2240773	","	CEFOXITIN FOR INJECTION	","		","	N	","		","	1	","	05-May-15	","	113134003
+77707	","		","	Human	","	2291711	","	"CEFOXITIN FOR INJECTION, USP"	","		","	N	","		","	1	","	09-Jul-12	","	113134002
+77708	","		","	Human	","	2291738	","	"CEFOXITIN FOR INJECTION, USP"	","		","	N	","		","	1	","	09-Jul-12	","	113134001
+92221	","		","	Human	","	2437848	","	CEFTAZIDIME FOR INJECTION BP	","	"I.M, I.V. INJ. & I.V INFUSION"	","	N	","		","	1	","	11-Jun-15	","	116900007
+92222	","		","	Human	","	2437856	","	CEFTAZIDIME FOR INJECTION BP	","	I.V INJ. & I.V INFUSION	","	N	","		","	1	","	11-Jun-15	","	116900008
+92223	","		","	Human	","	2437864	","	CEFTAZIDIME FOR INJECTION BP	","	I.V. INFUSION	","	N	","		","	1	","	11-Jun-15	","	116900009
+92394	","		","	Human	","	2439522	","	"CEFTAZIDIME FOR INJECTION, BP"	","	FOR I.V INFUSION	","	N	","		","	1	","	11-Jun-15	","	116900010
+11370	","		","	Human	","	886971	","	"CEFTAZIDIME FOR INJECTION, USP"	","		","	N	","	72032	","	1	","	20-May-15	","	116900004
+11371	","		","	Human	","	886963	","	"CEFTAZIDIME FOR INJECTION, USP"	","		","	N	","	72033	","	1	","	20-May-15	","	116900003
+11372	","		","	Human	","	886955	","	"CEFTAZIDIME FOR INJECTION, USP"	","		","	N	","	72034	","	1	","	20-May-15	","	116900002
+43089	","		","	Human	","	2212307	","	CEFTIN - PWS 125MG/5ML	","		","	N	","	P9381	","	1	","	18-Nov-05	","	122448005
+43086	","		","	Human	","	2212277	","	CEFTIN - TAB 250MG	","		","	N	","	P9378	","	1	","	18-Nov-05	","	122448001
+43087	","		","	Human	","	2212285	","	CEFTIN - TAB 500MG	","		","	N	","	P9379	","	1	","	18-Nov-05	","	122448002
+90227	","		","	Veterinary	","	2417677	","	CEFTIOCYL	","	I.M. FOR SWINE & CATTLE. S.C. FOR CATTLE ONLY.	","	N	","		","	1	","	09-Jul-14	","	119705001
+89462	","		","	Human	","	2409968	","	CEFTRIAXONE FOR INJECTION	","	SMARTPACK BULK PACKAGE	","	N	","		","	1	","	20-May-15	","	117292009
+77762	","		","	Human	","	2292262	","	CEFTRIAXONE FOR INJECTION USP	","		","	N	","		","	1	","	16-Mar-07	","	117292001
+77763	","		","	Human	","	2292270	","	CEFTRIAXONE FOR INJECTION USP	","		","	N	","		","	1	","	16-Mar-07	","	117292003
+77764	","		","	Human	","	2292289	","	CEFTRIAXONE FOR INJECTION USP	","		","	N	","		","	1	","	16-Mar-07	","	117292002
+77765	","		","	Human	","	2292297	","	CEFTRIAXONE FOR INJECTION USP	","		","	N	","		","	1	","	16-Mar-07	","	117292004
+77821	","		","	Human	","	2292866	","	CEFTRIAXONE FOR INJECTION USP	","		","	N	","		","	1	","	05-May-15	","	117292001
+77822	","		","	Human	","	2292874	","	CEFTRIAXONE FOR INJECTION USP	","		","	N	","		","	1	","	05-May-15	","	117292003
+77823	","		","	Human	","	2292882	","	CEFTRIAXONE FOR INJECTION USP	","		","	N	","		","	1	","	26-Apr-11	","	117292002
+77825	","		","	Human	","	2292904	","	CEFTRIAXONE FOR INJECTION USP	","		","	N	","		","	1	","	05-May-15	","	117292004
+77304	","		","	Human	","	2287633	","	CEFTRIAXONE SODIUM FOR INJECTION	","		","	N	","		","	1	","	05-May-15	","	117292003
+77306	","		","	Human	","	2287668	","	CEFTRIAXONE SODIUM FOR INJECTION	","		","	N	","		","	1	","	05-May-15	","	117292004
+81096	","		","	Human	","	2325594	","	CEFTRIAXONE SODIUM FOR INJECTION BP	","		","	N	","		","	1	","	26-Jul-11	","	117292001
+81098	","		","	Human	","	2325616	","	CEFTRIAXONE SODIUM FOR INJECTION BP	","		","	N	","		","	1	","	24-Mar-11	","	117292007
+81099	","		","	Human	","	2325624	","	CEFTRIAXONE SODIUM FOR INJECTION BP	","		","	N	","		","	1	","	24-Mar-11	","	117292006
+81100	","		","	Human	","	2325632	","	CEFTRIAXONE SODIUM FOR INJECTION BP	","		","	N	","		","	1	","	24-Mar-11	","	117292008
+73507	","		","	Human	","	2250276	","	"CEFTRIAXONE SODIUM FOR INJECTION, BP"	","		","	N	","		","	1	","	05-May-15	","	117292001
+73509	","		","	Human	","	2250292	","	"CEFTRIAXONE SODIUM FOR INJECTION, BP"	","		","	N	","		","	1	","	13-Apr-12	","	117292003
+73510	","		","	Human	","	2250306	","	"CEFTRIAXONE SODIUM FOR INJECTION, BP"	","		","	N	","		","	1	","	05-May-15	","	117292002
+77817	","		","	Human	","	2292815	","	"CEFTRIAXONE SODIUM FOR INJECTION, BP"	","		","	N	","		","	1	","	05-May-15	","	117292004
+65298	","		","	Human	","	2241638	","	"CEFUROXIME FOR INJECTION, USP"	","		","	N	","		","	1	","	12-Aug-15	","	122448004
+65299	","		","	Human	","	2241639	","	"CEFUROXIME FOR INJECTION, USP"	","		","	N	","		","	1	","	12-Aug-15	","	122448007
+65300	","		","	Human	","	2241640	","	"CEFUROXIME FOR INJECTION, USP"	","		","	N	","		","	1	","	20-May-15	","	122448003
+90699	","		","	Human	","	2422298	","	"CEFUROXIME FOR INJECTION, USP"	","		","	N	","		","	1	","	31-Mar-15	","	122448004
+90700	","		","	Human	","	2422301	","	"CEFUROXIME FOR INJECTION, USP"	","		","	N	","		","	1	","	31-Mar-15	","	122448008
+90701	","		","	Human	","	2422328	","	"CEFUROXIME FOR INJECTION, USP"	","		","	N	","		","	1	","	08-Jul-15	","	122448009
+19227	","		","	Human	","	2163675	","	CEFZIL POWDER FOR ORAL SUSPENSION-125MG/5ML	","		","	N	","	81518	","	1	","	12-Jul-10	","	127613001
+19226	","		","	Human	","	2163683	","	CEFZIL POWDER FOR ORAL SUSPENSION-250MG/5ML	","		","	N	","	81517	","	1	","	12-Jul-10	","	127613004
+19229	","		","	Human	","	2163659	","	CEFZIL TABLETS - 250MG	","		","	N	","	81520	","	1	","	27-May-08	","	127613003
+19228	","		","	Human	","	2163667	","	CEFZIL TABLETS - 500MG	","		","	N	","	81519	","	1	","	27-May-08	","	127613002
+84579	","		","	Human	","	2360799	","	CELAZOME SPF 29	","		","	N	","		","	5	","	17-Jan-13	","	525322023
+84580	","		","	Human	","	2360802	","	CELAZOME SPF 30	","		","	N	","		","	4	","	17-Jan-13	","	420277005
+63442	","		","	Human	","	2239941	","	CELEBREX	","		","	N	","		","	1	","	19-Dec-13	","	137043001
+63443	","		","	Human	","	2239942	","	CELEBREX	","		","	N	","		","	1	","	19-Dec-13	","	137043002
+90908	","		","	Human	","	2424371	","	CELECOXIB	","		","	N	","		","	1	","	27-Nov-14	","	137043001
+90909	","		","	Human	","	2424398	","	CELECOXIB	","		","	N	","		","	1	","	27-Nov-14	","	137043002
+91412	","		","	Human	","	2429675	","	CELECOXIB	","		","	N	","		","	1	","	05-Dec-14	","	137043001
+91413	","		","	Human	","	2429683	","	CELECOXIB	","		","	N	","		","	1	","	05-Dec-14	","	137043002
+92062	","		","	Human	","	2436299	","	CELECOXIB	","		","	N	","		","	1	","	20-Feb-15	","	137043001
+92063	","		","	Human	","	2436302	","	CELECOXIB	","		","	N	","		","	1	","	20-Feb-15	","	137043002
+87727	","		","	Disinfectant	","	2391961	","	CELESTE SANI-CIDE DETERGENT DISINFECTANT PUMP SPRAY	","		","	N	","		","	2	","	18-Aug-14	","	205019008
+84293	","		","	Human	","	2357844	","	CELESTODERM V	","		","	N	","		","	1	","	29-Apr-15	","	106299001
+84294	","		","	Human	","	2357852	","	CELESTODERM V	","		","	N	","		","	1	","	29-Apr-15	","	106299001
+84296	","		","	Human	","	2357860	","	CELESTODERM V/2	","		","	N	","		","	1	","	29-Apr-15	","	106299002
+84297	","		","	Human	","	2357879	","	CELESTODERM V/2	","		","	N	","		","	1	","	29-Apr-15	","	106299002
+354	","		","	Human	","	28096	","	CELESTONE SOLUSPAN	","		","	N	","	14400	","	2	","	12-Sep-12	","	206301001
+63077	","		","	Human	","	2239607	","	CELEXA 20 MG	","		","	N	","		","	1	","	23-Nov-06	","	136243001
+63078	","		","	Human	","	2239608	","	CELEXA 40 MG	","		","	N	","		","	1	","	19-Nov-08	","	136243002
+19525	","		","	Human	","	2192748	","	CELLCEPT	","		","	N	","	81822	","	1	","	30-Sep-10	","	128158001
+60818	","		","	Human	","	2237484	","	CELLCEPT	","		","	N	","		","	1	","	30-Sep-10	","	128158002
+65823	","		","	Human	","	2242145	","	CELLCEPT	","		","	N	","		","	1	","	09-Jul-09	","	128158003
+63885	","		","	Human	","	2240347	","	CELLCEPT I.V.	","		","	N	","		","	1	","	09-Jul-09	","	128158002
+92573	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2441330	","	CELLEX-C SUN CARE SPF 50+	","		","	N	","		","	4	","	03-Jun-15	","	427221016
+92572	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2441322	","	CELLEX-C SUNSHADE SPF 50+	","		","	N	","		","	4	","	05-Jun-15	","	427221016
+78519	","		","	Human	","	2299844	","	CELSENTRI	","		","	N	","		","	1	","	05-May-15	","	152296001
+78520	","		","	Human	","	2299852	","	CELSENTRI	","		","	N	","		","	1	","	05-May-15	","	152296002
+6237	","		","	Human	","	648922	","	CENTER-AL	","		","	N	","	62611	","	1	","	12-Jan-06	","	150581001
+88981	","		","	Human	","	2404982	","	CEPACOL CHILDREN'S FRUITY STRAWBERRY	","		","	N	","		","	2	","	16-Aug-13	","	206936001
+87670	","		","	Human	","	2391341	","	CEPACOL CHILDREN'S SWEET HONEY LEMON	","		","	N	","		","	2	","	10-Sep-13	","	206936001
+86872	","		","	Human	","	2382938	","	CEPACOL SENSATIONS	","	SUCROSE AND SUCROSE-FREE FORMULATIONS	","	N	","		","	2	","	26-Feb-13	","	206936001
+86867	","		","	Human	","	2382865	","	CEPACOL SENSATIONS COOLING	","		","	N	","		","	3	","	28-Nov-12	","	321621001
+91437	","		","	Human	","	2429942	","	CEPACOL SENSATIONS GINGER FLAVOUR	","		","	N	","		","	2	","	24-Jul-15	","	206936001
+86869	","		","	Human	","	2382881	","	CEPACOL SENSATIONS SORE THROAT & BLOCKED NOSE	","		","	N	","		","	3	","	03-Aug-12	","	321621001
+87415	","		","	Human	","	2388642	","	CEPACOL SENSATIONS SORE THROAT & COUGH	","		","	N	","		","	3	","	06-Sep-12	","	321621001
+86871	","		","	Human	","	2382911	","	CEPACOL SENSATIONS WARMING	","		","	N	","		","	2	","	03-Aug-12	","	206936001
+82105	","		","	Veterinary	","	2335441	","	CEPESEDAN	","		","	N	","		","	1	","	28-Jun-13	","	119703001
+82278	","		","	Veterinary	","	2337177	","	CEPETOR	","		","	N	","		","	1	","	28-Jun-13	","	123239001
+9908	","		","	Human	","	828866	","	CEPHALEXIN TAB 500MG	","		","	N	","	69270	","	1	","	21-Feb-06	","	105911003
+16984	","		","	Human	","	2060051	","	CEPORACIN	","		","	N	","	79109	","	1	","	30-Jul-15	","	105868001
+84266	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2357550	","	CERAMIDE LIFT AND FIRM CREAM MAKEUP SPF 15	","		","	N	","		","	2	","	02-Jun-15	","	216790080
+80864	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2323141	","	CERAMIDE LIFT AND FIRM DAY CREAM SPF 30	","		","	N	","		","	5	","	09-Jul-15	","	544759019
+80865	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2323168	","	CERAMIDE LIFT AND FIRM DAY LOTION SPF 30	","		","	N	","		","	4	","	10-Jul-15	","	423152008
+83964	","		","	Human	","	2354470	","	CERAMIDE LIFT AND FIRM EYE CREAM SPF 15	","		","	N	","		","	2	","	09-Jul-15	","	216932020
+85697	","		","	Human	","	2371847	","	CERAMIDE PREMIERE INTENSE MOISTURE AND RENEWAL ACTIVATION CREAM SPF 30	","		","	N	","		","	5	","	18-Jan-12	","	544759022
+89557	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2410923	","	CERAVE	","		","	N	","		","	5	","	03-Feb-14	","	554630001
+50269	","		","	Human	","	2230988	","	CEREBYX	","		","	N	","		","	1	","	14-May-07	","	133016001
+78488	","		","	Veterinary	","	2299496	","	CERENIA	","		","	N	","		","	1	","	05-Dec-14	","	152295001
+78489	","		","	Veterinary	","	2299518	","	CERENIA	","		","	N	","		","	1	","	05-Dec-14	","	152295002
+78490	","		","	Veterinary	","	2299526	","	CERENIA	","		","	N	","		","	1	","	05-Dec-14	","	152295003
+78491	","		","	Veterinary	","	2299534	","	CERENIA	","		","	N	","		","	1	","	13-May-14	","	152295004
+78492	","		","	Veterinary	","	2299542	","	CERENIA	","		","	N	","		","	1	","	29-Apr-15	","	152295005
+49955	","		","	Human	","	2230694	","	CEREZYME	","		","	N	","		","	1	","	04-May-09	","	131511003
+65414	","		","	Human	","	2241751	","	CEREZYME	","		","	N	","		","	1	","	06-Aug-14	","	131511004
+81121	","		","	Disinfectant	","	2325853	","	CERTAINTY DISINFECTANT WIPES	","		","	N	","		","	2	","	17-Mar-15	","	205019039
+87981	","		","	Disinfectant	","	2394677	","	CERTAINTY DISINFECTANT WIPES PLUS	","		","	N	","		","	2	","	02-Jan-15	","	205019038
+90266	","		","	Human	","	2418061	","	CERTAINTY FOAMING HAND SANITIZER	","		","	N	","		","	1	","	19-Mar-14	","	104993004
+13226	","		","	Human	","	1926683	","	CERUBIDINE 20MG/VIAL	","		","	N	","	74544	","	1	","	13-Jan-15	","	105870001
+531	","		","	Veterinary	","	217174	","	CERUMIN 25%	","		","	N	","	21701	","	1	","	01-Oct-10	","	107338001
+1103	","		","	Human	","	221570	","	CERUMOL	","		","	N	","	35824	","	4	","	29-Apr-15	","	455610001
+82773	","		","	Human	","	2342227	","	CERVARIX	","		","	N	","		","	2	","	16-Jun-11	","	252688001
+50327	","		","	Human	","	2231047	","	CERVIDIL	","		","	N	","		","	1	","	04-May-06	","	111999003
+4941	","		","	Human	","	548375	","	CESAMET	","		","	N	","	59214	","	1	","	04-Mar-10	","	115009001
+74143	","		","	Human	","	2256193	","	CESAMET	","		","	N	","		","	1	","	05-May-15	","	115009002
+79778	","		","	Human	","	2312263	","	CESAMET	","		","	N	","		","	1	","	06-Mar-12	","	115009003
+74808	","		","	Disinfectant	","	2262711	","	CESCO 690	","		","	N	","		","	2	","	11-Jul-11	","	205019003
+82429	","	CAT IV - HARD SURFACE DISINFECTANTS	","	Disinfectant	","	2338629	","	CESCO WHITE FOG	","		","	N	","		","	4	","	30-Jun-15	","	414758053
+12869	","		","	Veterinary	","	1913026	","	CESTEX	","		","	N	","	74098	","	1	","	05-May-15	","	122854003
+12999	","		","	Veterinary	","	1913034	","	CESTEX	","		","	N	","	74250	","	1	","	05-May-15	","	122854004
+26564	","		","	Human	","	2028867	","	CETACAINE LIQUID	","		","	N	","	F0221	","	3	","	16-Nov-12	","	324409001
+16688	","		","	Human	","	2028840	","	CETACAINE SPRAY	","		","	N	","	78589	","	3	","	24-Jul-13	","	324409001
+80135	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2315831	","	CETAPHIL DAILY FACIAL MOISTURIZER     (SPF 50)	","		","	N	","		","	5	","	25-Feb-09	","	524585013
+67232	","	CAT IV	","	Human	","	2243329	","	CETAPHIL DAILY FACIAL MOISTURIZER SPF 15	","		","	N	","		","	2	","	01-Dec-05	","	242881001
+85986	","		","	Human	","	2374536	","	CETAPHIL DERMACONTROL OIL CONTROL MOISTURIZER	","		","	N	","		","	3	","	17-Feb-12	","	335121006
+16100	","		","	Veterinary	","	2026627	","	CETRICLENZ	","		","	N	","	77886	","	1	","	05-May-15	","	124370001
+12864	","		","	Human	","	874426	","	CETRIMIDE CREAM 0.5%	","		","	N	","	74093	","	1	","	13-Apr-99	","	106863001
+10565	","		","	Human	","	873195	","	CETRIMIDE TINCTURE 0.5%	","		","	N	","	70553	","	1	","	12-Apr-99	","	106863001
+72060	","		","	Human	","	2247766	","	CETROTIDE	","		","	N	","		","	1	","	19-Oct-11	","	149341001
+90554	","		","	Human	","	2420945	","	CETYLPYRIDINIUM CHLORIDE ANTISEPTIC ORAL RINSE 0.07 % W/W	","		","	N	","		","	1	","	08-May-15	","	106834010
+75290	","		","	Disinfectant	","	2267497	","	"CHAMPION SPRAYON INSTANT ACTION FOAMING CLEANER, DISINFECTANT AND DEODORIZER"	","		","	N	","		","	1	","	28-Apr-14	","	104993029
+77655	","		","	Human	","	2291177	","	CHAMPIX	","		","	N	","		","	1	","	05-May-15	","	152190001
+77656	","		","	Human	","	2291185	","	CHAMPIX	","		","	N	","		","	1	","	05-May-15	","	152190002
+78360	","		","	Human	","	2298309	","	CHAMPIX	","		","	N	","		","	2	","	04-Jul-08	","	252269001
+69420	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2245381	","	CHAPSTICK ACTIVE SPF 30	","		","	N	","		","	4	","	02-Aug-13	","	421125014
+47540	","		","	Human	","	2229613	","	CHAPSTICK MOISTURIZER	","		","	N	","		","	2	","	02-Aug-13	","	216932007
+16533	","		","	Human	","	2056429	","	CHARAC-25	","		","	N	","	78431	","	1	","	29-Apr-15	","	106680029
+6317	","		","	Human	","	637955	","	CHARAC-50	","		","	N	","	62788	","	1	","	29-Apr-15	","	106680029
+17399	","		","	Human	","	2060205	","	CHARACTOL-25	","		","	N	","	79552	","	1	","	29-Apr-15	","	106680002
+7267	","		","	Human	","	649236	","	CHARACTOL-50	","		","	N	","	65037	","	1	","	29-Apr-15	","	106680002
+6393	","		","	Human	","	632333	","	CHARCODOTE SUSP 200MG/ML	","		","	N	","	62934	","	1	","	21-Sep-06	","	106680002
+29506	","		","	Human	","	2105462	","	CHARCODOTE TFS SUS 200MG/ML	","		","	N	","	F6178	","	1	","	12-Jul-12	","	106680002
+29507	","		","	Human	","	2105470	","	CHARCODOTE-AQUEOUS SUS 200MG/ML	","		","	N	","	F6179	","	1	","	12-Jul-12	","	106680002
+3307	","		","	Disinfectant	","	470988	","	CHEM SHOP POWER PLUS	","		","	N	","	53827	","	2	","	29-Sep-10	","	205019002
+85606	","		","	Disinfectant	","	2370867	","	CHEMEX BACTICLEAN 256	","		","	N	","		","	4	","	30-Sep-15	","	414758008
+85608	","		","	Disinfectant	","	2370883	","	CHEMEX BACTICLEAN 64	","		","	N	","		","	4	","	09-Dec-14	","	414758021
+4830	","		","	Disinfectant	","	568236	","	CHEMPROCIDE 7.5%	","		","	N	","	58843	","	1	","	08-Jul-11	","	111516005
+70471	","		","	Disinfectant	","	2246309	","	CHEMQUAT 1S	","		","	N	","		","	4	","	03-May-11	","	414758013
+81312	","	CAT IV - HARD SURFACE DISINFECTANTS	","	Disinfectant	","	2327716	","	CHEMSPEC DFC 1000 OXIDIZING DISINFECTANT/DISINFECTANT CLEANER	","		","	N	","		","	1	","	27-Jun-11	","	106897027
+81313	","	CAT IV - HARD SURFACE DISINFECTANTS	","	Disinfectant	","	2327724	","	CHEMSPEC DFC 250 OXIDIZING DISINFECTANT/DISINFECTANT CLEANER	","		","	N	","		","	1	","	27-Jun-11	","	106897026
+81310	","	CAT IV - HARD SURFACE DISINFECTANTS	","	Disinfectant	","	2327694	","	CHEMSPEC DFC 7000 OXIDIZING DISINFECTANT/DISINFECTANT CLEANER	","		","	N	","		","	1	","	27-Jun-11	","	106897028
+81311	","	CAT IV - HARD SURFACE DISINFECTANTS	","	Disinfectant	","	2327708	","	CHEMSPEC DFC 7500 OXIDIZING DISINFECTANT/DISINFECTANT CLEANER	","		","	N	","		","	1	","	27-Jun-11	","	106897028
+81309	","	CAT IV - HARD SURFACE DISINFECTANTS	","	Disinfectant	","	2327686	","	CHEMSPEC DFC SODIUM HYPOCHLORITE DISINFECTANT/DISINFECTANT CLEANER	","		","	N	","		","	1	","	27-Jun-11	","	106897021
+76689	","	CAT IV - ANTISEPTIC SKIN CLEANSERS	","	Human	","	2281244	","	CHERRY CREME HAND SOAP ANTIBACTERIAL	","		","	N	","		","	1	","	19-Jul-06	","	108865005
+80928	","		","	Human	","	2323796	","	CHEST CONGESTION	","		","	N	","		","	1	","	10-Mar-10	","	103181002
+74852	","		","	Human	","	2263114	","	"CHEST CONGESTION, COUGH & COLD SYRUP"	","		","	N	","		","	3	","	17-Jul-12	","	310136001
+74853	","		","	Human	","	2263122	","	"CHEST CONGESTION, COUGH & COLD SYRUP EXTRA STRENGTH"	","		","	N	","		","	3	","	17-Jul-12	","	310136002
+80534	","		","	Human	","	2319888	","	CHEWABLE BISMUTH TABLETS WITH CALCIUM CARBONATE	","		","	N	","		","	2	","	17-Jul-12	","	211863002
+78992	","		","	Human	","	2304651	","	CHEWABLE DAILY LOW DOSE ASA	","		","	N	","		","	1	","	06-Jan-15	","	101169013
+50056	","		","	Human	","	2230787	","	CHILDREN FEVERHALT DROPS 80MG/ML	","		","	N	","		","	1	","	29-Apr-15	","	102009003
+77806	","		","	Human	","	2292696	","	CHILDREN'S ACETAMINOPHEN 80 MG	","		","	N	","		","	1	","	17-Jul-12	","	102009003
+12159	","		","	Human	","	833223	","	CHILDREN'S ACETAMINOPHEN ELX 160MG	","		","	N	","	73181	","	1	","	14-Apr-11	","	102009005
+16988	","		","	Human	","	1901389	","	CHILDREN'S ACETAMINOPHEN ORAL SOLN 160MG/5ML	","		","	N	","	79137	","	1	","	06-Dec-04	","	102009005
+60014	","		","	Human	","	2236728	","	CHILDREN'S ACETAMINOPHEN SUSPENSION	","		","	N	","		","	1	","	23-Sep-13	","	102009005
+26144	","		","	Human	","	2015676	","	CHILDREN'S ACETAMINOPHEN TABLETS	","		","	N	","	E8324	","	1	","	28-Feb-11	","	102009003
+51742	","		","	Human	","	2232297	","	CHILDREN'S ADVIL	","		","	N	","		","	1	","	03-Aug-12	","	108883005
+72786	","		","	Human	","	2248435	","	CHILDREN'S ADVIL COLD	","		","	N	","		","	2	","	02-Jan-13	","	222394002
+75412	","		","	Human	","	2268701	","	CHILDREN'S ADVIL COLD & FLU MULTI-SYMPTOM	","		","	N	","		","	3	","	08-Nov-11	","	349765002
+81396	","		","	Human	","	2328437	","	CHILDREN'S ADVIL FEVER FROM COLDS OR FLU	","		","	N	","		","	1	","	02-Jan-13	","	108883005
+71163	","		","	Human	","	2246936	","	CHILDREN'S ALLERGY FORMULA	","		","	N	","		","	1	","	22-Jul-15	","	102639004
+76628	","		","	Human	","	2280612	","	CHILDREN'S BENADRYL-D SYRUP	","		","	N	","		","	2	","	01-Apr-14	","	251550005
+69009	","	"LS - ANALG. (ACETAMINOPHEN, SALICYLATES, CODEINE)"	","	Human	","	2245010	","	CHILDREN'S CHEWABLE ACETAMINOPHEN TABLET	","		","	N	","		","	1	","	03-Aug-04	","	102009003
+42569	","		","	Human	","	2129957	","	CHILDREN'S CHEWABLE ACETAMINOPHEN TABLETS 80MG	","		","	N	","	M2855	","	1	","	21-Aug-12	","	102009003
+68231	","		","	Human	","	2244264	","	CHILDREN'S COLTALIN FRUIT FLAVOR CHEWABLE COLD TABLETS	","		","	N	","		","	3	","	10-Feb-14	","	316099003
+89066	","		","	Human	","	2405903	","	CHILDREN'S COUGH & COLD RELIEF	","		","	N	","		","	2	","	13-Jan-15	","	214697002
+83995	","		","	Human	","	2354799	","	CHILDREN'S EUROPROFEN	","		","	N	","		","	1	","	15-May-15	","	108883005
+85631	","		","	Human	","	2371138	","	CHILDREN'S FEVER FROM COLDS OR FLU	","		","	N	","		","	1	","	23-Sep-13	","	102009005
+50292	","		","	Human	","	2231011	","	CHILDREN'S FEVERHALT   (160MG CHEWABLE TABLETS)	","		","	N	","		","	1	","	29-Apr-15	","	102009006
+76585	","		","	Human	","	2280175	","	CHILDREN'S IBUPROFEN SUSPENSION	","		","	N	","		","	1	","	10-Jul-12	","	108883005
+71272	","		","	Human	","	2247037	","	CHILDREN'S LIQUID ALLERGY FORMULA	","		","	N	","		","	1	","	29-Apr-15	","	102639004
+87084	","	"LS - ANALG. (ACETAMINOPHEN, SALICYLATES, CODEINE)"	","	Human	","	2385198	","	CHILDREN'S LITTLE REMEDIES FOR FEVERS	","	DYE & GLUTEN FREE	","	N	","		","	1	","	15-Oct-12	","	102009005
+20059	","	LS - DIMENHYDRINATE	","	Human	","	1904116	","	CHILDREN'S MOTION SICKNESS LIQ	","		","	N	","	82359	","	1	","	25-Jul-06	","	102747007
+71586	","		","	Human	","	2247343	","	CHILDREN'S MOTRIN CHEWABLE TABLETS	","		","	N	","		","	1	","	28-Jul-15	","	108883009
+66076	","		","	Human	","	2242365	","	CHILDREN'S MOTRIN SUSPENSION	","		","	N	","		","	1	","	28-Jul-15	","	108883005
+64394	","	"LS - ANALG. (ACETAMINOPHEN, SALICYLATES, CODEINE)"	","	Human	","	2240803	","	CHILDREN'S NONSPIL ACETAMINOPHEN SYRUP 160MG/5ML	","		","	N	","		","	1	","	14-Aug-12	","	102009005
+61697	","		","	Human	","	2238295	","	CHILDREN'S TYLENOL	","		","	N	","		","	1	","	07-Aug-07	","	102009003
+42388	","		","	Human	","	2046040	","	CHILDREN'S TYLENOL ACETAMINOPHEN SUS LIQ	","		","	N	","	M2658	","	1	","	08-May-15	","	102009005
+47448	","		","	Human	","	2229538	","	CHILDREN'S TYLENOL COLD & STUFFY NOSE	","	LIQUID SUSPENSION	","	N	","		","	2	","	30-Apr-15	","	216113008
+11041	","		","	Human	","	870455	","	CHILDREN'S TYLENOL COLD AND COUGH	","		","	N	","	71250	","	4	","	29-Apr-15	","	414717006
+26864	","		","	Human	","	2039990	","	CHILDREN'S TYLENOL COLD AND COUGH	","		","	N	","	F0865	","	4	","	29-Apr-15	","	414717001
+76469	","		","	Human	","	2279150	","	CHILDREN'S TYLENOL COLD AND COUGH NIGHTTIME	","		","	N	","		","	3	","	29-Mar-11	","	351606001
+8247	","		","	Human	","	743224	","	CHILDREN'S TYLENOL COLD CHEWABLE TABLETS	","		","	N	","	66568	","	3	","	23-Mar-06	","	312435002
+26863	","		","	Human	","	2039982	","	CHILDREN'S TYLENOL COLD SUSPENSION	","		","	N	","	F0864	","	3	","	27-Feb-08	","	312435003
+86193	","		","	Human	","	2376474	","	"CHILDREN'S TYLENOL COMPLETE COLD, COUGH & FEVER"	","		","	N	","		","	4	","	03-Oct-12	","	414717001
+90063	","		","	Human	","	2416050	","	"CHILDREN'S TYLENOL COMPLETE COLD, COUGH & FEVER NIGHTTIME"	","		","	N	","		","	3	","	29-Aug-14	","	351606001
+77749	","		","	Human	","	2292122	","	CHILDREN'S TYLENOL COUGH AND RUNNY NOSE	","		","	N	","		","	3	","	29-Mar-11	","	318085005
+91942	","		","	Human	","	2435144	","	CHILDREN'S TYLENOL FEVER & SORE THROAT PAIN	","		","	N	","		","	1	","	26-Aug-15	","	102009006
+16979	","		","	Veterinary	","	698210	","	CHLOR 100 FMX 220GM/KG	","		","	N	","	79099	","	1	","	18-Oct-01	","	105527006
+6496	","		","	Veterinary	","	641979	","	CHLOR 250	","		","	N	","	63265	","	3	","	19-Nov-13	","	331446001
+6495	","		","	Veterinary	","	641804	","	CHLOR 50 FMX 110GM/KG	","		","	N	","	63264	","	1	","	11-Sep-15	","	105541001
+9521	","		","	Veterinary	","	798363	","	CHLOR PALM 250 (CHLORAMPHENICOL PALMITATE ORAL SUSPENSION)	","		","	N	","	68706	","	1	","	24-Jun-08	","	151341013
+9522	","		","	Veterinary	","	798371	","	CHLOR-1000 (CHLORAMPHENICOL TABLETS)	","		","	N	","	68707	","	1	","	25-Mar-10	","	151341001
+71882	","		","	Human	","	2247621	","	CHLORAL HYDRATE SYRUP ODAN	","		","	N	","		","	1	","	18-May-06	","	101992002
+1386	","		","	Veterinary	","	241318	","	CHLORALEAN DROPS	","		","	N	","	39660	","	1	","	29-Apr-15	","	151341007
+34222	","		","	Human	","	2160757	","	CHLORAPREP ONE-STEP	","		","	N	","	H0993	","	2	","	16-Nov-11	","	213979006
+6283	","		","	Human	","	618454	","	CHLORAX	","		","	N	","	62725	","	2	","	05-May-15	","	200614001
+4277	","		","	Human	","	522724	","	CHLORDIAZEPOXIDE	","		","	N	","	57202	","	1	","	20-Mar-13	","	100613003
+4278	","		","	Human	","	522988	","	CHLORDIAZEPOXIDE	","		","	N	","	57203	","	1	","	29-Apr-15	","	100613001
+4279	","		","	Human	","	522996	","	CHLORDIAZEPOXIDE	","		","	N	","	57204	","	1	","	17-Jul-13	","	100613002
+78101	","	CAT IV - ANTISEPTIC SKIN CLEANSERS	","	Human	","	2295660	","	CHLORHEXIDINE 2% ANTISEPTIC HAND WASH	","		","	N	","		","	1	","	08-Aug-14	","	107629004
+78102	","	CAT IV - ANTISEPTIC SKIN CLEANSERS	","	Human	","	2295679	","	CHLORHEXIDINE 4% ANTISEPTIC HAND WASH	","		","	N	","		","	1	","	16-Jun-11	","	107629001
+66843	","	CAT IV - ANTISEPTIC SKIN CLEANSERS	","	Human	","	2243003	","	CHLORHEXIDINE AND ISOPROPYL ALCOHOL PREP PADS	","		","	N	","		","	2	","	16-Jan-06	","	213979002
+66842	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2243002	","	CHLORHEXIDINE AND ISOPROPYL ALCOHOL SWABSTICKS	","		","	N	","		","	2	","	16-Jan-06	","	213979002
+17006	","		","	Human	","	832146	","	CHLORHEXIDINE GLUCONATE SOLUTION 0.05%	","		","	N	","	79156	","	1	","	22-Oct-12	","	107629005
+16498	","		","	Human	","	2053632	","	CHLORHEXIDINE GLUCONATE SOLUTION USP 20%	","		","	N	","	78392	","	1	","	29-Apr-15	","	107629002
+78057	","	CAT IV - ANTISEPTIC SKIN CLEANSERS	","	Human	","	2295253	","	CHLORHEXIDINE SOLUTION	","		","	N	","		","	1	","	16-Jun-11	","	107629004
+19506	","		","	Human	","	2004992	","	CHLORHEXSEPTIC-LIQ 0.5MG/ML	","		","	N	","	81803	","	1	","	12-Jul-12	","	107629005
+2747	","		","	Disinfectant	","	399892	","	CHLORINE	","		","	N	","	51141	","	1	","	29-Sep-10	","	106897010
+2789	","		","	Human	","	312363	","	CHLOROMYCETIN SUCCINATE INJECTION 1GM	","		","	N	","	51334	","	1	","	05-May-15	","	151341001
+75101	","		","	Human	","	2265559	","	CHLORPHENIRAMINE MALEATE 4MG TABLET	","		","	N	","		","	1	","	16-Mar-05	","	100615003
+17004	","		","	Human	","	1933272	","	CHLORPROMAZINE HCL INJ 25MG/ML USP	","		","	N	","	79154	","	1	","	30-Jul-15	","	106168007
+8488	","		","	Human	","	743518	","	CHLORPROMAZINE HYDROCHLORIDE INJECTION	","		","	N	","	66994	","	1	","	29-Apr-15	","	106168003
+6497	","		","	Veterinary	","	655708	","	CHLOR-S-700	","		","	N	","	63266	","	2	","	02-Jul-99	","	205542001
+90391	","		","	Veterinary	","	2419378	","	CHLORSEPTIN	","		","	N	","		","	1	","	21-Aug-15	","	151341001
+19635	","		","	Veterinary	","	2139634	","	CHLORTET VITAMIN PREMIX CRUMBLES	","		","	N	","	81932	","	4	","	13-Jun-08	","	405536001
+2467	","		","	Human	","	360279	","	CHLORTHALIDONE	","		","	N	","	49739	","	1	","	29-Apr-15	","	101804002
+41738	","		","	Human	","	738972	","	CHLOR-TRIPOLON	","		","	N	","	M1648	","	1	","	27-May-15	","	100615003
+41734	","		","	Human	","	738964	","	CHLOR-TRIPOLON 12 HOUR	","		","	N	","	M1631	","	1	","	29-Apr-15	","	100615006
+6249	","		","	Veterinary	","	651591	","	CHOATES VETERINARY HORSE LINIMENT	","		","	N	","	62631	","	3	","	20-Jun-15	","	315879001
+3966	","		","	Human	","	476366	","	CHOLEDYL ELIXIR 100MG/5ML	","		","	N	","	56224	","	1	","	05-May-15	","	100551005
+4258	","		","	Human	","	476374	","	CHOLEDYL EXPECTORANT ELIXIR	","		","	N	","	57130	","	2	","	13-Jan-15	","	200552001
+37569	","		","	Human	","	2228556	","	CHOLOGRAFIN MEGLUMINE INJ. - LIQ IV	","		","	N	","	H5111	","	1	","	10-Feb-06	","	103118001
+71705	","		","	Human	","	2247459	","	"CHORIONIC GONADOTROPIN FOR INJECTION, USP"	","		","	N	","		","	1	","	29-Apr-15	","	106481003
+10687	","		","	Veterinary	","	781851	","	CHORULON	","		","	N	","	70697	","	1	","	13-Feb-12	","	106481001
+26307	","		","	Human	","	2021137	","	CHROM-O-RED DISCLOSING SOLUTION CONCENTRATE	","		","	N	","	E8689	","	1	","	01-Apr-15	","	107230001
+65268	","		","	Veterinary	","	2241611	","	CHX ORAL CLEANSING SOLUTION/CHLORHEXIDENE GLUCONATE 0.12% W/W	","		","	N	","		","	1	","	26-Aug-10	","	107629007
+72410	","		","	Human	","	2248088	","	CIALIS	","		","	N	","		","	1	","	05-May-15	","	149485001
+72411	","		","	Human	","	2248089	","	CIALIS	","		","	N	","		","	1	","	05-May-15	","	149485002
+78223	","		","	Human	","	2296888	","	CIALIS	","		","	N	","		","	1	","	08-Apr-08	","	149485003
+78224	","		","	Human	","	2296896	","	CIALIS	","		","	N	","		","	1	","	12-Aug-08	","	149485004
+89499	","		","	Human	","	2410346	","	CICLOPIROX TOPICAL SOLUTION	","	NAIL LACQUER	","	N	","		","	1	","	20-Jan-15	","	150022001
+82093	","		","	Disinfectant	","	2335344	","	CID 2000	","		","	N	","		","	2	","	11-Jul-12	","	223947015
+34112	","		","	Disinfectant	","	2158418	","	CIDEX ACTIVATED DIALDEHYDE SOLUTION	","		","	N	","	H0812	","	1	","	29-Sep-10	","	108829011
+76392	","		","	Disinfectant	","	2278340	","	CIDEX OPA CONCENTRATE	","		","	N	","		","	1	","	10-Jul-15	","	136202003
+63214	","		","	Disinfectant	","	2239732	","	CIDEX OPA SOLUTION	","		","	N	","		","	1	","	30-Sep-10	","	136202002
+79353	","		","	Veterinary	","	2307855	","	CIDR 1380	","		","	N	","		","	1	","	10-Oct-14	","	106327008
+83910	","		","	Veterinary	","	2353881	","	CIDR 330	","		","	N	","		","	1	","	28-Aug-15	","	106327009
+83615	","		","	Human	","	2350963	","	CILAZAPRIL	","		","	N	","		","	1	","	14-Jul-10	","	122806001
+83616	","		","	Human	","	2350971	","	CILAZAPRIL	","		","	N	","		","	1	","	14-Jul-10	","	122806004
+12953	","		","	Human	","	1945270	","	CILOXAN	","		","	N	","	74196	","	1	","	05-May-15	","	123207004
+42964	","		","	Human	","	2200864	","	CILOXAN 0.3% - ONT	","		","	N	","	P9198	","	1	","	26-May-14	","	121185001
+81737	","		","	Human	","	2331675	","	CIMZIA	","		","	N	","		","	1	","	06-Feb-12	","	152646001
+74862	","		","	Human	","	2263238	","	CIPRALEX   -10MG	","		","	N	","		","	1	","	28-Feb-07	","	150435002
+74864	","		","	Human	","	2263254	","	CIPRALEX   -20MG	","		","	N	","		","	1	","	08-Aug-12	","	150435004
+87679	","		","	Human	","	2391449	","	CIPRALEX MELTZ	","		","	N	","		","	1	","	23-May-13	","	150435002
+87680	","		","	Human	","	2391457	","	CIPRALEX MELTZ	","		","	N	","		","	1	","	23-May-13	","	150435004
+44057	","		","	Human	","	2155958	","	CIPRO 250 - TAB 250MG	","		","	N	","	T9496	","	1	","	15-Mar-12	","	123207006
+44058	","		","	Human	","	2155966	","	CIPRO 500 - TAB 500MG	","		","	N	","	T9497	","	1	","	05-May-06	","	123207001
+44059	","		","	Human	","	2155974	","	CIPRO 750 - TAB 750MG	","		","	N	","	T9498	","	1	","	08-Feb-08	","	123207002
+60849	","		","	Human	","	2237514	","	CIPRO ORAL SUSPENSION 10%	","		","	N	","		","	1	","	28-Aug-07	","	123207005
+72225	","		","	Human	","	2247916	","	CIPRO XL	","		","	N	","		","	1	","	09-Mar-13	","	123207001
+73669	","		","	Human	","	2251787	","	CIPRO XL	","		","	N	","		","	1	","	09-Mar-13	","	123207009
+73758	","		","	Human	","	2252716	","	CIPRODEX	","		","	N	","		","	2	","	14-Dec-06	","	250083001
+83851	","		","	Human	","	2353318	","	CIPROFLOXACIN	","		","	N	","		","	1	","	13-Sep-10	","	123207006
+83852	","		","	Human	","	2353326	","	CIPROFLOXACIN	","		","	N	","		","	1	","	16-Sep-10	","	123207001
+83853	","		","	Human	","	2353334	","	CIPROFLOXACIN	","		","	N	","		","	1	","	13-Sep-10	","	123207002
+87170	","		","	Human	","	2386119	","	CIPROFLOXACIN	","		","	N	","		","	1	","	22-May-15	","	123207006
+87171	","		","	Human	","	2386127	","	CIPROFLOXACIN	","		","	N	","		","	1	","	22-May-15	","	123207001
+78663	","		","	Human	","	2301296	","	CIPROFLOXACIN INJECTION	","		","	N	","		","	1	","	24-Sep-15	","	123207007
+86325	","		","	Human	","	2377535	","	CIPROFLOXACIN INJECTION	","		","	N	","		","	1	","	04-Dec-13	","	123207007
+74200	","		","	Human	","	2256789	","	CIPROFLOXACIN INJECTION USP	","		","	N	","		","	1	","	30-Sep-08	","	123207003
+78723	","		","	Human	","	2301903	","	CIPROFLOXACIN INJECTION USP	","		","	N	","		","	1	","	17-Jun-08	","	123207007
+75287	","		","	Human	","	2267462	","	CIPROFLOXACIN INTRAVENOUS INFUSION	","		","	N	","		","	1	","	29-Apr-15	","	123207007
+79003	","		","	Human	","	2304759	","	CIPROFLOXACIN INTRAVENOUS INFUSION BP	","		","	N	","		","	1	","	26-Sep-12	","	123207007
+78981	","		","	Human	","	2304546	","	"CIPROFLOXACIN INTRAVENOUS INFUSION, BP"	","		","	N	","		","	1	","	23-May-08	","	123207007
+91035	","		","	Human	","	2425718	","	CISATRACURIUM BESYLATE INJECTION	","		","	N	","		","	1	","	22-Jun-15	","	133260001
+89357	","		","	Human	","	2408813	","	CISATRACURIUM OMEGA MULTIDOSE	","	WITH PRESERVATIVE - 10ML	","	N	","		","	1	","	07-Feb-14	","	133260001
+89356	","		","	Human	","	2408805	","	CISATRACURIUM OMEGA SINGLE DOSE	","	PRESERVATIVE-FREE. 5ML	","	N	","		","	1	","	07-Feb-14	","	133260001
+43840	","		","	Human	","	2126613	","	CISPLATIN INJECTION	","		","	N	","	S9910	","	1	","	09-Feb-10	","	113245002
+88800	","		","	Human	","	2403188	","	CISPLATIN INJECTION	","	"10MG/10ML, 50MG/50ML, 100MG/100ML"	","	N	","		","	1	","	25-Sep-13	","	113245002
+85155	","		","	Human	","	2366711	","	CISPLATIN INJECTION BP	","	"10MG/10ML, 50MG/50ML, 100MG/100ML"	","	N	","		","	1	","	03-Jul-13	","	113245002
+84044	","		","	Human	","	2355183	","	"CISPLATIN INJECTION, BP"	","	"SINGLE DOSE VIALS. 10MG/10ML, 50MG/50ML AND 100MG/100ML.PRESERVATIVE-FREE."	","	N	","		","	1	","	10-Apr-12	","	113245002
+88190	","		","	Human	","	2396890	","	"CISPLATIN INJECTION, MYLAN STD."	","		","	N	","		","	1	","	05-May-15	","	113245002
+87351	","		","	Human	","	2387948	","	CITALOPRAM	","		","	N	","		","	1	","	08-Nov-12	","	136243003
+87352	","		","	Human	","	2387956	","	CITALOPRAM	","		","	N	","		","	1	","	08-Nov-12	","	136243001
+87353	","		","	Human	","	2387964	","	CITALOPRAM	","		","	N	","		","	1	","	08-Nov-12	","	136243002
+91495	","		","	Human	","	2430517	","	CITALOPRAM	","		","	N	","		","	1	","	06-Oct-14	","	136243003
+91496	","		","	Human	","	2430541	","	CITALOPRAM	","		","	N	","		","	1	","	06-Oct-14	","	136243001
+91497	","		","	Human	","	2430568	","	CITALOPRAM	","		","	N	","		","	1	","	06-Oct-14	","	136243002
+81046	","		","	Human	","	2325047	","	CITALOPRAM-10	","		","	N	","		","	1	","	21-Sep-09	","	136243003
+74277	","		","	Human	","	2257513	","	CITALOPRAM-20	","		","	N	","		","	1	","	30-Dec-04	","	136243001
+74278	","		","	Human	","	2257521	","	CITALOPRAM-40	","		","	N	","		","	1	","	19-Nov-08	","	136243002
+79179	","		","	Human	","	2306239	","	CITALOPRAM-ODAN	","		","	N	","		","	1	","	17-Jun-08	","	136243001
+79180	","		","	Human	","	2306247	","	CITALOPRAM-ODAN	","		","	N	","		","	1	","	17-Jun-08	","	136243002
+85139	","		","	Human	","	2366533	","	CITRASATE C0125	","		","	N	","		","	6	","	15-Jan-15	","	652910001
+85140	","		","	Human	","	2366541	","	CITRASATE C1125	","		","	N	","		","	7	","	18-Dec-12	","	752576002
+85144	","		","	Human	","	2366592	","	CITRASATE C1150	","		","	N	","		","	7	","	17-Jan-14	","	752576006
+85141	","		","	Human	","	2366568	","	CITRASATE C2125	","		","	N	","		","	7	","	18-Dec-12	","	752576003
+85145	","		","	Human	","	2366606	","	CITRASATE C2150	","		","	N	","		","	7	","	15-Jan-15	","	752576007
+85142	","		","	Human	","	2366576	","	CITRASATE C3125	","		","	N	","		","	7	","	18-Dec-12	","	752576004
+85146	","		","	Human	","	2366614	","	CITRASATE C3150	","		","	N	","		","	7	","	15-Jan-15	","	752576008
+85143	","		","	Human	","	2366584	","	CITRASATE C4125	","		","	N	","		","	7	","	15-Jan-15	","	752576005
+79881	","		","	Disinfectant	","	2313294	","	CITREX	","		","	N	","		","	4	","	08-Jul-11	","	414758011
+67119	","		","	Disinfectant	","	2243233	","	CITRIQUAT	","		","	N	","		","	2	","	06-Feb-07	","	213172006
+91679	","	CAT IV - HARD SURFACE DISINFECTANTS	","	Disinfectant	","	2432307	","	CITRO MAX	","		","	N	","		","	1	","	25-Feb-15	","	104993006
+66931	","	LS - QUATERNARY AMMONIUM COMP. AGAINST HIV	","	Disinfectant	","	2243065	","	CITROQUAT	","		","	N	","		","	2	","	30-Aug-11	","	213172002
+3470	","		","	Disinfectant	","	482528	","	CITRUS DISINFECTANT	","		","	N	","	54456	","	2	","	29-Sep-10	","	205019005
+88758	","		","	Disinfectant	","	2402742	","	CITRUS WIRX2	","		","	N	","		","	1	","	05-Jan-15	","	104993019
+91125	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2426692	","	CITY MIRACLE CC CREAM SPF 50	","		","	N	","		","	4	","	18-Feb-15	","	452889003
+90550	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2420910	","	CL? DE PEAU BEAUT? CR?ME POUR LES MAINS	","		","	N	","		","	3	","	07-Jan-15	","	351586011
+80536	","		","	Human	","	2319918	","	CLADRIBINE INJECTION	","		","	N	","		","	1	","	20-May-15	","	124270001
+43411	","		","	Human	","	2225093	","	CLAFORAN - PWS INJ 1.0G/VIAL	","		","	N	","	P9749	","	1	","	15-Dec-08	","	152507001
+43412	","		","	Human	","	2225107	","	CLAFORAN - PWS INJ 2.0G/VIAL	","		","	N	","	P9750	","	1	","	15-Dec-08	","	152507002
+73651	","		","	Human	","	2251590	","	CLAIRISSIME CLEAR COMPLEXION LOTION	","		","	N	","		","	1	","	13-Dec-05	","	108649001
+16458	","		","	Human	","	2046539	","	CLARIFYING ACNE VANISHING TREATMENT	","		","	N	","	78348	","	1	","	29-May-14	","	107205004
+82269	","		","	Human	","	2337061	","	CLARIFYING CALMING OIL-CONTROL LOTION SPF 15	","		","	N	","		","	2	","	28-May-10	","	218882018
+73220	","		","	Human	","	2248849	","	CLARITE 4	","		","	N	","		","	1	","	13-Sep-05	","	108649002
+80993	","		","	Human	","	2324482	","	CLARITHROMYCIN	","		","	N	","		","	1	","	09-Nov-09	","	123752001
+80994	","		","	Human	","	2324490	","	CLARITHROMYCIN	","		","	N	","		","	1	","	06-Nov-09	","	123752002
+89372	","		","	Human	","	2408988	","	CLARITHROMYCIN	","		","	N	","		","	1	","	10-Dec-14	","	123752003
+89373	","		","	Human	","	2408996	","	CLARITHROMYCIN	","		","	N	","		","	1	","	10-Dec-14	","	123752004
+92681	","		","	Human	","	2442469	","	CLARITHROMYCIN	","		","	N	","		","	1	","	31-Jul-15	","	123752001
+92683	","		","	Human	","	2442485	","	CLARITHROMYCIN	","		","	N	","		","	1	","	31-Jul-15	","	123752002
+10533	","		","	Human	","	782696	","	CLARITIN	","		","	N	","	70466	","	1	","	26-Aug-15	","	120416001
+11974	","		","	Human	","	1945157	","	CLARITIN ALLERGY + SINUS	","	MODIFIED RELEASE TABLETS	","	N	","	72943	","	2	","	27-Aug-15	","	245861002
+74601	","		","	Human	","	2260557	","	CLARITIN ALLERGY + SINUS EXTRA STRENGTH	","		","	N	","		","	2	","	26-Aug-15	","	245861001
+67620	","		","	Human	","	2243690	","	CLARITIN ALLERGY DECONGESTANT	","		","	N	","		","	1	","	29-Apr-15	","	101481001
+65175	","		","	Human	","	2241523	","	CLARITIN KIDS	","		","	N	","		","	1	","	26-Aug-15	","	120416002
+88925	","		","	Human	","	2404494	","	CLARITIN LIQUID CAPSULES	","		","	N	","		","	1	","	13-May-15	","	120416001
+61088	","		","	Human	","	2237734	","	CLARITIN RAPID DISSOLVE	","		","	N	","		","	1	","	26-Aug-15	","	120416001
+74319	","		","	Human	","	2257955	","	CLARUS	","		","	N	","		","	1	","	08-Apr-10	","	115751001
+74320	","		","	Human	","	2257963	","	CLARUS	","		","	N	","		","	1	","	08-Apr-10	","	115751002
+69944	","		","	Human	","	2245828	","	CLASTEON	","		","	N	","		","	1	","	16-Nov-11	","	122982001
+15003	","		","	Veterinary	","	2038323	","	CLAVAMOX	","		","	N	","	76684	","	2	","	04-Jun-15	","	234720001
+15006	","		","	Veterinary	","	2038358	","	CLAVAMOX	","		","	N	","	76687	","	2	","	05-May-15	","	234720003
+15007	","		","	Veterinary	","	2038331	","	CLAVAMOX	","		","	N	","	76688	","	2	","	05-May-15	","	234720002
+15008	","		","	Veterinary	","	2038315	","	CLAVAMOX	","		","	N	","	76689	","	2	","	05-May-15	","	234720007
+43574	","		","	Veterinary	","	2027879	","	CLAVAMOX DROPS	","		","	N	","	S9099	","	2	","	05-May-15	","	234720001
+80241	","		","	Veterinary	","	2316919	","	CLAVASEPTIN 250 MG	","		","	N	","		","	2	","	05-May-15	","	234720007
+80240	","		","	Veterinary	","	2316900	","	CLAVASEPTIN 50 MG	","		","	N	","		","	2	","	05-May-15	","	234720011
+80242	","		","	Veterinary	","	2316927	","	CLAVASEPTIN 500 MG	","		","	N	","		","	2	","	05-May-15	","	234720012
+88155	","		","	Veterinary	","	2396556	","	CLAVASEPTIN 62.5MG	","		","	N	","		","	2	","	05-May-15	","	234720001
+15208	","		","	Human	","	1916882	","	CLAVULIN 125 F ORAL SUS	","		","	N	","	76889	","	2	","	25-Jan-08	","	234720010
+62269	","		","	Human	","	2238831	","	CLAVULIN 200	","		","	N	","		","	2	","	18-Nov-05	","	234720006
+15209	","		","	Human	","	1916874	","	CLAVULIN 250 F ORAL SUS	","		","	N	","	76890	","	2	","	13-Jun-11	","	234720001
+62268	","		","	Human	","	2238830	","	CLAVULIN 400	","		","	N	","		","	2	","	18-Nov-05	","	234720004
+15903	","		","	Human	","	1916858	","	CLAVULIN 500 F TAB	","		","	N	","	77666	","	2	","	04-Jul-06	","	234720009
+62267	","		","	Human	","	2238829	","	CLAVULIN 875	","		","	N	","		","	2	","	04-Jul-06	","	234720005
+79848	","	CAT IV - ACNE THERAPY	","	Human	","	2312921	","	CLEAN & CLEAR ADVANTAGE PLUS 3-IN-1 CLEANSER	","		","	N	","		","	1	","	05-Dec-11	","	107205001
+65812	","	CAT IV - ACNE THERAPY	","	Human	","	2242134	","	CLEAN & CLEAR CONTINUOUS CONTROL	","		","	N	","		","	1	","	05-Dec-11	","	107205001
+59870	","		","	Human	","	2236396	","	CLEAN & CLEAR PERSA-GEL 5	","		","	N	","		","	1	","	05-Dec-11	","	107205001
+90874	","		","	Disinfectant	","	2424010	","	CLEAN ESSENTIALS DISINFECTANT & NO RINSE QUAT SANITIZER	","		","	N	","		","	4	","	29-Aug-14	","	414758015
+77005	","		","	Disinfectant	","	2284480	","	CLEAN QUICK BROAD RANGE QUATERNARY	","		","	N	","		","	4	","	22-Dec-10	","	414758035
+72148	","		","	Disinfectant	","	2247843	","	CLEAN'EMS DISINFECTANT TOWELS	","		","	N	","		","	4	","	31-Jul-06	","	414758036
+77591	","		","	Disinfectant	","	2290588	","	CLEAN'EMS SPIRIT II DISINFECTANT TOWELS	","		","	N	","		","	2	","	13-Apr-07	","	205019008
+90428	","	CAT IV - HARD SURFACE DISINFECTANTS	","	Disinfectant	","	2419645	","	CLEANER/DEGREASER/DISINFECTANT	","		","	N	","		","	4	","	21-Feb-14	","	414758062
+79260	","	CAT IV - HARD SURFACE DISINFECTANTS	","	Disinfectant	","	2306913	","	CLEAR	","		","	N	","		","	4	","	07-Jul-11	","	414758013
+69761	","	CAT IV - CONTACT LENS DISINFECTANTS	","	Disinfectant	","	2245661	","	CLEAR CARE CLEANING AND DISINFECTING SOLUTION	","		","	N	","		","	1	","	14-Sep-15	","	106899001
+87476	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2389266	","	CLEAR COMPLEXION BB CREAM	","		","	N	","		","	4	","	01-Aug-13	","	420277038
+89258	","		","	Human	","	2407876	","	CLEAR COMPLEXION BB CREAM SPF 30 MEDIUM	","		","	N	","		","	4	","	19-Mar-14	","	420277038
+72380	","		","	Human	","	2248060	","	CLEAR EYES	","		","	N	","		","	1	","	09-Jul-12	","	103282002
+72379	","		","	Human	","	2248059	","	CLEAR EYES ALLERGY	","		","	N	","		","	3	","	09-Jul-12	","	332648002
+84583	","		","	Human	","	2360837	","	CLEAR EYES EXTRA STRENGTH REDNESS RELIEF	","		","	N	","		","	2	","	09-Jul-12	","	252847001
+78699	","		","	Human	","	2301687	","	CLEAR EYES TRIPLE ACTION RELIEF	","		","	N	","		","	3	","	09-Jul-12	","	320960002
+88755	","		","	Human	","	2402726	","	CLEAR FACE	","		","	N	","		","	5	","	26-May-14	","	544758111
+15508	","		","	Disinfectant	","	1943545	","	CLEAR LEMON 10 LIQ	","		","	N	","	77197	","	4	","	30-Sep-10	","	410587004
+87584	","		","	Human	","	2390418	","	CLEAR MEN SCALP THERAPY 2 IN 1 SCALP COMFORT ANTI-DANDRUFF	","		","	N	","		","	1	","	30-Sep-13	","	108628001
+86363	","		","	Human	","	2377829	","	CLEAR SCALP & HAIR THERAPY COMPLETE CARE ANTI-DANDRUFF	","		","	N	","		","	1	","	05-Oct-12	","	108628001
+75208	","	CAT IV - ACNE THERAPY	","	Human	","	2266679	","	CLEAR SKIN TREATMENT REPAIRING LOTION	","		","	N	","		","	1	","	29-Apr-15	","	107205009
+4861	","	CAT IV - ACNE THERAPY	","	Human	","	442968	","	CLEARASIL DAILY CLEAR ACNE TREATMENT CREAM BP PLUS	","		","	N	","	58922	","	1	","	29-Apr-15	","	107205001
+81040	","		","	Human	","	2324989	","	CLEARLAX	","		","	N	","		","	1	","	10-Jul-12	","	152488002
+76012	","		","	Disinfectant	","	2274647	","	CLICKSAN DISINFECTANT/SANITIZER	","		","	N	","		","	4	","	15-Feb-11	","	414758008
+50850	","		","	Human	","	2231510	","	CLIMARA 100	","		","	N	","		","	1	","	22-Oct-08	","	106457021
+71749	","		","	Human	","	2247499	","	CLIMARA 25	","		","	N	","		","	1	","	22-Oct-08	","	106457001
+50849	","		","	Human	","	2231509	","	CLIMARA 50	","		","	N	","		","	1	","	22-Oct-08	","	106457030
+71750	","		","	Human	","	2247500	","	CLIMARA 75	","		","	N	","		","	1	","	22-Oct-08	","	106457028
+73542	","		","	Human	","	2250616	","	CLIMARA PRO	","		","	N	","		","	2	","	10-Jul-08	","	250024001
+76333	","		","	Veterinary	","	2277719	","	CLINACIN	","		","	N	","		","	1	","	24-Oct-13	","	105830005
+76334	","		","	Veterinary	","	2277727	","	CLINACIN	","		","	N	","		","	1	","	24-Oct-13	","	105830006
+76335	","		","	Veterinary	","	2277735	","	CLINACIN	","		","	N	","		","	1	","	24-Oct-13	","	105830002
+70179	","		","	Veterinary	","	2246048	","	CLINACOX 0.5%	","		","	N	","		","	1	","	07-Oct-13	","	122474001
+88532	","		","	Human	","	2400529	","	CLINDAMYCIN	","		","	N	","		","	1	","	16-Jan-15	","	105830002
+88533	","		","	Human	","	2400537	","	CLINDAMYCIN	","		","	N	","		","	1	","	16-Jan-15	","	105830003
+18964	","		","	Human	","	2139286	","	CLINDAMYCIN INJECTION	","		","	N	","	81250	","	1	","	03-Jun-15	","	105830002
+87133	","		","	Human	","	2385716	","	CLINDAMYCIN INJECTION SDZ	","		","	N	","		","	1	","	14-Jan-13	","	105830002
+49605	","		","	Human	","	2230535	","	CLINDAMYCIN INJECTION USP	","		","	N	","		","	1	","	05-May-15	","	105830002
+49612	","		","	Human	","	2230540	","	CLINDAMYCIN INJECTION USP	","		","	N	","		","	1	","	05-May-15	","	105830002
+89326	","		","	Human	","	2408511	","	CLINDAMYCIN IV INFUSION	","	600MG/50ML MINIBAGS. SINGLE USE.	","	N	","		","	1	","	14-Jan-14	","	105830009
+89327	","		","	Human	","	2408538	","	CLINDAMYCIN IV INFUSION	","	900MG/50ML MINIBAGS. SINGLE USE.	","	N	","		","	1	","	14-Jan-14	","	105830010
+72878	","		","	Human	","	2248525	","	CLINDAMYCINE-150	","		","	N	","		","	1	","	03-Mar-06	","	105830002
+72879	","		","	Human	","	2248526	","	CLINDAMYCINE-300	","		","	N	","		","	1	","	03-Mar-06	","	105830003
+67589	","		","	Human	","	2243659	","	CLINDA-T	","		","	N	","		","	1	","	05-May-15	","	105830004
+66912	","		","	Human	","	2243050	","	CLINDETS	","		","	N	","		","	1	","	05-May-15	","	105830004
+86863	","		","	Human	","	2382822	","	CLINDOXYL ADV GEL	","		","	N	","		","	2	","	23-Aug-13	","	242561002
+67033	","		","	Human	","	2243158	","	CLINDOXYL GEL	","		","	N	","		","	2	","	19-Jun-13	","	242561001
+12210	","		","	Disinfectant	","	1918060	","	CLINICIDE	","		","	N	","	73257	","	2	","	13-Apr-06	","	213172003
+14067	","		","	Human	","	2013959	","	CLINIMIX	","	5% AMINO ACIDS (BLEND B) WITHOUT ELECTROLYTES IN 25% DEXTROSE INJECTION	","	N	","	75574	","	15	","	05-May-15	","	1550853009
+14071	","		","	Human	","	2013916	","	CLINIMIX	","	4.25% AMINO ACIDS (BLEND B) WITHOUT ELECTROLYTES IN 25% DEXTROSE INJECTION	","	N	","	75578	","	15	","	05-May-15	","	1550853008
+14073	","		","	Human	","	2013924	","	CLINIMIX	","	4.25% AMINO ACIDS (BLEND B) WITHOUT ELECTROLYTES IN 10% INJECTION	","	N	","	75580	","	15	","	05-May-15	","	1550853007
+14077	","		","	Human	","	2013886	","	CLINIMIX	","	5% AMINO ACIDS (BLEND B) WITHOUT ELECTROLYTES IN 5% DEXTROSE INJECTION	","	N	","	75584	","	15	","	05-May-15	","	1550853006
+18550	","		","	Human	","	2013940	","	CLINIMIX	","	5% AMINO ACIDS (BLEND B) WITHOUT ELECTROLYTES IN 20% DEXTROSE INJECTION	","	N	","	80809	","	15	","	05-May-15	","	1550853005
+19143	","		","	Human	","	2046709	","	CLINIMIX	","	5% AMINO ACIDS (BLEND B) WITHOUT ELECTROLYTES IN 16.6% DEXTROSE INJECTION	","	N	","	81434	","	15	","	05-May-15	","	1550858001
+19610	","		","	Human	","	2013932	","	CLINIMIX	","	5% AMINO ACIDS (BLEND B) WITHOUT ELECTROLYTES IN 10% DEXTROSE INJECTION	","	N	","	81907	","	15	","	05-May-15	","	1550853001
+20278	","		","	Human	","	2142260	","	CLINIMIX	","	5% AMINO ACIDS (BLEND C) WITHOUT ELECTROLYTES IN 16.6% DEXTROSE INJECTION	","	N	","	82582	","	16	","	05-May-15	","	1650849007
+20302	","		","	Human	","	2142279	","	CLINIMIX	","	5% AMINO ACIDS (BLEND C) WITHOUT ELECTROLYTES IN 10% DEXTROSE INJECTION	","	N	","	82607	","	16	","	05-May-15	","	1650849003
+14066	","		","	Human	","	2014025	","	CLINIMIX E	","	4.25 % AMINO ACIDS (BLEND B) WITH ELECTROLYTES IN 10% DEXTROSE INJECTION	","	N	","	75573	","	19	","	05-May-15	","	1950854024
+14068	","		","	Human	","	2014084	","	CLINIMIX E	","	5% AMINO ACIDS (BLEND B) WITH ELECTROLYTES IN 25% DEXTROSE INJECTION	","	N	","	75575	","	19	","	05-May-15	","	1950854023
+14072	","		","	Human	","	2014041	","	CLINIMIX E	","	4.25 % AMINO ACIDS (BLEND B) WITH ELECTROLYTES IN 25% DEXTROSE INJECTION	","	N	","	75579	","	19	","	05-May-15	","	1950854020
+14075	","		","	Human	","	2014076	","	CLINIMIX E	","	5% AMINO ACIDS (BLEND B) WITH ELECTROLYTES IN 10% DEXTROSE INJECTION	","	N	","	75582	","	19	","	05-May-15	","	1950854018
+14076	","		","	Human	","	2013967	","	CLINIMIX E	","	5% AMINO ACIDS (BLEND B) IN 16.6% DEXTROSE INJECTION	","	N	","	75583	","	19	","	05-May-15	","	1950854017
+15868	","		","	Human	","	2014068	","	CLINIMIX E	","	5% AMINO ACIDS (BLEND B) WITH ELECTROLYTES IN 20% DEXTROSE INJECTION	","	N	","	77629	","	19	","	05-May-15	","	1950854016
+20282	","		","	Human	","	2142341	","	CLINIMIX E	","	5% AMINO ACIDS (BLEND C) WITH ELECTROLYTES IN 25% DEXTROSE INJECTION	","	N	","	82586	","	20	","	05-May-15	","	2050850015
+20290	","		","	Human	","	2142376	","	CLINIMIX E	","	5% AMINO ACIDS (BLEND C) WITH ELECTROLYTES IN 16.6% DEXTROSE INJECTION	","	N	","	82594	","	20	","	05-May-15	","	2050850014
+20291	","		","	Human	","	2142384	","	CLINIMIX E	","	5% AMINO ACIDS (BLEND C) WITH ELECTROLYTES IN 10% DEXTROSE INJECTION	","	N	","	82595	","	20	","	05-May-15	","	2050850013
+77590	","	CAT IV - ACNE THERAPY	","	Human	","	2290561	","	CLINIQUE ACNE SOLUTIONS ALL-OVER CLEARING TREATMENT	","		","	N	","		","	1	","	29-Apr-15	","	107205004
+90738	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2422719	","	CLINIQUE ACNE SOLUTIONS BB CREAM SPF 40 COMBINATION OILY TO OILY	","		","	N	","		","	3	","	03-Mar-15	","	327582042
+88688	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2402009	","	CLINIQUE AGE DEFENSE BB CREAM SPF 30	","		","	N	","		","	4	","	01-Nov-13	","	427221011
+78256	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2297183	","	CLINIQUE ALMOST POWDER MAKEUP SPF 15	","		","	N	","		","	2	","	13-Jul-12	","	216790105
+86068	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2375281	","	CLINIQUE EVEN BETTER HAND CREAM SPF 15	","		","	N	","		","	3	","	04-Dec-13	","	350284008
+86076	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2375354	","	CLINIQUE EVEN BETTER LOTION SPF 20	","		","	N	","		","	3	","	12-Jun-12	","	335121009
+85281	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2367998	","	CLINIQUE EVEN BETTER MAKEUP SPF 15	","		","	N	","		","	3	","	13-Jul-12	","	327220024
+80748	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2322072	","	CLINIQUE EVEN BETTER SKIN TONE CORRECTING MOISTURIZER SPF 20	","		","	N	","		","	3	","	13-Jul-12	","	335121009
+75697	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2271508	","	CLINIQUE FOR MEN SPF 21 MOISTURIZER	","		","	N	","		","	4	","	29-Apr-15	","	423152016
+89626	","		","	Human	","	2411660	","	CLINIQUE MOISTURE SURGE CC CREAM COMPACT HYDRATING COLOUR CORRECTOR SPF 25	","		","	N	","		","	2	","	08-Apr-14	","	216790116
+88698	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2402114	","	CLINIQUE MOISTURE SURGE CC CREAM HYDRATING COLOUR CORRECTOR SPF 30	","		","	N	","		","	4	","	19-Aug-13	","	427221012
+85558	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2370425	","	CLINIQUE REDNESS SOLUTIONS MAKEUP SPF 15 WITH PROBIOTIC TECHNOLOGY	","		","	N	","		","	3	","	13-Jul-12	","	327220024
+85273	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2367904	","	CLINIQUE REPAIRWEAR LASER FOCUS ALL-SMOOTH MAKEUP SPF 15	","		","	N	","		","	2	","	13-Jul-12	","	252876002
+87052	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2384833	","	CLINIQUE REPAIRWEAR UPLIFTING FIRMING CREAM SPF 15 DRY COMBINATION TO COMBINATION OILY	","		","	N	","		","	3	","	22-Oct-12	","	327582033
+87051	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2384825	","	CLINIQUE REPAIRWEAR UPLIFTING FIRMING CREAM SPF 15 VERY DRY TO DRY	","		","	N	","		","	3	","	17-Jan-14	","	327582033
+79227	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2306565	","	CLINIQUE SKIN SUPPLIES FOR MEN AGE DEFENSE HYDRATOR SPF 15	","		","	N	","		","	3	","	13-Jul-12	","	331813003
+80175	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2316242	","	CLINIQUE SPF 30 BODY CREAM	","		","	N	","		","	5	","	29-Apr-15	","	544758045
+80198	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2316471	","	CLINIQUE SPF 30 FACE CREAM	","		","	N	","		","	5	","	29-Apr-15	","	544758045
+80199	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2316498	","	CLINIQUE SPF 50 FACE CREAM	","		","	N	","		","	5	","	29-Apr-15	","	544758046
+88905	","		","	Human	","	2404265	","	CLINIQUE SUPER CITY BLOCK OIL-FREE DAILY FACE PROTECTOR SPF 40	","		","	N	","		","	4	","	11-Mar-15	","	427221013
+79226	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2306557	","	CLINIQUE SUPERDEFENSE AGE DEFENSE MOISTURIZER SPF 25 COMBINATION OILY	","		","	N	","		","	4	","	13-Jul-12	","	424654011
+79232	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2306638	","	CLINIQUE SUPERDEFENSE AGE DEFENSE MOISTURIZER SPF 25 DRY COMBINATION	","		","	N	","		","	3	","	13-Jul-12	","	349021003
+79233	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2306646	","	CLINIQUE SUPERDEFENSE AGE DEFENSE MOISTURIZER SPF 25 VERY DRY COMBINATION	","		","	N	","		","	3	","	13-Jul-12	","	349021003
+89392	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2409208	","	CLINIQUE SUPERDEFENSE DAILY DEFENSE MOISTURIZER SPF 20 COMBINATION OILY TO OILY	","		","	N	","		","	2	","	02-Jun-14	","	252501001
+89393	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2409216	","	CLINIQUE SUPERDEFENSE DAILY DEFENSE MOISTURIZER SPF 20 VERY DRY TO DRY COMBINATION	","		","	N	","		","	2	","	12-Feb-14	","	252501001
+80112	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2315599	","	CLINIQUE YOUTH SURGE SPF 15 AGE DECELERATING MOISTURIZER COMBINATION OILY	","		","	N	","		","	2	","	13-Jul-12	","	216790072
+88753	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2402696	","	CLINIQUE YOUTH SURGE SPF 15 AGE DECELERATING MOISTURIZER DRY COMBINATION	","		","	N	","		","	3	","	29-May-14	","	327582033
+80113	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2315602	","	CLINIQUE YOUTH SURGE SPF 15 AGE DECELERATING MOISTURIZER VERY DRY/DRY	","		","	N	","		","	4	","	13-Jul-12	","	451521007
+68120	","	CAT IV - ANTISEPTIC SKIN CLEANSERS	","	Human	","	2244159	","	CLINISHIELD HEALTH CARE PERSONNEL HANDWASH	","		","	N	","		","	1	","	22-Jul-08	","	108865007
+82981	","		","	Human	","	2344327	","	CLINOLEIC 20%	","		","	N	","		","	2	","	04-Dec-13	","	252693001
+77124	","		","	Disinfectant	","	2285754	","	CLIPPERCIDE	","		","	N	","		","	2	","	02-Jan-07	","	251670001
+72805	","		","	Human	","	2248454	","	CLOBAZAM-10	","		","	N	","		","	1	","	29-Sep-14	","	114637001
+74162	","		","	Human	","	2256398	","	CLOBEX LOTION	","		","	N	","		","	1	","	22-Nov-06	","	110995001
+74161	","		","	Human	","	2256371	","	CLOBEX SHAMPOO	","		","	N	","		","	1	","	29-Dec-06	","	110995001
+78510	","		","	Human	","	2299739	","	CLOBEX SPRAY	","		","	N	","		","	1	","	27-Dec-07	","	110995001
+81614	","		","	Human	","	2330407	","	CLOLAR	","		","	N	","		","	1	","	18-Sep-14	","	152637001
+62663	","		","	Veterinary	","	2239205	","	CLOMICALM	","		","	N	","		","	1	","	30-Sep-10	","	109212004
+62664	","		","	Veterinary	","	2239206	","	CLOMICALM	","		","	N	","		","	1	","	30-Sep-10	","	109212005
+62665	","		","	Veterinary	","	2239207	","	CLOMICALM	","		","	N	","		","	1	","	30-Sep-10	","	109212006
+19347	","		","	Human	","	2091879	","	CLOMID	","		","	N	","	81639	","	1	","	15-Oct-08	","	102713001
+49164	","		","	Human	","	2230366	","	CLONAPAM	","		","	N	","		","	1	","	05-May-15	","	111558001
+49166	","		","	Human	","	2230368	","	CLONAPAM	","		","	N	","		","	1	","	05-May-15	","	111558004
+49167	","		","	Human	","	2230369	","	CLONAPAM	","		","	N	","		","	1	","	05-May-15	","	111558002
+87143	","		","	Human	","	2385813	","	CLOPIDOGREL	","		","	N	","		","	1	","	08-Nov-12	","	134440001
+87998	","		","	Human	","	2394820	","	CLOPIDOGREL	","		","	N	","		","	1	","	03-Jan-13	","	134440001
+88535	","		","	Human	","	2400553	","	CLOPIDOGREL	","		","	N	","		","	1	","	16-Apr-13	","	134440001
+49245	","		","	Human	","	2230406	","	CLOPIXOL DEPOT 200MG/ML	","		","	N	","		","	1	","	10-Aug-07	","	127602001
+49241	","		","	Human	","	2230402	","	CLOPIXOL TABLETS 10MG	","		","	N	","		","	1	","	04-Aug-05	","	127600001
+49242	","		","	Human	","	2230403	","	CLOPIXOL TABLETS 25MG	","		","	N	","		","	1	","	04-Aug-05	","	127600003
+49244	","		","	Human	","	2230405	","	CLOPIXOL-ACUPHASE 50MG/ML	","		","	N	","		","	1	","	10-Aug-07	","	127601001
+90263	","		","	Veterinary	","	2418037	","	CLOPROSTENOL VEYX	","		","	N	","		","	1	","	09-Jul-14	","	112396001
+78103	","		","	Disinfectant	","	2295687	","	CLOR-5 SODIUM HYPOCHLORITE	","		","	N	","		","	1	","	11-May-09	","	106897011
+10899	","		","	Human	","	860697	","	CLORAZEPATE	","		","	N	","	71032	","	1	","	17-Jul-13	","	108895003
+10902	","		","	Human	","	860689	","	CLORAZEPATE	","		","	N	","	71035	","	1	","	17-Jul-13	","	108895001
+10903	","		","	Human	","	860700	","	CLORAZEPATE	","		","	N	","	71036	","	1	","	17-Jul-13	","	108895002
+91566	","		","	Disinfectant	","	2431246	","	CLOROSPEC RTU	","		","	N	","		","	1	","	10-Sep-14	","	106897030
+89061	","		","	Disinfectant	","	2405849	","	CLOROX ALL-PURPOSE DISINFECTING CLEANER	","	SPRAY	","	N	","		","	1	","	19-Aug-14	","	104993038
+70535	","		","	Disinfectant	","	2246368	","	CLOROX CLEAN-UP DISINFECTANT BLEACH CLEANER	","		","	N	","		","	1	","	09-Jan-13	","	106897017
+80497	","		","	Disinfectant	","	2319489	","	CLOROX COMMERCIAL SOLUTIONS CLOROX CLEAN-UP DISINFECTANT BLEACH CLEANER	","		","	N	","		","	1	","	31-Oct-14	","	106897017
+80494	","	CAT IV - HARD SURFACE DISINFECTANTS	","	Disinfectant	","	2319470	","	CLOROX COMMERCIAL SOLUTIONS CLOROX CLEAN-UP DISINFECTANT DILUTABLE BLEACH CLEANER	","		","	N	","		","	1	","	14-Jan-13	","	106897017
+89371	","		","	Disinfectant	","	2408961	","	CLOROX COMMERCIAL SOLUTIONS CLOROX DISINFECTING BLEACH	","		","	N	","		","	1	","	15-Sep-15	","	106897024
+80496	","		","	Disinfectant	","	2319497	","	CLOROX COMMERCIAL SOLUTIONS CLOROX DISINFECTING CLEANER DEGREASER	","		","	N	","		","	1	","	14-Jan-13	","	104993038
+80495	","		","	Disinfectant	","	2319462	","	CLOROX COMMERCIAL SOLUTIONS CLOROX DISINFECTING WIPES	","		","	N	","		","	2	","	24-Jan-13	","	205019036
+89183	","		","	Disinfectant	","	2407132	","	CLOROX COMMERCIAL SOLUTIONS PINE-SOL ALL-PURPOSE CLEANER DISINFECTANT	","		","	N	","		","	1	","	09-Oct-13	","	147601003
+86234	","		","	Disinfectant	","	2376741	","	CLOROX COMMERCIAL SOLUTIONS PINE-SOL MULTI-SURFACE CLEANER DISINFECTANT	","		","	N	","		","	2	","	27-Aug-13	","	253045001
+77966	","		","	Disinfectant	","	2294311	","	CLOROX DISINFECTING BATHROOM CLEANER-1	","		","	N	","		","	2	","	09-Jan-13	","	205019015
+87852	","		","	Disinfectant	","	2393298	","	CLOROX DISINFECTING BLEACH	","		","	N	","		","	1	","	29-Jan-15	","	106897024
+89509	","		","	Disinfectant	","	2410427	","	CLOROX DISINFECTING BLEACH FOAMER	","		","	N	","		","	1	","	14-Jan-14	","	106897012
+78378	","		","	Disinfectant	","	2298473	","	CLOROX DISINFECTING TOILET BOWL CLEANER WITH BLEACH-1	","		","	N	","		","	1	","	29-Apr-15	","	106897012
+81850	","		","	Disinfectant	","	2332841	","	CLOROX DISINFECTING TOILETWAND DISPOSABLE TOILET CLEANING SYSTEM	","		","	N	","		","	1	","	03-Mar-15	","	147601002
+70392	","		","	Disinfectant	","	2246233	","	CLOROX DISINFECTING WIPES	","		","	N	","		","	2	","	29-Apr-15	","	205019036
+89095	","		","	Disinfectant	","	2406225	","	CLOROX HEALTHCARE HYDROGEN PEROXIDE CLEANER DISINFECTANT WIPES	","		","	N	","		","	1	","	01-Oct-13	","	106899024
+88405	","		","	Disinfectant	","	2399156	","	CLOROX HEALTHCARE PROFESSIONAL DISINFECTING BLEACH CLEANER	","		","	N	","		","	1	","	04-Jul-13	","	106897030
+88686	","		","	Disinfectant	","	2401983	","	CLOROX HEALTHCARE PROFESSIONAL DISINFECTING BLEACH WIPES	","		","	N	","		","	1	","	29-Sep-14	","	106897003
+90433	","		","	Disinfectant	","	2419696	","	CLOROX KITCHEN CLEANER AND DISINFECTANT	","		","	N	","		","	1	","	21-Nov-14	","	106897030
+11893	","		","	Human	","	812382	","	CLOTRIMADERM CREAM 1%	","		","	N	","	72833	","	1	","	14-Aug-12	","	110231001
+9926	","		","	Human	","	812366	","	CLOTRIMADERM VAG CREAM 1%	","		","	N	","	69299	","	1	","	16-Jan-15	","	110231001
+9927	","		","	Human	","	812374	","	CLOTRIMADERM VAG CREAM 2%	","		","	N	","	69300	","	1	","	14-Aug-12	","	110231003
+47181	","		","	Human	","	2229380	","	CLOTRIMAZOLE CREAM USP 1%	","		","	N	","	P9864	","	1	","	14-Aug-12	","	110231001
+47168	","		","	Human	","	2229378	","	CLOTRIMAZOLE VAGINAL CREAM USP 1%	","		","	N	","	P9862	","	1	","	17-Jan-15	","	110231001
+47180	","		","	Human	","	2229379	","	CLOTRIMAZOLE VAGINAL CREAM USP 2%	","		","	N	","	P9863	","	1	","	17-Jan-15	","	110231003
+85225	","		","	Human	","	2367408	","	CLOXACILLIN FOR INJECTION	","		","	N	","		","	1	","	20-Feb-13	","	131306001
+85226	","		","	Human	","	2367416	","	CLOXACILLIN FOR INJECTION	","	FOR I.V. USE ONLY	","	N	","		","	1	","	03-Nov-11	","	131306007
+85227	","		","	Human	","	2367424	","	CLOXACILLIN FOR INJECTION	","	FOR I.V. USE ONLY	","	N	","		","	1	","	03-Nov-11	","	131306003
+88492	","		","	Human	","	2400081	","	CLOXACILLIN FOR INJECTION	","	FOR IV INFUSION ONLY	","	N	","		","	1	","	03-May-13	","	131306008
+12434	","		","	Human	","	1912410	","	CLOXACILLIN SODIUM FOR INJECTION	","		","	N	","	73530	","	1	","	29-Apr-15	","	105904004
+12435	","		","	Human	","	1912429	","	CLOXACILLIN SODIUM FOR INJECTION	","		","	N	","	73531	","	1	","	29-Apr-15	","	105904002
+13134	","		","	Human	","	1975447	","	CLOXACILLIN SODIUM FOR INJECTION	","		","	N	","	74428	","	1	","	29-Apr-15	","	105904005
+11421	","		","	Human	","	894745	","	CLOZARIL TAB 100MG	","		","	N	","	72092	","	1	","	10-Nov-09	","	122583002
+11422	","		","	Human	","	894737	","	CLOZARIL TAB 25MG	","		","	N	","	72093	","	1	","	10-Nov-09	","	122583001
+64039	","		","	Veterinary	","	2240491	","	CMPK-PLUS	","		","	N	","		","	4	","	28-May-09	","	437782002
+77072	","		","	Human	","	2285215	","	CO CILAZAPRIL	","		","	N	","		","	1	","	15-Sep-09	","	122806004
+77073	","		","	Human	","	2285223	","	CO CILAZAPRIL	","		","	N	","		","	1	","	15-Sep-09	","	122806002
+75602	","		","	Human	","	2270641	","	CO CLONAZEPAM	","		","	N	","		","	1	","	19-Apr-06	","	111558001
+75603	","		","	Human	","	2270668	","	CO CLONAZEPAM	","		","	N	","		","	1	","	19-Apr-06	","	111558004
+75604	","		","	Human	","	2270676	","	CO CLONAZEPAM	","		","	N	","		","	1	","	19-Apr-06	","	111558002
+87242	","		","	Human	","	2386844	","	CO FENTANYL	","		","	N	","		","	1	","	21-Jan-14	","	123302015
+87243	","		","	Human	","	2386852	","	CO FENTANYL	","		","	N	","		","	1	","	21-Jan-14	","	123302014
+87245	","		","	Human	","	2386879	","	CO FENTANYL	","		","	N	","		","	1	","	21-Jan-14	","	123302011
+87246	","		","	Human	","	2386887	","	CO FENTANYL	","		","	N	","		","	1	","	21-Jan-14	","	123302013
+87247	","		","	Human	","	2386895	","	CO FENTANYL	","		","	N	","		","	1	","	09-Apr-13	","	123302012
+80890	","		","	Human	","	2323419	","	CO FLUCONAZOLE-150	","		","	N	","		","	1	","	08-Mar-10	","	122529004
+86584	","		","	Human	","	2379996	","	CO MYCOPHENOLATE	","	FILM-COATED	","	N	","		","	1	","	12-Mar-12	","	128158002
+75498	","		","	Human	","	2269627	","	CO NORFLOXACIN	","		","	N	","		","	1	","	27-Oct-06	","	116961001
+5784	","		","	Veterinary	","	625434	","	CO OP AUREOMYCIN VITAMIN PREMIX CRUMBLES	","		","	N	","	61511	","	4	","	15-Apr-08	","	405536001
+75600	","		","	Human	","	2270625	","	CO SOTALOL	","		","	N	","		","	1	","	21-Dec-06	","	113778002
+75601	","		","	Human	","	2270633	","	CO SOTALOL	","		","	N	","		","	1	","	21-Dec-06	","	113778001
+81743	","		","	Human	","	2331748	","	CO VALACYCLOVIR	","		","	N	","		","	1	","	19-Aug-10	","	128626001
+957	","		","	Human	","	68594	","	COACTIFED	","		","	N	","	33055	","	3	","	24-Dec-14	","	304415002
+86350	","		","	Human	","	2377683	","	COATED DAILY LOW DOSE ASA 81 MG	","		","	N	","		","	1	","	21-May-15	","	101169013
+50479	","		","	Veterinary	","	2231172	","	COBAN PREMIX (MONENSIN WITH MICROTRACER)	","		","	N	","		","	1	","	05-May-15	","	112512003
+3500	","		","	Human	","	465356	","	COBEX INJ 1000MCG/ML	","		","	N	","	54552	","	1	","	06-Jul-11	","	108437002
+12625	","		","	Human	","	1962388	","	COCAINE HYDROCHLORIDE TOP SOL 40MG/ML	","		","	N	","	73782	","	1	","	29-Apr-15	","	103839001
+13391	","		","	Human	","	2004062	","	COCAINE HYDROCHLORIDE TOPICAL SOL 10%	","		","	N	","	74761	","	1	","	29-Apr-15	","	103839002
+84858	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2363607	","	COCOA LATTE TINTED MOISTURIZER	","		","	N	","		","	2	","	18-Dec-12	","	216792005
+16475	","		","	Human	","	2009889	","	CODEINE 15 MG TAB	","		","	N	","	78366	","	1	","	08-Mar-02	","	104398002
+16474	","		","	Human	","	2009757	","	CODEINE 30MG TAB	","		","	N	","	78365	","	1	","	30-Jan-03	","	104398004
+19050	","		","	Human	","	2163748	","	CODEINE CONTIN 100MG CONTROLLED RELEASE TAB	","		","	N	","	81339	","	1	","	20-Jan-12	","	153086004
+19051	","		","	Human	","	2163780	","	CODEINE CONTIN 150MG CONTROLLED RELEASE TAB	","		","	N	","	81340	","	1	","	20-Jan-12	","	153086002
+19049	","		","	Human	","	2163799	","	CODEINE CONTIN 200MG CONTROLLED RELEASE TAB	","		","	N	","	81338	","	1	","	20-Jan-12	","	153086001
+49057	","		","	Human	","	2230302	","	CODEINE CONTIN 50MG CONTROLLED RELEASE TAB	","		","	N	","		","	1	","	20-Jan-12	","	153086003
+4232	","		","	Human	","	497282	","	CODEINE PHOSPHATE INJ 30MG/ML	","		","	N	","	57031	","	1	","	29-Apr-15	","	104398004
+4233	","		","	Human	","	497290	","	CODEINE PHOSPHATE INJ 60MG/ML	","		","	N	","	57032	","	1	","	29-Apr-15	","	104398005
+4806	","		","	Human	","	544884	","	CODEINE PHOSPHATE INJECTION USP	","		","	N	","	58792	","	1	","	29-Apr-15	","	104398004
+943	","		","	Human	","	50024	","	CODEINE PHOSPHATE SYRUP	","		","	N	","	32846	","	1	","	12-Feb-13	","	104398001
+9439	","		","	Human	","	779458	","	CODEINE TAB 15MG	","		","	N	","	68570	","	1	","	11-Aug-05	","	104398002
+61546	","	LS - LAXATIVES (GENERAL)	","	Human	","	2238155	","	CODULAX TABLETS	","		","	N	","		","	1	","	29-Apr-15	","	101506001
+19101	","		","	Human	","	2154773	","	CO-HE-O2-N2 MIXTURE	","	"CO:0.3%, HE:10%, O2:21%, BALANCED WITH N2"	","	N	","	81390	","	4	","	29-Apr-15	","	415738002
+28453	","		","	Human	","	2090163	","	COLACE	","		","	N	","	F4732	","	1	","	29-Apr-15	","	104351004
+29540	","		","	Human	","	2106256	","	COLACE CAPSULES 100 MG	","		","	N	","	F6254	","	1	","	10-Jul-12	","	104351002
+28280	","		","	Human	","	2086018	","	COLACE SYRUP 4 MG/ML	","		","	N	","	F4392	","	1	","	10-Jul-12	","	104351003
+1931	","		","	Human	","	287873	","	COLCHICINE	","		","	N	","	45766	","	1	","	23-Nov-09	","	107264001
+5069	","		","	Human	","	572349	","	COLCHICINE TAB 0.6MG	","		","	N	","	59599	","	1	","	09-Jul-09	","	107264001
+21168	","		","	Human	","	1908634	","	COLD & FLU	","		","	N	","	E0055	","	4	","	29-Apr-15	","	411174003
+85348	","		","	Human	","	2368536	","	COLD & FLU	","	COMBO-PAK.  DAYTIME & NIGHTTIME CAPSULES	","	N	","		","	7	","	25-Sep-15	","	752932001
+74797	","		","	Human	","	2262592	","	COLD & FLU RELIEF SYRUP	","		","	N	","		","	4	","	17-Jul-12	","	421980003
+76511	","		","	Human	","	2279517	","	COLD & FLU SUPER STRENGTH	","		","	N	","		","	3	","	29-Apr-15	","	312118007
+85347	","		","	Human	","	2368528	","	COLD & FLU-IN-ONE	","	COMBO-PAK.  DAYTIME & NIGHTTIME RELIEF	","	N	","		","	7	","	19-May-15	","	752931001
+79088	","		","	Human	","	2305356	","	COLD & SINUS LIQUID FASTGELS	","		","	N	","		","	4	","	16-Sep-11	","	421980002
+89248	","		","	Human	","	2407779	","	COLD & SINUS RELIEF CAPSULES	","		","	N	","		","	2	","	13-May-14	","	222394001
+81392	","		","	Human	","	2328402	","	COLD & STUFFY NOSE	","		","	N	","		","	2	","	10-Mar-10	","	251559002
+83757	","		","	Human	","	2352281	","	COLD + SINUS	","		","	N	","		","	2	","	14-Jan-14	","	222394001
+76544	","		","	Human	","	2279851	","	COLD + SINUS CAPLETS	","		","	N	","		","	2	","	04-Oct-12	","	222394001
+87360	","		","	Human	","	2388030	","	COLD + SINUS DAYTIME COLD + SINUS NIGHTTIME	","		","	N	","		","	5	","	13-Jun-14	","	553187001
+84427	","		","	Human	","	2359243	","	COLD + SINUS PLUS	","		","	N	","		","	3	","	27-Nov-13	","	349765001
+83716	","		","	Human	","	2351927	","	COLD AND ALLERGY DECONGESTANT NASAL SPRAY	","	SOLUTION	","	N	","		","	1	","	29-Apr-15	","	107655001
+70399	","		","	Human	","	2246238	","	COLD AND FLU CAPSULES	","		","	N	","		","	4	","	25-Jul-11	","	421980002
+76681	","		","	Human	","	2281147	","	COLD AND FLU-IN-ONE EXTRA STRENGTH	","		","	N	","		","	4	","	27-May-14	","	421980007
+87089	","		","	Human	","	2385252	","	COLD AND SINUS DAYTIME RELIEF	","		","	N	","		","	2	","	14-Aug-14	","	216113003
+87406	","		","	Human	","	2388537	","	COLD AND SINUS RELIEF COMBO	","	"COMBO PACK, LIGHT GREEN DAYTIME CAPLET & DARK GREEN NIGHTIME CAPLET"	","	N	","		","	5	","	27-May-14	","	553095001
+37183	","		","	Human	","	2218836	","	COLD FLU RELIEF	","		","	N	","	H4653	","	4	","	24-Oct-12	","	419805002
+75283	","		","	Human	","	2267411	","	COLD LIQUID	","		","	N	","		","	2	","	29-Apr-15	","	244021002
+80101	","		","	Human	","	2315475	","	COLD LIQUID GRAPE FLAVOUR	","		","	N	","		","	2	","	17-Jan-13	","	244021002
+86913	","		","	Human	","	2383373	","	COLD MEDICATION	","	"COMBO PACK, YELLOW DAYTIME CAPLET AND BLUE NIGHTIME CAPLET"	","	N	","		","	7	","	12-Aug-14	","	736850002
+88164	","		","	Human	","	2396602	","	COLD MEDICATION DAYTIME RELIEF	","		","	N	","		","	4	","	14-Jan-15	","	451421003
+22846	","		","	Human	","	1957619	","	COLD MEDICATION EXTRA STRENGTH DAYTIME	","		","	N	","	E3525	","	3	","	29-Apr-15	","	319503001
+22847	","		","	Human	","	1957627	","	COLD MEDICATION EXTRA STRENGTH NIGHT TIME	","		","	N	","	E3526	","	4	","	29-Apr-15	","	414717004
+70285	","		","	Human	","	2246142	","	COLD RELIEF DAYTIME TABLET	","		","	N	","		","	3	","	30-Jul-04	","	319503001
+70286	","		","	Human	","	2246143	","	COLD RELIEF NIGHTIME TABLET	","		","	N	","		","	4	","	30-Jul-04	","	414717004
+86367	","		","	Human	","	2377861	","	COLD STIX	","		","	N	","		","	3	","	29-Apr-15	","	312118015
+86368	","		","	Human	","	2377888	","	COLD STIX SUPER STRENGTH	","		","	N	","		","	3	","	28-Jul-15	","	312118016
+75162	","		","	Human	","	2266180	","	COLD SYRUP	","		","	N	","		","	2	","	29-Apr-15	","	244021002
+79071	","		","	Human	","	2305216	","	COLDASIDE COLD & FLU EXTRA STRENGTH	","		","	N	","		","	3	","	07-Dec-10	","	318085003
+79504	","		","	Human	","	2309440	","	COLDASIDE COUGH & COLD	","		","	N	","		","	2	","	16-Mar-09	","	200625004
+7199	","		","	Human	","	642975	","	COLESTID GRANULES	","		","	N	","	64933	","	1	","	01-Feb-06	","	113064001
+18552	","		","	Human	","	2132699	","	COLESTID ORANGE GRANULES	","		","	N	","	80811	","	1	","	13-Aug-09	","	113064005
+18627	","		","	Human	","	2132680	","	COLESTID TABLETS 1 G	","		","	N	","	80895	","	1	","	19-Sep-06	","	113064002
+77106	","		","	Human	","	2285568	","	COLGATE TOTAL - ADVANCED HEALTH	","		","	N	","		","	2	","	14-Feb-11	","	224632001
+88687	","		","	Human	","	2401991	","	COLGATE TOTAL 12H PRO-SHIELD	","		","	N	","		","	2	","	29-Apr-15	","	214228008
+84966	","		","	Human	","	2364786	","	COLGATE TOTAL ADVANCED HEALTH GUM DEFENSE	","		","	N	","		","	2	","	26-Jul-11	","	224632001
+85841	","		","	Human	","	2373254	","	COLGATE TOTAL ADVANCED HEALTH SENSITIVE	","		","	N	","		","	3	","	13-Dec-13	","	352996001
+14444	","		","	Human	","	2044730	","	COLGATE TOTAL TPT	","		","	N	","	76062	","	2	","	11-Feb-11	","	224632001
+3836	","		","	Disinfectant	","	464996	","	COLINON	","		","	N	","	55651	","	1	","	27-Mar-07	","	104993007
+88833	","		","	Human	","	2403544	","	COLISTIMETHATE FOR INJECTION	","		","	N	","		","	1	","	19-May-15	","	105857001
+68839	","		","	Human	","	2244849	","	COLISTIMETHATE FOR INJECTION U.S.P.	","		","	N	","		","	1	","	26-Apr-11	","	105857001
+7203	","		","	Human	","	674354	","	COLLYRE BLEU LAITER	","		","	N	","	64938	","	2	","	24-Jun-14	","	255030001
+86189	","		","	Human	","	2376423	","	COLOR ICON BRONZER SPF 15	","		","	N	","		","	2	","	04-Dec-12	","	216932073
+68230	","		","	Human	","	2244263	","	COLTALIN COLD & ALLERGY TABLETS	","		","	N	","		","	3	","	14-Dec-05	","	316099002
+5524	","		","	Human	","	476420	","	COLY-MYCIN M PARENTERAL	","		","	N	","	60909	","	1	","	20-Jul-11	","	105857001
+6616	","		","	Human	","	677442	","	COLYTE	","		","	N	","	63656	","	5	","	16-Sep-14	","	524479006
+12925	","		","	Human	","	1944355	","	COMBANTRIN ORAL SUSPENSION 50MG/ML	","		","	N	","	74162	","	1	","	29-Apr-15	","	108709001
+12926	","		","	Human	","	1944363	","	COMBANTRIN TAB 125MG	","		","	N	","	74163	","	1	","	29-Apr-15	","	108709003
+72692	","		","	Human	","	2248347	","	COMBIGAN	","		","	N	","		","	2	","	17-Mar-08	","	249643001
+90364	","		","	Human	","	2419106	","	COMBIVENT RESPIMAT	","	FOR ORAL INHALATION. FOR USE ONLY WITH COMBIVENT RESPIMAT INHALER	","	N	","		","	2	","	27-May-15	","	232902002
+51050	","		","	Human	","	2231675	","	COMBIVENT UDV	","		","	N	","		","	2	","	18-Dec-13	","	232902001
+62673	","		","	Human	","	2239213	","	COMBIVIR	","		","	N	","		","	2	","	03-Dec-13	","	235460001
+73516	","		","	Disinfectant	","	2250357	","	COMET CLEANER WITH BLEACH	","		","	N	","		","	1	","	22-Aug-05	","	106897019
+84505	","		","	Disinfectant	","	2360071	","	COMET DISINFECTING BATHROOM CLEANER	","		","	N	","		","	1	","	16-Apr-15	","	102158012
+69988	","		","	Human	","	2245871	","	COMFORT SHIELD	","		","	N	","		","	1	","	19-May-05	","	106827017
+81817	","		","	Veterinary	","	2332493	","	COMFORTIS	","		","	N	","		","	1	","	05-Sep-12	","	152647001
+81818	","		","	Veterinary	","	2332507	","	COMFORTIS	","		","	N	","		","	1	","	05-Sep-12	","	152647002
+81819	","		","	Veterinary	","	2332515	","	COMFORTIS	","		","	N	","		","	1	","	05-Sep-12	","	152647003
+81820	","		","	Veterinary	","	2332523	","	COMFORTIS	","		","	N	","		","	1	","	09-Aug-13	","	152647004
+81821	","		","	Veterinary	","	2332531	","	COMFORTIS	","		","	N	","		","	1	","	09-Aug-13	","	152647005
+87836	","		","	Veterinary	","	2393115	","	COMFORTIS	","		","	N	","		","	1	","	11-Mar-14	","	152647006
+70553	","		","	Disinfectant	","	2246386	","	COMMERCIAL P-250 PINE DISINFECTANT	","		","	N	","		","	2	","	13-Jul-11	","	207777003
+85932	","		","	Human	","	2374129	","	COMPLERA	","		","	N	","		","	3	","	05-May-15	","	353001001
+91207	","		","	Human	","	2427559	","	COMPLETE	","	COMBO-PACK	","	N	","		","	7	","	14-May-15	","	736850002
+90336	","	CAT IV - HARD SURFACE DISINFECTANTS	","	Disinfectant	","	2418819	","	COMPLETE 1000	","		","	N	","		","	1	","	04-Feb-15	","	106897027
+90337	","	CAT IV - HARD SURFACE DISINFECTANTS	","	Disinfectant	","	2418827	","	COMPLETE 1000 WIPES	","		","	N	","		","	1	","	04-Feb-15	","	106897027
+91344	","	CAT IV - HARD SURFACE DISINFECTANTS	","	Disinfectant	","	2429004	","	COMPLETE 6000	","		","	N	","		","	1	","	04-Feb-15	","	106897030
+91856	","		","	Disinfectant	","	2434210	","	COMPLETE 6000 WIPES	","		","	N	","		","	1	","	04-Jun-15	","	106897030
+78975	","		","	Human	","	2304465	","	COMPLETE ANTIBIOTIC OINTMENT	","		","	N	","		","	4	","	14-Aug-12	","	452420001
+91260	","		","	Human	","	2428113	","	COMPLETE DAYTIME LIQUID CAPSULES	","		","	N	","		","	4	","	14-May-15	","	421980002
+86912	","		","	Human	","	2383365	","	COMPLETE LIQUID CAPSULES	","	"COMBO PACK, ORANGE DAYTIME CAPLET AND GREEN NIGHTIME CAPLET"	","	N	","		","	8	","	27-May-14	","	853138001
+71150	","	CAT IV - CONTACT LENS DISINFECTANTS	","	Disinfectant	","	2246923	","	COMPLETE MULTI-PURPOSE SOLUTION	","		","	N	","		","	1	","	27-Nov-07	","	124476001
+89055	","		","	Disinfectant	","	2405784	","	COMPLETE REVITALENS MULTI-PURPOSE DISINFECTING SOLUTION	","		","	N	","		","	2	","	29-Aug-14	","	254290001
+91637	","	CAT IV - ANTISEPTIC SKIN CLEANSERS	","	Human	","	2431904	","	COMPLIMENTS ANTIBACTERIAL HAND WIPES	","		","	N	","		","	1	","	14-May-15	","	104993052
+89407	","		","	Disinfectant	","	2409364	","	COMPLIMENTS DISINFECTING WIPES	","		","	N	","		","	2	","	19-Aug-14	","	205019038
+86144	","		","	Disinfectant	","	2375982	","	COMPLIMENTS MULTI-SURFACE ANTIBACTERIAL CLEANER	","		","	N	","		","	4	","	19-Jun-14	","	414758036
+88719	","	CAT IV - HARD SURFACE DISINFECTANTS	","	Disinfectant	","	2402343	","	COMPLIMENTS ULTRA BLEACH CONCENTRATED	","		","	N	","		","	1	","	09-May-13	","	106897025
+79066	","		","	Human	","	2305178	","	COMPLIMENTS WHITE PETROLEUM JELLY	","		","	N	","		","	1	","	29-Apr-15	","	148022001
+46520	","		","	Veterinary	","	1968335	","	COMPONENT E-C IMPLANTS	","		","	N	","	X9618	","	2	","	05-May-15	","	206334001
+12840	","		","	Veterinary	","	1968327	","	COMPONENT E-H IMPLANTS	","		","	N	","	74067	","	2	","	05-May-15	","	206398001
+69853	","		","	Veterinary	","	2245746	","	COMPONENT E-H IMPLANTS WITH TYLAN	","		","	N	","		","	3	","	05-May-15	","	347142001
+13291	","		","	Veterinary	","	1968319	","	COMPONENT E-S IMPLANTS	","		","	N	","	74637	","	2	","	05-May-15	","	206334002
+69850	","		","	Veterinary	","	2245743	","	COMPONENT E-S IMPLANTS WITH TYLAN	","		","	N	","		","	3	","	05-May-15	","	347141001
+85173	","		","	Veterinary	","	2366916	","	COMPONENT TE-100 IMPLANTS WITH TYLAN	","		","	N	","		","	3	","	19-Dec-11	","	346983003
+85172	","		","	Veterinary	","	2366908	","	COMPONENT TE-200	","		","	N	","		","	2	","	29-Dec-11	","	225804004
+89247	","		","	Veterinary	","	2407760	","	COMPONENT TE-200 IMPLANTS WITH TYLAN	","		","	N	","		","	3	","	05-Nov-14	","	346983004
+91200	","		","	Veterinary	","	2427486	","	COMPONENT TE-G IMPLANTS	","		","	N	","		","	2	","	21-Jan-15	","	225804003
+68718	","		","	Veterinary	","	2244729	","	COMPONENT TE-H IMPLANTS	","		","	N	","		","	2	","	05-May-15	","	225804002
+69765	","		","	Veterinary	","	2245665	","	COMPONENT TE-H IMPLANTS WITH TYLAN	","		","	N	","		","	3	","	05-May-15	","	346983001
+61191	","		","	Veterinary	","	2237832	","	COMPONENT TE-S IMPLANTS	","		","	N	","		","	2	","	05-May-15	","	225804001
+69852	","		","	Veterinary	","	2245745	","	COMPONENT TE-S IMPLANTS WITH TYLAN	","		","	N	","		","	3	","	05-May-15	","	346983002
+5543	","		","	Veterinary	","	590932	","	COMPUDOSE	","		","	N	","	60951	","	2	","	20-Nov-13	","	255010001
+67698	","		","	Human	","	2243763	","	COMTAN	","		","	N	","		","	1	","	27-Jan-09	","	143623001
+81844	","	CAT IV - HARD SURFACE DISINFECTANTS	","	Disinfectant	","	2332787	","	CONCENTRATED QUATERNARY DISINFECTANT AND SANITIZER	","		","	N	","		","	2	","	15-Jul-14	","	205019003
+72012	","		","	Human	","	2247732	","	CONCERTA	","		","	N	","		","	1	","	08-Nov-13	","	107548004
+72013	","		","	Human	","	2247733	","	CONCERTA	","		","	N	","		","	1	","	08-Nov-13	","	107548005
+72014	","		","	Human	","	2247734	","	CONCERTA	","		","	N	","		","	1	","	08-Nov-13	","	107548006
+73505	","		","	Human	","	2250241	","	CONCERTA	","		","	N	","		","	1	","	08-Nov-13	","	107548007
+75535	","		","	Disinfectant	","	2269996	","	CONCROBIUM	","		","	N	","		","	1	","	23-Jun-09	","	151261001
+88720	","		","	Disinfectant	","	2402351	","	CONCROBIUM BROAD SPECTRUM DISINFECTANT	","		","	N	","		","	1	","	02-Dec-13	","	101107005
+90440	","	CAT IV - HARD SURFACE DISINFECTANTS	","	Disinfectant	","	2419777	","	CONCROBIUM MOLD CONTROL	","		","	N	","		","	1	","	10-Feb-15	","	151261001
+12196	","		","	Human	","	1945149	","	CONDYLINE	","		","	N	","	73239	","	1	","	03-Aug-12	","	123181001
+19100	","		","	Human	","	2182238	","	CO-NE-O2-N2 MIXTURE	","	"CO:0.3%, NE:0.5%, O2:21%, BALANCED WITH N2"	","	N	","	81389	","	4	","	29-Apr-15	","	415872001
+10887	","		","	Human	","	830240	","	CONGEST TAB 0.3MG	","		","	N	","	71012	","	1	","	19-Oct-09	","	106442002
+10886	","		","	Human	","	830232	","	CONGEST TAB 0.625MG	","		","	N	","	71011	","	1	","	22-Nov-08	","	106442006
+10885	","		","	Human	","	830224	","	CONGEST TAB 0.9MG	","		","	N	","	71010	","	1	","	22-Nov-08	","	106442007
+10884	","		","	Human	","	830216	","	CONGEST TAB 1.25MG	","		","	N	","	71009	","	1	","	17-May-02	","	106442003
+10883	","		","	Human	","	830208	","	CONGEST TAB 2.5MG	","		","	N	","	71008	","	1	","	17-May-02	","	106442004
+1201	","		","	Human	","	223107	","	CONRAY 30	","		","	N	","	37272	","	1	","	24-Aug-15	","	102763002
+3930	","		","	Human	","	477095	","	CONRAY 43	","		","	N	","	56021	","	1	","	24-Aug-15	","	102763003
+899	","		","	Human	","	131237	","	CONRAY 60	","		","	N	","	32052	","	1	","	24-Aug-15	","	102763001
+5132	","		","	Disinfectant	","	590452	","	CONSEPT PLUS	","		","	N	","	59757	","	2	","	11-Jul-11	","	212658002
+90180	","		","	Human	","	2417162	","	CONSTELLA	","		","	N	","		","	1	","	22-May-14	","	155070001
+90181	","		","	Human	","	2417170	","	CONSTELLA	","		","	N	","		","	1	","	17-Dec-14	","	155070002
+76236	","		","	Human	","	2276682	","	CONTAC COLD CHEST CONGESTION	","		","	N	","		","	3	","	29-Apr-15	","	351580001
+13062	","		","	Human	","	892777	","	CONTACT	","		","	N	","	74338	","	1	","	29-Apr-15	","	106942004
+88661	","		","	Human	","	2401738	","	CONTINUOUS SPRAY SHEER MIST SPF 30	","		","	N	","		","	5	","	25-Sep-13	","	544758109
+87076	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2385104	","	CONTINUOUS SPRAY SUNSCREEN SUN BUM BROAD SPECTRUM SPF 15	","	SOLUTION	","	N	","		","	5	","	25-Mar-15	","	544758096
+87079	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2385139	","	CONTINUOUS SPRAY SUNSCREEN SUN BUM BROAD SPECTRUM SPF 30	","	SOLUTION	","	N	","		","	5	","	27-Mar-15	","	544758097
+87078	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2385112	","	CONTINUOUS SPRAY SUNSCREEN SUN BUM BROAD SPECTRUM SPF 50	","	SOLUTION	","	N	","		","	5	","	25-Mar-15	","	544758034
+18892	","		","	Disinfectant	","	783455	","	CONTRASTAPH	","		","	N	","	81173	","	2	","	28-Apr-14	","	205019005
+78097	","		","	Veterinary	","	2295628	","	CONVENIA	","	10ML RECONSTITUTED	","	N	","		","	1	","	08-Jan-15	","	152214001
+3724	","		","	Veterinary	","	455423	","	COOL CAST	","		","	N	","	55191	","	3	","	26-Oct-00	","	313233001
+90271	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2418134	","	COOLDRY SPORT SPF 30	","		","	N	","		","	5	","	13-Mar-15	","	544758091
+90272	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2418142	","	COOLDRY SPORT SPF 30 SUNSCREEN SPRAY	","	LOTION	","	N	","		","	5	","	13-Mar-15	","	544758079
+90970	","		","	Human	","	2425033	","	COOLDRY SPORT SPF 60	","		","	N	","		","	5	","	13-Mar-15	","	544758025
+90969	","		","	Human	","	2425025	","	COOLDRY SPORT SPF 60 SUNSCREEN SPRAY	","	LOTION	","	N	","		","	5	","	13-Mar-15	","	544758025
+91297	","		","	Human	","	2428504	","	COOLING MENTHOL NASAL SPRAY	","	SOLUTION	","	N	","		","	1	","	19-Aug-15	","	101481001
+87261	","		","	Human	","	2387042	","	COOLZONE INSTANTLY COOLS & REFRESHES RAFRA?CHIT INSTANTAN?MENT SPRAY SUNSCREEN ?CRAN SOLAIRE EN VAPORISATEUR SPF/FPS 30	","	LOTION	","	N	","		","	3	","	14-Jan-13	","	350421027
+87262	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2387050	","	COOLZONE INSTANTLY COOLS & REFRESHES RAFRA?CHIT INSTANTAN?MENT SPRAY SUNSCREEN ?CRAN SOLAIRE EN VAPORISATEUR SPF/FPS 50	","	LOTION	","	N	","		","	3	","	14-Jan-13	","	350421008
+89103	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2406314	","	COOLZONE INSTANTLY COOLS & REFRESHES RAFRA?CHIT INSTANTAN?MENT SUNSCREEN LOTION LOTION ?CRAN SOLAIRE SPF/FPS 30	","		","	N	","		","	3	","	25-Sep-15	","	352510003
+89104	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2406322	","	COOLZONE INSTANTLY COOLS & REFRESHES RAFRA?CHIT INSTANTAN?MENT SUNSCREEN LOTION LOTION ?CRAN SOLAIRE SPF/FPS 50	","		","	N	","		","	3	","	25-Sep-15	","	352510004
+5607	","		","	Veterinary	","	607223	","	CO-OP A PLUS D INJ	","		","	N	","	61092	","	2	","	09-Jul-04	","	208065001
+5347	","		","	Veterinary	","	598313	","	CO-OP IODINE WOUND DRESSING	","		","	N	","	60431	","	3	","	12-Apr-06	","	310254001
+5348	","		","	Veterinary	","	598321	","	CO-OP LANOLIN UDDER OINTMENT	","		","	N	","	60432	","	6	","	16-Sep-05	","	616115001
+11033	","		","	Veterinary	","	813443	","	CO-OP NEO-TERRAMYCIN BEEF CATTLE STA	","		","	N	","	71237	","	5	","	08-Apr-04	","	517366002
+69719	","		","	Human	","	2245619	","	COPAXONE	","		","	N	","		","	1	","	05-May-15	","	132525001
+37358	","		","	Human	","	2224577	","	COPHYLAC DROPS	","		","	N	","	H4885	","	2	","	29-Apr-15	","	204869001
+49592	","		","	Veterinary	","	2230523	","	COPPER SULFATE-S	","		","	N	","		","	1	","	10-Feb-12	","	107041001
+6457	","		","	Veterinary	","	591831	","	COPPERCURE	","		","	N	","	63136	","	1	","	29-Apr-15	","	107806002
+5165	","		","	Veterinary	","	574996	","	COPPEROX LIQ 37.5%	","		","	N	","	59824	","	1	","	02-Jul-99	","	107806001
+12920	","		","	Veterinary	","	1939769	","	COPPERSEPT LIQ 37.5%	","		","	N	","	74157	","	1	","	18-Aug-99	","	107806001
+76894	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2283336	","	COPPERTONE CONTINUOUS SPRAY SPF 15 ACCUSPRAY SUNSCREEN	","		","	N	","		","	4	","	01-Sep-15	","	420277019
+80099	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2315459	","	COPPERTONE CONTINUOUS SPRAY SPF 30 ACCUSPRAY SUNSCREEN	","		","	N	","		","	4	","	28-May-15	","	450424006
+80088	","		","	Human	","	2315335	","	COPPERTONE CONTINUOUS SPRAY SPF 50+ ACCUSPRAY SUNSCREEN	","		","	N	","		","	5	","	09-Jun-15	","	544758040
+76890	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2283271	","	COPPERTONE DRY OIL MIST SUNSCREEN CONTINUOUS SPRAY SPF 10	","		","	N	","		","	4	","	28-May-15	","	420277019
+80024	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2314703	","	COPPERTONE GENERAL PROTECTION SUNSCREEN LOTION SPF 60	","		","	N	","		","	5	","	29-Apr-15	","	544758040
+80061	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2315041	","	COPPERTONE KIDS CONTINUOUS SPRAY SPF 60	","		","	N	","		","	5	","	29-Apr-15	","	544758040
+80022	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2314673	","	COPPERTONE KIDS SUNSCREEN LOTION SPF 60	","		","	N	","		","	5	","	29-Apr-15	","	544758040
+87453	","		","	Human	","	2389002	","	COPPERTONE KIDS SUNSCREEN MOUSSE SPF 60	","		","	N	","		","	5	","	28-May-15	","	544758068
+89207	","		","	Human	","	2407361	","	COPPERTONE KIDS WET'N CLEAR CONTINUOUS SPRAY SPF 50 ACCUSPRAY SUNSCREEN	","		","	N	","		","	5	","	28-May-15	","	544758116
+81605	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2330318	","	COPPERTONE OIL FREE CONTINUOUS SPRAY SPF 50 ACCUSPRAY SUNSCREEN	","	LOTION	","	N	","		","	4	","	28-May-15	","	450424004
+80025	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2314711	","	COPPERTONE OIL FREE FACES SUNSCREEN LOTION SPF 60	","		","	N	","		","	5	","	29-Apr-15	","	544758040
+78635	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2301008	","	COPPERTONE OIL FREE SUNSCREEN LOTION SPF 30	","		","	N	","		","	5	","	29-Apr-15	","	544758003
+83984	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2354675	","	COPPERTONE OIL FREE SUNSCREEN MOUSSE SPF 60	","	CREAM	","	N	","		","	5	","	28-May-15	","	544758068
+87931	","		","	Human	","	2394154	","	COPPERTONE SPORT CONTINUOUS SPRAY SPF 15 ACCUSPRAY SUNSCREEN	","		","	N	","		","	4	","	29-Apr-15	","	450424002
+80109	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2315564	","	COPPERTONE SPORT CONTINUOUS SPRAY SPF 30 ACCUSPRAY SUNSCREEN	","		","	N	","		","	4	","	28-May-15	","	450424006
+80124	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2315726	","	COPPERTONE SPORT CONTINUOUS SPRAY SPF 50+ ACCUSPRAY SUNSCREEN	","	LOTION	","	N	","		","	5	","	29-Apr-15	","	544758040
+76892	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2283301	","	COPPERTONE SPORT CONTINUOUS SPRAY SUNSCREEN SPF 15	","		","	N	","		","	4	","	20-May-15	","	420277019
+89195	","		","	Human	","	2407248	","	COPPERTONE SPORT PRO SERIES SUNSCREEN CONTINUOUS SPRAY SPF 30	","		","	N	","		","	5	","	28-May-15	","	544758115
+89194	","		","	Human	","	2407221	","	COPPERTONE SPORT PRO SERIES SUNSCREEN CONTINUOUS SPRAY SPF 50+	","		","	N	","		","	5	","	28-May-15	","	544758114
+85479	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2369850	","	COPPERTONE SPORT SUNSCREEN LOTION FACE SPF 60	","		","	N	","		","	5	","	29-Apr-15	","	544758085
+80128	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2315769	","	COPPERTONE SPORT SUNSCREEN LOTION SPF 15	","		","	N	","		","	4	","	29-Apr-15	","	451521008
+83882	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2353628	","	COPPERTONE SPORT SUNSCREEN LOTION SPF 30	","		","	N	","		","	4	","	10-Jun-15	","	451521014
+85493	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2369923	","	COPPERTONE SPORT SUNSCREEN LOTION SPF 60	","		","	N	","		","	5	","	29-Apr-15	","	544758085
+87475	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2389258	","	COPPERTONE SUNSCREEN DRY OIL CONTINUOUS SPRAY SPF 4	","	SOLUTION	","	N	","		","	2	","	28-May-15	","	216072003
+85525	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2370182	","	COPPERTONE SUNSCREEN LOTION FACE OIL FREE SPF 30	","		","	N	","		","	5	","	29-Apr-15	","	544758003
+85478	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2369842	","	COPPERTONE SUNSCREEN LOTION OIL FREE SPF 60	","		","	N	","		","	5	","	29-Apr-15	","	544758040
+91037	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2425734	","	COPPERTONE SUNSCREEN LOTION SENSITIVE SKIN FACES SPF 50	","		","	N	","		","	3	","	25-Sep-15	","	346162010
+91039	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2425750	","	COPPERTONE SUNSCREEN LOTION SENSITIVE SKIN SPF 50	","		","	N	","		","	3	","	25-Sep-15	","	346162010
+81655	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2330806	","	COPPERTONE SUNSCREEN LOTION SPF 15	","		","	N	","		","	4	","	29-Apr-15	","	451521011
+83881	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2353601	","	COPPERTONE SUNSCREEN LOTION SPF 30	","		","	N	","		","	4	","	28-May-15	","	451521014
+41935	","		","	Human	","	1931199	","	COPPERTONE SUNSCREEN LOTION SPF8	","		","	N	","	M2082	","	2	","	13-May-15	","	216932022
+80100	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2315467	","	COPPERTONE WATERBABIES CONTINUOUS SPRAY SUNSCREEN LOTION SPF 50	","		","	N	","		","	5	","	29-Apr-15	","	544758043
+80023	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2314681	","	COPPERTONE WATERBABIES SUNSCREEN LOTION SPF 60	","		","	N	","		","	5	","	29-Apr-15	","	544758040
+83983	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2354667	","	COPPERTONE WATERBABIES SUNSCREEN MOUSSE SPF 60	","	CREAM	","	N	","		","	5	","	29-Apr-15	","	544758068
+89206	","		","	Human	","	2407353	","	COPPERTONE WET'N CLEAR CONTINUOUS SPRAY SPF 50 ACCUSPRAY SUNSCREEN	","		","	N	","		","	5	","	29-Apr-15	","	544758116
+1062	","		","	Human	","	70254	","	CORA CAINE	","		","	N	","	35088	","	2	","	11-Aug-06	","	204988001
+15489	","		","	Human	","	2036282	","	CORDARONE	","		","	N	","	77177	","	1	","	25-Jan-13	","	118593001
+71094	","		","	Human	","	2246869	","	CORICIDIN COLD & FLU	","		","	N	","		","	2	","	29-Apr-15	","	217168001
+69738	","		","	Human	","	2245638	","	CORICIDIN COLD & FLU EXTRA STRENGTH	","		","	N	","		","	3	","	29-Apr-15	","	318085003
+69737	","		","	Human	","	2245637	","	CORICIDIN COUGH & COLD	","		","	N	","		","	2	","	29-Apr-15	","	200625004
+90330	","		","	Human	","	2418746	","	CORIFACT 1250	","	FACTOR XIII CONCENTRATE	","	N	","		","	1	","	07-Jul-15	","	155190002
+90329	","		","	Human	","	2418738	","	CORIFACT 250	","	FACTOR XIII CONCENTRATE	","	N	","		","	1	","	07-Jul-15	","	155190001
+88418	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2399288	","	CORRECTION CODE (A.M.) DAILY MOISTURIZER BROAD SPECTRUM SPF 25	","		","	N	","		","	4	","	06-Nov-13	","	423152006
+13115	","		","	Human	","	1980661	","	CORTAMED ONT 25 MG/GM	","		","	N	","	74403	","	1	","	29-Apr-15	","	131221005
+86194	","		","	Veterinary	","	2376482	","	CORTAVANCE	","	SPRAY PUMP	","	N	","		","	1	","	30-Aug-12	","	153044001
+432	","		","	Human	","	30910	","	CORTEF TABLETS 10MG	","		","	N	","	15572	","	1	","	19-Dec-13	","	106344002
+433	","		","	Human	","	30929	","	CORTEF TABLETS 20 MG	","		","	N	","	15573	","	1	","	19-Dec-13	","	106344013
+18968	","		","	Human	","	2112736	","	CORTENEMA	","	SUSPENSION	","	N	","	81254	","	1	","	20-Sep-12	","	106344009
+5575	","		","	Human	","	579335	","	CORTIFOAM	","		","	N	","	61021	","	1	","	05-May-15	","	131221011
+1802	","		","	Human	","	280437	","	CORTISONE ACETATE TAB 25MG	","		","	N	","	44385	","	1	","	09-Dec-05	","	106358002
+61368	","		","	Veterinary	","	2237992	","	CORTISOOTHE	","		","	N	","		","	1	","	26-May-11	","	106344001
+1954	","		","	Human	","	22381	","	CORTROSYN INJ 0.25MG	","	ALSO KNOWN AS COSYNTROPIN	","	N	","	45903	","	1	","	20-Jun-15	","	106365002
+66196	","		","	Human	","	2242470	","	CORVERT INJECTION	","		","	N	","		","	1	","	05-Jun-09	","	141264001
+132	","		","	Veterinary	","	97225	","	CORYZA CURB FOR POULTRY LIQ 12.5%	","		","	N	","	4445	","	1	","	01-Oct-10	","	106110002
+10471	","		","	Disinfectant	","	792527	","	COSAN #160 DISINFECTANT	","		","	N	","	70364	","	2	","	20-Nov-09	","	205019002
+92243	","		","	Human	","	2438070	","	COSENTYX	","	SINGLE USE PREFILLED SYRINGE/ SINGLE USE PREFILLED PEN (SENSOREADY PEN)	","	N	","		","	1	","	30-Sep-15	","	156650001
+250	","		","	Human	","	213071	","	COSMEGEN	","		","	N	","	9161	","	1	","	09-Jul-15	","	105865001
+63627	","		","	Human	","	2240113	","	COSOPT	","	(2%/0.5% OPH DPS)	","	N	","		","	2	","	28-Aug-13	","	237301001
+1649	","		","	Human	","	263818	","	COTAZYM	","		","	N	","	42494	","	3	","	13-Feb-15	","	302964032
+9892	","		","	Human	","	821373	","	COTAZYM ECS 20	","		","	N	","	69249	","	3	","	13-Feb-15	","	302964026
+3891	","		","	Human	","	502790	","	COTAZYM ECS 8	","		","	N	","	55867	","	3	","	13-Feb-15	","	302964031
+13749	","		","	Veterinary	","	2016745	","	COTHIVET TOPICAL SPRAY	","		","	N	","	75196	","	1	","	27-Jul-07	","	124212001
+89068	","		","	Human	","	2405938	","	COUGH & CHEST CONGESTION	","		","	N	","		","	2	","	24-Sep-13	","	200826001
+89067	","		","	Human	","	2405911	","	COUGH & CHEST CONGESTION EXTRA STRENGTH	","		","	N	","		","	2	","	28-Aug-13	","	200826003
+21167	","		","	Human	","	1908626	","	COUGH & COLD	","		","	N	","	E0054	","	3	","	09-Dec-14	","	315156002
+81390	","		","	Human	","	2328380	","	COUGH & COLD	","		","	N	","		","	2	","	10-Mar-10	","	200625006
+89064	","		","	Human	","	2405873	","	COUGH & COLD RELIEF	","		","	N	","		","	3	","	24-Sep-13	","	310136001
+89065	","		","	Human	","	2405881	","	COUGH & COLD RELIEF EXTRA STRENGTH	","		","	N	","		","	3	","	15-Aug-13	","	310136002
+74432	","		","	Human	","	2259044	","	COUGH AND CHEST CONGESTION SYRUP	","		","	N	","		","	2	","	17-Jul-12	","	200826001
+6844	","		","	Human	","	690074	","	COUGH SYRUP	","		","	N	","	64198	","	3	","	29-Apr-15	","	311067001
+26149	","		","	Human	","	2015781	","	COUGH SYRUP DM	","		","	N	","	E8335	","	1	","	29-Apr-15	","	100807001
+27463	","		","	Human	","	2059207	","	COUGH SYRUP DM - DECONGESTANT - EXPECTORANT	","		","	N	","	F2244	","	3	","	29-Apr-15	","	310136001
+36232	","		","	Human	","	2200708	","	COUGH SYRUP DM - DECONGESTANT - EXPECTORANT EXTRA STRENGTH	","		","	N	","	H3548	","	3	","	29-Apr-15	","	310136002
+31502	","		","	Human	","	2142740	","	COUGH SYRUP DM - DECONGESTANT FOR CHILDREN	","		","	N	","	F8810	","	2	","	29-Apr-15	","	214697002
+27462	","		","	Human	","	2059193	","	COUGH SYRUP DM DECONGESTANT	","		","	N	","	F2243	","	2	","	29-Apr-15	","	214697001
+30826	","		","	Human	","	2128349	","	COUGH SYRUP DM EXPECTORANT	","		","	N	","	F7758	","	2	","	29-Apr-15	","	200826001
+27461	","		","	Human	","	2059185	","	COUGH SYRUP EXPECTORANT	","		","	N	","	F2241	","	1	","	29-Apr-15	","	103181002
+19625	","		","	Human	","	2099748	","	COUGH SYRUP WITH CODEINE	","		","	N	","	81922	","	3	","	29-Apr-15	","	321611001
+74333	","		","	Human	","	2258099	","	COUGH SYRUP WITH CODEINE	","		","	N	","		","	3	","	29-Apr-15	","	321611001
+87088	","		","	Human	","	2385244	","	"COUGH, COLD & FLU"	","	COMBO-PACK. DAYTIME AND NIGHTTIME CAPLETS	","	N	","		","	6	","	14-Jan-14	","	653137002
+72216	","		","	Human	","	2247907	","	"COUGH, COLD AND FLU DAYTIME CAPLETS"	","		","	N	","		","	3	","	20-Aug-12	","	319503009
+72217	","		","	Human	","	2247908	","	"COUGH, COLD AND FLU NIGHTIME CAPLETS"	","		","	N	","		","	3	","	14-Mar-14	","	327704002
+2195	","		","	Veterinary	","	346675	","	COUGHTROL	","		","	N	","	48078	","	3	","	13-Aug-03	","	300910001
+2480	","		","	Veterinary	","	370460	","	COUGHTROL SCH PWR	","		","	N	","	49801	","	3	","	14-Aug-03	","	300910001
+13418	","		","	Human	","	1918362	","	COUMADIN TAB 10MG	","		","	N	","	74801	","	1	","	24-Aug-11	","	104597004
+12818	","		","	Human	","	1918311	","	COUMADIN TAB 1MG	","		","	N	","	74038	","	1	","	24-Aug-11	","	104597002
+13419	","		","	Human	","	1918346	","	COUMADIN TAB 2.5MG	","		","	N	","	74802	","	1	","	24-Aug-11	","	104597005
+13536	","		","	Human	","	1918338	","	COUMADIN TAB 2MG	","		","	N	","	74945	","	1	","	24-Aug-11	","	104597006
+63731	","		","	Human	","	2240205	","	COUMADIN TAB 3MG	","		","	N	","		","	1	","	24-Aug-11	","	104597007
+13375	","		","	Human	","	2007959	","	COUMADIN TAB 4MG	","		","	N	","	74739	","	1	","	24-Aug-11	","	104597003
+12819	","		","	Human	","	1918354	","	COUMADIN TAB 5MG	","		","	N	","	74039	","	1	","	24-Aug-11	","	104597001
+63732	","		","	Human	","	2240206	","	COUMADIN TAB 6 MG	","		","	N	","		","	1	","	24-Aug-11	","	104597008
+64652	","	"LS - ANALG. (ACETAMINOPHEN, SALICYLATES, CODEINE)"	","	Human	","	2241058	","	COUNTERACT ACETAMINOPHEN E-S	","		","	N	","		","	1	","	30-Sep-10	","	102009002
+19772	","		","	Human	","	2208857	","	COUNTERACT COUGH MEDICINE - LIQ	","		","	N	","	82068	","	2	","	10-Feb-06	","	200826005
+66929	","		","	Human	","	2243063	","	COVAN SYRUP	","		","	N	","		","	3	","	18-Sep-06	","	304415002
+72761	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2248411	","	COVER FX TOTAL COVERAGE CREAM FOUNDATION SPF 30	","		","	N	","		","	3	","	11-Feb-13	","	320543014
+75296	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2267543	","	COVER GIRL ADVANCED RADIANCE AGE DEFYING MAKE-UP	","		","	N	","		","	2	","	14-Feb-06	","	216790025
+67773	","		","	Disinfectant	","	2243832	","	COVERAGE 256	","		","	N	","		","	4	","	24-Jan-13	","	414758032
+86763	","		","	Human	","	2381788	","	COVERGIRL OUTLAST STAY FABULOUS 3-IN-1 FOUNDATION	","		","	N	","		","	1	","	09-Apr-13	","	124254007
+16880	","		","	Human	","	2123274	","	COVERSYL - 2MG TAB	","		","	N	","	78950	","	1	","	21-Sep-09	","	127178001
+16879	","		","	Human	","	2123282	","	COVERSYL - 4MG TAB	","		","	N	","	78949	","	1	","	21-Sep-09	","	127178002
+70814	","		","	Human	","	2246624	","	COVERSYL (8MG TABLET)	","		","	N	","		","	1	","	27-Dec-13	","	127178003
+70752	","		","	Human	","	2246569	","	COVERSYL PLUS	","		","	N	","		","	2	","	21-Sep-09	","	248401001
+80705	","		","	Human	","	2321653	","	COVERSYL PLUS HD	","		","	N	","		","	2	","	30-Apr-10	","	248401003
+70751	","		","	Human	","	2246568	","	COVERSYL PLUS LD	","		","	N	","		","	2	","	27-Dec-13	","	248401002
+60973	","		","	Veterinary	","	2237631	","	COXISTAC 12%	","		","	N	","		","	1	","	05-May-15	","	116259005
+11451	","		","	Veterinary	","	884545	","	COXISTAC 6%	","		","	N	","	72131	","	1	","	05-May-15	","	116259002
+6732	","		","	Veterinary	","	656925	","	COYDEN 25	","		","	N	","	63936	","	1	","	05-May-15	","	108655001
+19167	","		","	Human	","	2182815	","	COZAAR	","		","	N	","	81458	","	1	","	21-Sep-09	","	127971001
+19168	","		","	Human	","	2182874	","	COZAAR	","		","	N	","	81459	","	1	","	21-Sep-09	","	127971003
+44255	","		","	Human	","	2182882	","	COZAAR	","		","	N	","	T9979	","	1	","	21-Sep-09	","	127971002
+51733	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2232205	","	CR?ME DE JOUR	","		","	N	","		","	2	","	27-May-15	","	218882007
+84130	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2356139	","	CR?ME DE SOIN SOLAIRE MER ET TROPIQUES VISAGE	","		","	N	","		","	4	","	11-Jul-12	","	426024019
+84133	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2356163	","	CR?ME DE SOIN SOLAIRE VISAGE	","		","	N	","		","	2	","	11-Jul-12	","	226198003
+90267	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2418088	","	CR?ME RAJEUNISSANTE HAUTE FERMET? JOUR	","		","	N	","		","	3	","	22-Apr-14	","	350421030
+90989	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2425254	","	CR?ME SOLAIRE ANTI-RIDES VISAGE SPF 15	","		","	N	","		","	3	","	25-Jun-15	","	352510005
+90991	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2425270	","	CR?ME SOLAIRE ANTI-RIDES VISAGE SPF 30	","		","	N	","		","	5	","	25-Jun-15	","	544758060
+84817	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2363151	","	CR?ME SOLAIRE SP?CIAL VISAGE SPF 50	","		","	N	","		","	5	","	05-Mar-12	","	544758078
+90996	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2425300	","	CR?ME SOLAIRE TR?S HAUTE PROTECTION SPF 30	","		","	N	","		","	5	","	25-Jun-15	","	544758060
+80991	","		","	Disinfectant	","	2324466	","	CRC HYDRO FORCE DISINFECTANT SURFACE CLEANER	","		","	N	","		","	2	","	31-Aug-11	","	205019018
+80673	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2321335	","	CREME AQUAMUCINE CREAM FPS 15 SPF	","		","	N	","		","	2	","	23-Mar-09	","	216792006
+74735	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2262002	","	CREME ECRAN SOLAIRE	","		","	N	","		","	4	","	06-Aug-14	","	423699010
+75392	","		","	Human	","	2268523	","	CREME HAUTE EXIGENCE JOUR SPF 20	","		","	N	","		","	5	","	26-Jun-15	","	551141001
+76449	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2278936	","	CREME POUR PEAUX INTOLERANTES AU SOLEIL	","		","	N	","		","	4	","	11-Jul-12	","	424028010
+90642	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2421763	","	CREME PROTECTION SOLAIRE LARGE SPECTRE UVA-UVB FPS 45	","		","	N	","		","	2	","	09-Mar-15	","	216792042
+77605	","		","	Human	","	2290626	","	CREME SOLAIRE HAUTE PROTECTION 20 SPF	","		","	N	","		","	3	","	17-Dec-07	","	324027013
+75868	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2273187	","	CREME SOLAIRE HAUTE PROTECTION SPECIAL VISAGE 15 SPF	","		","	N	","		","	3	","	12-May-06	","	324027010
+77606	","		","	Human	","	2290634	","	CREME SOLAIRE TRES HAUTE PROTECTION SPECIAL PEAUX SENSIBLES 30 SPF	","		","	N	","		","	4	","	25-Jun-15	","	446161004
+78893	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2303612	","	CREME VISAGE FPS 30	","		","	N	","		","	5	","	31-Jul-12	","	551637011
+78894	","	CAT IV - SUNBURN PROTECTANTS	","	Human	","	2303620	","	CREME VISAGE FPS 45	","		","	N	","		","	5	","	31-Jul-12	","	551637012
+36179	","		","	Human	","	2200104	","	CREON MINIMICROSPHERES 10	","		","	N	","	H3491	","	3	","	21-Aug-15	","	302964040
+13302	","		","	Human	","	1985205	","	CREON MINIMICROSPHERES 25	","		","	N	","	74650	","	3	","	21-Aug-15	","	302964041
+89981	","		","	Human	","	2415194	","	CREON MINIMICROSPHERES 6	","		","	N	","		","	3	","	28-May-15	","	302964027
+2148	","		","	Human	","	299561	","	CREO-RECTAL ADULTE	","		","	N	","	47781	","	3	","	17-Sep-15	","	310366003
+2150	","		","	Human	","	299596	","	CREO-RECTAL ENFANTS/CHILDREN	","		","	N	","	47783	","	3	","	29-Apr-15	","	310366002
+2977	","		","	Human	","	379689	","	CRESOPHENE LIQ	","		","	N	","	52333	","	4	","	10-Feb-06	","	412848001
+87221	","		","	Human	","	2386631	","	CREST PRO-HEALTH FOR LIFE MULTI-PROTECTION	","		","	N	","		","	1	","	09-Aug-13	","	106834010
+86042	","		","	Human	","	2375028	","	CREST PRO-HEALTH INVIGORATING CLEAN MULTI-PROTECTION	","		","	N	","		","	1	","	29-Oct-13	","	106834010
+75427	","		","	Human	","	2268884	","	CREST PRO-HEALTH MULTI PROTECTION	","		","	N	","		","	1	","	29-Oct-13	","	106834010
+71404	","		","	Human	","	2247162	","	CRESTOR - 10MG	","		","	N	","		","	1	","	14-Jul-06	","	148963001
+71405	","		","	Human	","	2247163	","	CRESTOR - 20MG	","		","	N	","		","	1	","	14-Jul-06	","	148963002
+71406	","		","	Human	","	2247164	","	CRESTOR - 40MG	","		","	N	","		","	1	","	14-Jul-06	","	148963003
+75100	","		","	Human	","	2265540	","	CRESTOR - 5MG	","		","	N	","		","	1	","	14-Jul-06	","	148963004
+75753	","	CAT IV - HARD SURFACE DISINFECTANTS	","	Disinfectant	","	2271990	","	CREW MEAN GREEN HEAVY DUTY DISINFECTANT BOWL CLEANER	","		","	N	","		","	1	","	29-Apr-15	","	101890008
+65270	","		","	Disinfectant	","	2241613	","	CREW NEUTRAL NA NON-ACID BOWL & BATHROOM DISINFECTANT CLEANER	","		","	N	","		","	2	","	29-Apr-15	","	205019008
+67652	","		","	Disinfectant	","	2243720	","	CREW RESTROOM FLOOR & SURFACE SC NON-ACID DISINFECTANT CLEANER	","		","	N	","		","	4	","	29-Apr-15	","	414758006
+64606	","		","	Human	","	2241013	","	CRINONE	","		","	N	","		","	1	","	29-May-09	","	106327006
+1500	","		","	Veterinary	","	250317	","	CRISTISOL	","		","	N	","	40862	","	3	","	21-May-08	","	305075001
+76338	","	CAT IV - MEDICATED SKIN CARE PRODUCTS	","	Human	","	2277778	","	CRITIC-AID CLEAR	","		","	N	","		","	1	","	23-Jun-09	","	148022004
+43520	","		","	Human	","	2229196	","	CRIXIVAN	","		","	N	","	P9861	","	1	","	02-Mar-15	","	133330002
+13857	","		","	Human	","	2009277	","	CROMOLYN EYE DROPS	","		","	N	","	75323	","	1	","	05-May-15	","	108810004
+49911	","		","	Veterinary	","	2230652	","	CRONYXIN INJECTION	","		","	N	","		","	1	","	04-Feb-13	","	113433001
+17953	","		","	Human	","	2143968	","	CROWN ANTISEPTIC HAND SOAP	","		","	N	","	80164	","	1	","	31-Jul-06	","	108865003
+16992	","		","	Human	","	2060094	","	CRYSTAPEN	","		","	N	","	79141	","	1	","	29-Apr-15	","	105887001
+78574	","		","	Human	","	2300443	","	CRYSTAPEN 5M I.U.	","		","	N	","		","	1	","	16-Jun-08	","	131382003
+76716	","	CAT IV - HARD SURFACE DISINFECTANTS	","	Disinfectant	","	2281473	","	CS20	","		","	N	","		","	1	","	29-Apr-15	","	106899011
+78149	","		","	Human	","	2296152	","	CTP 30	","		","	N	","		","	1	","	04-Jan-12	","	136243004
+78525	","		","	Human	","	2299909	","	CUBICIN	","		","	N	","		","	1	","	23-Aug-11	","	152298001
+83340	","	CAT IV - ANTISEPTIC SKIN CLEANSERS	","	Human	","	2348047	","	CUCUMBER & MELON ANTIBACTERIAL HAND SOAP	","		","	N	","		","	1	","	29-Apr-15	","	108865008
+76119	","		","	Disinfectant	","	2275554	","	CUFF CLEANER PLUS	","		","	N	","		","	1	","	15-Feb-06	","	111516007
+287	","		","	Human	","	16055	","	CUPRIMINE	","		","	N	","	11285	","	1	","	19-Sep-14	","	100025001
+79867	","	CAT IV - HARD SURFACE DISINFECTANTS	","	Disinfectant	","	2313146	","	CUVEX	","		","	N	","		","	1	","	10-Nov-08	","	101890008
+37501	","		","	Human	","	2227118	","	CV MEDICATED LOTION SOAP	","		","	N	","	H5040	","	1	","	24-Sep-15	","	108865001
+6306	","		","	Veterinary	","	611905	","	CYANOCOBALAMIN INJ 5000MCG/ML	","		","	N	","	62773	","	1	","	17-Nov-00	","	108437009
+6340	","		","	Veterinary	","	612901	","	CYANOCOBALAMIN INJ 5000MCG/ML	","		","	N	","	62830	","	1	","	17-Nov-00	","	108437009
+16909	","		","	Human	","	2052717	","	CYANOCOBALAMIN INJECTION USP 1000MCG/ML	","		","	N	","	78979	","	1	","	03-Mar-06	","	108437002
+13324	","		","	Human	","	1987003	","	"CYANOCOBALAMIN INJECTION, USP"	","		","	N	","	74674	","	1	","	24-Sep-15	","	108437002
+89842	","		","	Human	","	2413795	","	"CYANOCOBALAMIN INJECTION, USP"	","		","	N	","		","	1	","	04-Feb-15	","	108437026
+86078	","		","	Human	","	2375370	","	CYANOKIT	","	LYOPHILIZED POWDER FOR SOLUTION FOR INFUSION. SINGLE-USE VIAL.	","	N	","		","	1	","	02-Nov-12	","	108455004
+86512	","		","	Human	","	2379244	","	CYBERDERM EVERY MORNING SUN WHIP SPF 25	","		","	N	","		","	2	","	26-May-15	","	216792014
+12998	","		","	Human	","	1968440	","	CYCLEN TABLETS (21 DAY)	","		","	N	","	74249	","	2	","	22-Mar-06	","	213627001
+12988	","		","	Human	","	1992872	","	CYCLEN TABLETS (28 DAY)	","		","	N	","	74239	","	2	","	25-Mar-09	","	213627001
+77249	","		","	Human	","	2287064	","	CYCLOBENZAPRINE	","		","	N	","		","	1	","	18-Mar-10	","	112363001
+90926	","		","	Human	","	2424584	","	CYCLOBENZAPRINE	","		","	N	","		","	1	","	07-Oct-14	","	112363001
+43292	","		","	Human	","	2220644	","	CYCLOBENZAPRINE-10  -  TAB 10MG	","		","	N	","	P9623	","	1	","	17-Oct-08	","	112363001
+35663	","		","	Human	","	2192268	","	CYCLOCORT	","		","	N	","	H2933	","	1	","	14-Jan-14	","	113040001
+35664	","		","	Human	","	2192276	","	CYCLOCORT	","		","	N	","	H2934	","	1	","	28-Feb-12	","	113040001
+35665	","		","	Human	","	2192284	","	CYCLOCORT	","		","	N	","	H2935	","	1	","	27-Jun-13	","	113040001
+1530	","		","	Human	","	252506	","	CYCLOGYL OPH DPS 1%	","		","	N	","	41143	","	1	","	19-Apr-06	","	108675001
+14747	","		","	Human	","	2018160	","	CYCLOMEN	","		","	N	","	76418	","	1	","	20-Feb-09	","	110952001
+15163	","		","	Human	","	2018152	","	CYCLOMEN	","		","	N	","	76844	","	1	","	15-Oct-08	","	110952002
+15897	","		","	Human	","	2018144	","	CYCLOMEN	","		","	N	","	77660	","	1	","	15-Oct-08	","	110952003
+73110	","		","	Veterinary	","	2248742	","	CYCLOSOL 200 LA INJECTABLE SOLUTION	","		","	N	","		","	1	","	13-Jun-08	","	105553001
+43168	","		","	Veterinary	","	2215713	","	CYDECTIN	","	INJECTION FOR CATTLE	","	N	","	P9470	","	1	","	05-May-15	","	127241001
+43488	","		","	Veterinary	","	2228386	","	CYDECTIN	","	POUR-ON FOR BEEF AND DAIRY CATTLE	","	N	","	P9827	","	1	","	05-May-15	","	127241002
+77558	","		","	Human	","	2290308	","	CYESTRA-35	","		","	N	","		","	2	","	12-May-15	","	232337001
+67747	","		","	Veterinary	","	2243809	","	CYGRO	","		","	N	","		","	1	","	05-May-15	","	117887001
+18371	","		","	Human	","	2064413	","	CYKLOKAPRON 100 MG/ML	","		","	N	","	80601	","	1	","	14-Jun-07	","	114760002
+18072	","		","	Human	","	2064405	","	CYKLOKAPRON 500 MG	","		","	N	","	80286	","	1	","	18-Jul-05	","	114760001
+78681	","		","	Human	","	2301482	","	CYMBALTA	","		","	N	","		","	1	","	04-Feb-15	","	152350001
+78682	","		","	Human	","	2301490	","	CYMBALTA	","		","	N	","		","	1	","	29-Jul-10	","	152350002
+4938	","		","	Disinfectant	","	561290	","	CYNDET	","		","	N	","	59200	","	1	","	29-Apr-15	","	104993037
+81790	","	LS - CYPROHEPTADINE	","	Human	","	2332248	","	CYPROHEPTADINE 4MG TABLETS	","		","	N	","		","	1	","	04-May-10	","	102134002
+70015	","		","	Human	","	2245898	","	CYPROTERONE	","		","	N	","		","	1	","	17-May-11	","	116806001
+92855	","		","	Human	","	2443805	","	CYRAMZA	","	SINGLE USE VIALS	","	N	","		","	1	","	17-Sep-15	","	157132001
+61949	","		","	Human	","	2238526	","	CYSTADANE	","		","	N	","		","	1	","	30-Aug-11	","	134220001
+2949	","		","	Human	","	397466	","	CYSTO-CONRAY II	","		","	N	","	52148	","	1	","	26-Aug-15	","	102763004
+44183	","		","	Veterinary	","	2172704	","	CYSTORELIN	","		","	N	","	T9816	","	1	","	05-May-15	","	114053001
+9829	","		","	Human	","	799963	","	CYSTOSOL W 3% HEXITOLS	","		","	N	","	69136	","	2	","	20-Jun-06	","	203278002
+89144	","		","	Human	","	2406764	","	CYTARABINE	","	5ML & 25ML SINGLE DOSE VIALS	","	N	","		","	1	","	17-Feb-14	","	108854001
+89145	","		","	Human	","	2406772	","	CYTARABINE	","	10ML & 20ML SINGLE DOSE VIALS	","	N	","		","	1	","	17-Feb-14	","	108854005
+19582	","		","	Human	","	2167883	","	CYTARABINE - PWS 1GN/VIAL	","		","	N	","	81879	","	1	","	19-Oct-10	","	108854006
+19583	","		","	Human	","	2167891	","	CYTARABINE - PWS 2GM/VIAL	","		","	N	","	81880	","	1	","	19-Oct-10	","	108854003
+19578	","		","	Human	","	2167875	","	CYTARABINE - PWS 500MG/VIAL	","		","	N	","	81875	","	1	","	19-Oct-10	","	108854004
+43843	","		","	Human	","	2126656	","	CYTARABINE INJECTION	","		","	N	","	S9913	","	1	","	05-May-15	","	108854005
+19581	","		","	Human	","	2167867	","	CYTARABINE-PWS 100MG/VIAL	","		","	N	","	81878	","	1	","	19-Oct-10	","	108854005
+51418	","		","	Human	","	2231962	","	CYTOGAM	","		","	N	","		","	1	","	01-May-12	","	132826001
+15908	","		","	Human	","	1919466	","	CYTOMEL	","		","	N	","	77671	","	1	","	01-May-13	","	102421004
+15909	","		","	Human	","	1919458	","	CYTOMEL	","		","	N	","	77672	","	1	","	01-May-13	","	102421003
+2792	","		","	Human	","	386715	","	CYTOSAR	","		","	N	","	51344	","	1	","	13-Mar-13	","	108854001
+7318	","		","	Human	","	646296	","	CYTOSAR	","		","	N	","	65159	","	1	","	02-Nov-11	","	108854006
+7319	","		","	Human	","	646318	","	CYTOSAR	","		","	N	","	65160	","	1	","	14-May-13	","	108854003
+19553	","		","	Human	","	2162695	","	CYTOVENE - PWS 500MG/10M/-VIAL IV	","		","	N	","	81850	","	1	","	09-Feb-06	","	128037002
