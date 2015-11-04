@@ -77,7 +77,7 @@ func pillSearchDin (pills: [Pill], DIN: String) ->Pill //din getter
 
 
 var error: NSError?
-let fileURL = NSBundle.mainBundle().URLForResource("pill", withExtension: "txt")
+let fileURL = NSBundle.mainBundle().URLForResource("name", withExtension: "txt")
 let content = String(contentsOfURL: fileURL!, encoding: NSUTF8StringEncoding, error: &error)
 let separator = NSCharacterSet.newlineCharacterSet() // newline separator
 let array = content!.componentsSeparatedByCharactersInSet(separator) as [String]
@@ -89,7 +89,7 @@ var pillArray = [Pill]() // pill array
 
 for i in 0..<array.count
 {
-    let pilldata = array[i].componentsSeparatedByString(", ") //separate each element by comma
+    let pilldata = array[i].componentsSeparatedByString(",") //separate each element by comma
     let myPill=Pill(name:pilldata[2],DIN:pilldata[1],drugCode:pilldata[0]) //creare a pill object
     pillArray.append(myPill) // append pill object to array
     pillArray[i].pillDescript() //print description

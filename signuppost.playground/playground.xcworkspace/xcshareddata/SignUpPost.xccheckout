@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>1AA84F7E-82E1-427E-A69B-9447F8AF72D5</string>
 	<key>IDESourceControlProjectName</key>
-	<string>SignUpPost</string>
+	<string>signuppost</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>D3709944E9B04EA96C683CE702BFFCA6F857C3FE</key>
 		<string>https://bitbucket.org/ekuznets228/cmpt275project12.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>SignUpPost.playground</string>
+	<string>signuppost.playground</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>D3709944E9B04EA96C683CE702BFFCA6F857C3FE</key>
@@ -34,7 +34,7 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>D3709944E9B04EA96C683CE702BFFCA6F857C3FE</string>
 			<key>IDESourceControlWCCName</key>
-			<string>Vivo</string>
+			<string>VIVO</string>
 		</dict>
 	</array>
 </dict>
