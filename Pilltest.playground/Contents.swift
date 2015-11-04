@@ -75,9 +75,12 @@ func pillSearchDin (pills: [Pill], DIN: String) ->Pill //din getter
     return pills[0] // a pill to say that we have not found it in a list
 }
 
+let nameOfPill="pill"
+let firstletter = nameOfPill[nameOfPill.startIndex]
+let fileNameInit = "DIN" + "\(firstletter)"
 
 var error: NSError?
-let fileURL = NSBundle.mainBundle().URLForResource("name", withExtension: "txt")
+let fileURL = NSBundle.mainBundle().URLForResource(fileNameInit, withExtension: "txt")
 let content = String(contentsOfURL: fileURL!, encoding: NSUTF8StringEncoding, error: &error)
 let separator = NSCharacterSet.newlineCharacterSet() // newline separator
 let array = content!.componentsSeparatedByCharactersInSet(separator) as [String]
@@ -92,15 +95,15 @@ for i in 0..<array.count
     let pilldata = array[i].componentsSeparatedByString(",") //separate each element by comma
     let myPill=Pill(name:pilldata[2],DIN:pilldata[1],drugCode:pilldata[0]) //creare a pill object
     pillArray.append(myPill) // append pill object to array
-    pillArray[i].pillDescript() //print description
+    //pillArray[i].pillDescript() //print description
 }
 
 //call search tests
-var searchNamePill: Pill = pillSearchName(pillArray, "+2 hp")
+var searchNamePill: Pill = pillSearchName(pillArray, nameOfPill)
 println(searchNamePill.pillDescript())
 
-var searchDINPill: Pill = pillSearchDin(pillArray, "001337")
-println(searchDINPill.pillDescript())
+//var searchDINPill: Pill = pillSearchDin(pillArray, "4618")
+//println(searchDINPill.pillDescript())
 
 
 //let myPill = Pill(name:array[2],DIN:array[1],drugCode:array[0])
