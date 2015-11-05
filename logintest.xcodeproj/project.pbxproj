@@ -10,7 +10,6 @@
 		1510633C1BE5B089008CCDB7 /* ConsentDocument.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1510633B1BE5B089008CCDB7 /* ConsentDocument.swift */; };
 		1510633E1BE5B208008CCDB7 /* ConsentTask.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1510633D1BE5B208008CCDB7 /* ConsentTask.swift */; };
 		151063401BE5BACC008CCDB7 /* SurveyTask.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1510633F1BE5BACC008CCDB7 /* SurveyTask.swift */; };
-		15C1F8041BE9B6AD003A9338 /* DIN.txt in Resources */ = {isa = PBXBuildFile; fileRef = 15C1F8031BE9B6AD003A9338 /* DIN.txt */; };
 		15EF70161BCF2EB20051DA55 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15EF70151BCF2EB20051DA55 /* AppDelegate.swift */; };
 		15EF70191BCF2EB20051DA55 /* logintest.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 15EF70171BCF2EB20051DA55 /* logintest.xcdatamodeld */; };
 		15EF701E1BCF2EB20051DA55 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 15EF701C1BCF2EB20051DA55 /* Main.storyboard */; };
@@ -47,7 +46,6 @@
 		1510633B1BE5B089008CCDB7 /* ConsentDocument.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConsentDocument.swift; sourceTree = "<group>"; };
 		1510633D1BE5B208008CCDB7 /* ConsentTask.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ConsentTask.swift; path = ../ConsentTask.swift; sourceTree = "<group>"; };
 		1510633F1BE5BACC008CCDB7 /* SurveyTask.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SurveyTask.swift; sourceTree = "<group>"; };
-		15C1F8031BE9B6AD003A9338 /* DIN.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = DIN.txt; path = Pilltest.playground/Resources/DIN.txt; sourceTree = SOURCE_ROOT; };
 		15EF70101BCF2EB20051DA55 /* logintest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = logintest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		15EF70141BCF2EB20051DA55 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		15EF70151BCF2EB20051DA55 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -102,7 +100,6 @@
 			children = (
 				15EF70151BCF2EB20051DA55 /* AppDelegate.swift */,
 				15FF98241BD2E4C1009E49FD /* ViewController.swift */,
-				15C1F8031BE9B6AD003A9338 /* DIN.txt */,
 				15EF701C1BCF2EB20051DA55 /* Main.storyboard */,
 				15EF701F1BCF2EB20051DA55 /* Images.xcassets */,
 				15EF70211BCF2EB20051DA55 /* LaunchScreen.xib */,
@@ -221,7 +218,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				15C1F8041BE9B6AD003A9338 /* DIN.txt in Resources */,
 				15EF701E1BCF2EB20051DA55 /* Main.storyboard in Resources */,
 				15EF70231BCF2EB20051DA55 /* LaunchScreen.xib in Resources */,
 				15EF70201BCF2EB20051DA55 /* Images.xcassets in Resources */,

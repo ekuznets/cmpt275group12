@@ -9,7 +9,9 @@ let request = NSMutableURLRequest(URL:myUrl!)
 request.HTTPMethod = "POST"
 
 // Compose a query string
-let postString = "email=ak@sfu.ca&password=123" // type email and password
+//let postString = "email=ak@sfu.ca&password=123" // type email and password
+let postString = "email=\(self.userName.text)&password=\(self.password.text)"
+
 request.HTTPBody = postString.dataUsingEncoding(NSUTF8StringEncoding);
 
 let task = NSURLSession.sharedSession().dataTaskWithRequest(request) {(data, response, error) in

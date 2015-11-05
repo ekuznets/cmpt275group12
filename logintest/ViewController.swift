@@ -100,110 +100,73 @@ class ViewController: UIViewController {
     {
         let name = self.userName.text
         let pass = self.password.text
-        let result = "Username: \(name)" + "," + "password: \(pass)"
-        
-        let myAlert = UIAlertController(title: result, message: nil,preferredStyle: UIAlertControllerStyle.Alert)
-        
-        self.presentViewController(myAlert, animated: true, completion: nil)
-        
-                
+        let result = "Username: \(name)" + "," + "password: \(pass)"             
     }
     
     @IBAction func FEEETCH(sender: AnyObject)
     {
-//        let url = NSURL(string: "http://52.89.151.217/test.php")
-//        
-//        let session = NSURLSession.sharedSession()
 //
-//        let dataTask = NSURLSession.sharedSession().dataTaskWithURL(url!)
-//        {
-//            (data, response, error) in
-//            if error != nil
-//            {
-//                
-//                println(error.description)
-//                
-//            }
-//            else
-//            {
-//                var responseDict: NSDictionary = NSJSONSerialization.JSONObjectWithData(data,options: NSJSONReadingOptions.MutableContainers, error:nil) as! NSDictionary
-//                
-//                println("jsonObject :\(responseDict)")
-//                let desease = responseDict["diseasetype"] as! String
-//                
-//                println("Parse: \(desease)")
-//                let location = responseDict["location"] as! String
-//                println("Parse: \(location)")
-//                
-//                
-//                let arrayInfected: AnyObject! = responseDict["arrayInfected"]![0]
-//                let StringInt = arrayInfected["infected"] as! String
-//                let int = StringInt.toInt()
-//                
-//            }
-//            
-//        }
-//        
-//        dataTask.resume()
+        let myUrl = NSURL(string: "http://52.89.151.217/login.php")
+        let request = NSMutableURLRequest(URL:myUrl!)
+        request.HTTPMethod = "POST"
         
-        //
-        //  pillcode.swift
-        //  logintest
-        //
-        //  Created by Evgeny KUZNETSOV on 11/3/15.
-        //  Copyright (c) 2015 Evgeny KUZNETSOV. All rights reserved.
-        //
+        // Compose a query string
         
+        let postString = "email=\(self.userName.text)&password=\(self.password.text)" // type email and password
+        println(postString)
         
-        //: Playground - noun: a place where people can play
-        //let file: NSFileHandle? = NSFileHandle(forReadingAtPath: "pill.txt")
-        //
-        //if file == nil {
-        //    println("File open failed")
-        //} else {
-        //    file?.seekToFileOffset(10)
-        //    let databuffer = file?.readDataOfLength(5)
-        //    file?.closeFile()
-        //}
+        request.HTTPBody = postString.dataUsingEncoding(NSUTF8StringEncoding);
         
-        //let file: NSFileHandle? = NSFileHandle(forReadingAtPath: "Macintoshi/Users/Andrew/Desktop/pill.txt")
-        //
-        //if file == nil {
-        //    println("File open failed")
-        //} else {
-        //    file?.closeFile()
-        //}
-        
-        var error: NSError?
-        let fileURL = NSBundle.mainBundle().URLForResource("DIN", withExtension: "txt")
-        let content = String(contentsOfURL: fileURL!, encoding: NSUTF8StringEncoding, error: &error)
-        let separator = NSCharacterSet.newlineCharacterSet() // newline separator
-        let array = content!.componentsSeparatedByCharactersInSet(separator) as [String]
-        
-        println(array)
-        
-        
-        var pillArray = [Pill]() // pill array
-        
-        for i in 0..<array.count
-        {
-            let pilldata = array[i].componentsSeparatedByString(",") //separate each element by comma
-            let myPill=Pill(name:pilldata[2],DIN:pilldata[1],drugCode:pilldata[0]) //creare a pill object
-            pillArray.append(myPill) // append pill object to array
-            //pillArray[i].pillDescript() //print description
+        let task = NSURLSession.sharedSession().dataTaskWithRequest(request) {(data, response, error) in
+            
+            if error != nil
+            {
+                println("error=\(error)")
+                //return
+            }
+            
+            // You can print out response object
+            println("response = \(response)")
+            
+            // Print out response body
+            let responseString = NSString(data: data, encoding: NSUTF8StringEncoding)
+            println("responseString = \(responseString)")
+            
         }
         
-        //call search tests
-        //var searchNamePill: Pill = pillSearchName(pillArray, "+2 hp")
-        //println(searchNamePill.pillDescript())
-        
-        var searchDINPill: Pill = pillSearchDin(pillArray, "4618")
-        println(searchDINPill.pillDescript())
         
         
-        //let myPill = Pill(name:array[2],DIN:array[1],drugCode:array[0])
+        task.resume()
         
-        //println(myPill.pillDescript())
+        
+        
+//        var error: NSError?
+//        let fileURL = NSBundle.mainBundle().URLForResource("DIN", withExtension: "txt")
+//        let content = String(contentsOfURL: fileURL!, encoding: NSUTF8StringEncoding, error: &error)
+//        let separator = NSCharacterSet.newlineCharacterSet() // newline separator
+//        let array = content!.componentsSeparatedByCharactersInSet(separator) as [String]
+//        
+//        println(array)
+//        
+//        
+//        var pillArray = [Pill]() // pill array
+//        
+//        for i in 0..<array.count
+//        {
+//            let pilldata = array[i].componentsSeparatedByString(",") //separate each element by comma
+//            let myPill=Pill(name:pilldata[2],DIN:pilldata[1],drugCode:pilldata[0]) //creare a pill object
+//            pillArray.append(myPill) // append pill object to array
+//            //pillArray[i].pillDescript() //print description
+//        }
+//        
+//        //call search tests
+//        //var searchNamePill: Pill = pillSearchName(pillArray, "+2 hp")
+//        //println(searchNamePill.pillDescript())
+//        
+//        var searchDINPill: Pill = pillSearchDin(pillArray, "4618")
+//        println(searchDINPill.pillDescript())
+        
+
         
     }
     override func viewDidLoad()

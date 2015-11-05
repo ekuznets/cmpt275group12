@@ -59,7 +59,8 @@ func pillSearchName (pills: [Pill], name: String) ->Pill // name getter
             return pill
         }
     }
-    return pills[0] // a pill to say that we have not found it in a list
+    let myPill=Pill(name:"Not Exist",DIN: "000000",drugCode: "000000")
+    return myPill // a pill to say that we have not found it in a list
 }
 
 func pillSearchDin (pills: [Pill], DIN: String) ->Pill //din getter
@@ -72,41 +73,76 @@ func pillSearchDin (pills: [Pill], DIN: String) ->Pill //din getter
             return pill
         }
     }
-    return pills[0] // a pill to say that we have not found it in a list
+    let myPill=Pill(name:"Not Exist",DIN: "000000",drugCode: "000000")
+    return myPill // a pill to say that we have not found it in a list
 }
 
-let nameOfPill="YERVOY"
+//D // S // T
+
+
+
+let nameOfPill="regwyrgewyr"
 let nameOfPillUpper=nameOfPill.uppercaseString
 let PillLetter = nameOfPillUpper[nameOfPill.startIndex]
-let fileNameInit = "name" + "\(PillLetter)"
+let fileNameInit = "\(PillLetter)"
+var result: String = ""
 
-var error: NSError?
-let fileURL = NSBundle.mainBundle().URLForResource(fileNameInit, withExtension: "txt")
-let content = String(contentsOfURL: fileURL!, encoding: NSUTF8StringEncoding, error: &error)
-let separator = NSCharacterSet.newlineCharacterSet() // newline separator
-let array = content!.componentsSeparatedByCharactersInSet(separator) as [String]
-
-println(array)
-
-
-var pillArray = [Pill]() // pill array
-
-for i in 0..<array.count
+if(fileNameInit=="D" || fileNameInit=="S" || fileNameInit=="T")
 {
-    let pilldata = array[i].componentsSeparatedByString(",") //separate each element by comma
-    let myPill=Pill(name:pilldata[2],DIN:pilldata[1],drugCode:pilldata[0]) //creare a pill object
-    pillArray.append(myPill) // append pill object to array
-    //pillArray[i].pillDescript() //print description
+    
+    // super hacky code, dont try to undestand
+    
+    
+    let extraText = "\(fileNameInit)part1"
+    var error: NSError?
+    let fileURL = NSBundle.mainBundle().URLForResource(extraText, withExtension: "txt")
+    let content = String(contentsOfURL: fileURL!, encoding: NSUTF8StringEncoding, error: &error)
+    let array = content!.componentsSeparatedByString("\r\n") as [String]
+    
+    println(array)
+    
+    var pillArray = [Pill]() // pill array
+    
+    for i in 0..<array.count
+    {
+        let pilldata = array[i].componentsSeparatedByString(",") //separate each element by comma
+        let myPill=Pill(name:pilldata[2],DIN:pilldata[1],drugCode:pilldata[0]) //creare a pill object
+        pillArray.append(myPill) // append pill object to array
+        //pillArray[i].pillDescript() //print description
+    }
+    
+    //call search tests
+    var searchNamePill: Pill = pillSearchName(pillArray, nameOfPill)
+    result = searchNamePill.pillDescript()
+    println(result)
+
+}
+else
+{
+    var error: NSError?
+    let fileURL = NSBundle.mainBundle().URLForResource(fileNameInit, withExtension: "txt")
+    let content = String(contentsOfURL: fileURL!, encoding: NSUTF8StringEncoding, error: &error)
+    let array = content!.componentsSeparatedByString("\r\n") as [String]
+
+    println(array)
+
+    var pillArray = [Pill]() // pill array
+
+    for i in 0..<array.count
+    {
+        let pilldata = array[i].componentsSeparatedByString(",") //separate each element by comma
+        let myPill=Pill(name:pilldata[2],DIN:pilldata[1],drugCode:pilldata[0]) //creare a pill object
+        pillArray.append(myPill) // append pill object to array
+        //pillArray[i].pillDescript() //print description
+    }
+
+    //call search tests
+    var searchNamePill: Pill = pillSearchName(pillArray, nameOfPill)
+    result = searchNamePill.pillDescript()
+    println(result)
+
 }
 
-//call search tests
-var searchNamePill: Pill = pillSearchName(pillArray, nameOfPill)
-println(searchNamePill.pillDescript())
-
-//var searchDINPill: Pill = pillSearchDin(pillArray, "4618")
-//println(searchDINPill.pillDescript())
 
 
-//let myPill = Pill(name:array[2],DIN:array[1],drugCode:array[0])
 
-//println(myPill.pillDescript())
