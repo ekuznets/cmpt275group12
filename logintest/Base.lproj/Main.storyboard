@@ -63,41 +63,27 @@
                                 <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Bnh-sY-cvT">
-                                <rect key="frame" x="-23" y="-15" width="46" height="30"/>
-                                <state key="normal" title="Consent">
-                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
-                                </state>
-                                <variation key="widthClass=compact" fixedFrame="YES">
-                                    <rect key="frame" x="151" y="367" width="75" height="42"/>
-                                </variation>
-                                <connections>
-                                    <action selector="consentTapped:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="Skk-6d-Zca"/>
-                                </connections>
-                            </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ZgU-BM-FqP">
                                 <rect key="frame" x="-23" y="-15" width="46" height="30"/>
                                 <state key="normal" title="Questionary">
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <variation key="widthClass=compact" fixedFrame="YES">
-                                    <rect key="frame" x="143" y="417" width="83" height="30"/>
+                                    <rect key="frame" x="67" y="395" width="83" height="30"/>
                                 </variation>
                                 <connections>
-                                    <action selector="surveyTapped:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="MiB-Ok-Xwz"/>
+                                    <action selector="surveyTapped:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="36k-OG-ajx"/>
                                 </connections>
                             </button>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                         <variation key="default">
                             <mask key="subviews">
-                                <exclude reference="Bnh-sY-cvT"/>
                                 <exclude reference="ZgU-BM-FqP"/>
                             </mask>
                         </variation>
                         <variation key="widthClass=compact">
                             <mask key="subviews">
-                                <include reference="Bnh-sY-cvT"/>
                                 <include reference="ZgU-BM-FqP"/>
                             </mask>
                         </variation>
