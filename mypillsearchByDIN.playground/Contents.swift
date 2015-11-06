@@ -1,21 +1,3 @@
-//: Playground - noun: a place where people can play
-//let file: NSFileHandle? = NSFileHandle(forReadingAtPath: "pill.txt")
-//
-//if file == nil {
-//    println("File open failed")
-//} else {
-//    file?.seekToFileOffset(10)
-//    let databuffer = file?.readDataOfLength(5)
-//    file?.closeFile()
-//}
-
-//let file: NSFileHandle? = NSFileHandle(forReadingAtPath: "Macintoshi/Users/Andrew/Desktop/pill.txt")
-//
-//if file == nil {
-//    println("File open failed")
-//} else {
-//    file?.closeFile()
-//}
 import UIKit
 
 class Pill{
@@ -77,23 +59,15 @@ func pillSearchDin (pills: [Pill], DIN: String) ->Pill //din getter
     return myPill // a pill to say that we have not found it in a list
 }
 
-//D // S // T
+let DINofPill="410417"
+
+var result: String = "000000" // initial result
 
 
-
-let nameOfPill="KALETRA"
-let nameOfPillUpper=nameOfPill.uppercaseString
-let PillLetter = nameOfPillUpper[nameOfPill.startIndex]
-let fileNameInit = "\(PillLetter)"
-var result: String = ""
-
-if(fileNameInit=="D" || fileNameInit=="S" || fileNameInit=="T")
+for i in 0..<8
 {
-    
-    // super hacky code, dont try to undestand
-    
-    
-    let extraText = "\(fileNameInit)part1"
+    let counter = "\(i)"
+    let extraText = "DINpart\(counter)"
     var error: NSError?
     let fileURL = NSBundle.mainBundle().URLForResource(extraText, withExtension: "txt")
     let content = String(contentsOfURL: fileURL!, encoding: NSUTF8StringEncoding, error: &error)
@@ -108,40 +82,20 @@ if(fileNameInit=="D" || fileNameInit=="S" || fileNameInit=="T")
         let pilldata = array[i].componentsSeparatedByString(",") //separate each element by comma
         let myPill=Pill(name:pilldata[2],DIN:pilldata[1],drugCode:pilldata[0]) //creare a pill object
         pillArray.append(myPill) // append pill object to array
-        //pillArray[i].pillDescript() //print description
+        
     }
-    
     //call search tests
-    var searchNamePill: Pill = pillSearchName(pillArray, nameOfPill)
+    var searchNamePill: Pill = pillSearchDin(pillArray, DINofPill)
     result = searchNamePill.pillDescript()
-    println(result)
-
-}
-else
-{
-    var error: NSError?
-    let fileURL = NSBundle.mainBundle().URLForResource(fileNameInit, withExtension: "txt")
-    let content = String(contentsOfURL: fileURL!, encoding: NSUTF8StringEncoding, error: &error)
-    let array = content!.componentsSeparatedByString("\r\n") as [String]
-
-    println(array)
-
-    var pillArray = [Pill]() // pill array
-
-    for i in 0..<array.count
+    if(searchNamePill.getPillDin() != "000000") // onces we get a pill that is not zero break
     {
-        let pilldata = array[i].componentsSeparatedByString(",") //separate each element by comma
-        let myPill=Pill(name:pilldata[2],DIN:pilldata[1],drugCode:pilldata[0]) //creare a pill object
-        pillArray.append(myPill) // append pill object to array
-        //pillArray[i].pillDescript() //print description
+        break; // otherwise just mean not found
     }
-
-    //call search tests
-    var searchNamePill: Pill = pillSearchName(pillArray, nameOfPill)
-    result = searchNamePill.pillDescript()
-    println(result)
-
 }
+
+println(result)
+    
+
 
 
 
